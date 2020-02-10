@@ -1,7 +1,7 @@
-# usefull-tools
-_A list of usefull tools and programs for developpers, devops, admins, ... but not only.
+# useful-tools
+_A list of useful tools and programs for developpers, devops, admins, ... but not only.
 Whereas most of them are Open Source, not all of them are. Please check licences that may apply.
-This list contains items that i **personally** find usefull, usages may differ._
+This list contains items that i **personally** find useful, usages may differ._
 
 Please feel free to comment if you know better tools / or alternatives. 😉
 
