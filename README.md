@@ -398,12 +398,3 @@ Windows:
 
 ## Wordpress
 * http://www.wpspeedster.com/
-
-TODO :
-- change to "awesome"-format, like in :
- * https://github.com/n1trux/awesome-sysadmin
- * https://github.com/Kickball/awesome-selfhosted
-- add formatting
-- add description
-- add info about license and pricing : Open-Source, ...
-- reorder
