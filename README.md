@@ -67,7 +67,7 @@ https://www.symbolab.com/
 * [Vagrant](https://github.com/hashicorp/vagrant) - 
 * [Jenkins](https://jenkins.io/) - 
 * [netboot](https://netboot.xyz/) -
-* [Airwatch(]https://www.air-watch.com/de/) - 
+* [Airwatch](https://www.air-watch.com/de/) - 
 * [Microsoft Deployment Toolkit](https://docs.microsoft.com/en-us/sccm/mdt/)
 
 ## Development
