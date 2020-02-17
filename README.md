@@ -5,9 +5,6 @@ This list contains items that i **personally** find useful, usages may differ._
 
 Please feel free to comment if you know better tools / or alternatives. 😉
 
-* [Table of Content](#Table of Content)
-  * [Blogs](#Blogs)
-
 ## Backups
 https://github.com/borgbackup/borg
 
@@ -39,38 +36,39 @@ https://www.symbolab.com/
 
 * [Rambox](https://rambox.pro/) - Aggregates lots of differents chat-tools
 * [Franz](https://meetfranz.com/) - Aggregates lots of differents chat-tools
-* https://rocket.chat/
-* https://matrix.org/blog/home/
+* [Rocket Chat](https://rocket.chat/) - 
+* [Matrix](https://matrix.org/blog/home/) -
 
 ## Conversions
-* http://pandoc.org/
+* [Pandoc](http://pandoc.org/)
 
 ## Cheatsheets / Docs
-* https://rogerdudler.github.io/git-guide/
-* https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-* https://gist.github.com/rxaviers/7360908
-* https://devdocs.io/ - DevDocs combines multiple API documentations in a fast, organized, and searchable interface.
+* [git](https://rogerdudler.github.io/git-guide/) -
+* [Markdown - md](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [Markdown - Smileys](https://gist.github.com/rxaviers/7360908)
+* [Devdocs](https://devdocs.io/) - DevDocs combines multiple API documentations in a fast, organized, and searchable interface.
 
 ## Clustering
-* https://github.com/SchedMD/slurm
+* [Slurm](https://github.com/SchedMD/slurm) - 
 
 ## Continuous Integration
-* https://www.normation.com/fr/
+* [Rudder](https://www.rudder.io/en/) - 
+* [Travis](https://travis-ci.org/) - 
 
 ## Data / Backup / Restauration / ...
-* https://www.gnu.org/software/ddrescue/
-* http://duplicity.nongnu.org/duplicity.1.html
+* [ddrescue](https://www.gnu.org/software/ddrescue/) - 
+* [Duplicity](http://duplicity.nongnu.org/duplicity.1.html) -
 
 ## DB - Related Stuff
-* https://www.adminer.org/#download
+* [Adminer](https://www.adminer.org/#download) -
 
 ### Deployment / Automation
-* https://github.com/ansible/ansible
-* https://github.com/hashicorp/vagrant
-* https://jenkins.io/
-* https://netboot.xyz/
-* https://www.air-watch.com/de/
-* https://docs.microsoft.com/en-us/sccm/mdt/
+* [Ansible](https://github.com/ansible/ansible) -
+* [Vagrant](https://github.com/hashicorp/vagrant) - 
+* [Jenkins](https://jenkins.io/) - 
+* [netboot](https://netboot.xyz/) -
+* [Airwatch(]https://www.air-watch.com/de/) - 
+* [Microsoft Deployment Toolkit](https://docs.microsoft.com/en-us/sccm/mdt/)
 
 ## Development
 * http://handlebarsjs.com/
@@ -96,8 +94,9 @@ https://www.symbolab.com/
 * http://www.sphinx-doc.org/en/stable/index.html
 
 ## Docker
-* https://github.com/v2tec/watchtower
-* https://github.com/portainer/portainer
+* [Watchtower](https://github.com/v2tec/watchtower)
+* [Portainer](https://github.com/portainer/portainer) -
+* [Traeffik](https://github.com/containous/traefik/) - 
 
 ## Emulation
 * https://github.com/mamedev/mame + https://archive.org/details/messmame&tab=collection
@@ -112,8 +111,9 @@ https://www.symbolab.com/
 * https://www.openproject.org/
 
 ## File Sharing
-* https://send.firefox.com/
-* http://dcplusplus.sourceforge.net/
+* [send](https://send.firefox.com/) -
+* [DC++](http://dcplusplus.sourceforge.net/) -
+* https://gofile.io -
 
 ## Frameworks / Templates / Snippets
 * https://getuikit.com/
@@ -135,8 +135,6 @@ https://www.symbolab.com/
 * https://insomnia.rest/
 * https://public-apis.xyz/
 
-## Filesharing
-* https://gofile.io
 
 ## Games (you know you need a break)
 * https://play0ad.com/
@@ -169,8 +167,8 @@ https://www.symbolab.com/
 ## IDE
 * https://atom.io/
 Plugins:
-minimap
-pigments
+ - minimap
+ - pigments
 
 ## Images
 * http://owl.phy.queensu.ca/~phil/exiftool/
@@ -197,10 +195,10 @@ pigments
 * https://roomify.us/
 
 ## Mobile Apps
-Fing
-Waze
-Authy
-F-Droid https://f-droid.org/
+ - Fing
+ - Waze
+ - Authy
+ - F-Droid https://f-droid.org/
 
 ## MOOC / E-Learning / Exercises
 * https://www.pluralsight.com/partners/stack-overflow/iq
@@ -354,23 +352,23 @@ Plugins: git zsh-syntax-highlighting colored-man-pages
 
 ## Useful Software
 Mac:
-    App Cleaner
-    Grand Perspective
-    Balena Etcher
-    Keka
-    Oh My ZSH
-    Rambox
+    - App Cleaner
+    - Grand Perspective
+    - Balena Etcher
+    - Keka
+    - Oh My ZSH
+    - Rambox
 
 Linux:
-    Oh My ZSH
-    lnav
-    bat
+    - Oh My ZSH
+    - lnav
+    - bat
 
 Windows:
-    Windirstat
+    - Windirstat
 
 ## Voice Assistant
-* https://github.com/alexylem/jarvis
+* [jarvis](https://github.com/alexylem/jarvis) - 
 
 ## Website builder / CMS
 * https://gohugo.io/
@@ -381,13 +379,13 @@ Windows:
 * https://builtwith.com/
 
 ## Website Speedtest
-* http://www.webpagetest.org/
-* https://gtmetrix.com/
-* https://developers.google.com/speed/pagespeed/insights/
-* https://tools.pingdom.com/
-* https://sonarwhal.com/
-* https://www.dareboost.com/fr
-* https://yellowlab.tools
+* [Webpagetest](http://www.webpagetest.org/) - 
+* [GTMetrix](https://gtmetrix.com/) - 
+* [Google pagespeed](https://developers.google.com/speed/pagespeed/insights/) - 
+* [Pingdom](https://tools.pingdom.com/) - 
+* [Sonarwhal](https://sonarwhal.com/) -
+* [Dareboost](https://www.dareboost.com/fr) - 
+* [Yellowlab](https://yellowlab.tools) - 
 
 ## Writing / Presentations / Markdown / Rendering
 * https://github.com/RelaxedJS/ReLaXed
