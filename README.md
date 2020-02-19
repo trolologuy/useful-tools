@@ -6,7 +6,7 @@ This list contains items that i **personally** find useful, usages may differ._
 Please feel free to comment if you know better tools / or alternatives. 😉
 
 ## Backups
-https://github.com/borgbackup/borg
+* [Borg](https://github.com/borgbackup/borg)
 
 ## Blogs
 *Some helpful Blogs and Tech News websites*
@@ -23,7 +23,7 @@ https://github.com/borgbackup/borg
 http://www.phoenixjp.net/news/fr/
 
 ## Browsers
-https://vivaldi.com/
+* [Vivaldi](https://vivaldi.com/)
 
 ## Calculus
 *Struggling with numbers ? Here are tools to help*
@@ -36,7 +36,7 @@ https://www.symbolab.com/
 
 * [Rambox](https://rambox.pro/) - Aggregates lots of differents chat-tools
 * [Franz](https://meetfranz.com/) - Aggregates lots of differents chat-tools
-* [Rocket Chat](https://rocket.chat/) - 
+* [Rocket Chat](https://rocket.chat/) -
 * [Matrix](https://matrix.org/blog/home/) -
 
 ## Conversions
@@ -49,14 +49,14 @@ https://www.symbolab.com/
 * [Devdocs](https://devdocs.io/) - DevDocs combines multiple API documentations in a fast, organized, and searchable interface.
 
 ## Clustering
-* [Slurm](https://github.com/SchedMD/slurm) - 
+* [Slurm](https://github.com/SchedMD/slurm) -
 
 ## Continuous Integration
-* [Rudder](https://www.rudder.io/en/) - 
-* [Travis](https://travis-ci.org/) - 
+* [Rudder](https://www.rudder.io/en/) -
+* [Travis](https://travis-ci.org/) -
 
 ## Data / Backup / Restauration / ...
-* [ddrescue](https://www.gnu.org/software/ddrescue/) - 
+* [ddrescue](https://www.gnu.org/software/ddrescue/) -
 * [Duplicity](http://duplicity.nongnu.org/duplicity.1.html) -
 
 ## DB - Related Stuff
@@ -64,135 +64,131 @@ https://www.symbolab.com/
 
 ### Deployment / Automation
 * [Ansible](https://github.com/ansible/ansible) -
-* [Vagrant](https://github.com/hashicorp/vagrant) - 
-* [Jenkins](https://jenkins.io/) - 
+* [Vagrant](https://github.com/hashicorp/vagrant) -
+* [Jenkins](https://jenkins.io/) -
 * [netboot](https://netboot.xyz/) -
-* [Airwatch](https://www.air-watch.com/de/) - 
+* [Airwatch](https://www.air-watch.com/de/) -
 * [Microsoft Deployment Toolkit](https://docs.microsoft.com/en-us/sccm/mdt/)
 
 ## Development
-* http://handlebarsjs.com/
-* https://gruntjs.com/
-* https://github.com/weppos/whois
-* https://bower.io/
-* https://github.com/janl/mustache.js
-* http://dashing.io/
-* https://razorflow.com/
-* https://gitea.io/en-us/
-* https://caniuse.com
+* [Handlebar JS](http://handlebarsjs.com/) -
+* [Grunt JS](https://gruntjs.com/) -
+* [WHOIS parser](https://github.com/weppos/whois) -
+* [Bower](https://bower.io/) -
+* [Mustache JS](https://github.com/janl/mustache.js) -
+* [Dashing](http://dashing.io/) -
+* [Razorflow](https://razorflow.com/) -
+* [Can i use](https://caniuse.com) -
 
 ### Documentation / Wikis / User Feedback
-* https://wiki.js.org/
-* http://daux.io/
-* http://www.writethedocs.org/
-* http://www.mkdocs.org/
-* https://github.com/dawnlabs/carbon
-* http://www.phpback.org/
-* https://github.com/axiros/terminal_markdown_viewer
-* https://privatebin.info/
-* https://www.mediawiki.org
-* http://www.sphinx-doc.org/en/stable/index.html
+* [Wiki JS](https://wiki.js.org/) -
+* [Daux](http://daux.io/) -
+* [Write the docs](http://www.writethedocs.org/) -
+* [MKdocs](http://www.mkdocs.org/) -
+* [Carbon](https://github.com/dawnlabs/carbon) -
+* [PHPback](http://www.phpback.org/) -
+* [Mediawiki](https://www.mediawiki.org) -
+* [Sphinx](http://www.sphinx-doc.org/en/stable/index.html) -
 
 ## Docker
 * [Watchtower](https://github.com/v2tec/watchtower)
 * [Portainer](https://github.com/portainer/portainer) -
-* [Traeffik](https://github.com/containous/traefik/) - 
+* [Traeffik](https://github.com/containous/traefik/) -
 
 ## Emulation
-* https://github.com/mamedev/mame + https://archive.org/details/messmame&tab=collection
+* [MAME](https://github.com/mamedev/mame) + https://archive.org/details/messmame&tab=collection
 
 ## ERP / Groupware / CRM / Organisation
-* https://github.com/fresh/metasfresh
-* https://kopano.com/
-* http://sabre.io/
-* https://www.hubspot.com
-* https://foodcoops.github.io/
-* https://github.com/wekan/wekan
-* https://www.openproject.org/
+* [Metasfresh](https://github.com/fresh/metasfresh) -
+* [Kopano](https://kopano.com/) -
+* [Sabre](http://sabre.io/) -
+* [Hubspot](https://www.hubspot.com) -
+* [Foodcops](https://foodcoops.github.io/) -
+* [Wekan](https://github.com/wekan/wekan) -
+* [Openproject](https://www.openproject.org/) -
 
 ## File Sharing
 * [send](https://send.firefox.com/) -
 * [DC++](http://dcplusplus.sourceforge.net/) -
-* https://gofile.io -
+* [Gofile](https://gofile.io -
 
 ## Frameworks / Templates / Snippets
-* https://getuikit.com/
-* https://razorflow.com/
-* http://jdash.io/#about
-* https://developers.google.com/chart/
-* https://github.com/puikinsh/sufee-admin-dashboard
-* https://github.com/akveo/ngx-admin
-* http://angular-material.fusetheme.com/apps/dashboards/analytics
-* https://github.com/coreui/coreui-free-bootstrap-admin-template
-* https://github.com/almasaeed2010/AdminLTE
-* https://pixelcog.github.io/parallax.js/
-* https://socket.io/
-* http://pm2.keymetrics.io/
-* https://nodemon.io/
-* https://jupyter.org/index.html
-* https://github.com/CodyHouse/codyhouse-framework
-* https://github.com/vuejs/vue
-* https://insomnia.rest/
-* https://public-apis.xyz/
+* [Getuikit](https://getuikit.com/) -
+* [Razorflow](https://razorflow.com/) -
+* [jdash](http://jdash.io/#about) -
+* [google chart](https://developers.google.com/chart/) -
+* [Sufee admin dashboard](https://github.com/puikinsh/sufee-admin-dashboard) -
+* [Ngx-admin](https://github.com/akveo/ngx-admin) -
+* [Angular analytics](http://angular-material.fusetheme.com/apps/dashboards/analytics) -
+* [coreui admin template](https://github.com/coreui/coreui-free-bootstrap-admin-template) -
+* [Admin LTE](https://github.com/almasaeed2010/AdminLTE) -
+* [Parallax](https://pixelcog.github.io/parallax.js/) -
+* [Socket](https://socket.io/) -
+* [pm2](http://pm2.keymetrics.io/) -[](
+* [nodemon](https://nodemon.io/) -
+* [jupyter](https://jupyter.org/index.html) -
+* [CodyHouse](https://github.com/CodyHouse/codyhouse-framework) -
+* [vue JS](https://github.com/vuejs/vue) -
+* [insomnia](https://insomnia.rest/) -
+* [public apis](https://public-apis.xyz/) -
 
 
 ## Games (you know you need a break)
-* https://play0ad.com/
-* https://www.teeworlds.com/
-* https://www.minetest.net/
-* http://www.nexuiz.com/
-* https://www.eti-lan.xyz/
+* [0ad](https://play0ad.com/) -
+* [teeworlds](https://www.teeworlds.com/) -
+* [Minetest](https://www.minetest.net/) -
+* [nexuiz](http://www.nexuiz.com/) -
+* [eti-lan](https://www.eti-lan.xyz/) - P2P Lan Game Launcher
 
 ## Graphics / Design
-* https://vectr.com/
-* https://www.draw.io/
-* http://staruml.io/
-* http://clrs.cc/
-* http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF
-* http://fabianburghardt.de/webolution/
-* http://www.csszengarden.com/
-* https://affinity.serif.com
-* http://clrs.cc/
-* https://inkscape.org/
-* https://jspaint.app
+* [Vectr](https://vectr.com/) -
+* [Draw](https://www.draw.io/) -
+* [Staruml](http://staruml.io/) -
+* [Clrs](http://clrs.cc/) -
+* [paletton](http://paletton.com/) -
+* [Webolution](http://fabianburghardt.de/webolution/) -
+* [CSS Zengarden](http://www.csszengarden.com/) -
+* [Affinity](https://affinity.serif.com) -
+* [Inkscape](https://inkscape.org/) -
+* [JSpaint](https://jspaint.app) -
 
 ## Good Practices
-* https://material.io/design/#color-ui-color-application
-* https://guides.github.com/introduction/flow/
-* https://12factor.net/config
+* [Material Design](https://material.io/design/#color-ui-color-application) -
+* [Github flow](https://guides.github.com/introduction/flow/) -
+* [12 Factor - Config](https://12factor.net/config) -
 
 ## Hardware Checks
-* https://www.memtest86.com/
+* [memtest86](https://www.memtest86.com/) -
 
 ## IDE
-* https://atom.io/
+* [Atom](https://atom.io/) -
 Plugins:
  - minimap
  - pigments
 
 ## Images
-* http://owl.phy.queensu.ca/~phil/exiftool/
+* [EXIF tool](http://owl.phy.queensu.ca/~phil/exiftool/) -
 
 ## Lamp Stack
-* https://github.com/sprintcube/docker-compose-lamp
+* [Docker - Lamp](https://github.com/sprintcube/docker-compose-lamp) -
 
 ## Linters
-* https://github.com/PyCQA/pylint
+* [Pylint](https://github.com/PyCQA/pylint) -
 
 ## Mail
-* http://batleth.sapienti-sat.org/projects/mb2md/
-* https://www.dnswl.org/
-* http://www.offlineimap.org/
-* https://imapsync.lamiral.info/
+* [mb2md](http://batleth.sapienti-sat.org/projects/mb2md/) -
+* [dnswl](https://www.dnswl.org/) -
+* [offline imap](http://www.offlineimap.org/) -
+* [imapsync](https://imapsync.lamiral.info/) -
 
 ## Mailing
-* https://mjml.io/
-* https://www.mail-tester.com/
+* [mjml](https://mjml.io/) -
+* [mail-tester](https://www.mail-tester.com/) -
 
 ## Management Software
-* http://locanda.sourceforge.net/
-* http://www.hoteldruid.com/
-* https://roomify.us/
+* [locanda](http://locanda.sourceforge.net/) -
+* [hoteldruid](http://www.hoteldruid.com/) -
+* [roomify](https://roomify.us/) -
 
 ## Mobile Apps
  - Fing
@@ -201,95 +197,100 @@ Plugins:
  - F-Droid https://f-droid.org/
 
 ## MOOC / E-Learning / Exercises
-* https://www.pluralsight.com/partners/stack-overflow/iq
-* https://secnumacademie.gouv.fr/
-* https://algorithm-visualizer.org/
-* https://sqlzoo.net/
-* https://subnettingpractice.com/index.html
-* https://github.com/ossu/data-science
-* https://www.class-central.com/
-* http://flexboxfroggy.com/
-* https://flukeout.github.io/
-* https://adamschwartz.co/magic-of-css/
-* https://linuxjourney.com/
+* [Pluralsight](https://www.pluralsight.com/partners/stack-overflow/iq) -
+* [Secnumacademie](https://secnumacademie.gouv.fr/) -
+* [Algorithm visualizer](https://algorithm-visualizer.org/) -
+* [SQLzoo](https://sqlzoo.net/) -
+* [Subnetting practice](https://subnettingpractice.com/index.html) -
+* [OSSU](https://github.com/ossu/data-science) -
+* [class-central](https://www.class-central.com/) -
+* [flexbox froggy](http://flexboxfroggy.com/) -
+* [flukeout](https://flukeout.github.io/) -
+* [magic of css](https://adamschwartz.co/magic-of-css/) -
+* [linux journey](https://linuxjourney.com/) -
 
 ## Monitoring / Logs / Server Management
-* https://github.com/firehol/netdata
-* https://bosun.org/
-* https://www.elastic.co/products
-* https://github.com/oetiker/SmokePing
-* https://www.nagios.org/
-* https://www.graylog.org/
-* Log Analysis http://lnav.org/
-* https://sensu.io/ + https://uchiwa.io/
-* https://cockpit-project.org/
-* https://uptimerobot.com/
-* https://jujucharms.com/how-it-works
-* http://munin-monitoring.org/
-* https://github.com/prometheus
-* https://grafana.com/
-* https://icinga.com/
+* [netdata](https://github.com/firehol/netdata) -
+* [bosun](https://bosun.org/) -
+* [ELK - elastic stack](https://www.elastic.co/products) -
+* [Smokeping](https://github.com/oetiker/SmokePing) -
+* [Nagios](https://www.nagios.org/) -
+* [Graylog](https://www.graylog.org/) -
+* [LNAV](http://lnav.org/) - Log Analysis
+* [Sensu](https://sensu.io/) -
+* [Uchiwa](https://uchiwa.io/) -
+* [Cockpit](https://cockpit-project.org/) -
+* [Uptime robot](https://uptimerobot.com/) -
+* [juju charms](https://jujucharms.com/how-it-works) -
+* [Munin](http://munin-monitoring.org/) -
+* [Prometheus](https://github.com/prometheus) -
+* [Grafana](https://grafana.com/) -
+* [Icinga](https://icinga.com/) -
 
 ## Music
-* https://github.com/soundscapecloud/soundscape
+* [Soundscape](https://github.com/soundscapecloud/soundscape) -
 
 ## Networking / DNS / ...
-* https://www.whatsmydns.net/
-* http://mtr.guru/
-* https://github.com/traviscross/mtr
-* https://mxtoolbox.com/
-* http://digwebinterface.com/
-* https://securitytrails.com/dns-trails
-* http://urlquery.net/
-* https://www.speedtest.net/
+* [whatsmydns](https://www.whatsmydns.net/) -
+* [MTR online](http://mtr.guru/) -
+* [mtr](https://github.com/traviscross/mtr) -
+* [mxtoolbox](https://mxtoolbox.com/) -
+* [dig online](http://digwebinterface.com/) -
+* [dns-trails](https://securitytrails.com/dns-trails) -
+* [urlquery](http://urlquery.net/) -
+* [speedtest](https://www.speedtest.net/) -
 
 ## Operating Systems / Virtualization
-* https://unraid.net/
-* https://www.proxmox.com/en/
-* https://www.qemu.org/
-* https://kaosx.us/
-* https://www.reactos.org/
+* [unraid](https://unraid.net/) -
+* [proxmox](https://www.proxmox.com/en/) -
+* [qemu](https://www.qemu.org/) -
+* [kaosx](https://kaosx.us/) -
+* [reactOS](https://www.reactos.org/) -
 
 ## Online Payment
-* https://stripe.com/
+* [Stripe](https://stripe.com/) -
 
 ## Others
-* https://thetruesize.com
-* https://preciousplastic.com/
-* https://farm.bot/
-* https://www.openstreetmap.org
-* https://docs.microsoft.com/en-us/sysinternals/downloads/sdelete
-* https://www.virtualbox.org/
+* [Tre true size](https://thetruesize.com) -
+* [Precious Plastic](https://preciousplastic.com/) -
+* [farmbot](https://farm.bot/) -
+* [Open Street map](https://www.openstreetmap.org) -
+* [sdelete](https://docs.microsoft.com/en-us/sysinternals/downloads/sdelete) -
+* [virtualbox](https://www.virtualbox.org/) -
 
 ## Q&A
-* http://paizaqa.herokuapp.com/
-* http://www.question2answer.org/qa/
+* [paizaqa](http://paizaqa.herokuapp.com/) -
+* [questions2answer](http://www.question2answer.org/qa/) -
 
 ## Selfhosted
-* https://docs.cozy.io/fr/index_fr/
-* https://about.gitlab.com/
-* https://privatebin.info/
-* https://github.com/staffjoy/
-* https://certbot.eff.org/
-* https://domainmod.org/
-* https://osticket.com/
-* https://github.com/helpyio/helpy
-* https://cachethq.io/
-* https://sandstorm.io/
-* https://github.com/strukturag/spreed-webrtc
-* https://jitsi.org/
-* https://github.com/pi-hole/pi-hole + https://dns.watch/
-* https://www.mantisbt.org/
-* https://www.zoneminder.com/
-* https://www.snort.org/
-* http://www.openvswitch.org/
-* https://framasoft.org/
-* https://freshrss.org/
-* https://rhodecode.com/
-* https://turtlapp.com/
-* https://framagit.org/fiat-tux/hat-softwares/lufi
-* https://xdebug.org/
-* https://omninotes.app/
+* [Cozy](https://docs.cozy.io/fr/index_fr/) -
+* [Gitlab](https://about.gitlab.com/) -
+* [Privatebin](https://privatebin.info/) -
+* [Staffjoy](https://github.com/staffjoy/) -
+* [Certbot](https://certbot.eff.org/) -
+* [Domainmod](https://domainmod.org/) -
+* [Osticket](https://osticket.com/) -
+* [helpy](https://github.com/helpyio/helpy) -
+* [CachetHQ](https://cachethq.io/) -
+* [Sandstorm](https://sandstorm.io/) -
+* [Spreed-webrtc](https://github.com/strukturag/spreed-webrtc) -
+* [Jitsi](https://jitsi.org/) -
+* [Pi-hole](https://github.com/pi-hole/pi-hole) -
+* [Dns watch](https://dns.watch/) -
+* [Mantis BT](https://www.mantisbt.org/) -
+* [Zoneminder](https://www.zoneminder.com/) -
+* [Snort](https://www.snort.org/) -
+* [Openvswitch](http://www.openvswitch.org/) -
+* [Framasoft](https://framasoft.org/) -
+* [Freshrss](https://freshrss.org/) -
+* [Rhodecode](https://rhodecode.com/) -
+* [turtl app](https://turtlapp.com/) -
+* [framasoft - lufi](https://framagit.org/fiat-tux/hat-softwares/lufi) -
+* [xdebug](https://xdebug.org/) -
+* [Omninotes](https://omninotes.app/) -
+* [Privatebin](https://privatebin.info/) -
+* [gitea](https://gitea.io/en-us/) -
+
 
 ## Server Basics
 - Apache / Nginx
@@ -298,57 +299,63 @@ Plugins:
 - UFW (Iptables alternative)
 
 ## Server Configuration
-* https://nginxconfig.io/
+* [Nginxconfig](https://nginxconfig.io/) -
 
 ## SSL
-* https://github.com/FiloSottile/mkcert
-* https://github.com/drwetter/testssl.sh
-* https://www.ssllabs.com/ssltest/analyze.html
-* https://letsencrypt.org/
+* [mkcert](https://github.com/FiloSottile/mkcert) -
+* [testssl.sh](https://github.com/drwetter/testssl.sh) -
+* [ssl test](https://www.ssllabs.com/ssltest/analyze.html) -
+* [Let's Encrypt](https://letsencrypt.org/) -
 
 ## Spectre / Meltdown
-* https://github.com/speed47/spectre-meltdown-checker
+* [Spectre-meltdown-checker](https://github.com/speed47/spectre-meltdown-checker) -
 
 ## Screencast / Screenshots
-* https://github.com/phw/peek
-* https://carbon.now.sh
-* https://github.com/KittyKatt/screenFetch
-* https://asciinema.org/ → "Shellcast"
+* [peek](https://github.com/phw/peek) -
+* [carbon](https://carbon.now.sh) -
+* [screenFetch](https://github.com/KittyKatt/screenFetch) -
+* [asciinema](https://asciinema.org/) -  → "Shellcast"
+* [Licecap](https://www.cockos.com/licecap/) - Do a simple screencast in gif format
 
 ## Scrapping / Parsing
-* https://doc.scrapy.org/en/latest/intro/overview.html
-* https://lxml.de/
+* [Scrapy](https://doc.scrapy.org/en/latest/intro/overview.html) -
+* [LXML](https://lxml.de/) -
 
 ## Security / Password Manager
-* https://keeweb.info/
-* https://keepassxc.org/
-* https://buttercup.pw/
-* https://www.nomoreransom.org/en/index.html
-* https://www.passwordstore.org/
+* [Keeweb](https://keeweb.info/) -
+* [Keepassxc](https://keepassxc.org/) -
+* [Buttercup](https://buttercup.pw/) -
+* [No more ransom](https://www.nomoreransom.org/en/index.html) -
+* [Password store](https://www.passwordstore.org/) -
 
 ## Server Management
-* https://www.ispconfig.org/
+* [ISPconfig](https://www.ispconfig.org/) -
 
 ## Shell
-* https://github.com/robbyrussell/oh-my-zsh
+* [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) -
 Theme: agnoster
-Plugins: git zsh-syntax-highlighting colored-man-pages
-* https://github.com/bhilburn/powerlevel9k
-* https://wiki.ubuntuusers.de/tmux/
-* https://github.com/nvbn/thefuck
-* https://github.com/tldr-pages/tldr
-* https://github.com/koalaman/shellcheck/
-* https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md
-* https://github.com/sharkdp/bat
-* https://argbash.io/
-* https://github.com/metal3d/bashsimplecurses
-* https://babun.github.io/
-* https://github.com/schachmat/wego
+Plugins:
+    - git
+    - zsh-syntax-highlighting
+    - colored-man-pages
+* [powerlevel9k](https://github.com/bhilburn/powerlevel9k) -
+* [tmux](https://wiki.ubuntuusers.de/tmux/) -
+* [the fuck](https://github.com/nvbn/thefuck) -
+* [tldr](https://github.com/tldr-pages/tldr) -
+* [shell check](https://github.com/koalaman/shellcheck/) -
+* [shell harden](https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md) -
+* [bat](https://github.com/sharkdp/bat) -
+* [argbash](https://argbash.io/) -
+* [simple curses](https://github.com/metal3d/bashsimplecurses) -
+* [babun](https://babun.github.io/) -
+* [wego](https://github.com/schachmat/wego) -
+* [Term Markdown viewer](https://github.com/axiros/terminal_markdown_viewer) -
+
 
 ## User Management (LDAP / Radius / ... )
-* http://freeradius.org/
-* https://www.keycloak.org/
-* https://www.freeipa.org/page/Main_Page
+* [free radius](http://freeradius.org/) -
+* [key cloak](https://www.keycloak.org/) -
+* [free ipa](https://www.freeipa.org/page/Main_Page) -
 
 ## Useful Software
 Mac:
@@ -368,31 +375,31 @@ Windows:
     - Windirstat
 
 ## Voice Assistant
-* [jarvis](https://github.com/alexylem/jarvis) - 
+* [jarvis](https://github.com/alexylem/jarvis) -
 
 ## Website builder / CMS
-* https://gohugo.io/
-* https://github.com/getgrav/grav
-* https://www.staticgen.com/
+* [Hugo](https://gohugo.io/) -
+* [Grav](https://github.com/getgrav/grav) -
+* [Staticgen](https://www.staticgen.com/) -
 
 ## Website Analysis
-* https://builtwith.com/
+* [Built with](https://builtwith.com/) -
 
 ## Website Speedtest
-* [Webpagetest](http://www.webpagetest.org/) - 
-* [GTMetrix](https://gtmetrix.com/) - 
-* [Google pagespeed](https://developers.google.com/speed/pagespeed/insights/) - 
-* [Pingdom](https://tools.pingdom.com/) - 
+* [Webpagetest](http://www.webpagetest.org/) -
+* [GTMetrix](https://gtmetrix.com/) -
+* [Google pagespeed](https://developers.google.com/speed/pagespeed/insights/) -
+* [Pingdom](https://tools.pingdom.com/) -
 * [Sonarwhal](https://sonarwhal.com/) -
-* [Dareboost](https://www.dareboost.com/fr) - 
-* [Yellowlab](https://yellowlab.tools) - 
+* [Dareboost](https://www.dareboost.com/fr) -
+* [Yellowlab](https://yellowlab.tools) -
 
 ## Writing / Presentations / Markdown / Rendering
-* https://github.com/RelaxedJS/ReLaXed
-* https://github.com/tmcw/big
-* https://www.scribus.net/
-* https://github.com/mozilla/pdf.js
-* https://github.com/adam-p/markdown-here
+* [Relaxed](https://github.com/RelaxedJS/ReLaXed) -
+* [tmcw](https://github.com/tmcw/big) -
+* [Scribus](https://www.scribus.net/) -
+* [pdf.js](https://github.com/mozilla/pdf.js) -
+* [markdown-here](https://github.com/adam-p/markdown-here) -
 
 ## Wordpress
-* http://www.wpspeedster.com/
+* [WP Speedster](http://www.wpspeedster.com/) -
