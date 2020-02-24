@@ -20,7 +20,11 @@ Please feel free to comment if you know better tools / or alternatives. 😉
 * [Golem](https://www.golem.de) - DE - News
 * [korben.info](https://korben.info/) - FR - Famous blogger
 * [Alsacreations](https://www.alsacreations.com/) - FR - HTML, CSS, JavaScript tutorials
-http://www.phoenixjp.net/news/fr/
+* [t3n](https://t3n.de/) - DE - News
+* [Daniel Kriesel](http://www.dkriesel.com/) - DE + EN - Data science Guru
+* [Troy Hunt](https://www.troyhunt.com/) - EN - The guy behing "haveibeenpwned.com"
+* [Phoenixjp](http://www.phoenixjp.net/news/fr/) - FR - News agregator
+
 
 ## Browsers
 * [Vivaldi](https://vivaldi.com/)
@@ -41,6 +45,10 @@ https://www.symbolab.com/
 
 ## Conversions
 * [Pandoc](http://pandoc.org/)
+
+## Craft
+* [Templatemaker](https://www.templatemaker.nl/en/) -
+
 
 ## Cheatsheets / Docs
 * [git](https://rogerdudler.github.io/git-guide/) -
@@ -79,6 +87,8 @@ https://www.symbolab.com/
 * [Dashing](http://dashing.io/) -
 * [Razorflow](https://razorflow.com/) -
 * [Can i use](https://caniuse.com) -
+* [Python - Excel](https://xlsxwriter.readthedocs.io/#) -
+
 
 ### Documentation / Wikis / User Feedback
 * [Wiki JS](https://wiki.js.org/) -
@@ -389,10 +399,14 @@ Windows:
 * [Webpagetest](http://www.webpagetest.org/) -
 * [GTMetrix](https://gtmetrix.com/) -
 * [Google pagespeed](https://developers.google.com/speed/pagespeed/insights/) -
+* [Google lighthouse](https://github.com/GoogleChrome/lighthouse) -
 * [Pingdom](https://tools.pingdom.com/) -
 * [Sonarwhal](https://sonarwhal.com/) -
 * [Dareboost](https://www.dareboost.com/fr) -
 * [Yellowlab](https://yellowlab.tools) -
+* [Sitespeed.io](https://github.com/sitespeedio/sitespeed.io/) -
+* [Webhint](https://webhint.io/scanner/) -
+
 
 ## Writing / Presentations / Markdown / Rendering
 * [Relaxed](https://github.com/RelaxedJS/ReLaXed) -
@@ -403,3 +417,4 @@ Windows:
 
 ## Wordpress
 * [WP Speedster](http://www.wpspeedster.com/) -
+* [WP - CLI](https://wp-cli.org) -
