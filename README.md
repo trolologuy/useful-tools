@@ -40,8 +40,8 @@ Please feel free to comment if you know better tools / or alternatives. 😉
 
 * [Rambox](https://rambox.pro/) - Aggregates lots of differents chat-tools - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Franz](https://meetfranz.com/) - Aggregates lots of differents chat-tools - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
-* [Rocket Chat](https://rocket.chat/) - The ultimate Free Open Source Solution for team communications - [![](https://img.shields.io/badge/pricing-open-source-green)](#)
-* [Matrix](https://matrix.org/blog/home/) - A new basis for open, interoperable, decentralised real-time communication - [![](https://img.shields.io/badge/pricing-open-source-green)](#)
+* [Rocket Chat](https://rocket.chat/) - The ultimate Free Open Source Solution for team communications - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [Matrix](https://matrix.org/blog/home/) - A new basis for open, interoperable, decentralised real-time communication - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ## Conversions
 * [Pandoc](http://pandoc.org/)
