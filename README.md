@@ -292,7 +292,7 @@ Please feel free to comment if you know better tools / or alternatives or if som
 * [questions2answer](http://www.question2answer.org/qa/) -
 
 ## Regex
-![[](https://media.giphy.com/media/mDFpdL1UxdVZRBN2V4/giphy.gif)]
+![](https://media.giphy.com/media/mDFpdL1UxdVZRBN2V4/giphy.gif)
 * [I hate regex](https://ihateregex.io/) - Because you know you do... online tool with helpful charts and explanations to your regex - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Regex101](https://regex101.com/) - Another online tool for dealing with regex - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
