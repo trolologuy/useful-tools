@@ -5,7 +5,7 @@ This list contains items that i **personally** find useful, usages may differ._
 
 Please feel free to comment if you know better tools / or alternatives or if some links are dead, ... 😉
 
-![[](https://media.giphy.com/media/yhcqymRLlv7K8/giphy.gif)]
+![](https://media.giphy.com/media/yhcqymRLlv7K8/giphy.gif)
 
 ## Backups
 *This one doesn't need an introduction i guess*
