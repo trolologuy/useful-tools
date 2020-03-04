@@ -27,21 +27,21 @@ Please feel free to comment if you know better tools / or alternatives. 😉
 
 
 ## Browsers
-* [Vivaldi](https://vivaldi.com/)
+* [Vivaldi](https://vivaldi.com/) - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
 ## Calculus
 *Struggling with numbers ? Here are tools to help*
 
-* [Omnicalculator](https://www.omnicalculator.com/statistics) - Calculate Odds, Chi-square, ... without headache
-https://www.symbolab.com/
+* [Omnicalculator](https://www.omnicalculator.com/statistics) - Calculate Odds, Chi-square, ... without headache - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [https://www.symbolab.com/](https://www.symbolab.com) - An advanced math education tool - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
 ## Chat
 *Tools to easen communication*
 
-* [Rambox](https://rambox.pro/) - Aggregates lots of differents chat-tools
-* [Franz](https://meetfranz.com/) - Aggregates lots of differents chat-tools
-* [Rocket Chat](https://rocket.chat/) -
-* [Matrix](https://matrix.org/blog/home/) -
+* [Rambox](https://rambox.pro/) - Aggregates lots of differents chat-tools - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [Franz](https://meetfranz.com/) - Aggregates lots of differents chat-tools - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [Rocket Chat](https://rocket.chat/) - The ultimate Free Open Source Solution for team communications - [![](https://img.shields.io/badge/pricing-open-source-green)](#)
+* [Matrix](https://matrix.org/blog/home/) - A new basis for open, interoperable, decentralised real-time communication - [![](https://img.shields.io/badge/pricing-open-source-green)](#)
 
 ## Conversions
 * [Pandoc](http://pandoc.org/)
