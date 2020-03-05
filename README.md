@@ -8,7 +8,7 @@ Please feel free to comment if you know better tools / or alternatives or if som
 ![](https://media.giphy.com/media/yhcqymRLlv7K8/giphy.gif)
 
 ## Backups
-*This one doesn't need an introduction i guess*
+*This category doesn't need an introduction i guess*
 * [Borg](https://github.com/borgbackup/borg)
 
 ## Blogs
@@ -57,6 +57,14 @@ Please feel free to comment if you know better tools / or alternatives or if som
 *Doing stuff in real life too?*
 * [Templatemaker](https://www.templatemaker.nl/en/) - Custom sized papercraft and packaging templates for free - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
+## Code style, review, quality and security / Linters
+*Code quality and standarts should be enforced more often, that's for sure! Which team are you on, Stroustrup or Allman ?*
+* [Pylint](https://github.com/PyCQA/pylint) - A Python static code analysis tool (linter) which looks for programming errors, helps enforcing a coding standard, sniffs for code smells and offers simple refactoring suggestions. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [Black](https://github.com/psf/black) - The uncompromising Python code formatter - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [Sonarlint](https://www.sonarlint.org/) - SonarLint is an IDE extension that helps you detect and fix quality issues as you write code (linter). - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [Sonarqube](https://www.sonarqube.org/) - A tool for continuously inspecting the Code Quality and Security of your codebases, and guiding development teams during Code Reviews. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [Sourcetrail](https://www.sourcetrail.com/) - Free and open-source cross-platform source explorer
+Get productive on unfamiliar source code. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/CoatiSoftware/Sourcetrail)
 
 ## Cheatsheets / Docs
 *How was it again?*
@@ -169,6 +177,9 @@ Please feel free to comment if you know better tools / or alternatives or if som
 * [JSpaint](https://jspaint.app) - You missed MS Paint? It's back ! - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/1j01/jspaint)
 * [Canva](https://www.canva.com/) - Create designs and documents in minutes - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Figma](https://www.figma.com/) - Figma helps teams create, test, and ship better designs from start to finish. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [Picsum](https://picsum.photos/) - Lorem Ipsum for images - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [Freepik](https://www.freepik.com) - Free Vectors, Stock Photos, PSD and Icons - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [Logo](https://logo.com/) - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 
 ## Good Practices
 * [Material Design](https://material.io/design/#color-ui-color-application) -
@@ -183,8 +194,8 @@ Please feel free to comment if you know better tools / or alternatives or if som
 * [Atom](https://atom.io/) -
 
 ### Plugins:
- - minimap
- - pigments
+    - minimap
+    - pigments
 
 ## Images
 * [EXIF tool](http://owl.phy.queensu.ca/~phil/exiftool/) -
@@ -198,9 +209,6 @@ Please feel free to comment if you know better tools / or alternatives or if som
 
 ## Lamp Stack
 * [Docker - Lamp](https://github.com/sprintcube/docker-compose-lamp) -
-
-## Linters
-* [Pylint](https://github.com/PyCQA/pylint) -
 
 ## Mail
 * [mb2md](http://batleth.sapienti-sat.org/projects/mb2md/) -
@@ -218,10 +226,10 @@ Please feel free to comment if you know better tools / or alternatives or if som
 * [roomify](https://roomify.us/) -
 
 ## Mobile Apps
- - Fing
- - Waze
- - Authy
- - F-Droid https://f-droid.org/
+    - Fing
+    - Waze
+    - Authy
+    - F-Droid https://f-droid.org/
 
 ## MOOC / E-Learning / Exercises / Educational Games
 * [Pluralsight](https://www.pluralsight.com/partners/stack-overflow/iq) -
@@ -254,13 +262,16 @@ Please feel free to comment if you know better tools / or alternatives or if som
 * [Prometheus](https://github.com/prometheus) -
 * [Grafana](https://grafana.com/) -
 * [Icinga](https://icinga.com/) -
+* [cronhub](https://cronhub.io/) - Cron Monitoring, Get instant alerts when any of your background jobs fail silently or run longer than expected. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+
+
 
 ## Music
 * [Soundscape](https://github.com/soundscapecloud/soundscape) - a personal music streaming server - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Festify](https://festify.us/) - Festify lets your guests choose which music should be played using their smartphones (and spotify). - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
 ## Networking / DNS / ...
-* [whatsmydns](https://www.whatsmydns.net/) -
+* [whatsmydns](https://www.whatsmydns.net/) - DNS Propagation Checker - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [MTR online](http://mtr.guru/) -
 * [mtr](https://github.com/traviscross/mtr) -
 * [mxtoolbox](https://mxtoolbox.com/) -
@@ -268,6 +279,7 @@ Please feel free to comment if you know better tools / or alternatives or if som
 * [dns-trails](https://securitytrails.com/dns-trails) -
 * [urlquery](http://urlquery.net/) -
 * [speedtest](https://www.speedtest.net/) -
+* [gns3](https://gns3.com/) - Build, Design and Test your network in a risk-free virtual environment and access the largest networking community to help. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ## Operating Systems / Virtualization
 * [unraid](https://unraid.net/) -
@@ -277,7 +289,7 @@ Please feel free to comment if you know better tools / or alternatives or if som
 * [reactOS](https://www.reactos.org/) -
 
 ## Online Payment
-* [Stripe](https://stripe.com/) -
+* [Stripe](https://stripe.com/) - Accept payments and manage your business online - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 
 ## Others
 * [Tre true size](https://thetruesize.com) -
@@ -292,7 +304,7 @@ Please feel free to comment if you know better tools / or alternatives or if som
 * [questions2answer](http://www.question2answer.org/qa/) -
 
 ## Regex
-![](https://media.giphy.com/media/mDFpdL1UxdVZRBN2V4/giphy.gif)
+![[](https://media.giphy.com/media/mDFpdL1UxdVZRBN2V4/giphy.gif)]
 * [I hate regex](https://ihateregex.io/) - Because you know you do... online tool with helpful charts and explanations to your regex - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Regex101](https://regex101.com/) - Another online tool for dealing with regex - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
@@ -303,9 +315,9 @@ Please feel free to comment if you know better tools / or alternatives or if som
 * [Staffjoy](https://github.com/staffjoy/) -
 * [Certbot](https://certbot.eff.org/) -
 * [Domainmod](https://domainmod.org/) -
-* [Osticket](https://osticket.com/) -
+* [Osticket](https://osticket.com/) - Customer Support (ticketing) Software - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/osTicket/osTicket)
 * [helpy](https://github.com/helpyio/helpy) -
-* [CachetHQ](https://cachethq.io/) -
+* [CachetHQ](https://cachethq.io/) - Status page system, helps better communicate downtime and system outages - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/CachetHQ/Cachet)
 * [Sandstorm](https://sandstorm.io/) -
 * [Spreed-webrtc](https://github.com/strukturag/spreed-webrtc) -
 * [Jitsi](https://jitsi.org/) -
@@ -325,10 +337,10 @@ Please feel free to comment if you know better tools / or alternatives or if som
 * [gitea](https://gitea.io/en-us/) -
 
 ## Server Basics
-- Apache / Nginx
-- Certbot
-- Fail2Ban
-- UFW (Iptables alternative)
+    - Apache / Nginx
+    - Certbot
+    - Fail2Ban
+    - UFW (Iptables alternative)
 
 ## Server Configuration
 * [Nginxconfig](https://nginxconfig.io/) -
@@ -368,11 +380,12 @@ Please feel free to comment if you know better tools / or alternatives or if som
 * [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - Oh My Zsh will not make you a 10x developer...but you may feel like one.- [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/ohmyzsh/ohmyzsh)
 
 Theme:
-- agnoster
+    - agnoster
+
 Plugins:
-- git
-- zsh-syntax-highlighting
-- colored-man-pages
+    - git
+    - zsh-syntax-highlighting
+    - colored-man-pages
 
 * [powerlevel9k](https://github.com/bhilburn/powerlevel9k) - Theme for Oh My Zsh - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [tmux](https://tmux.github.io/) - A terminal multiplexer. It lets you switch easily between several programs in one terminal - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -396,10 +409,10 @@ Plugins:
 * [Angular analytics](http://angular-material.fusetheme.com/apps/dashboards/analytics) -
 * [Bootstrap admin templates](https://github.com/coreui/coreui-free-bootstrap-admin-template) -
 
-## User Management (LDAP / Radius / ... )
-* [free radius](http://freeradius.org/) -
-* [key cloak](https://www.keycloak.org/) -
-* [free ipa](https://www.freeipa.org/page/Main_Page) -
+## User Management (LDAP / Radius / SSO / OpenID Connect / OAuth / SAML / ... )
+* [free radius](http://freeradius.org/) - Open source implementation of RADIUS, an IETF protocol for AAA (Authorisation, Authentication, and Accounting). - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/FreeRADIUS/freeradius-server)
+* [key cloak](https://www.keycloak.org/) - Identity and Access Management - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/keycloak/keycloak)
+* [free ipa](https://www.freeipa.org/page/Main_Page) - Manage Linux users and client hosts in your realm from one central location with CLI, Web UI or RPC access. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://pagure.io/freeipa/issues)
 
 ## Useful Software
 ### Mac:
@@ -419,30 +432,30 @@ Plugins:
     - Total Commander
 
 ## Voice Assistant
-* [jarvis](https://github.com/alexylem/jarvis) -
+* [jarvis](https://github.com/alexylem/jarvis) - Jarvis.sh is a simple configurable multi-lang assistant - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 # Webservers
 * [NGINX Config](https://www.digitalocean.com/community/tools/nginx) - The easiest way to configure a performant, secure, and stable NGINX server. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/digitalocean/nginxconfig.io)
 
 ## Website builder / CMS
-* [Hugo](https://gohugo.io/) -
-* [Grav](https://github.com/getgrav/grav) -
-* [Staticgen](https://www.staticgen.com/) -
+* [Hugo](https://gohugo.io/) - Static website generator based on markdown - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/gohugoio/hugo)
+* [Grav](https://github.com/getgrav/grav) - Grav is a Fast, Simple, and Flexible, file-based Web-platform - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [Staticgen](https://www.staticgen.com/) - A List of Static Site Generators for JAMstack Sites - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/netlify/staticgen)
 
 ## Website Analysis
 * [Built with](https://builtwith.com/) -
 
-## Website Speedtest
-* [Webpagetest](http://www.webpagetest.org/) -
-* [GTMetrix](https://gtmetrix.com/) -
-* [Google pagespeed](https://developers.google.com/speed/pagespeed/insights/) -
-* [Google lighthouse](https://github.com/GoogleChrome/lighthouse) -
-* [Pingdom](https://tools.pingdom.com/) -
-* [Sonarwhal](https://sonarwhal.com/) -
-* [Dareboost](https://www.dareboost.com/fr) -
-* [Yellowlab](https://yellowlab.tools) -
-* [Sitespeed.io](https://github.com/sitespeedio/sitespeed.io/) -
-* [Webhint](https://webhint.io/scanner/) -
+## Website Speedtest / Performance analysis
+* [Webpagetest](http://www.webpagetest.org/) - Test a website's performance, helfpul waterfall charts - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [GTMetrix](https://gtmetrix.com/) -We'll breakdown your page performance in a summarized report: PageSpeed and YSlow scores and Recommendations, Page Load Details (time, size, number of requests), Waterfall, ... - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [Google pagespeed](https://developers.google.com/speed/pagespeed/insights/) - PageSpeed Insights (PSI) reports on the performance of a page on both mobile and desktop devices, and provides suggestions on how that page may be improved. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [Google lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [Pingdom](https://tools.pingdom.com/) - With Pingdom you can monitor your websites' uptime, performance, and interactions for a better end-user-experience. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [Webhint](https://webhint.io/scanner/) - webhint is a customizable linting tool that helps you improve your site's accessibility, speed, cross-browser compatibility, and more by checking your code for best practices and common errors. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/webhintio/hint)
+* [Dareboost](https://www.dareboost.com/fr) - Website performance checking tool - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
+* [Yellowlab](https://yellowlab.tools) - WebPerf and front-end quality testing tool - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/YellowLabTools/YellowLabTools/)
+* [Sitespeed.io](https://github.com/sitespeedio/sitespeed.io/) - Helps you monitor, analyze and optimize your website speed and performance - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+
 
 ## Writing / Presentations / Markdown / Rendering
 * [Relaxed](https://github.com/RelaxedJS/ReLaXed) -
@@ -452,5 +465,5 @@ Plugins:
 * [markdown-here](https://github.com/adam-p/markdown-here) -
 
 ## Wordpress
-* [WP Speedster](http://www.wpspeedster.com/) -
-* [WP - CLI](https://wp-cli.org) -
+* [WP Speedster](http://www.wpspeedster.com/) -  You can find almost all themes from the WordPress.org theme repository tested against Google PageSpeed here. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [WP - CLI](https://wp-cli.org) - WP-CLI is the command-line interface for WordPress. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
