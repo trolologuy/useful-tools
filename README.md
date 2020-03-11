@@ -1,11 +1,13 @@
-# useful-tools
+# :bulb: :mag_right: Useful Tools :wrench: 
 _A list of useful tools and programs for developpers, devops, admins, ... but not only.
 Whereas most of them are Open Source, not all of them are. Please check licences that may apply.
 This list contains items that i **personally** find useful, usages may differ._
 
+The concept behind that list is based on the famous "[awesome](https://github.com/sindresorhus/awesome)" lists you can find on github. Since they did not fully suited my need, i preferred to go with my own version.
+
 Please feel free to comment if you know better tools / or alternatives or if some links are dead, ... 😉
 
-![](https://media.giphy.com/media/yhcqymRLlv7K8/giphy.gif)
+![[](https://media.giphy.com/media/yhcqymRLlv7K8/giphy.gif)]
 
 ## Backup / Data / Restauration / ...
 *This category doesn't need an introduction i guess*
@@ -18,25 +20,29 @@ Please feel free to comment if you know better tools / or alternatives or if som
 ## Blogs
 *Some helpful Blogs and Tech News websites*
 
-* [Dev.to](https://dev.to/) - EN - online community. Anyone can share articles, questions, discussions, etc.
-* [CSS-Tricks](https://css-tricks.com/) - EN - Articles, Snippets about CSS Tipps and tricks.
+* [Dev.to](https://dev.to/) - :gb: - online community. Anyone can share articles, questions, discussions, etc.
+* [CSS-Tricks](https://css-tricks.com/) - :gb: - Articles, Snippets about CSS Tipps and tricks.
 * [Thomas-Krenn-Wiki](https://www.thomas-krenn.com/en/wiki/Main_Page) - DE - Well documented wiki
-* [D. Kriesel](http://www.dkriesel.com/) - DE - Data Science, Machine Learning, ...
-* [Frankys Web](https://www.frankysweb.de) - DE - Exchange-Guru
-* [Heise](https://www.heise.de) - DE - News
-* [Golem](https://www.golem.de) - DE - News
-* [korben.info](https://korben.info/) - FR - Famous blogger
-* [Alsacreations](https://www.alsacreations.com/) - FR - HTML, CSS, JavaScript tutorials
-* [t3n](https://t3n.de/) - DE - News
-* [Daniel Kriesel](http://www.dkriesel.com/) - DE + EN - Data science Guru
-* [Daniel Stenberg](https://daniel.haxx.se/blog/) - EN - Lead developper of Curl
-* [Troy Hunt](https://www.troyhunt.com/) - EN - The guy behing "haveibeenpwned.com"
-* [Phoenixjp](http://www.phoenixjp.net/news/fr/) - FR - News agregator
+* [D. Kriesel](http://www.dkriesel.com/) - :de: - Data Science, Machine Learning, ...
+* [Frankys Web](https://www.frankysweb.de) - :de: - Exchange-Guru
+* [Heise](https://www.heise.de) - :de: - News
+* [Golem](https://www.golem.de) - :de: - News
+* [korben.info](https://korben.info/) - :fr: - Famous blogger
+* [Alsacreations](https://www.alsacreations.com/) - :fr: - HTML, CSS, JavaScript tutorials
+* [t3n](https://t3n.de/) - :de: - News
+* [Daniel Kriesel](http://www.dkriesel.com/) - :de: + :gb: - Data science Guru
+* [Daniel Stenberg](https://daniel.haxx.se/blog/) - :gb: - Lead developper of Curl
+* [Troy Hunt](https://www.troyhunt.com/) - :gb: - The guy behing "haveibeenpwned.com"
+* [Phoenixjp](http://www.phoenixjp.net/news/fr/) - :fr: - News agregator
 
 ## Banking
 *Time is money as they say :hourglass_flowing_sand: :money_with_wings:*
 
 * [firefly-iii](https://github.com/firefly-iii/firefly-iii) - A personal finances manager - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+
+## Bot / Chatbots
+* [landbot](https://landbot.io) - Most Intuitive No Code Chatbot Builder - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+
 
 ## Browsers
 *The thing you use to navigate through the depth of internet*
@@ -77,6 +83,7 @@ Please feel free to comment if you know better tools / or alternatives or if som
 * [Sonarqube](https://www.sonarqube.org/) - A tool for continuously inspecting the Code Quality and Security of your codebases, and guiding development teams during Code Reviews. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Sourcetrail](https://www.sourcetrail.com/) - Free and open-source cross-platform source explorer
 Get productive on unfamiliar source code. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/CoatiSoftware/Sourcetrail)
+* [tabnine](https://tabnine.com/) - Smart Compose for code. Deep learning to help you write code faster. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
 ## Cheatsheets
 *How was it again?*
@@ -90,6 +97,9 @@ Get productive on unfamiliar source code. - [![](https://img.shields.io/badge/pr
 *Always wanted to spread load between different machines to calculate things?*
 
 * [Slurm](https://github.com/SchedMD/slurm) - Highly Scalable Workload Manager [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+
+## Configuration Management
+* [](https://www.i-doit.org/) - Configuration and Management Database that allows to follow ITIL best practises - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ## Continuous Integration
 * [Rudder](https://www.rudder.io/en/) - Multi-platform solution for managing configurations of mission-critical systems. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -120,6 +130,7 @@ Get productive on unfamiliar source code. - [![](https://img.shields.io/badge/pr
 * [Fusioncharts](https://www.fusioncharts.com) - Get interactive and responsive charts for all your projects - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [Can i use](https://caniuse.com) - Browser support tables for comparing the availability of modern web technologies - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/Fyrd/caniuse)
 * [Python - Excel](https://xlsxwriter.readthedocs.io/#) - Python module for creating Excel XLSX files. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/jmcnamara/XlsxWriter)
+* [Apprise](https://github.com/caronc/apprise) - App to send a notification to almost all of the most popular notification services available to us today such as: Telegram, Discord, Slack, Amazon SNS, Gotify, etc. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ### Documentation / Wikis / User Feedback
 *Because it's always difficult when facing a PEBKAC to tell him to RTFM...when there's no documentation*
@@ -139,13 +150,15 @@ Get productive on unfamiliar source code. - [![](https://img.shields.io/badge/pr
 * [Watchtower](https://github.com/v2tec/watchtower) - A process for automating Docker container base image updates - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/containrrr/watchtower)
 * [Portainer](https://github.com/portainer/portainer) - A lightweight management UI which allows you to easily manage your different Docker environments (Docker hosts or Swarm clusters). - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Traeffik](https://github.com/containous/traefik/) - A HTTP reverse proxy and load balancer that makes deploying microservices easy- [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [composerize](https://github.com/magicmark/composerize) - Turns docker run commands into docker-compose files! - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+
 
 ## Emulation
 *Feeling retro?*
 * [MAME](https://github.com/mamedev/mame) - A multi-purpose emulation framework that aims to preserve decades of software history. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Messmame collection](https://archive.org/details/messmame&tab=collection) - Lots of ROMs for MAME - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
-## Enterprise Ressource Planning (ERP) / Groupware / Customer Relationship Management (CRM) / Organisation
+## Enterprise Ressource Planning (ERP) / Groupware / Customer Relationship Management (CRM) / Organisation / Asset Management System
 *Welcome to the 21st Century*
 * [Metasfresh](https://metasfresh.com/en/) - Responsive Free and Open Source ERP System - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/metasfresh/metasfresh)
 * [Kopano](https://kopano.com/) - Digitally sovereign communication and collaboration software - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
@@ -154,8 +167,11 @@ Get productive on unfamiliar source code. - [![](https://img.shields.io/badge/pr
 * [Foodcops](https://foodcoops.github.io/) - Web-based software to manage a non-profit food coop (product catalog, ordering, accounting, job scheduling). - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/foodcoops/foodsoft)
 * [Wekan](https://github.com/wekan/wekan) - Kanban board (built with Meteor). - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Openproject](https://www.openproject.org/) - Collaborative Project Management: project management software. Gantt charts, Agile, Scrum, Wiki, ... - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [snipeit](https://snipeitapp.com/) - Say goodbye to spreadheets. Asset Management System. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
 ## File Sharing
+*Sharing is caring*
+
 * [send](https://send.firefox.com/) - Simple, private file sharing from the makers of Firefox - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/mozilla/send)
 * [DC++](http://dcplusplus.sourceforge.net/) - Direct Connect allows you to share files over the Internet without restrictions or limits. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Gofile](https://gofile.io) - File sharing platform, anonymous and free - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -175,13 +191,19 @@ It works on every platform, browser or device, focusing equally on reliability a
 * [vue JS](https://github.com/vuejs/vue) - A progressive, incrementally-adoptable JavaScript framework for building UI on the web. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [insomnia](https://insomnia.rest/) - Debug APIs like a human, not a robot. Finally, a REST client you'll love - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [public apis](https://public-apis.xyz/) - Learn & Fuel up your tools, apps and business with powerful 1000+ public apis. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [i18next](https://www.i18next.com/) -  An internationalization-framework written in and for JavaScript.  It provides you with a complete solution to localize your product from web to mobile and desktop. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+
 
 ## Games
 *You know you need a break*
+* [eti-lan](https://www.eti-lan.xyz/) - P2P Lan Game Launcher useful for LAN parties - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [gamehub](https://tkashkin.tk/projects/gamehub/) - All your games in one place. It allows to view, download, install, run and uninstall games from Steam, GOG, Humble Bundle, Humble Trove. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [0ad](https://play0ad.com/) - Historical Real Time Strategy (RTS) game. As the leader of an ancient civilization, you must gather the resources you need to raise a military force and dominate your enemies. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/0ad/0ad)
 * [teeworlds](https://www.teeworlds.com/) - A retro multiplayer shooter - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/teeworlds/teeworlds/)
 * [Minetest](https://www.minetest.net/) - Similar to minecraft - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/minetest/minetest)
-* [eti-lan](https://www.eti-lan.xyz/) - P2P Lan Game Launcher useful for LAN parties - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [fold it](https://fold.it/portal/) - A crowdsourcing computer game enabling you to contribute to important scientific research by folding proteins. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [geoguessr](https://www.geoguessr.com/) - Guess the country from a google street view perspective.
+
 
 ## Graphics / Design
 *Draw me a sheep*
@@ -199,7 +221,10 @@ It works on every platform, browser or device, focusing equally on reliability a
 * [Figma](https://www.figma.com/) - Figma helps teams create, test, and ship better designs from start to finish. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Picsum](https://picsum.photos/) - Lorem Ipsum for images - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Freepik](https://www.freepik.com) - Free Vectors, Stock Photos, PSD and Icons - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
-* [Logo](https://logo.com/) - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
+* [Logo](https://logo.com/) - Make a logo in minutes - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
+* [placeholder.com](https://placeholder.com/) - Free Image Placeholder Service - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [pngkey](https://www.pngkey.com/) -  Largest Archive Of Transparent PNG. No attribution required! - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [favicon](https://favicon.io/) - Favicon generator. Create a favicon in few simple clicks. Generate a favicon from text, from an image, or from an emoji. Download in .ico and .png formats. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
 ## Good Practices
 *When you don't know where to start, that's probably the right place*
@@ -239,6 +264,19 @@ It works on every platform, browser or device, focusing equally on reliability a
 * [pictriev](http://www.pictriev.com/) - Gives attributes to pictures in percentages - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [phototagger](http://www.phototagger.org/) - Helps tagging pictures - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
+# Recruitment / Job searching / Interviews
+*Getting paid for following your passion is even more fun, isn't it?*
+* [resumemaker](https://www.resumemaker.online/) - Helps you to make your resume online - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [meteojob](https://www.meteojob.com/) - :fr:
+* [tweetjobs](https://tweetjobs.dev/) - Find Latest Jobs
+from Twitter
+* [stackoverflow - jobs](https://stackoverflow.com/jobs) - :uk:
+* [talent.io](https://www.talent.io/en/) - Get the tech job you deserve. The simplest way to find full-time and contract tech positions in Europe - :uk:
+* [weworkremotely](https://weworkremotely.com/) - Largest remote work community in the world - :uk:
+* [jobesto](https://jobesto.com/) - PL
+* [honeypot](https://www.honeypot.io/) - Europe’s developer-focused job platform. - :uk: / :de: / NL
+* [test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - This project contains 284 test questions and answers that can be used as a test your knowledge or during an interview/exam for position such as Linux (*nix) System Administrator. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+
 ## Lamp Stack
 *Apache, MySQL, PHP*
 
@@ -251,6 +289,7 @@ It works on every platform, browser or device, focusing equally on reliability a
 * [dnswl](https://www.dnswl.org/) - E-Mail Reputation – Protect against false positives. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [offline imap](http://www.offlineimap.org/) - OfflineIMAP allows to dispose your mailbox(es) as a local Maildir(s). - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/OfflineIMAP/offlineimap)
 * [imapsync](https://imapsync.lamiral.info/) - An IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/imapsync/imapsync)
+* [roundcube](https://roundcube.net/) - A browser-based multilingual IMAP client with an application-like user interface. It provides full functionality you expect from an email client, including MIME support, address book, folder manipulation, message searching and spell checking. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ## Mailing
 *Spam Ham*
@@ -328,8 +367,8 @@ It works on every platform, browser or device, focusing equally on reliability a
 ## Others
 * [Tre true size](https://thetruesize.com) - Easily compare countries with each others - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [farmbot](https://farm.bot/) - Open-Source CNC Farming - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/FarmBot/Farmbot-Web-App)
-* [Open Street map](https://www.openstreetmap.org) - OpenStreetMap is the free wiki world map. OpenStreetMap is a map of the world, created by people like you and free to use under an open license. - [![](https://img.shields.io/badge/pricing-free-yellow)](#) 
-* [sdelete](https://docs.microsoft.com/en-us/sysinternals/downloads/sdelete) - Securely deleting a file - [![](https://img.shields.io/badge/pricing-free-yellow)](#) 
+* [Open Street map](https://www.openstreetmap.org) - OpenStreetMap is the free wiki world map. OpenStreetMap is a map of the world, created by people like you and free to use under an open license. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [sdelete](https://docs.microsoft.com/en-us/sysinternals/downloads/sdelete) - Securely deleting a file - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [virtualbox](https://www.virtualbox.org/) - A virtualization product for both enterprise and home use. Only professional solution that is freely available as Open Source Software - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ## Questions & Answers (Questions & Answers)
@@ -339,7 +378,8 @@ It works on every platform, browser or device, focusing equally on reliability a
 * [questions2answer](http://www.question2answer.org/qa/) - Question2Answer is a platform for Q&A sites, running on PHP/MySQL - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/q2a/question2answer)
 
 ## Regex
-![](https://media.giphy.com/media/mDFpdL1UxdVZRBN2V4/giphy.gif)
+<img src="https://media.giphy.com/media/mDFpdL1UxdVZRBN2V4/giphy.gif" width="200"/>
+
 
 * [I hate regex](https://ihateregex.io/) - Because you know you do... online tool with helpful charts and explanations to your regex - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Regex101](https://regex101.com/) - Another online tool for dealing with regex - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -349,9 +389,9 @@ It works on every platform, browser or device, focusing equally on reliability a
 * [Gitlab](https://gitlab.com/) - A web-based DevOps lifecycle tool + git repository manager - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Privatebin](https://privatebin.info/) - A minimalist, online pastebin where the server has zero knowledge of pasted data. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/PrivateBin/PrivateBin)
 * [Staffjoy](https://github.com/staffjoy/) - Scheduling Apps - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/LandRover/StaffjoyV2)
-* [Domainmod](https://domainmod.org/) -
+* [Domainmod](https://domainmod.org/) - An Application to manage your domains and other internet assets in a central location - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Osticket](https://osticket.com/) - Customer Support (ticketing) Software - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/osTicket/osTicket)
-* [helpy](https://github.com/helpyio/helpy) -
+* [helpy](https://github.com/helpyio/helpy) - Customer Support (ticketing) Software - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [CachetHQ](https://cachethq.io/) - Status page system, helps better communicate downtime and system outages - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/CachetHQ/Cachet)
 * [Sandstorm](https://sandstorm.io/) - Platform for self-hosting web apps - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/sandstorm-io/sandstorm)
 * [Spreed-webrtc](https://github.com/strukturag/spreed-webrtc) - WebRTC audio/video call and conferencing server. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -408,7 +448,7 @@ It works on every platform, browser or device, focusing equally on reliability a
 ## Server Management
 * [ISPconfig](https://www.ispconfig.org/) - Manage Your Servers Directly Through Your Browser - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
-## Shell / Terminal
+## Shell / Terminal / Powershell
 * [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - Oh My Zsh will not make you a 10x developer...but you may feel like one.- [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/ohmyzsh/ohmyzsh)
 * [powerlevel9k](https://github.com/bhilburn/powerlevel9k) - Theme for Oh My Zsh - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [tmux](https://tmux.github.io/) - A terminal multiplexer. It lets you switch easily between several programs in one terminal - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -423,6 +463,13 @@ It works on every platform, browser or device, focusing equally on reliability a
 * [cygwin]() - Get that Linux feeling but on Windows - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/cygwin/cygwin)
 * [wego](https://github.com/schachmat/wego) - A weather client for the terminal - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Term Markdown viewer](https://github.com/axiros/terminal_markdown_viewer) - Read markdown in your terminal - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [easyigloo](https://easyigloo.org/) - A powerful, context-oriented command-line interface which allows IT gurus to manage their Windows desktop and server machines with ease. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+
+### System utilities
+* [Karabiner](https://pqrs.org/osx/karabiner/) - An utility for keyboard customization on macOS Sierra - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/pqrs-org/Karabiner-Elements)
+* [espanso](https://github.com/federico-terzi/espanso) - Cross-platform Text Expander - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [AutoHotkey_L](https://github.com/Lexikos/AutoHotkey_L) - Macro-creation and automation-oriented scripting utility for Windows. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [easy-file-organizer](https://qiplex.com/software/easy-file-organizer/) - Organize Files, Folders and Desktop easily! - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
 ### Oh-my-zsh Theme:
     - agnoster
