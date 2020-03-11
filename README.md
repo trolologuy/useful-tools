@@ -121,6 +121,7 @@ Get productive on unfamiliar source code. - [![](https://img.shields.io/badge/pr
 
 ## Development
 *Reinventing the wheel can be fun but just in case you just don't feel like it, check the tools below*
+
 * [Handlebar JS](http://handlebarsjs.com/) - Handlebars is a simple templating language it allows building semantic templates effectively (largely compatible with mustache) - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/wycats/handlebars.js)
 * [Grunt JS](https://gruntjs.com/) - JavaScript Task Runner, automates repetitive tasks like minification, compilation, unit testing, linting, ... - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/gruntjs/grunt)
 * [Bower](https://bower.io/) - Web sites are made of lots of things — frameworks, libraries, assets, and utilities. Bower manages all these things for you. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/bower/bower)
