@@ -7,7 +7,7 @@ The concept behind that list is based on the famous "[awesome](https://github.co
 
 Please feel free to comment if you know better tools / or alternatives or if some links are dead, ... 😉
 
-![[](https://media.giphy.com/media/yhcqymRLlv7K8/giphy.gif)]
+![](https://media.giphy.com/media/yhcqymRLlv7K8/giphy.gif)
 
 ## Backup / Data / Restauration / ...
 *This category doesn't need an introduction i guess*
