@@ -162,7 +162,7 @@ Get productive on unfamiliar source code. - [![](https://img.shields.io/badge/pr
 ## Enterprise Ressource Planning (ERP) / Groupware / Customer Relationship Management (CRM) / Organisation / Asset Management System
 *Welcome to the 21st Century*
 * [Metasfresh](https://metasfresh.com/en/) - Responsive Free and Open Source ERP System - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/metasfresh/metasfresh)
-* [Kopano](https://kopano.com/) - Digitally sovereign communication and collaboration software - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
+* [Kopano](https://kopano.com/) - Digitally sovereign communication and collaboration software - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Sabre](http://sabre.io/) - A CardDAV, CalDAV and WebDAV server - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/sabre-io/Baikal)
 * [Hubspot](https://www.hubspot.com) - Marketing, sales, and service software (CRM). - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [Foodcops](https://foodcoops.github.io/) - Web-based software to manage a non-profit food coop (product catalog, ordering, accounting, job scheduling). - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/foodcoops/foodsoft)
