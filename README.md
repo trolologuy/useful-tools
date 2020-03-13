@@ -107,11 +107,13 @@ Get productive on unfamiliar source code. - [![](https://img.shields.io/badge/pr
 
 ## Databases - Related Stuff
 *Store that data*
+
 * [Adminer](https://www.adminer.org/#download) - Database management in a single PHP file - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/vrana/adminer/)
 * [Dbeaver](http://dbeaver.io/) - Free universal database tool and SQL client - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ### Deployment / Automation
 *Who likes to do stuff manually anyway*
+
 * [Ansible](https://github.com/ansible/ansible) - Automation platform that makes your applications and systems easier to deploy. Uses SSH only, no agents to install on remote systems. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Jenkins](https://jenkins.io/) - An automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/jenkinsci/jenkins)
@@ -135,6 +137,7 @@ Get productive on unfamiliar source code. - [![](https://img.shields.io/badge/pr
 
 ### Documentation / Wikis / User Feedback
 *Because it's always difficult when facing a PEBKAC to tell him to RTFM...when there's no documentation*
+
 * [Wiki JS](https://wiki.js.org/) - A modern, lightweight and powerful wiki app built on Node.js - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/Requarks/wiki)
 * [Daux](http://daux.io/) - Markdown based documentation generator - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/dauxio/daux.io)
 * [Write the docs](http://www.writethedocs.org/) - Information about writing documentation - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -148,6 +151,7 @@ Get productive on unfamiliar source code. - [![](https://img.shields.io/badge/pr
 
 ## Docker
 *Containers and stuff*
+
 * [Watchtower](https://github.com/v2tec/watchtower) - A process for automating Docker container base image updates - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/containrrr/watchtower)
 * [Portainer](https://github.com/portainer/portainer) - A lightweight management UI which allows you to easily manage your different Docker environments (Docker hosts or Swarm clusters). - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Traeffik](https://github.com/containous/traefik/) - A HTTP reverse proxy and load balancer that makes deploying microservices easy- [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -156,13 +160,15 @@ Get productive on unfamiliar source code. - [![](https://img.shields.io/badge/pr
 
 ## Emulation
 *Feeling retro?*
+
 * [MAME](https://github.com/mamedev/mame) - A multi-purpose emulation framework that aims to preserve decades of software history. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Messmame collection](https://archive.org/details/messmame&tab=collection) - Lots of ROMs for MAME - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
 ## Enterprise Ressource Planning (ERP) / Groupware / Customer Relationship Management (CRM) / Organisation / Asset Management System
 *Welcome to the 21st Century*
+
 * [Metasfresh](https://metasfresh.com/en/) - Responsive Free and Open Source ERP System - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/metasfresh/metasfresh)
-* [Kopano](https://kopano.com/) - Digitally sovereign communication and collaboration software - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [Kopano](https://kopano.com/) - Digitally sovereign communication and collaboration software - [![](https://img.shields.io/badge/pricing-open--source-green)](https://stash.kopano.io/repos?visibility=public)
 * [Sabre](http://sabre.io/) - A CardDAV, CalDAV and WebDAV server - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/sabre-io/Baikal)
 * [Hubspot](https://www.hubspot.com) - Marketing, sales, and service software (CRM). - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [Foodcops](https://foodcoops.github.io/) - Web-based software to manage a non-profit food coop (product catalog, ordering, accounting, job scheduling). - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/foodcoops/foodsoft)
@@ -179,6 +185,7 @@ Get productive on unfamiliar source code. - [![](https://img.shields.io/badge/pr
 
 ## Frameworks / Snippets
 *Makes your developer life easier... kinda*
+
 * [Getuikit](https://getuikit.com/) - A lightweight and modular front-end framework for developing fast and powerful web interfaces - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/uikit/uikit)
 * [jdash](http://jdash.io/#about) - A customizable Javascript + Backend platform for adding end user designable dashboards into your web application - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [google chart](https://developers.google.com/chart/) - Display live data on your site - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/google/charts)
@@ -197,6 +204,7 @@ It works on every platform, browser or device, focusing equally on reliability a
 
 ## Games
 *You know you need a break*
+
 * [eti-lan](https://www.eti-lan.xyz/) - P2P Lan Game Launcher useful for LAN parties - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [gamehub](https://tkashkin.tk/projects/gamehub/) - All your games in one place. It allows to view, download, install, run and uninstall games from Steam, GOG, Humble Bundle, Humble Trove. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [0ad](https://play0ad.com/) - Historical Real Time Strategy (RTS) game. As the leader of an ancient civilization, you must gather the resources you need to raise a military force and dominate your enemies. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/0ad/0ad)
@@ -208,6 +216,7 @@ It works on every platform, browser or device, focusing equally on reliability a
 
 ## Graphics / Design
 *Draw me a sheep*
+
 * [Vectr](https://vectr.com/) - Web and Desktop cross-platform Graphics Software - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Draw](https://www.draw.io/) - Online diagramming web site- [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/jgraph/drawio)
 * [Staruml](http://staruml.io/) -  A sophisticated Cross-Platform software modeler for agile and concise modeling - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -267,6 +276,7 @@ It works on every platform, browser or device, focusing equally on reliability a
 
 # Recruitment / Job searching / Interviews
 *Getting paid for following your passion is even more fun, isn't it?*
+
 * [resumemaker](https://www.resumemaker.online/) - Helps you to make your resume online - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [meteojob](https://www.meteojob.com/) - :fr:
 * [tweetjobs](https://tweetjobs.dev/) - Find Latest Jobs
@@ -294,6 +304,7 @@ from Twitter
 
 ## Mailing
 *Spam Ham*
+
 * [mjml](https://mjml.io/) - The only framework that makes responsive email easy - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/mjmlio/mjml)
 * [mail-tester](https://www.mail-tester.com/) - Test the Spammyness of your Emails - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Spamassassin](https://spamassassin.apache.org/) - An anti-spam platform giving system administrators a filter to classify email and block spam (unsolicited bulk email). - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/apache/spamassassin)
@@ -426,6 +437,7 @@ from Twitter
 
 ## Screencast / Screenshots
 *One image = 1000 words*
+
 * [peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/phw/peek)
 * [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/KittyKatt/screenFetch)
 * [asciinema](https://asciinema.org/) - Record and share your terminal sessions, the right way.  → "Shellcast" - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/asciinema/asciinema)
@@ -479,7 +491,6 @@ from Twitter
     - git
     - zsh-syntax-highlighting
     - colored-man-pages
-
 
 ## Templates
 * [Sufee admin dashboard](https://github.com/puikinsh/sufee-admin-dashboard)
