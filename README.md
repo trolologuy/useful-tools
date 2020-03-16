@@ -1,4 +1,4 @@
-# :bulb: :mag_right: Useful Tools :wrench: 
+# :bulb: :mag_right: Useful Tools :wrench:
 _A list of useful tools and programs for developpers, devops, admins, ... but not only.
 Whereas most of them are Open Source, not all of them are. Please check licences that may apply.
 This list contains items that i **personally** find useful, usages may differ._
@@ -89,6 +89,7 @@ Get productive on unfamiliar source code. - [![](https://img.shields.io/badge/pr
 *How was it again?*
 
 * [git](https://rogerdudler.github.io/git-guide/) - just a simple guide for getting started with git. no deep shit ;) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [wordpress](https://www.codeinwp.com/blog/wordpress-5-0-cheat-sheet/) - This is your cut-out-‘n-keep WordPress 5.0 cheat sheet. ✂️ - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Markdown - md](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - A quick reference and showcase - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Markdown - Smileys](https://gist.github.com/rxaviers/7360908) -  Complete list of github markdown emoji markup - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Devdocs](https://devdocs.io/) - DevDocs combines multiple API documentations in a fast, organized, and searchable interface.- [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/freeCodeCamp/devdocs)
@@ -102,6 +103,8 @@ Get productive on unfamiliar source code. - [![](https://img.shields.io/badge/pr
 * [](https://www.i-doit.org/) - Configuration and Management Database that allows to follow ITIL best practises - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ## Continuous Integration
+*You will be assimilated*
+
 * [Rudder](https://www.rudder.io/en/) - Multi-platform solution for managing configurations of mission-critical systems. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Travis](https://travis-ci.org/) - Test and Deploy code - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
@@ -112,7 +115,7 @@ Get productive on unfamiliar source code. - [![](https://img.shields.io/badge/pr
 * [Dbeaver](http://dbeaver.io/) - Free universal database tool and SQL client - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ### Deployment / Automation
-*Who likes to do stuff manually anyway*
+*Who likes to do stuff manually anyway  ¯\_(ツ)_/¯*
 
 * [Ansible](https://github.com/ansible/ansible) - Automation platform that makes your applications and systems easier to deploy. Uses SSH only, no agents to install on remote systems. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -157,7 +160,6 @@ Get productive on unfamiliar source code. - [![](https://img.shields.io/badge/pr
 * [Traeffik](https://github.com/containous/traefik/) - A HTTP reverse proxy and load balancer that makes deploying microservices easy- [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [composerize](https://github.com/magicmark/composerize) - Turns docker run commands into docker-compose files! - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
-
 ## Emulation
 *Feeling retro?*
 
@@ -168,7 +170,7 @@ Get productive on unfamiliar source code. - [![](https://img.shields.io/badge/pr
 *Welcome to the 21st Century*
 
 * [Metasfresh](https://metasfresh.com/en/) - Responsive Free and Open Source ERP System - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/metasfresh/metasfresh)
-* [Kopano](https://kopano.com/) - Digitally sovereign communication and collaboration software - [![](https://img.shields.io/badge/pricing-open--source-green)](https://stash.kopano.io/repos?visibility=public)
+* [Kopano](https://kopano.com/) - Digitally sovereign communication and collaboration software - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [Sabre](http://sabre.io/) - A CardDAV, CalDAV and WebDAV server - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/sabre-io/Baikal)
 * [Hubspot](https://www.hubspot.com) - Marketing, sales, and service software (CRM). - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [Foodcops](https://foodcoops.github.io/) - Web-based software to manage a non-profit food coop (product catalog, ordering, accounting, job scheduling). - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/foodcoops/foodsoft)
@@ -182,6 +184,7 @@ Get productive on unfamiliar source code. - [![](https://img.shields.io/badge/pr
 * [send](https://send.firefox.com/) - Simple, private file sharing from the makers of Firefox - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/mozilla/send)
 * [DC++](http://dcplusplus.sourceforge.net/) - Direct Connect allows you to share files over the Internet without restrictions or limits. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Gofile](https://gofile.io) - File sharing platform, anonymous and free - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [Plik](https://plik.root.gg) Plik is a scalable & friendly temporary file upload system ( wetransfer like ) in golang. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/root-gg/plik/tree/master)
 
 ## Frameworks / Snippets
 *Makes your developer life easier... kinda*
@@ -235,6 +238,7 @@ It works on every platform, browser or device, focusing equally on reliability a
 * [placeholder.com](https://placeholder.com/) - Free Image Placeholder Service - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [pngkey](https://www.pngkey.com/) -  Largest Archive Of Transparent PNG. No attribution required! - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [favicon](https://favicon.io/) - Favicon generator. Create a favicon in few simple clicks. Generate a favicon from text, from an image, or from an emoji. Download in .ico and .png formats. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [pixabay](https://pixabay.com/) - royalty free stock images - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
 ## Good Practices
 *When you don't know where to start, that's probably the right place*
@@ -279,13 +283,15 @@ It works on every platform, browser or device, focusing equally on reliability a
 
 * [resumemaker](https://www.resumemaker.online/) - Helps you to make your resume online - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [meteojob](https://www.meteojob.com/) - :fr:
-* [tweetjobs](https://tweetjobs.dev/) - Find Latest Jobs
+* [tweetjobs](https://tweetjobs.dev/) - :uk: Find Latest Jobs
 from Twitter
+* [Remoteok](https://remoteok.io/) - :uk: Get a remote job you can do anywhere - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [stackoverflow - jobs](https://stackoverflow.com/jobs) - :uk:
-* [talent.io](https://www.talent.io/en/) - Get the tech job you deserve. The simplest way to find full-time and contract tech positions in Europe - :uk:
-* [weworkremotely](https://weworkremotely.com/) - Largest remote work community in the world - :uk:
+* [talent.io](https://www.talent.io/en/) -  :uk: - Get the tech job you deserve. The simplest way to find full-time and contract tech positions in Europe
+* [weworkremotely](https://weworkremotely.com/) - :uk: - Largest remote work community in the world
 * [jobesto](https://jobesto.com/) - PL
-* [honeypot](https://www.honeypot.io/) - Europe’s developer-focused job platform. - :uk: / :de: / NL
+* [honeypot](https://www.honeypot.io/) - :uk: / :de: / NL - Europe’s developer-focused job platform.
+* [remoteleaf](https://remoteleaf.com/) -  We search the entire internet and hand-pick thousands of remote jobs, so you don’t have to. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - This project contains 284 test questions and answers that can be used as a test your knowledge or during an interview/exam for position such as Linux (*nix) System Administrator. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ## Lamp Stack
@@ -352,6 +358,20 @@ from Twitter
 * [Icinga](https://icinga.com/) - Monitors availability and performance, gives you simple access to relevant data and raises alerts to keep you in the loop. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/Icinga/icinga2)
 * [cronhub](https://cronhub.io/) - Cron Monitoring, Get instant alerts when any of your background jobs fail silently or run longer than expected. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
+## Movies / Films / Plex / Animes
+*Having your own private media? or wondering what do watch tonight?*
+
+* [WatchSomething](https://pecko95.github.io/WatchSomething/) - No idea what to watch ? Find movies or tv shows to watch instantly, or store them in lists for later ! - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [just watch](https://www.justwatch.com/) - All your streaming services in one app - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [Kodi](https://kodi.tv/) - Media player application that is available for multiple operating-systems and hardware platforms. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/xbmc/xbmc)
+* [Plex](https://plex.tv) - Plex brings together all the media that matters to you. Your personal collection will look beautiful alongside stellar streaming content. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [PlexRedirect](https://github.com/ITRav4/PlexRedirect) - A Plex landing page that redirects you to various sites. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [Plex Requests](https://github.com/lokenx/plexrequests-meteor) - Plex Requests: Simple automated way for users to request new content for Plex - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [imdb](https://www.imdb.com/) - The internet movie Database - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [anidb](https://anidb.net/) - AniDB stands for Anime DataBase. We feature detailed information about all forms of CJK (Chinese, Japanese, and Korean) animation. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [myanimelist](https://myanimelist.net/) - Large anime and manga community and database - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [mydramalist](https://mydramalist.com/) - MyDramaList.com is a community-based project which provides Asian drama & movie fans a site where they can create their very own drama watchlist. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+
 ## Music
 * [Soundscape](https://github.com/soundscapecloud/soundscape) - a personal music streaming server - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Festify](https://festify.us/) - Festify lets your guests choose which music should be played using their smartphones (and spotify). - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -391,7 +411,6 @@ from Twitter
 
 ## Regex
 <img src="https://media.giphy.com/media/mDFpdL1UxdVZRBN2V4/giphy.gif" width="200"/>
-
 
 * [I hate regex](https://ihateregex.io/) - Because you know you do... online tool with helpful charts and explanations to your regex - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Regex101](https://regex101.com/) - Another online tool for dealing with regex - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -491,6 +510,7 @@ from Twitter
     - git
     - zsh-syntax-highlighting
     - colored-man-pages
+
 
 ## Templates
 * [Sufee admin dashboard](https://github.com/puikinsh/sufee-admin-dashboard)
