@@ -9,7 +9,7 @@ Please feel free to comment if you know better tools / or alternatives or if som
 
 ![](https://media.giphy.com/media/yhcqymRLlv7K8/giphy.gif)
 
-## Backup / Data / Restauration / ...
+## Backup / Data / Restoration / ...
 *This category doesn't need an introduction i guess*
 
 * [ddrescue](https://www.gnu.org/software/ddrescue/) - A data recovery tool. It copies data from one file or block device (hard disc, cdrom, etc) to another, trying to rescue the good parts first in case of read errors - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -63,6 +63,9 @@ Please feel free to comment if you know better tools / or alternatives or if som
 * [Franz](https://meetfranz.com/) - Aggregates lots of differents chat-tools - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Rocket Chat](https://rocket.chat/) - The ultimate Free Open Source Solution for team communications - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Matrix](https://matrix.org/blog/home/) - A new basis for open, interoperable, decentralised real-time communication - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [Signal](https://www.signal.org/) - Fast, simple, secure. Privacy that fits in your pocket. - [![](https://img.shields.io/badge/pricing-free-yellow)]()
+* [Telegram](https://telegram.org/) - Cloud-based mobile and desktop messaging app. Can be extended by many bots or through the API. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [Whatsapp](https://www.whatsapp.com/) - Secure, reliable messaging and calling, available on phones. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
 ## Conversions
 *Converting from one format to another*
@@ -115,6 +118,7 @@ Get productive on unfamiliar source code. - [![](https://img.shields.io/badge/pr
 
 * [Adminer](https://www.adminer.org/#download) - Database management in a single PHP file - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/vrana/adminer/)
 * [Dbeaver](http://dbeaver.io/) - Free universal database tool and SQL client - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [SQLAlchemy](https://www.sqlalchemy.org/) - The Python SQL Toolkit and Object Relational Mapper - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/sqlalchemy/sqlalchemy/)
 
 ### Deployment / Automation / Browser Automation
 *Who likes to do stuff manually anyway  ¯\_(ツ)_/¯*
@@ -161,6 +165,7 @@ A "WYSIWYG" (sort of) scripting language and runtime for browser automation - [!
 * [Sphinx](http://www.sphinx-doc.org/en/stable/index.html) - Documentation builder, especially usefull for source code - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/sphinx-doc/sphinx/)
 * [Knowledge Repo](https://github.com/airbnb/knowledge-repo) - A next-generation curated knowledge sharing platform for data scientists and other technical professions. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Docusaurus](https://github.com/facebook/Docusaurus) - Easy to maintain open source documentation websites - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [docsify](https://github.com/docsifyjs/docsify/) - A magical documentation site generator - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ## Docker
 *Containers and stuff*
@@ -188,15 +193,17 @@ A "WYSIWYG" (sort of) scripting language and runtime for browser automation - [!
 * [Openproject](https://www.openproject.org/) - Collaborative Project Management: project management software. Gantt charts, Agile, Scrum, Wiki, ... - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [snipeit](https://snipeitapp.com/) - Say goodbye to spreadheets. Asset Management System. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
-## File Sharing
+## File Sharing / data
 *Sharing is caring*
 
+* [piknik](https://github.com/jedisct1/piknik) - Copy/paste anything over the network. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [send](https://send.firefox.com/) - Simple, private file sharing from the makers of Firefox - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/mozilla/send)
 * [DC++](http://dcplusplus.sourceforge.net/) - Direct Connect allows you to share files over the Internet without restrictions or limits. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Gofile](https://gofile.io) - File sharing platform, anonymous and free - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Plik](https://plik.root.gg) Plik is a scalable & friendly temporary file upload system ( wetransfer like ) in golang. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/root-gg/plik/tree/master)
 * [Radarr](https://github.com/Radarr/Radarr) - Helps automatically downloading movies via Usenet and BitTorrent. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Sonarr](https://github.com/Sonarr/Sonarr) - Sonarr is a PVR for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new episodes of your favorite shows and will grab, sort and rename them. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [requestrr](https://github.com/darkalfx/requestrr) - A chatbot used to simplify using services like Sonarr/Radarr/Ombi via the use of chat. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ## Frameworks / Snippets
 *Makes your developer life easier... kinda*
@@ -227,7 +234,6 @@ It works on every platform, browser or device, focusing equally on reliability a
 * [fold it](https://fold.it/portal/) - A crowdsourcing computer game enabling you to contribute to important scientific research by folding proteins. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [geoguessr](https://www.geoguessr.com/) - Guess the country from a google street view perspective.
 
-
 ## Graphics / Design
 *Draw me a sheep*
 
@@ -250,6 +256,8 @@ It works on every platform, browser or device, focusing equally on reliability a
 * [pngkey](https://www.pngkey.com/) -  Largest Archive Of Transparent PNG. No attribution required! - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [favicon](https://favicon.io/) - Favicon generator. Create a favicon in few simple clicks. Generate a favicon from text, from an image, or from an emoji. Download in .ico and .png formats. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [pixabay](https://pixabay.com/) - royalty free stock images - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [imglarger](https://imglarger.com/) - Enlarge Images Without Losing Quality - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [bgeraser](http://bgeraser.com/) - Remove Background from Images - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
 ## Good Practices / Best Practices / Ebooks
 *When you don't know where to start, that's probably the right place*
@@ -260,6 +268,9 @@ It works on every platform, browser or device, focusing equally on reliability a
 * [Animations in UX](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9)
 * [automatetheboringstuff](https://automatetheboringstuff.com/) - Automate the Boring Stuff with Python
 
+## Graphical User Interface (GUI)
+* [remi](https://github.com/dddomodossola/remi) - Python REMote Interface library. GUI library for Python applications that gets rendered in web browsers. This allows you to access your interface locally and remotely. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Build a simple Graphical User Interface (GUI) with Python. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ## Hardware Checks
 *Sometimes the source of the issue is not located on the chair and the "Have you tried turning it off and on again" is not enough*
@@ -278,8 +289,12 @@ It works on every platform, browser or device, focusing equally on reliability a
     - minimap
     - pigments
 
-## Images
+## Images / Image Optimisation
 * [EXIF tool](http://owl.phy.queensu.ca/~phil/exiftool/) - A crossplatform command-line application for reading, writing and editing meta information in a wide variety of files. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/exiftool/exiftool)
+* [imageoptim](https://imageoptim.com/) -  ImageOptim makes images load faster. Removes bloated metadata. Saves disk space & bandwidth by compressing images without losing quality.
+* [brunsli](https://google.github.io/brunsli/#brunsli) - Brunsli is a lossless JPEG repacking library (JPEG XL Lossless Recompression algorithm). - [![](https://img.shields.io/badge/pricing-open--source-green)](#https://github.com/google/brunsl)
+* [guetzli](https://github.com/google/guetzli/) - Guetzli is a JPEG encoder that aims for excellent compression density at high visual quality. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+
 
 ## Images reverse search / Face search / Image tagging
 *I'm a creep*
@@ -289,6 +304,7 @@ It works on every platform, browser or device, focusing equally on reliability a
 * [pimeyes](https://pimeyes.com/en/) - Find people with similar faces. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [pictriev](http://www.pictriev.com/) - Gives attributes to pictures in percentages - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [phototagger](http://www.phototagger.org/) - Helps tagging pictures - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 # Recruitment / Job searching / Interviews
 *Getting paid for following your passion is even more fun, isn't it?*
@@ -449,6 +465,21 @@ from Twitter
 * [I hate regex](https://ihateregex.io/) - Because you know you do... online tool with helpful charts and explanations to your regex - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Regex101](https://regex101.com/) - Another online tool for dealing with regex - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
+## Remote work / Visioconference
+* [obsproject](https://obsproject.com/) - Software for video recording and live streaming on windows, macOS and Linux. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [youtube](http://youtube.com/) - Allows to live stream - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [join me](https://www.join.me/) - Conferences, screen sharing, ... - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
+* [zoom](https://zoom.us/) - Enterprise video conferencing with real-time messaging and content sharing - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [Google Hangouts](https://hangouts.google.com/) - Communication software product developed by Google - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [Slack](https://slack.com) - A single place for messaging, tools and files - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [Webex](https://cart.webex.com/sign-up?locale=en_EN) - Enterprise solution for video conferencing, online meetings, screen share, and webinars. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [Tixeo](https://www.tixeo.com/) - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
+* [Teams](https://products.office.com/en-en/microsoft-teams/free) - Work remotely without feeling remote. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [Zoho](https://www.zoho.com/meeting/) - Your online meeting and webinar solution - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
+* [Go to meeting](https://www.gotomeeting.com/) - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
+* [Streamyard](https://streamyard.com/) - The easiest way to create professional live streams - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [whereby](https://whereby.com/) - Easy video meetings - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+
 ## Selfhosted
 * [Cozy](https://cozy.io/en/) - Cozy is a platform that brings all your web services in the same private space. - [![](https://img.shields.io/badge/pricing-free-yellow)](https://github.com/cozy/cozy-drive)
 * [Gitlab](https://gitlab.com/) - A web-based DevOps lifecycle tool + git repository manager - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -500,13 +531,13 @@ from Twitter
 * [screenFetch](https://github.com/KittyKatt/screenFetch) -
 Fetches system/theme information in terminal for Linux desktop screenshots. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [annotate-capture-screenshot](https://apps.apple.com/us/app/annotate-capture-screenshot/id918207447?mt=12) - Annotate (formerly know as Glui) is the simplest way to capture, annotate and share screenshots on macOS. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [Kap](https://github.com/wulkano/kap) - Screen recorder built with web technology - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ## Scrapping / Parsing
 * [Scrapy](https://doc.scrapy.org/en/latest/intro/overview.html) - Application framework for crawling web sites and extracting structured data - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/scrapy/scrapy)
 * [LXML](https://lxml.de/) - Lxml is the most feature-rich and easy-to-use library for processing XML and HTML in the Python language. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/lxml/lxml)
 * [WHOIS parser](https://github.com/weppos/whois) - An intelligent — pure Ruby — WHOIS client and parser - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - Python library for pulling data out of HTML and XML files. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
-
 
 ## Security / Password Manager
 * [Keeweb](https://keeweb.info/) - Cross-platform password manager compatible with KeePass - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/keeweb/keeweb)
@@ -519,13 +550,13 @@ Fetches system/theme information in terminal for Linux desktop screenshots. - [!
 * [Zoneminder](https://www.zoneminder.com/) - State-of-the-art video surveillance software system. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/ZoneMinder/ZoneMinder/)
 * [DocBleach](https://github.com/docbleach/DocBleach-Web) - DocBleach allows you to sanitize your Word, Excel, PowerPoint, PDF, ... documents. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
-
-
 ## Server Management
 * [ISPconfig](https://www.ispconfig.org/) - Manage Your Servers Directly Through Your Browser - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
 ## Shell / Terminal / Powershell
 * [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - Oh My Zsh will not make you a 10x developer...but you may feel like one.- [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/ohmyzsh/ohmyzsh)
+* [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) -
+A good looking terminal emulator which mimics the old cathode display. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [powerlevel9k](https://github.com/bhilburn/powerlevel9k) - Theme for Oh My Zsh - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [tmux](https://tmux.github.io/) - A terminal multiplexer. It lets you switch easily between several programs in one terminal - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [the fuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -556,6 +587,7 @@ Fetches system/theme information in terminal for Linux desktop screenshots. - [!
     - git
     - zsh-syntax-highlighting
     - colored-man-pages
+    - zsh-autosuggestions: https://github.com/zsh-users/zsh-autosuggestions
 
 
 ## Templates
