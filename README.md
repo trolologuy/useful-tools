@@ -1,3 +1,15 @@
+# Useful Tools :mag_right: 
+_A list of useful tools and programs for developpers, devops, admins, ... but not only.
+Whereas most of them are Open Source, not all of them are. Please check licences that may apply.
+This list contains items that i **personally** find useful, usages may differ._
+
+The concept behind that list is based on the famous "[awesome](https://github.com/sindresorhus/awesome)" lists you can find on github. 
+Since they did not fully suited my need, i preferred to go with my own version.
+
+Please feel free to comment or open a pull request if you know better tools / or alternatives or if some links are dead, ... 😉
+
+![](https://media.giphy.com/media/yhcqymRLlv7K8/giphy.gif)
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
@@ -89,19 +101,6 @@
   - [Wordpress](#wordpress)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-# Useful Tools :mag_right: 
-_A list of useful tools and programs for developpers, devops, admins, ... but not only.
-Whereas most of them are Open Source, not all of them are. Please check licences that may apply.
-This list contains items that i **personally** find useful, usages may differ._
-
-The concept behind that list is based on the famous "[awesome](https://github.com/sindresorhus/awesome)" lists you can find on github. 
-Since they did not fully suited my need, i preferred to go with my own version.
-
-Please feel free to comment or open a pull request if you know better tools / or alternatives or if some links are dead, ... 😉
-
-![](https://media.giphy.com/media/yhcqymRLlv7K8/giphy.gif)
-
 
 ## Application Programming Interface (API) Development
 *'cause i'm API*
