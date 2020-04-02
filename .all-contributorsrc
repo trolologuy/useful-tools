@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "fbartels",
+      "name": "Felix Bartels",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1257835?v=4",
+      "profile": "http://blog.9wd.eu",
+      "contributions": [
+        "bug",
+        "projectManagement"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "useful-tools",
+  "projectOwner": "trolologuy",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
