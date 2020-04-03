@@ -1,6 +1,6 @@
 # Useful Tools :mag_right: 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 _A list of useful tools and programs for developpers, devops, admins, ... but not only.
 Whereas most of them are Open Source, not all of them are. Please check licences that may apply.
@@ -1949,6 +1949,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="http://blog.9wd.eu"><img src="https://avatars1.githubusercontent.com/u/1257835?v=4" width="100px;" alt=""/><br /><sub><b>Felix Bartels</b></sub></a><br /><a href="https://github.com/trolologuy/useful-tools/issues?q=author%3Afbartels" title="Bug reports">🐛</a> <a href="#projectManagement-fbartels" title="Project Management">📆</a></td>
+    <td align="center"><a href="https://trolologuy.github.io/"><img src="https://avatars2.githubusercontent.com/u/16886290?v=4" width="100px;" alt=""/><br /><sub><b>trolologuy</b></sub></a><br /><a href="#content-trolologuy" title="Content">🖋</a> <a href="https://github.com/trolologuy/useful-tools/commits?author=trolologuy" title="Documentation">📖</a></td>
   </tr>
 </table>
 
