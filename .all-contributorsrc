@@ -14,6 +14,16 @@
         "bug",
         "projectManagement"
       ]
+    },
+    {
+      "login": "trolologuy",
+      "name": "trolologuy",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/16886290?v=4",
+      "profile": "https://trolologuy.github.io/",
+      "contributions": [
+        "content",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
