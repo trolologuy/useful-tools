@@ -288,6 +288,7 @@ Command-line tool that instantly fetches Stack Overflow results when an exceptio
 * [Grunt JS](https://gruntjs.com/) - JavaScript Task Runner, automates repetitive tasks like minification, compilation, unit testing, linting, ... - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/gruntjs/grunt)
 * [Handlebar JS](http://handlebarsjs.com/) - Handlebars is a simple templating language it allows building semantic templates effectively (largely compatible with mustache) - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/wycats/handlebars.js)
 * [Hot Examples](https://hotexamples.com/) - Code examples from over 1.000.000 projects for PHP, Python, Java, ... - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [isort](https://github.com/timothycrosley/isort) - A Python utility / library to sort imports. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Jsonnet](https://jsonnet.org/) -  A data templating language
 * [Mustache JS](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Muze JS](https://github.com/chartshq/muze/) - A data visualization library that can be used to create composable and interactive data visualization for the web - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -419,6 +420,7 @@ for app and tool developers. Helps Generate config data. - [![](https://img.shie
 * [pngkey](https://www.pngkey.com/) -  Largest Archive Of Transparent PNG. No attribution required! - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Staruml](http://staruml.io/) -  A sophisticated Cross-Platform software modeler for agile and concise modeling - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 350 free MIT-licensed high-quality SVG icons for you to use in your web projects - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [UI Design Daily](https://uidesigndaily.com/) - Daily examples of UI available as Sketch, Photoshop, Figma, Studio, ... files. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Vectr](https://vectr.com/) - Web and Desktop cross-platform Graphics Software - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Webolution](http://fabianburghardt.de/webolution/) - Explore the evolution of Webdesign from 1991 to 2015 - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
@@ -539,6 +541,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [Mailspring](https://www.getmailspring.com/) - Great mail client for Mac, Linux, and Windows. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [mb2md](http://batleth.sapienti-sat.org/projects/mb2md/) - Helps converting Mbox mailboxes to Maildir format. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [offline imap](http://www.offlineimap.org/) - OfflineIMAP allows to dispose your mailbox(es) as a local Maildir(s). - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/OfflineIMAP/offlineimap)
+* [poste.io](https://poste.io/) - SMTP + IMAP + POP3 + Antispam + Antivirus +Web administration + Webmail...on your server in ~5 minutes [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [roundcube](https://roundcube.net/) - A browser-based multilingual IMAP client with an application-like user interface. It provides full functionality you expect from an email client, including MIME support, address book, folder manipulation, message searching and spell checking. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ## Mailing
@@ -612,6 +615,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [prtg](https://www.paessler.com/prtg) - PRTG Network Monitor is an agentless network monitoring software (ICMP, SNMP, ...) - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [Sensu](https://sensu.io/) - Monitoring tool with built-in auto-discovery for ephemeral infrastructure and distributed applications. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/sensu/sensu-go)
 * [Smokeping](https://github.com/oetiker/SmokePing) - SmokePing is a latency logging and graphing and alerting system. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [Thruk](https://thruk.org/) - Webinterface for Naemon, Icinga, Shinken and Nagios [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/sni/Thruk)
 * [Uchiwa](https://uchiwa.io/) - Open source dashboard for Sensu. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/sensu/uchiwa)
 * [Uptime robot](https://uptimerobot.com/) - Downtime Happens. Get Notified! - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
@@ -768,6 +772,7 @@ for the best of both worlds. - [![](https://img.shields.io/badge/pricing-commerc
 * [Privatebin](https://privatebin.info/) - A minimalist, online pastebin where the server has zero knowledge of pasted data. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/PrivateBin/PrivateBin)
 * [Rhodecode](https://rhodecode.com/) -  Centralized control for distributed repositories. Mercurial, Git, and Subversion under a single roof. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://code.rhodecode.com/)
 * [Sandstorm](https://sandstorm.io/) - Platform for self-hosting web apps - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/sandstorm-io/sandstorm)
+* [Shaarli](https://github.com/shaarli/Shaarli) - Personal, minimalist, super-fast, database free, bookmarking / link sharing service  - [![](https://img.shields.io/badge/pricing-open--source-green)]()
 * [Spreed-webrtc](https://github.com/strukturag/spreed-webrtc) - WebRTC audio/video call and conferencing server. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Staffjoy](https://github.com/staffjoy/) - Scheduling Apps - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/LandRover/StaffjoyV2)
 * [turtl app](https://turtlapp.com/) -  The secure, collaborative notebook - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/turtl)
@@ -830,7 +835,6 @@ for the best of both worlds. - [![](https://img.shields.io/badge/pricing-commerc
 * [ISPconfig](https://www.ispconfig.org/) - Manage Your Servers Directly Through Your Browser - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
 ## Shell / Terminal / Powershell / Command Line Interface (CLI)
-- [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [argbash](https://argbash.io/) - Makes Bash argument parsing easier - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/matejak/argbash)
 * [babun](https://babun.github.io/) - A windows shell you will love - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -855,8 +859,7 @@ for the best of both worlds. - [![](https://img.shields.io/badge/pricing-commerc
 * [tldr](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [tmux](https://tmux.github.io/) - A terminal multiplexer. It lets you switch easily between several programs in one terminal - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [wego](https://github.com/schachmat/wego) - A weather client for the terminal - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
-* [wifi-password](https://github.com/rauchg/wifi-password) - 
-Get the password of the wifi you're on (bash) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [wifi-password](https://github.com/rauchg/wifi-password) - Get the password of the wifi you're on (bash) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the ssh - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ## System utilities
@@ -937,6 +940,7 @@ Add a global delay to Command-Q to stop accidental app quits. - [![](https://img
 * [jarvis](https://github.com/alexylem/jarvis) - Jarvis.sh is a simple configurable multi-lang assistant - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ## Webdevelopment
+* [devilbox](https://github.com/cytopia/devilbox) - Docker LAMP stack and MEAN stack for local development - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [gasmask](https://github.com/2ndalpha/gasmask) - Hosts file manager for macOS - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [sitebulb](https://sitebulb.com/) - Search Engine Optimization (SEO) tool - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [Unzipper](https://github.com/ndeet/unzipper) - Small class to extract + compress .zip, .gz, .rar archives via browser. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
