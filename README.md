@@ -287,6 +287,7 @@ Command-line tool that instantly fetches Stack Overflow results when an exceptio
 * [Fusioncharts](https://www.fusioncharts.com) - Get interactive and responsive charts for all your projects - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [Grunt JS](https://gruntjs.com/) - JavaScript Task Runner, automates repetitive tasks like minification, compilation, unit testing, linting, ... - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/gruntjs/grunt)
 * [Handlebar JS](http://handlebarsjs.com/) - Handlebars is a simple templating language it allows building semantic templates effectively (largely compatible with mustache) - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/wycats/handlebars.js)
+* [htmldom](https://htmldom.dev/) - Manage HTML DOM with vanilla JavaScript - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Hot Examples](https://hotexamples.com/) - Code examples from over 1.000.000 projects for PHP, Python, Java, ... - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [isort](https://github.com/timothycrosley/isort) - A Python utility / library to sort imports. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Jsonnet](https://jsonnet.org/) -  A data templating language
@@ -418,6 +419,7 @@ for app and tool developers. Helps Generate config data. - [![](https://img.shie
 * [pixabay](https://pixabay.com/) - royalty free stock images - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [placeholder.com](https://placeholder.com/) - Free Image Placeholder Service - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [pngkey](https://www.pngkey.com/) -  Largest Archive Of Transparent PNG. No attribution required! - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [rgb.to](https://rgb.to/) - Convert color values and find colour schemes simply - [![](https://img.shields.io/badge/pricing-free-yellow)]
 * [Staruml](http://staruml.io/) -  A sophisticated Cross-Platform software modeler for agile and concise modeling - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 350 free MIT-licensed high-quality SVG icons for you to use in your web projects - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [UI Design Daily](https://uidesigndaily.com/) - Daily examples of UI available as Sketch, Photoshop, Figma, Studio, ... files. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -571,6 +573,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [Algorithm visualizer](https://algorithm-visualizer.org/)
 * [class-central](https://www.class-central.com/)
 * [codecademy](https://www.codecademy.com/)
+* [codingame](https://www.codingame.com) - The new way to improve your programming skills while having fun and getting noticed
 * [datacamp](https://www.datacamp.com/) - Learn Data Science Online - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [flexbox froggy](http://flexboxfroggy.com/)
 * [flukeout](https://flukeout.github.io/)
@@ -843,6 +846,7 @@ for the best of both worlds. - [![](https://img.shields.io/badge/pricing-commerc
 * [easyigloo](https://easyigloo.org/) - A powerful, context-oriented command-line interface which allows IT gurus to manage their Windows desktop and server machines with ease. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [FinderGo](https://github.com/onmyway133/FinderGo) - Open terminal quickly from Finder (macOS) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [howdoi](https://github.com/gleitz/howdoi) - Instant coding answers via the command line - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [HTTPie](https://github.com/jakubroztocil/httpie/) - cURL-like tool for humans - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [hyper](https://github.com/zeit/hyper) - A terminal built on web technologies - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
 * [m-cli](https://github.com/rgcr/m-cli) - Swiss Army Knife for macOS - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
