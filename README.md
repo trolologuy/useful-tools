@@ -256,6 +256,7 @@ Command-line tool that instantly fetches Stack Overflow results when an exceptio
 
 * [Airwatch](https://www.air-watch.com/) - Enterprise mobility management (EMM) is a device- and platform-agnostic solution that centralizes the management, configuration and security of all devices in an organization, both BYO and corporate-owned. EMM goes beyond traditional device management to include the management and configuration of enterprise apps and content. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [Ansible](https://github.com/ansible/ansible) - Automation platform that makes your applications and systems easier to deploy. Uses SSH only, no agents to install on remote systems. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [Cloud Foundry BOSH](https://github.com/cloudfoundry/bosh) - Release engineering, deployment, lifecycle management, and monitoring of distributed systems. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Hazel](https://www.noodlesoft.com/) - Automated Organization for macOS. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [Jenkins](https://jenkins.io/) - An automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/jenkinsci/jenkins)
 * [Jamf](https://www.jamf.com/) - Mobile Device Management specialized on Apple / macOS products. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
@@ -275,6 +276,7 @@ Command-line tool that instantly fetches Stack Overflow results when an exceptio
 ## Development
 *Reinventing the wheel can be fun but just in case you just don't feel like it, check the tools below*
 
+* [aos](https://github.com/michalsnik/aos) - Animate on scroll library - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Apprise](https://github.com/caronc/apprise) - App to send a notification to almost all of the most popular notification services available to us today such as: Telegram, Discord, Slack, Amazon SNS, Gotify, etc. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [bulma](https://bulma.io/) - CSS framework based on Flexbox - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Bower](https://bower.io/) - Web sites are made of lots of things — frameworks, libraries, assets, and utilities. Bower manages all these things for you. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/bower/bower)
@@ -298,6 +300,7 @@ Command-line tool that instantly fetches Stack Overflow results when an exceptio
 * [Muze JS](https://github.com/chartshq/muze/) - A data visualization library that can be used to create composable and interactive data visualization for the web - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [muzejs](https://muzejs.org/) - Data visualization library to create composable and interactive data visualization for the web - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/chartshq/muze)
 * [Nprogress](https://github.com/rstacruz/nprogress) - Slim progress bars like on YouTube, Medium, etc - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [parcel](https://github.com/parcel-bundler/parcel) - Zero configuration web application bundler - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Create PowerPoint Presentations through JavaScript. - [![](https://img.shields.io/badge/pricing-open--source-green)]
 * [Python - Excel](https://xlsxwriter.readthedocs.io/#) - Python module for creating Excel XLSX files. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/jmcnamara/XlsxWriter)
 * [python-requests](https://2.python-requests.org/en/master/) - A simple HTTP library for Python, built for human beings. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -430,6 +433,7 @@ for app and tool developers. Helps Generate config data. - [![](https://img.shie
 * [Staruml](http://staruml.io/) -  A sophisticated Cross-Platform software modeler for agile and concise modeling - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 350 free MIT-licensed high-quality SVG icons for you to use in your web projects - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [UI Design Daily](https://uidesigndaily.com/) - Daily examples of UI available as Sketch, Photoshop, Figma, Studio, ... files. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [uizard](https://uizard.io/) - Transform your hand-drawn wireframes into digital design files and front-end code – automatically! - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Vectr](https://vectr.com/) - Web and Desktop cross-platform Graphics Software - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Webolution](http://fabianburghardt.de/webolution/) - Explore the evolution of Webdesign from 1991 to 2015 - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
@@ -780,6 +784,7 @@ for the best of both worlds. - [![](https://img.shields.io/badge/pricing-commerc
 * [Gitlab](https://gitlab.com/) - A web-based DevOps lifecycle tool + git repository manager - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [helpy](https://github.com/helpyio/helpy) - Customer Support (ticketing) Software - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [I, Librarian](https://github.com/mkucej/i-librarian-free) - PDF managing SaaS - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Jitsi](https://jitsi.org/) - Multi-platform video conferencing - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/jitsi)
 * [Mantis BT](https://www.mantisbt.org/) - An issue tracker / Ticketing tool that provides a delicate balance between simplicity and power - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/mantisbt/mantisbt)
 * [Openvswitch](http://www.openvswitch.org/) - A production quality, multilayer virtual switch - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -844,6 +849,7 @@ for the best of both worlds. - [![](https://img.shields.io/badge/pricing-commerc
 * [Password store](https://www.passwordstore.org/) - Standard unix password manager - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [ransomwhere](https://objective-see.com/products/ransomwhere.html) - Utility with a simple goal; generically thwart OS X ransomware - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Snort](https://www.snort.org/) - A lightweight network intrusion detection system (NIDS) software for Linux and Windows to detect emerging threats. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [virus total](https://www.virustotal.com/gui/home) -  Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Zoneminder](https://www.zoneminder.com/) - State-of-the-art video surveillance software system. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/ZoneMinder/ZoneMinder/)
 * [Zydra](https://github.com/hamedA2/Zydra) - File password recovery tool (pdf, rar, zip) and Linux shadow file cracker. It uses the dictionary search or Brute force method for cracking passwords. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
