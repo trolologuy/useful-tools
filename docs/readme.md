@@ -33,6 +33,7 @@ sidebarDepth: 2
 * [Daniel Kriesel](http://www.dkriesel.com/) - :de: + :gb: - Data science Guru
 * [Daniel Stenberg](https://daniel.haxx.se/blog/) - :gb: - Lead developper of Curl
 * [Dev.to](https://dev.to/) - :gb: - online community. Anyone can share articles, questions, discussions, etc.
+* [Developer Portfolios](https://github.com/emmabostian/developer-portfolios) - A list of developer portfolios for your inspiration
 * [Frankys Web](https://www.frankysweb.de) - :de: - Exchange-Guru
 * [Golem](https://www.golem.de) - :de: - News
 * [Heise](https://www.heise.de) - :de: - News
@@ -93,11 +94,12 @@ sidebarDepth: 2
 
 * [Pandoc](http://pandoc.org/) - If you need to convert files from one markup format into another, pandoc is your swiss-army knife - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
-## Craft
+## Craft / Home Automation
 *Doing stuff in real life too?*
 
 * [Meshroom](https://github.com/alicevision/meshroom) - 3D Reconstruction Software - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Precious Plastic](https://preciousplastic.com/) - Start a business from plastic waste! - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Written for Arduino IDE and PlatformIO. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Templatemaker](https://www.templatemaker.nl/en/) - Custom sized papercraft and packaging templates for free - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
 ## Code style, review, quality and security / Linters / Debugging
@@ -162,6 +164,7 @@ Command-line tool that instantly fetches Stack Overflow results when an exceptio
 * [Jamf](https://www.jamf.com/) - Mobile Device Management specialized on Apple / macOS products. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [kasaya](https://github.com/syscolabs/kasaya) - A "WYSIWYG" (sort of) scripting language and runtime for browser automation - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Linuxgsm](https://linuxgsm.com/) - The command-line tool for quick, simple deployment and management of Linux dedicated game servers. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/GameServerManagers/LinuxGSM)
+* [Molecule](https://github.com/ansible-community/molecule) - Helps in the development and testing of Ansible roles - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Microsoft Deployment Toolkit](https://docs.microsoft.com/en-us/sccm/mdt/) - Microsoft Deployment Toolkit (MDT) provides a unified collection of tools, processes, and guidance for automating desktop and server deployments. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [netboot](https://netboot.xyz/) - PXE boot various operating system installers or utilities from one place within the BIOS without the need of having to go retrieve the media to run the tool. You can remote attach the ISO to servers, set it up as a rescue option in Grub, or even set up your home network to boot to it by default so that it's always available. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/netbootxyz/netboot.xyz)
 * [netlify](https://www.netlify.com/) -  Deploy your site in seconds (through github) - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -199,6 +202,11 @@ Command-line tool that instantly fetches Stack Overflow results when an exceptio
 * [public apis](https://public-apis.xyz/) - Learn & Fuel up your tools, apps and business with powerful 1000+ public apis. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Socket](https://socket.io/) -  Socket.IO enables real-time, bidirectional and event-based communication. It works on every platform, browser or device, focusing equally on reliability and speed. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/socketio/socket.io)
 
+## Fakers
+*Nearly as good as the real thing*
+* [fake-s3](https://github.com/jubos/fake-s3) - Lightweight server that responds to the same API of Amazon S3 - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [python-faker](https://github.com/joke2k/faker) - A Python package that generates fake data for you - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+
 ### PHP
 * [moment.php](https://github.com/fightbulc/moment.php) - Parse, validate, manipulate, and display dates in PHP w/ i18n support. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
@@ -230,16 +238,23 @@ Command-line tool that instantly fetches Stack Overflow results when an exceptio
 * [sails](https://github.com/balderdashy/sails) - Realtime MVC Framework for Node.js - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 #### React
+* [nextjs](https://nextjs.org/) - A framework that allows to write server-rendered React apps easily - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [react-bootstrap-table](https://github.com/AllenFang/react-bootstrap-table) - A Bootstrap table built with React.js - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [react-color](https://github.com/casesandberg/react-color) - Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 #### vue.js
+* [awesome vuepress](https://github.com/vuepressjs/awesome-vuepress) - A curated list of awesome things related to VuePress - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [buefy](https://buefy.org/) - Lightweight UI components for Vue.js based on Bulma - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [nuxtjs](https://nuxtjs.org/) - Similar to next.js, but with Vue.js - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [vue JS](https://github.com/vuejs/vue) - A progressive, incrementally-adoptable JavaScript framework for building UI on the web. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [vuepress](https://vuepress.vuejs.org/) -  Vue-powered Static Site Generator - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [vuepress tools](https://vuepress.tools) - List of plugins and themes for vuepress - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [gridsome](https://gridsome.org/) - Build modern websites, apps & PWAs that are fast by default 🚀 - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ### Webdevelopment
 * [devilbox](https://github.com/cytopia/devilbox) - Docker LAMP stack and MEAN stack for local development - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [gasmask](https://github.com/2ndalpha/gasmask) - Hosts file manager for macOS - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [slashb](https://slashb.app/) - Spend half the time designing and developing responsive websites by testing them on multiple screens at once - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [sitebulb](https://sitebulb.com/) - Search Engine Optimization (SEO) tool - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [Unzipper](https://github.com/ndeet/unzipper) - Small class to extract + compress .zip, .gz, .rar archives via browser. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
@@ -593,10 +608,13 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [Plex Requests](https://github.com/lokenx/plexrequests-meteor) - Plex Requests: Simple automated way for users to request new content for Plex - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Plex](https://plex.tv) - Plex brings together all the media that matters to you. Your personal collection will look beautiful alongside stellar streaming content. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [PlexRedirect](https://github.com/ITRav4/PlexRedirect) - A Plex landing page that redirects you to various sites. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [Sub-Zero](https://github.com/pannal/Sub-Zero.bundle) - Subtitles for Plex, as good you would expect them to be. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [Tautulli](https://github.com/Tautulli/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [WatchSomething](https://pecko95.github.io/WatchSomething/) - No idea what to watch ? Find movies or tv shows to watch instantly, or store them in lists for later ! - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ## Music
 * [Festify](https://festify.us/) - Festify lets your guests choose which music should be played using their smartphones (and spotify). - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [jqbx.fm/](https://www.jqbx.fm//) - Lets you play & listen to music in sync with friends or public groups - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Soundscape](https://github.com/soundscapecloud/soundscape) - a personal music streaming server - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ## Networking / DNS / Wifi ...
@@ -643,6 +661,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [farmbot](https://farm.bot/) - Open-Source CNC Farming - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/FarmBot/Farmbot-Web-App)
 * [Open Street map](https://www.openstreetmap.org) - OpenStreetMap is the free wiki world map. OpenStreetMap is a map of the world, created by people like you and free to use under an open license. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [openHAB](https://www.openhab.org/) - Automation software for your home (smart home) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [Public Money? Public Code!](https://publiccode.eu/openletter/) - Publicly funded software has to be Free and Open Source Software. While there are plenty of good reasons for this, many politicians don’t know about them yet.
 * [sdelete](https://docs.microsoft.com/en-us/sysinternals/downloads/sdelete) - Securely deleting a file - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [The true size](https://thetruesize.com) - Easily compare countries with each others - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Great escape](https://greatescape.co) - Flight tracker / Travel helper that helps take decisions or find new destinations based on prices and many other categories, for example if you want to start travelling from a specific starting point - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -948,12 +967,14 @@ Add a global delay to Command-Q to stop accidental app quits. - [![](https://img
 
 ## Writing / Markdown / Rendering
 
-[doctoc](https://github.com/thlorenz/doctoc) - Generates table of contents for markdown files - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [doctoc](https://github.com/thlorenz/doctoc) - Generates table of contents for markdown files - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [GitHub buttons](https://ghbtns.com/) - Showcase your GitHub repo’s success with hotlinkable GitHub star, fork, sponsor, and follow buttons. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [mdx](https://github.com/mdx-js/mdx) - Use JSX in your markdown documents. You can import components, like interactive charts or notifications, and export metadata. This makes writing long-form content with components a blast. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [pdf.js](https://github.com/mozilla/pdf.js) - A PDF Reader in JavaScript made by mozilla - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/mozilla/pdf.js)
 * [Relaxed](https://github.com/RelaxedJS/ReLaXed) - Create PDF documents interactively using web technologies - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Scribus](https://www.scribus.net/) - A page layout / desktop publishing tool - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/scribusproject/scribus)
+* [shields](https://shields.io/) - Add fancy shields to your github readme pages. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
 ## Wordpress
 * [WP - CLI](https://wp-cli.org) - WP-CLI is the command-line interface for WordPress. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
