@@ -16,4 +16,4 @@ deploy:
   - provider: script
     script: bash ./notify.sh
     on:
-      branch: sources
+      branch: master
