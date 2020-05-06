@@ -202,11 +202,6 @@ Command-line tool that instantly fetches Stack Overflow results when an exceptio
 * [public apis](https://public-apis.xyz/) - Learn & Fuel up your tools, apps and business with powerful 1000+ public apis. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Socket](https://socket.io/) -  Socket.IO enables real-time, bidirectional and event-based communication. It works on every platform, browser or device, focusing equally on reliability and speed. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/socketio/socket.io)
 
-## Fakers
-*Nearly as good as the real thing*
-* [fake-s3](https://github.com/jubos/fake-s3) - Lightweight server that responds to the same API of Amazon S3 - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
-* [python-faker](https://github.com/joke2k/faker) - A Python package that generates fake data for you - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
-
 ### PHP
 * [moment.php](https://github.com/fightbulc/moment.php) - Parse, validate, manipulate, and display dates in PHP w/ i18n support. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
@@ -242,7 +237,7 @@ Command-line tool that instantly fetches Stack Overflow results when an exceptio
 * [react-bootstrap-table](https://github.com/AllenFang/react-bootstrap-table) - A Bootstrap table built with React.js - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [react-color](https://github.com/casesandberg/react-color) - Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
-#### vue.js
+#### Vue.js
 * [awesome vuepress](https://github.com/vuepressjs/awesome-vuepress) - A curated list of awesome things related to VuePress - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [buefy](https://buefy.org/) - Lightweight UI components for Vue.js based on Bulma - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [nuxtjs](https://nuxtjs.org/) - Similar to next.js, but with Vue.js - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -250,6 +245,11 @@ Command-line tool that instantly fetches Stack Overflow results when an exceptio
 * [vuepress](https://vuepress.vuejs.org/) -  Vue-powered Static Site Generator - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [vuepress tools](https://vuepress.tools) - List of plugins and themes for vuepress - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [gridsome](https://gridsome.org/) - Build modern websites, apps & PWAs that are fast by default 🚀 - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+
+### Fakers
+*Nearly as good as the real thing*
+* [fake-s3](https://github.com/jubos/fake-s3) - Lightweight server that responds to the same API of Amazon S3 - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [python-faker](https://github.com/joke2k/faker) - A Python package that generates fake data for you - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ### Webdevelopment
 * [devilbox](https://github.com/cytopia/devilbox) - Docker LAMP stack and MEAN stack for local development - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
