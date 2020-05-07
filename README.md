@@ -1,7 +1,6 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=round)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=round)](#contributors-) [![Build Status](https://travis-ci.com/trolologuy/useful-tools.svg?branch=master)](https://travis-ci.com/trolologuy/useful-tools)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-[![Build Status](https://travis-ci.com/trolologuy/useful-tools.svg?branch=master)](https://travis-ci.com/trolologuy/useful-tools)
 
 # Useful Tools :mag_right: 
 
@@ -18,11 +17,11 @@ Please feel free to comment or open a pull request if you know better tools / or
 
 ## Usage
 
-You can either find the [markdown file here](docs/readme.md), or access [this page](https://trolologuy.github.io/useful-tools/).
+You can either find the source [markdown file here](docs/readme.md), or access [the result here](https://trolologuy.github.io/useful-tools/).
 
 ## Preview
 
-![](preview.png)
+[![preview](preview.png)](https://trolologuy.github.io/useful-tools)
 
 ## Contributors ✨
 

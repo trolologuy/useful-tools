@@ -105,13 +105,10 @@ sidebarDepth: 2
 ## Code style, review, quality and security / Linters / Debugging
 *Code quality and standarts should be enforced more often, that's for sure! Which team are you on, Stroustrup or Allman ?*
 
-* [Black](https://github.com/psf/black) - The uncompromising Python code formatter - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [bundlephobia](https://github.com/pastelsky/bundlephobia) - Find the cost of adding a node npm package to your bundle - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [gerrit](https://github.com/GerritCodeReview/gerrit) - Code Review tool - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [lepton](https://github.com/hackjutsu/Lepton) - Snippet Management (macOS/Win/Linux) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
-* [Pylint](https://github.com/PyCQA/pylint) - A Python static code analysis tool (linter) which looks for programming errors, helps enforcing a coding standard, sniffs for code smells and offers simple refactoring suggestions. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
-* [rebound](https://github.com/shobrook/rebound/) - 
-Command-line tool that instantly fetches Stack Overflow results when an exception is thrown. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [rebound](https://github.com/shobrook/rebound/) - Command-line tool that instantly fetches Stack Overflow results when an exception is thrown. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [scc](https://github.com/boyter/scc) - Very fast accurate code counter with complexity calculations - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [snipper](https://snipper.app/) - Code snippets manager - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Sonarlint](https://www.sonarlint.org/) - SonarLint is an IDE extension that helps you detect and fix quality issues as you write code (linter). - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -120,6 +117,10 @@ Command-line tool that instantly fetches Stack Overflow results when an exceptio
 * [tabnine](https://tabnine.com/) - Smart Compose for code. Deep learning to help you write code faster. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [ukip](https://github.com/google/ukip) - USB Keystroke Injection Protection - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Vaultproject](https://www.vaultproject.io/) - Manage Secrets and Protect Sensitive Data: Secure, store and tightly control access to tokens, passwords, certificates, encryption keys for protecting secrets and other sensitive data using a UI, CLI, or HTTP API. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+
+### Python
+* [Black](https://github.com/psf/black) - The uncompromising Python code formatter - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [Pylint](https://github.com/PyCQA/pylint) - A Python static code analysis tool (linter) which looks for programming errors, helps enforcing a coding standard, sniffs for code smells and offers simple refactoring suggestions. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ## Cheatsheets
 *How was it again?*
@@ -153,28 +154,34 @@ Command-line tool that instantly fetches Stack Overflow results when an exceptio
 * [getmedis](http://getmedis.com/) - Beautiful Management Application for Redis - - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [SQLAlchemy](https://www.sqlalchemy.org/) - The Python SQL Toolkit and Object Relational Mapper - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/sqlalchemy/sqlalchemy/)
 
-## Deployment / Automation / Browser Automation
+## Deployment / Remote management / MDM
 *Who likes to do stuff manually anyway  ¯\_(ツ)_/¯*
 
 * [Airwatch](https://www.air-watch.com/) - Enterprise mobility management (EMM) is a device- and platform-agnostic solution that centralizes the management, configuration and security of all devices in an organization, both BYO and corporate-owned. EMM goes beyond traditional device management to include the management and configuration of enterprise apps and content. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [Ansible](https://github.com/ansible/ansible) - Automation platform that makes your applications and systems easier to deploy. Uses SSH only, no agents to install on remote systems. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Cloud Foundry BOSH](https://github.com/cloudfoundry/bosh) - Release engineering, deployment, lifecycle management, and monitoring of distributed systems. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
-* [Hazel](https://www.noodlesoft.com/) - Automated Organization for macOS. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
+* [freckles](https://freckles.io/) - Python framework that helps getting computational environments into a defined state, with minimal amount of hassle - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Jenkins](https://jenkins.io/) - An automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/jenkinsci/jenkins)
 * [Jamf](https://www.jamf.com/) - Mobile Device Management specialized on Apple / macOS products. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
-* [kasaya](https://github.com/syscolabs/kasaya) - A "WYSIWYG" (sort of) scripting language and runtime for browser automation - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Linuxgsm](https://linuxgsm.com/) - The command-line tool for quick, simple deployment and management of Linux dedicated game servers. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/GameServerManagers/LinuxGSM)
 * [Molecule](https://github.com/ansible-community/molecule) - Helps in the development and testing of Ansible roles - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Microsoft Deployment Toolkit](https://docs.microsoft.com/en-us/sccm/mdt/) - Microsoft Deployment Toolkit (MDT) provides a unified collection of tools, processes, and guidance for automating desktop and server deployments. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [netboot](https://netboot.xyz/) - PXE boot various operating system installers or utilities from one place within the BIOS without the need of having to go retrieve the media to run the tool. You can remote attach the ISO to servers, set it up as a rescue option in Grub, or even set up your home network to boot to it by default so that it's always available. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/netbootxyz/netboot.xyz)
 * [netlify](https://www.netlify.com/) -  Deploy your site in seconds (through github) - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
-* [Parabola](https://parabola.io/) - Your computer should work for you. Automates processes via an easy-to-use, drag-and-drop interface. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
-* [Phantom JS](https://github.com/ariya/phantomjs) - Scriptable Headless Browser scriptable with JavaScript - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
-* [reflex](https://github.com/cespare/reflex) - Run a command when files change - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
-* [selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
-* [SikuliX1](https://github.com/RaiMan/SikuliX1) - SikuliX automates anything you see on the screen of your desktop computer running Windows, Mac or some Linux/Unix. It uses image recognition to identify GUI components and can act on them with mouse and keyboard actions. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+
+## Automation
+* [Hazel](https://www.noodlesoft.com/) - Automated Organization for macOS. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
+* [Parabola](https://parabola.io/) - Your computer should work for you. Automates processes via an easy-to-use, drag-and-drop interface. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [reflex](https://github.com/cespare/reflex) - Run a command when files change - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [SikuliX1](https://github.com/RaiMan/SikuliX1) - SikuliX automates anything you see on the screen of your desktop computer running Windows, Mac or some Linux/Unix. It uses image recognition to identify GUI components and can act on them with mouse and keyboard actions. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+
+### Browser Automation
+* [kasaya](https://github.com/syscolabs/kasaya) - A "WYSIWYG" (sort of) scripting language and runtime for browser automation - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [Phantom JS](https://github.com/ariya/phantomjs) - Scriptable Headless Browser scriptable with JavaScript - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+
 
 ## Development / Frameworks / Snippets
 *Reinventing the wheel can be fun but just in case you just don't feel like it, check the tools below*
@@ -306,7 +313,6 @@ Command-line tool that instantly fetches Stack Overflow results when an exceptio
 * [Kopano](https://kopano.com/) - Digitally sovereign communication and collaboration software - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Metasfresh](https://metasfresh.com/en/) - Responsive Free and Open Source ERP System - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/metasfresh/metasfresh)
 * [planless](https://planless.io/pricing) - Artificial intelligence to constantly, instantly and automatically calculate who on your team should do what/when and when things will be done. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
-* [react-kanban](https://github.com/markusenglund/react-kanban) - A server-rendered React Kanban app inspired by Trello.
 * [Sabre](http://sabre.io/) - A CardDAV, CalDAV and WebDAV server - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/sabre-io/Baikal)
 * [snipeit](https://snipeitapp.com/) - Say goodbye to spreadheets. Asset Management System. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Sogo](https://sogo.nu/) - Share your calendars, address books and mails in your community (groupware). - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -366,12 +372,16 @@ Command-line tool that instantly fetches Stack Overflow results when an exceptio
 * [placeholder.com](https://placeholder.com/) - Free Image Placeholder Service - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [pngkey](https://www.pngkey.com/) -  Largest Archive Of Transparent PNG. No attribution required! - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [rgb.to](https://rgb.to/) - Convert color values and find colour schemes simply - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
-* [Staruml](http://staruml.io/) -  A sophisticated Cross-Platform software modeler for agile and concise modeling - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 350 free MIT-licensed high-quality SVG icons for you to use in your web projects - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [UI Design Daily](https://uidesigndaily.com/) - Daily examples of UI available as Sketch, Photoshop, Figma, Studio, ... files. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [uizard](https://uizard.io/) - Transform your hand-drawn wireframes into digital design files and front-end code – automatically! - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Vectr](https://vectr.com/) - Web and Desktop cross-platform Graphics Software - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Webolution](http://fabianburghardt.de/webolution/) - Explore the evolution of Webdesign from 1991 to 2015 - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+
+### Modelling / UML / Diagrams
+* [gliffy](https://www.gliffy.com/) - Diagram software that integrates into confluence - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
+* [Staruml](http://staruml.io/) -  A sophisticated Cross-Platform software modeler for agile and concise modeling - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [yed](https://www.yworks.com/products/yed) - Quickly and effectively generate high-quality diagrams. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
 ### Free Stock Images
 * [deathtothestockphoto](https://deathtothestockphoto.com/) - Sign-up to get free photo sample. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -468,24 +478,44 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 *Getting paid for following your passion is even more fun, isn't it?*
 
 * [honeypot](https://www.honeypot.io/) - :uk: / :de: / NL - Europe’s developer-focused job platform.
-* [jobesto](https://jobesto.com/) - Focused on Poland
-* [meteojob](https://www.meteojob.com/) - :fr: - Focused on France
-* [new-zealand](http://webrear.mbie.govt.nz/summary/new-zealand) - :uk: Interactive Regional Economic Activity map of New Zealand
-* [neuvoo](https://neuvoo.ca/) - Focused on Canada
-* [pracuj](https://www.pracuj.pl/) - Focused on Poland
-* [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - Resume Builder That Respects Your Privacy - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
-* [remoteleaf](https://remoteleaf.com/) -  We search the entire internet and hand-pick thousands of remote jobs, so you don’t have to. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
-* [Remoteok](https://remoteok.io/) - :uk: Get a remote job you can do anywhere - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
-* [resumemaker](https://www.resumemaker.online/) - Helps you to make your resume online - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
-* [react-ultimate-resume](https://github.com/welovedevs/react-ultimate-resume) - A modern software developer resume built with React and JSONResume - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
-* [seek](https://www.seek.co.nz/) - :uk: Focused on New Zealand
+* [Interview Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map/blob/master/README-EN.md) - This is a map that can help you to prepare for the next job interview
 * [stackoverflow - jobs](https://stackoverflow.com/jobs) - :uk:
 * [talent.io](https://www.talent.io/en/) -  :uk: - Get the tech job you deserve. The simplest way to find full-time and contract tech positions in Europe
 * [test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - This project contains 284 test questions and answers that can be used as a test your knowledge or during an interview/exam for position such as Linux (*nix) System Administrator. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
-* [trademe](https://www.trademe.co.nz/jobs) - :uk: Focused on New Zealand
 * [tweetjobs](https://tweetjobs.dev/) - :uk: Find Latest Jobs from Twitter
+
+### Create a resume
+* [resumemaker](https://www.resumemaker.online/) - Helps you to make your resume online - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [react-ultimate-resume](https://github.com/welovedevs/react-ultimate-resume) - A modern software developer resume built with React and JSONResume - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - Resume Builder That Respects Your Privacy - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [universal-resume](https://github.com/WebPraktikos/universal-resume) - Minimal and formal résumé (CV) website template for print, mobile, and desktop. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+
+### Remote Work
+* [remoteleaf](https://remoteleaf.com/) -  We search the entire internet and hand-pick thousands of remote jobs, so you don’t have to. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
+* [Remoteok](https://remoteok.io/) - :uk: Get a remote job you can do anywhere - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [weworkremotely](https://weworkremotely.com/) - :uk: - Largest remote work community in the world
+
+### Canada
+* [neuvoo](https://neuvoo.ca/) - Focused on Canada
+
+### Estonia
+* [cvkeskus](https://www.cvkeskus.ee/) - :uk: Focused on Estonia
+* [workinestonia](https://www.workinestonia.com/) - :uk: Focused on Estonia
+
+### France
+* [meteojob](https://www.meteojob.com/) - :fr: - Focused on France
+
+### Poland
+* [infopraca](https://www.infopraca.pl/) - Focused on Poland
+* [jobesto](https://jobesto.com/) - Focused on Poland
+* [neuvoo](https://neuvoo.pl/) - Focused on Poland
+* [nofluffjobs](https://nofluffjobs.com/) - :uk: Focused on Poland
+* [pracuj](https://www.pracuj.pl/) - Focused on Poland
+
+### New Zealand
+* [new-zealand](http://webrear.mbie.govt.nz/summary/new-zealand) - :uk: Interactive Regional Economic Activity map of New Zealand
+* [seek](https://www.seek.co.nz/) - :uk: Focused on New Zealand
+* [trademe](https://www.trademe.co.nz/jobs) - :uk: Focused on New Zealand
 * [workhere](https://www.workhere.co.nz/jobs) - :uk: Focused on New Zealand
 * [workingin-newzealand](http://www.workingin-newzealand.com/jobs/) - :uk: Focused on New Zealand
 
@@ -579,6 +609,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [glances](https://github.com/nicolargo/glances) - Monitoring tool which aims to present a large amount of information through a curses or Web based interface for GNU/Linux, BSD, Mac OS and Windows - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Icinga](https://icinga.com/) - Monitors availability and performance, gives you simple access to relevant data and raises alerts to keep you in the loop. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/Icinga/icinga2)
 * [juju charms](https://jujucharms.com/how-it-works) - An application modelling tool that allows you to deploy, configure, scale and operate cloud infrastructures quickly and efficiently on public clouds such as AWS, GCE, and Azure along with private ones such as MAAS, OpenStack, and VSphere - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/juju/juju)
+* [LetsMapYourNetwork](https://github.com/varchashva/LetsMapYourNetwork) - Helps mapping your network - [![](https://img.shields.io/badge/pricing-open--source-green)]()
 * [LNAV](http://lnav.org/) - Log Analysis, An advanced log file viewer for the small-scale Watch and analyze your log files from a terminal. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/tstack/lnav)
 * [monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Munin](http://munin-monitoring.org/) - Resource monitoring tool that can help analyze resource trends and "what just happened to kill our performance?" problems - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/munin-monitoring/munin)
@@ -598,19 +629,21 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 
 * [anidb](https://anidb.net/) - AniDB stands for Anime DataBase. We feature detailed information about all forms of CJK (Chinese, Japanese, and Korean) animation. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Emby](https://github.com/MediaBrowser/Emby) - personal media server with apps on just about every device - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
-* [Export tools for Plex](https://github.com/ukdtom/ExportTools.bundle) - Export Plex Library to a csv, xlsx or m3u8 file - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [imdb](https://www.imdb.com/) - The internet movie Database - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [just watch](https://www.justwatch.com/) - All your streaming services in one app - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Kodi](https://kodi.tv/) - Media player application that is available for multiple operating-systems and hardware platforms. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/xbmc/xbmc)
 * [myanimelist](https://myanimelist.net/) - Large anime and manga community and database - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [mydramalist](https://mydramalist.com/) - MyDramaList.com is a community-based project which provides Asian drama & movie fans a site where they can create their very own drama watchlist. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [mythtv](https://www.mythtv.org/) - A digital video recorder (DVR) - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/MythTV/mythtv)
-* [Plex Requests](https://github.com/lokenx/plexrequests-meteor) - Plex Requests: Simple automated way for users to request new content for Plex - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Plex](https://plex.tv) - Plex brings together all the media that matters to you. Your personal collection will look beautiful alongside stellar streaming content. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [WatchSomething](https://pecko95.github.io/WatchSomething/) - No idea what to watch ? Find movies or tv shows to watch instantly, or store them in lists for later ! - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+
+### Plex-related
+* [Export tools for Plex](https://github.com/ukdtom/ExportTools.bundle) - Export Plex Library to a csv, xlsx or m3u8 file - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [PlexRedirect](https://github.com/ITRav4/PlexRedirect) - A Plex landing page that redirects you to various sites. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [Plex Requests](https://github.com/lokenx/plexrequests-meteor) - Plex Requests: Simple automated way for users to request new content for Plex - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Sub-Zero](https://github.com/pannal/Sub-Zero.bundle) - Subtitles for Plex, as good you would expect them to be. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Tautulli](https://github.com/Tautulli/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
-* [WatchSomething](https://pecko95.github.io/WatchSomething/) - No idea what to watch ? Find movies or tv shows to watch instantly, or store them in lists for later ! - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ## Music
 * [Festify](https://festify.us/) - Festify lets your guests choose which music should be played using their smartphones (and spotify). - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -683,14 +716,13 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [vortex](https://github.com/tajpure/vortex) - A markdown presentation tool. (supports custom CSS) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [webslides](https://github.com/webslides/webslides/) - Create HTML presentations in seconds - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
-##  Project management / Time Management / Organisation / Kanban
+##  Project management / Time Management / Organisation
 * [agantty](https://www.agantty.com/) - Free Projektmanagement (gantt, ...) - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [awwapp](https://awwapp.com/) - Online whiteboard - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [favro](https://learn.favro.com/) - Favro is the planning and collaboration app for organizational flow. It helps organizations do what they excel at - making products and services that change the game. Fast. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
+* [gantt](https://github.com/frappe/gantt) - Javascript Gantt, A simple, interactive, modern gantt chart library for the web - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [hill-charts](https://basecamp.com/features/hill-charts) - see where projects really stand - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
-* [kanban](https://github.com/leanlabsio/kanban) - Lean project management Kanban for GitLab - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Life-Calendar](https://github.com/wvdk/Life-Calendar) - A calendar... for your life (in development) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
-* [react-kanban](https://github.com/markusenglund/react-kanban) - A Trello-like Kanban application built with React and Redux. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [topsi-project-manager](https://github.com/Physiix/topsi-project-manager) - A Desktop Kanban board app. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [timeout](https://www.dejal.com/timeout/) - Time tracker and break reminder for macOS - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [limesurvey](https://www.limesurvey.org/) - Professional online surveys / polls selfhosted - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -703,6 +735,10 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [timingapp](https://timingapp.com/?lang=en) - Automatic and manual time tracking,
 for the best of both worlds. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [todoist](https://todoist.com/fr) - Todo lists - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
+
+### Kanban
+* [kanban](https://github.com/leanlabsio/kanban) - Lean project management Kanban for GitLab - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [react-kanban](https://github.com/markusenglund/react-kanban) - A server-rendered React Kanban app inspired by Trello built with React and Redux. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Wekan](https://github.com/wekan/wekan) - Kanban board (built with Meteor). - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ## Questions & Answers (Questions & Answers)
@@ -743,25 +779,30 @@ for the best of both worlds. - [![](https://img.shields.io/badge/pricing-commerc
 * [framasoft - lufi](https://framagit.org/fiat-tux/hat-softwares/lufi) - E2E encrypted File sharing software - [![](https://img.shields.io/badge/pricing-open--source-green)](https://framagit.org/fiat-tux/hat-softwares/lufi)
 * [Framasoft](https://framasoft.org/) - Collection of free / open source tools that offer alternatives to Doodle, Google Forms, ... - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Freshrss](https://freshrss.org/) -  A self-hostable RSS aggregator… probably the best! - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/FreshRSS/FreshRSS)
-* [gitea](https://gitea.io/en-us/) - A painless self-hosted Git service. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/go-gitea/gitea)
-* [Gitlab](https://gitlab.com/) - A web-based DevOps lifecycle tool + git repository manager - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [helpy](https://github.com/helpyio/helpy) - Customer Support (ticketing) Software - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [I, Librarian](https://github.com/mkucej/i-librarian-free) - PDF managing SaaS - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Jitsi](https://jitsi.org/) - Multi-platform video conferencing - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/jitsi)
-* [Mantis BT](https://www.mantisbt.org/) - An issue tracker / Ticketing tool that provides a delicate balance between simplicity and power - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/mantisbt/mantisbt)
 * [Openvswitch](http://www.openvswitch.org/) - A production quality, multilayer virtual switch - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Osticket](https://osticket.com/) - Customer Support (ticketing) Software - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/osTicket/osTicket)
 * [Pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements / A DNS sinkhole that protects your devices from unwanted content, without installing any client-side software. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/pi-hole/pi-hole)
 * [Privatebin](https://privatebin.info/) - A minimalist, online pastebin where the server has zero knowledge of pasted data. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/PrivateBin/PrivateBin)
-* [Rhodecode](https://rhodecode.com/) -  Centralized control for distributed repositories. Mercurial, Git, and Subversion under a single roof. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://code.rhodecode.com/)
 * [Sandstorm](https://sandstorm.io/) - Platform for self-hosting web apps - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/sandstorm-io/sandstorm)
 * [Shaarli](https://github.com/shaarli/Shaarli) - Personal, minimalist, super-fast, database free, bookmarking / link sharing service  - [![](https://img.shields.io/badge/pricing-open--source-green)]()
 * [Spreed-webrtc](https://github.com/strukturag/spreed-webrtc) - WebRTC audio/video call and conferencing server. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Staffjoy](https://github.com/staffjoy/) - Scheduling Apps - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/LandRover/StaffjoyV2)
 * [turtl app](https://turtlapp.com/) -  The secure, collaborative notebook - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/turtl)
 * [xdebug](https://xdebug.org/) -  Xdebug is an extension for PHP to assist with debugging and development. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/xdebug/xdebug)
+
+### git / code repositories
+* [gitea](https://gitea.io/en-us/) - A painless self-hosted Git service. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/go-gitea/gitea)
+* [Gitlab](https://gitlab.com/) - A web-based DevOps lifecycle tool + git repository manager - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [Rhodecode](https://rhodecode.com/) -  Centralized control for distributed repositories. Mercurial, Git, and Subversion under a single roof. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://code.rhodecode.com/)
+
+### Ticketing / Bug tracker
+* [Mantis BT](https://www.mantisbt.org/) - An issue tracker / Ticketing tool that provides a delicate balance between simplicity and power - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/mantisbt/mantisbt)
 * [zammad](https://zammad.org/) - Zammad is a web-based user support/ticketing solution. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/zammad/zammad)
+* [YouTrack](https://www.jetbrains.com/youtrack/features/) - Issue tracking tool that enables teams to collaborate efficiently. Made by JetBrains - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
 ## Server Basics
   - Apache / Nginx
@@ -800,22 +841,26 @@ for the best of both worlds. - [![](https://img.shields.io/badge/pricing-commerc
 * [Scrapy](https://doc.scrapy.org/en/latest/intro/overview.html) - Application framework for crawling web sites and extracting structured data - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/scrapy/scrapy)
 * [WHOIS parser](https://github.com/weppos/whois) - An intelligent — pure Ruby — WHOIS client and parser - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
-## Security / Password Manager / Cracking
-* [Buttercup](https://buttercup.pw/) - Cross-platform, free and open-source password manager based on NodeJS. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+## Security / Cracking
 * [DocBleach](https://github.com/docbleach/DocBleach-Web) - DocBleach allows you to sanitize your Word, Excel, PowerPoint, PDF, ... documents. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [etcd](https://etcd.io/) - Key-value store for the most critical data of a distributed system (anyjything from simple web app to a Kubernetes cluster)- [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [have i been pwned?](https://haveibeenpwned.com/) - Check if you have an account that has been compromised in a data breach - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
-* [Keepassxc](https://keepassxc.org/) - Cross-platform community fork of KeePassX. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/keepassxreboot/keepassxc)
-* [Keeweb](https://keeweb.info/) - Cross-platform password manager compatible with KeePass - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/keeweb/keeweb)
+* [lgtm](https://lgtm.com/) - Continuous security analysis
 * [lulu](https://objective-see.com/products/lulu.html) - macOS firewall that aims to block unknown outgoing connections, unless explicitly approved by the user. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [lynis](https://github.com/CISOfy/lynis) - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [No more ransom](https://www.nomoreransom.org/en/index.html) - Helps unlocking ransomware infected files - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
-* [Password store](https://www.passwordstore.org/) - Standard unix password manager - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [ransomwhere](https://objective-see.com/products/ransomwhere.html) - Utility with a simple goal; generically thwart OS X ransomware - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Snort](https://www.snort.org/) - A lightweight network intrusion detection system (NIDS) software for Linux and Windows to detect emerging threats. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [virus total](https://www.virustotal.com/gui/home) -  Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Zoneminder](https://www.zoneminder.com/) - State-of-the-art video surveillance software system. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/ZoneMinder/ZoneMinder/)
 * [Zydra](https://github.com/hamedA2/Zydra) - File password recovery tool (pdf, rar, zip) and Linux shadow file cracker. It uses the dictionary search or Brute force method for cracking passwords. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+
+### Password Manager
+* [Buttercup](https://buttercup.pw/) - Cross-platform, free and open-source password manager based on NodeJS. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [Password store](https://www.passwordstore.org/) - Standard unix password manager - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [Keepassxc](https://keepassxc.org/) - Cross-platform community fork of KeePassX. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/keepassxreboot/keepassxc)
+* [Keeweb](https://keeweb.info/) - Cross-platform password manager compatible with KeePass - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/keeweb/keeweb)
+
 
 ## Server Management
 * [ISPconfig](https://www.ispconfig.org/) - Manage Your Servers Directly Through Your Browser - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -836,7 +881,6 @@ for the best of both worlds. - [![](https://img.shields.io/badge/pricing-commerc
 * [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) - The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [neofetch](https://github.com/dylanaraps/neofetch) - Command-line system information tool - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - Oh My Zsh will not make you a 10x developer...but you may feel like one.- [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/ohmyzsh/ohmyzsh)
-* [powerlevel9k](https://github.com/bhilburn/powerlevel9k) - Theme for Oh My Zsh - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [shell check](https://github.com/koalaman/shellcheck/) - A static analysis tool for shell scripts - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [shell harden](https://github.com/anordal/shellharden) - A syntax highlighter and a tool to help do things safely in bash - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [simple curses](https://github.com/metal3d/bashsimplecurses) - "Bash simple curses" give you some basic functions to quickly create some windows on you terminal as Xterm, aterm, urxvt... - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -849,17 +893,27 @@ for the best of both worlds. - [![](https://img.shields.io/badge/pricing-commerc
 * [wifi-password](https://github.com/rauchg/wifi-password) - Get the password of the wifi you're on (bash) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the ssh - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
+### Oh-my-zsh Theme
+  - agnoster
+  - [powerlevel9k](https://github.com/bhilburn/powerlevel9k)
+
+
+### Oh-my-zsh Plugins
+  - git
+  - zsh-syntax-highlighting
+  - colored-man-pages
+  - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+
+
 ## System utilities
 *Automate all the things! ... or at least try to make your life easier*
 
 * [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for macOS - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [anyshortcut](https://anyshortcut.com/) - Customize keyboard shortcuts for your frequently visited websites. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
-* [AutoHotkey_L](https://github.com/Lexikos/AutoHotkey_L) - Macro-creation and automation-oriented scripting utility for Windows. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [dot-hammerspoon](https://github.com/zzamboni/dot-hammerspoon) - example of Hammerspoon configuration. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [hammerspoon-config](https://github.com/cmsj/hammerspoon-config/) - another example of Hammerspoon configuration. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [dotfiles](https://github.com/orrsella/dotfiles) - A collection of miscellaneous .files ("dot" files) and some regular files for configuration - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [easy-file-organizer](https://qiplex.com/software/easy-file-organizer/) - Organize Files, Folders and Desktop easily! - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
-* [espanso](https://github.com/federico-terzi/espanso) - Cross-platform Text Expander - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [hammerspoon](https://github.com/Hammerspoon/hammerspoon) - macOS desktop automation - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Karabiner](https://pqrs.org/osx/karabiner/) - An utility for keyboard customization on macOS Sierra - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/pqrs-org/Karabiner-Elements)
 * [modd](https://github.com/cortesi/modd) - Triggers commands and manages daemons in response to filesystem changes (Unix, macOS, Windows) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -874,16 +928,9 @@ Add a global delay to Command-Q to stop accidental app quits. - [![](https://img
 * [typinator](https://www.ergonis.com/products/typinator/) - "types" frequently used text for you (on macOS) - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [uebersicht](https://github.com/felixhageloh/uebersicht) - Keep an eye on what's happening on your machine and in the world. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
-
-### Oh-my-zsh Theme
-  - agnoster
-
-### Oh-my-zsh Plugins
-  - git
-  - zsh-syntax-highlighting
-  - colored-man-pages
-  - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
-
+## Text Expanders
+* [AutoHotkey_L](https://github.com/Lexikos/AutoHotkey_L) - Macro-creation and automation-oriented scripting utility for Windows. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [espanso](https://github.com/federico-terzi/espanso) - Cross-platform Text Expander - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ## Templates / Dashboards
 * [Admin LTE](https://github.com/almasaeed2010/AdminLTE)
@@ -912,7 +959,7 @@ Add a global delay to Command-Q to stop accidental app quits. - [![](https://img
 ### Mac
   - App Cleaner
   - Grand Perspective
-  - Balena Etcher
+  - [Balena Etcher](https://www.balena.io/etcher/) - Flash OS images to SD cards & USB drives, safely and easily.
   - Keka
   - Oh My ZSH
   - Rambox
@@ -924,6 +971,12 @@ Add a global delay to Command-Q to stop accidental app quits. - [![](https://img
 ### Windows
   - Windirstat
   - Total Commander
+  - [Rufus](https://rufus.ie/) -  Create bootable USB drives the easy way 
+
+## VPN
+* [subspace](https://github.com/subspacecloud/subspace) - simple WireGuard VPN server GUI - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [wireguard](https://www.wireguard.com/) - Fast, Modern, Secure VPN Tunnel - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [wg-gen-web](https://github.com/vx3r/wg-gen-web) - Simple Web based configuration generator for WireGuard - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ## Voice Assistant
 *Ok Siri*
@@ -969,6 +1022,7 @@ Add a global delay to Command-Q to stop accidental app quits. - [![](https://img
 
 * [doctoc](https://github.com/thlorenz/doctoc) - Generates table of contents for markdown files - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [GitHub buttons](https://ghbtns.com/) - Showcase your GitHub repo’s success with hotlinkable GitHub star, fork, sponsor, and follow buttons. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [Joplin](https://github.com/laurent22/joplin) - note taking and to-do application - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [mdx](https://github.com/mdx-js/mdx) - Use JSX in your markdown documents. You can import components, like interactive charts or notifications, and export metadata. This makes writing long-form content with components a blast. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [pdf.js](https://github.com/mozilla/pdf.js) - A PDF Reader in JavaScript made by mozilla - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/mozilla/pdf.js)
