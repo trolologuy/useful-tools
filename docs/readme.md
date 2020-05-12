@@ -9,19 +9,17 @@ sidebarDepth: 2
 * [Postman](https://www.postman.com/downloads/) - Complete API Development Environment - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Swagger](https://swagger.io/tools/open-source/) - Easy-to-use suite of API developer tools for teams and individuals, enabling development across the entire API lifecycle, from design and documentation, to test and deployment - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
-## Backup / Data / Restoration / ...
+## Backup / Archiving / Restoration / ...
 *This category doesn't need an introduction i guess*
 
 * [Borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [ceph](https://ceph.io/) - Storage platform - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [ddrescue](https://www.gnu.org/software/ddrescue/) - A data recovery tool. It copies data from one file or block device (hard disc, cdrom, etc) to another, trying to rescue the good parts first in case of read errors - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Duplicity](http://duplicity.nongnu.org/) - Duplicity backs directories by producing encrypted tar-format volumes and uploading them to a remote or local file server. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
-* [JSON Schema](https://json-schema.org/understanding-json-schema/index.html#) - A tool for validating the structure of JSON data. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [lodestone](https://github.com/AnalogJ/lodestone/) - Personal Document Archiving (DMS, EDMS for Personal/Home Office use) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [shallow-backup](https://github.com/alichtman/shallow-backup) -  Git-integrated backup tool for macOS and Linux devs. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [unraid](https://unraid.net/product) - Linux-based operating system optimized for media file storage - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
-
 
 ## Blogs
 *Some helpful Blogs and Tech News websites*
@@ -72,6 +70,14 @@ sidebarDepth: 2
 
 * [https://www.symbolab.com/](https://www.symbolab.com) - An advanced math education tool - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Omnicalculator](https://www.omnicalculator.com/statistics) - Calculate Odds, Chi-square, ... without headache - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+
+## Data
+* [muzejs](https://muzejs.org/) - Data visualization library to create composable and interactive data visualization for the web - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/chartshq/muze)
+
+### JSON
+* [json2html](https://github.com/moappi/visualizer.json2html) - Simple JSON visualizer
+* [JSON Schema](https://json-schema.org/understanding-json-schema/index.html#) - A tool for validating the structure of JSON data. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [Jsonnet](https://jsonnet.org/) -  A data templating language - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ## Chat / Communication
 *Good communication is an art, so get the right tools to get it right*
@@ -129,6 +135,8 @@ sidebarDepth: 2
 * [git](https://rogerdudler.github.io/git-guide/) - just a simple guide for getting started with git. no deep shit ;) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Markdown - md](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - A quick reference and showcase - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Markdown - Smileys](https://gist.github.com/rxaviers/7360908) -  Complete list of github markdown emoji markup - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - 
+Guide to securing and improving privacy on macOS - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [wordpress](https://www.codeinwp.com/blog/wordpress-5-0-cheat-sheet/) - This is your cut-out-‘n-keep WordPress 5.0 cheat sheet. ✂️ - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
 ## Clustering
@@ -143,6 +151,8 @@ sidebarDepth: 2
 *You will be assimilated*
 
 * [argo-cd](https://argoproj.github.io/argo-cd/) - GitOps continuous delivery tool for Kubernetes - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [harness](https://harness.io/) - Jenkins Pipelines not scaling for CD? - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [Jenkins](https://jenkins.io/) - An automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/jenkinsci/jenkins)
 * [Rudder](https://www.rudder.io/en/) - Multi-platform solution for managing configurations of mission-critical systems. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Travis](https://travis-ci.org/) - Test and Deploy code - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
@@ -161,7 +171,6 @@ sidebarDepth: 2
 * [Ansible](https://github.com/ansible/ansible) - Automation platform that makes your applications and systems easier to deploy. Uses SSH only, no agents to install on remote systems. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Cloud Foundry BOSH](https://github.com/cloudfoundry/bosh) - Release engineering, deployment, lifecycle management, and monitoring of distributed systems. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [freckles](https://freckles.io/) - Python framework that helps getting computational environments into a defined state, with minimal amount of hassle - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
-* [Jenkins](https://jenkins.io/) - An automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/jenkinsci/jenkins)
 * [Jamf](https://www.jamf.com/) - Mobile Device Management specialized on Apple / macOS products. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [Linuxgsm](https://linuxgsm.com/) - The command-line tool for quick, simple deployment and management of Linux dedicated game servers. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/GameServerManagers/LinuxGSM)
 * [Molecule](https://github.com/ansible-community/molecule) - Helps in the development and testing of Ansible roles - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -182,6 +191,10 @@ sidebarDepth: 2
 * [Phantom JS](https://github.com/ariya/phantomjs) - Scriptable Headless Browser scriptable with JavaScript - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
+## CLI - tools
+* [htop](https://en.wikipedia.org/wiki/Top_(software)) - Interactive system-monitor for Linux
+* [jq](https://stedolan.github.io/jq/) - sed for JSON data - you can use it to slice and filter and map and transform structured data with the same ease that sed, awk, grep and friends let you play with text.
+* [tree](https://en.wikipedia.org/wiki/Tree_(command)) - Lists the files in the current directory.
 
 ## Development / Frameworks / Snippets
 *Reinventing the wheel can be fun but just in case you just don't feel like it, check the tools below*
@@ -203,9 +216,9 @@ sidebarDepth: 2
 * [google chart](https://developers.google.com/chart/) - Display live data on your site - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/google/charts)
 * [Hot Examples](https://hotexamples.com/) - Code examples from over 1.000.000 projects for PHP, Python, Java, ... - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [insomnia](https://insomnia.rest/) - Debug APIs like a human, not a robot. Finally, a REST client you'll love - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
-* [Jsonnet](https://jsonnet.org/) -  A data templating language - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [jupyter](https://jupyter.org/index.html) - A web-based interactive development environment for Jupyter notebooks, code, and data. It allows interactive computing across dozens of programming languages. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/jupyter/jupyter_server)
 * [Nprogress](https://github.com/rstacruz/nprogress) - Slim progress bars like on YouTube, Medium, etc - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [public apis](https://public-apis.xyz/) - Learn & Fuel up your tools, apps and business with powerful 1000+ public apis. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Socket](https://socket.io/) -  Socket.IO enables real-time, bidirectional and event-based communication. It works on every platform, browser or device, focusing equally on reliability and speed. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/socketio/socket.io)
 
@@ -225,7 +238,6 @@ sidebarDepth: 2
 * [i18next](https://www.i18next.com/) -  An internationalization-framework written in and for JavaScript.  It provides you with a complete solution to localize your product from web to mobile and desktop. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [jdash](http://jdash.io/#about) - A customizable Javascript + Backend platform for adding end user designable dashboards into your web application - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [htmldom](https://htmldom.dev/) - Manage HTML DOM with vanilla JavaScript - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
-* [muzejs](https://muzejs.org/) - Data visualization library to create composable and interactive data visualization for the web - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/chartshq/muze)
 * [Mustache JS](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Parallax](https://pixelcog.github.io/parallax.js/) - Parallax.js is a dirt simple parallax scrolling effect inspired by Spotify.com and implemented as a jQuery plugin. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/pixelcog/parallax.js/)
 * [PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Create PowerPoint Presentations through JavaScript. - [![](https://img.shields.io/badge/pricing-open--source-green)]
@@ -249,7 +261,6 @@ sidebarDepth: 2
 * [buefy](https://buefy.org/) - Lightweight UI components for Vue.js based on Bulma - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [nuxtjs](https://nuxtjs.org/) - Similar to next.js, but with Vue.js - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [vue JS](https://github.com/vuejs/vue) - A progressive, incrementally-adoptable JavaScript framework for building UI on the web. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
-* [vuepress](https://vuepress.vuejs.org/) -  Vue-powered Static Site Generator - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [vuepress tools](https://vuepress.tools) - List of plugins and themes for vuepress - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [gridsome](https://gridsome.org/) - Build modern websites, apps & PWAs that are fast by default 🚀 - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
@@ -264,6 +275,37 @@ sidebarDepth: 2
 * [slashb](https://slashb.app/) - Spend half the time designing and developing responsive websites by testing them on multiple screens at once - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [sitebulb](https://sitebulb.com/) - Search Engine Optimization (SEO) tool - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [Unzipper](https://github.com/ndeet/unzipper) - Small class to extract + compress .zip, .gz, .rar archives via browser. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+
+### Website builder / CMS
+*The building without the struggle*
+
+* [Grav](https://github.com/getgrav/grav) - Grav is a Fast, Simple, and Flexible, file-based Web-platform - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [Hugo](https://gohugo.io/) - Static website generator based on markdown - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/gohugoio/hugo)
+* [pollygot](https://pollygot.com/) - Pollygot is a content platform that consolidates all the most important services you need to run your business. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
+* [Staticgen](https://www.staticgen.com/) - A List of Static Site Generators for JAMstack Sites - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/netlify/staticgen)
+* [strapi](https://strapi.io/) - Headless CMS Front-End - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [vuepress](https://vuepress.vuejs.org/) -  Vue-powered Static Site Generator - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+
+### Website Analysis / Analytics
+*Wonder how the big guys do it?*
+
+* [Built with](https://builtwith.com/) - Find out what websites are Built With - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [Matomo](https://matomo.org/) - Web Analytics, Powerful Insights (alternative to google analytics, ...) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+
+
+### Website Speedtest / Performance and Configuration analysis
+*Make it fast*
+
+* [Dareboost](https://www.dareboost.com/fr) - Website performance checking tool - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
+* [Google lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [Google pagespeed](https://developers.google.com/speed/pagespeed/insights/) - PageSpeed Insights (PSI) reports on the performance of a page on both mobile and desktop devices, and provides suggestions on how that page may be improved. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [GTMetrix](https://gtmetrix.com/) -We'll breakdown your page performance in a summarized report: PageSpeed and YSlow scores and Recommendations, Page Load Details (time, size, number of requests), Waterfall, ... - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [Pingdom](https://tools.pingdom.com/) - With Pingdom you can monitor your websites' uptime, performance, and interactions for a better end-user-experience. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [redbot](https://redbot.org/) - lint for HTTP resources; it tests protocol correctness, cacheability, content negotiation and more. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [Sitespeed.io](https://github.com/sitespeedio/sitespeed.io/) - Helps you monitor, analyze and optimize your website speed and performance - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [Webhint](https://webhint.io/scanner/) - webhint is a customizable linting tool that helps you improve your site's accessibility, speed, cross-browser compatibility, and more by checking your code for best practices and common errors. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/webhintio/hint)
+* [Webpagetest](http://www.webpagetest.org/) - Test a website's performance, helfpul waterfall charts - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [Yellowlab](https://yellowlab.tools) - WebPerf and front-end quality testing tool - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/YellowLabTools/YellowLabTools/)
 
 
 ## Documentation / Wikis / User Feedback
@@ -293,6 +335,7 @@ sidebarDepth: 2
 * [composerize](https://github.com/magicmark/composerize) - Turns docker run commands into docker-compose files! - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [goharbor](https://goharbor.io/) - Container image registry that secures images with role-based access control, scans images for vulnerabilities, and signs images as trusted. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Portainer](https://github.com/portainer/portainer) - A lightweight management UI which allows you to easily manage your different Docker environments (Docker hosts or Swarm clusters). - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [runme](https://runme.io/) - Run your application from any public Git-repo with one click - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Traeffik](https://github.com/containous/traefik/) - A HTTP reverse proxy and load balancer that makes deploying microservices easy- [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [metallb](https://metallb.universe.tf/) - Load-balancer implementation for bare metal Kubernetes clusters - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Watchtower](https://github.com/v2tec/watchtower) - A process for automating Docker container base image updates - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/containrrr/watchtower)
@@ -317,7 +360,7 @@ sidebarDepth: 2
 * [snipeit](https://snipeitapp.com/) - Say goodbye to spreadheets. Asset Management System. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Sogo](https://sogo.nu/) - Share your calendars, address books and mails in your community (groupware). - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
-## File Sharing / data / downloader
+## File Sharing / downloader
 *Sharing is caring*
 
 * [ARTE-7-Downloader](https://github.com/GuGuss/ARTE-7-Downloader) - Download content from Arte - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -421,6 +464,7 @@ sidebarDepth: 2
 * [gitignore](https://www.gitignore.io/) - Create useful .gitignore files for your project - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [gitignore collection](https://github.com/github/gitignore) -
 A collection of useful .gitignore templates - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [gource](https://github.com/acaudwell/Gource) - software version control visualization - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [zeit](https://zeit.co/) - Cloud platform for static frontends and serverless functions. It enables developers to host websites and web applications that deploy instantly for example from a git repository, scale automatically, and require no supervision - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
 ## Hardware Checks
@@ -477,6 +521,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 ## Recruitment / Job searching / Interviews
 *Getting paid for following your passion is even more fun, isn't it?*
 
+* [devops-exercises](https://github.com/bregman-arie/devops-exercises) - Questions and exercises on various technical topics, sometimes related to DevOps and SRE :) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [honeypot](https://www.honeypot.io/) - :uk: / :de: / NL - Europe’s developer-focused job platform.
 * [Interview Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map/blob/master/README-EN.md) - This is a map that can help you to prepare for the next job interview
 * [stackoverflow - jobs](https://stackoverflow.com/jobs) - :uk:
@@ -505,12 +550,16 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 ### France
 * [meteojob](https://www.meteojob.com/) - :fr: - Focused on France
 
+### Germany
+* [brutto-netto-rechner](https://www.brutto-netto-rechner.info/) - :de: Brutto / Netto calculator
+
 ### Poland
 * [infopraca](https://www.infopraca.pl/) - Focused on Poland
 * [jobesto](https://jobesto.com/) - Focused on Poland
 * [neuvoo](https://neuvoo.pl/) - Focused on Poland
 * [nofluffjobs](https://nofluffjobs.com/) - :uk: Focused on Poland
 * [pracuj](https://www.pracuj.pl/) - Focused on Poland
+* [wynagrodzenia](https://wynagrodzenia.pl/kalkulator-wynagrodzen/wyniki) - Brutto / Netto calculator
 
 ### New Zealand
 * [new-zealand](http://webrear.mbie.govt.nz/summary/new-zealand) - :uk: Interactive Regional Economic Activity map of New Zealand
@@ -609,7 +658,6 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [glances](https://github.com/nicolargo/glances) - Monitoring tool which aims to present a large amount of information through a curses or Web based interface for GNU/Linux, BSD, Mac OS and Windows - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Icinga](https://icinga.com/) - Monitors availability and performance, gives you simple access to relevant data and raises alerts to keep you in the loop. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/Icinga/icinga2)
 * [juju charms](https://jujucharms.com/how-it-works) - An application modelling tool that allows you to deploy, configure, scale and operate cloud infrastructures quickly and efficiently on public clouds such as AWS, GCE, and Azure along with private ones such as MAAS, OpenStack, and VSphere - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/juju/juju)
-* [LetsMapYourNetwork](https://github.com/varchashva/LetsMapYourNetwork) - Helps mapping your network - [![](https://img.shields.io/badge/pricing-open--source-green)]()
 * [LNAV](http://lnav.org/) - Log Analysis, An advanced log file viewer for the small-scale Watch and analyze your log files from a terminal. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/tstack/lnav)
 * [monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Munin](http://munin-monitoring.org/) - Resource monitoring tool that can help analyze resource trends and "what just happened to kill our performance?" problems - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/munin-monitoring/munin)
@@ -623,6 +671,14 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [Thruk](https://thruk.org/) - Webinterface for Naemon, Icinga, Shinken and Nagios [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/sni/Thruk)
 * [Uchiwa](https://uchiwa.io/) - Open source dashboard for Sensu. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/sensu/uchiwa)
 * [Uptime robot](https://uptimerobot.com/) - Downtime Happens. Get Notified! - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+
+### CRON Monitoring
+* [healthchecks](https://healthchecks.io/) -  Simple and Effective Cron Job Monitoring - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [cronitor](https://cronitor.io/) - Instant alerts when your critical background jobs, websites & APIs fail. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
+
+### Network Mapping
+* [LetsMapYourNetwork](https://github.com/varchashva/LetsMapYourNetwork) - Helps mapping your network - [![](https://img.shields.io/badge/pricing-open--source-green)]()
+* [lansweeper](https://www.lansweeper.com/) - Discover Your IT and build Your Centralized IT Asset Inventory - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
 ## Movies / Films / Plex / Animes
 *Having your own private media? or wondering what do watch tonight?*
@@ -641,6 +697,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 ### Plex-related
 * [Export tools for Plex](https://github.com/ukdtom/ExportTools.bundle) - Export Plex Library to a csv, xlsx or m3u8 file - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [PlexRedirect](https://github.com/ITRav4/PlexRedirect) - A Plex landing page that redirects you to various sites. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [python-plexapi](https://github.com/pkkid/python-plexapi) - Python bindings for the Plex API. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Plex Requests](https://github.com/lokenx/plexrequests-meteor) - Plex Requests: Simple automated way for users to request new content for Plex - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Sub-Zero](https://github.com/pannal/Sub-Zero.bundle) - Subtitles for Plex, as good you would expect them to be. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Tautulli](https://github.com/Tautulli/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -692,12 +749,13 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 
 * [estcequonpeutpartir](http://estcequonpeutpartir.fr/) - :fr: Helps taking decisions on where to go on holiday - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [farmbot](https://farm.bot/) - Open-Source CNC Farming - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/FarmBot/Farmbot-Web-App)
+* [Great escape](https://greatescape.co) - Flight tracker / Travel helper that helps take decisions or find new destinations based on prices and many other categories, for example if you want to start travelling from a specific starting point - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Open Street map](https://www.openstreetmap.org) - OpenStreetMap is the free wiki world map. OpenStreetMap is a map of the world, created by people like you and free to use under an open license. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [openHAB](https://www.openhab.org/) - Automation software for your home (smart home) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Public Money? Public Code!](https://publiccode.eu/openletter/) - Publicly funded software has to be Free and Open Source Software. While there are plenty of good reasons for this, many politicians don’t know about them yet.
 * [sdelete](https://docs.microsoft.com/en-us/sysinternals/downloads/sdelete) - Securely deleting a file - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [The true size](https://thetruesize.com) - Easily compare countries with each others - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
-* [Great escape](https://greatescape.co) - Flight tracker / Travel helper that helps take decisions or find new destinations based on prices and many other categories, for example if you want to start travelling from a specific starting point - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [vervoe](https://vervoe.com/) - Skill testing software that automatically ranks candidates based on how well they can do the job. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [WDL](https://www.wdl.org/) - World Digital Library, has books, maps, ... - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
 ## Presentations
@@ -771,6 +829,12 @@ for the best of both worlds. - [![](https://img.shields.io/badge/pricing-commerc
 * [Zoho](https://www.zoho.com/meeting/) - Your online meeting and webinar solution - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [zoom](https://zoom.us/) - Enterprise video conferencing with real-time messaging and content sharing - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
+## Server Basics
+  - Apache / Nginx
+  - Certbot
+  - Fail2Ban
+  - UFW (Iptables alternative)
+
 ## Selfhosted
 * [CachetHQ](https://cachethq.io/) - Status page system, helps better communicate downtime and system outages - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/CachetHQ/Cachet)
 * [Cozy](https://cozy.io/en/) - Cozy is a platform that brings all your web services in the same private space. - [![](https://img.shields.io/badge/pricing-free-yellow)](https://github.com/cozy/cozy-drive)
@@ -803,12 +867,6 @@ for the best of both worlds. - [![](https://img.shields.io/badge/pricing-commerc
 * [Mantis BT](https://www.mantisbt.org/) - An issue tracker / Ticketing tool that provides a delicate balance between simplicity and power - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/mantisbt/mantisbt)
 * [zammad](https://zammad.org/) - Zammad is a web-based user support/ticketing solution. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/zammad/zammad)
 * [YouTrack](https://www.jetbrains.com/youtrack/features/) - Issue tracking tool that enables teams to collaborate efficiently. Made by JetBrains - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
-
-## Server Basics
-  - Apache / Nginx
-  - Certbot
-  - Fail2Ban
-  - UFW (Iptables alternative)
 
 ## SSL
 * [Certbot](https://certbot.eff.org/) - A software tool for automatically using Let’s Encrypt certificates on manually-administrated websites to enable HTTPS. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/certbot/certbot)
@@ -988,40 +1046,12 @@ Add a global delay to Command-Q to stop accidental app quits. - [![](https://img
 * [NGINX Config](https://www.digitalocean.com/community/tools/nginx) - The easiest way to configure a performant, secure, and stable NGINX server. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/digitalocean/nginxconfig.io)
 * [puphpet](https://puphpet.com/#create) - Simplify deployment through vagrant for nginx / apache / mySQL / ... - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
-## Website builder / CMS
-*The building without the struggle*
-
-* [Grav](https://github.com/getgrav/grav) - Grav is a Fast, Simple, and Flexible, file-based Web-platform - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
-* [Hugo](https://gohugo.io/) - Static website generator based on markdown - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/gohugoio/hugo)
-* [pollygot](https://pollygot.com/) - Pollygot is a content platform that consolidates all the most important services you need to run your business. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
-* [Staticgen](https://www.staticgen.com/) - A List of Static Site Generators for JAMstack Sites - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/netlify/staticgen)
-* [strapi](https://strapi.io/) - Headless CMS Front-End - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
-
-## Website Analysis / Analytics
-*Wonder how the big guys do it?*
-
-* [Built with](https://builtwith.com/) - Find out what websites are Built With - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
-* [Matomo](https://matomo.org/) - Web Analytics, Powerful Insights (alternative to google analytics, ...) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
-
-
-## Website Speedtest / Performance and Configuration analysis
-*Make it fast*
-
-* [Dareboost](https://www.dareboost.com/fr) - Website performance checking tool - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
-* [Google lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
-* [Google pagespeed](https://developers.google.com/speed/pagespeed/insights/) - PageSpeed Insights (PSI) reports on the performance of a page on both mobile and desktop devices, and provides suggestions on how that page may be improved. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
-* [GTMetrix](https://gtmetrix.com/) -We'll breakdown your page performance in a summarized report: PageSpeed and YSlow scores and Recommendations, Page Load Details (time, size, number of requests), Waterfall, ... - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
-* [Pingdom](https://tools.pingdom.com/) - With Pingdom you can monitor your websites' uptime, performance, and interactions for a better end-user-experience. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
-* [redbot](https://redbot.org/) - lint for HTTP resources; it tests protocol correctness, cacheability, content negotiation and more. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
-* [Sitespeed.io](https://github.com/sitespeedio/sitespeed.io/) - Helps you monitor, analyze and optimize your website speed and performance - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
-* [Webhint](https://webhint.io/scanner/) - webhint is a customizable linting tool that helps you improve your site's accessibility, speed, cross-browser compatibility, and more by checking your code for best practices and common errors. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/webhintio/hint)
-* [Webpagetest](http://www.webpagetest.org/) - Test a website's performance, helfpul waterfall charts - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
-* [Yellowlab](https://yellowlab.tools) - WebPerf and front-end quality testing tool - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/YellowLabTools/YellowLabTools/)
 
 ## Writing / Markdown / Rendering
 
 * [doctoc](https://github.com/thlorenz/doctoc) - Generates table of contents for markdown files - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [GitHub buttons](https://ghbtns.com/) - Showcase your GitHub repo’s success with hotlinkable GitHub star, fork, sponsor, and follow buttons. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [github-buttons](https://github.com/ntkme/github-buttons) - Unofficial github:buttons - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Joplin](https://github.com/laurent22/joplin) - note taking and to-do application - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [mdx](https://github.com/mdx-js/mdx) - Use JSX in your markdown documents. You can import components, like interactive charts or notifications, and export metadata. This makes writing long-form content with components a blast. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
