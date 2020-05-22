@@ -24,6 +24,15 @@
         "content",
         "doc"
       ]
+    },
+    {
+      "login": "dertuxmalwieder",
+      "name": "Cthulhux",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/125629?v=4",
+      "profile": "https://code.rosaelefanten.org",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
