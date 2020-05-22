@@ -1,5 +1,5 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=round)](#contributors-) [![Build Status](https://travis-ci.com/trolologuy/useful-tools.svg?branch=master)](https://travis-ci.com/trolologuy/useful-tools)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Useful Tools :mag_right: 
@@ -34,6 +34,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="http://blog.9wd.eu"><img src="https://avatars1.githubusercontent.com/u/1257835?v=4" width="100px;" alt=""/><br /><sub><b>Felix Bartels</b></sub></a><br /><a href="https://github.com/trolologuy/useful-tools/issues?q=author%3Afbartels" title="Bug reports">🐛</a> <a href="#projectManagement-fbartels" title="Project Management">📆</a></td>
     <td align="center"><a href="https://trolologuy.github.io/"><img src="https://avatars2.githubusercontent.com/u/16886290?v=4" width="100px;" alt=""/><br /><sub><b>trolologuy</b></sub></a><br /><a href="#content-trolologuy" title="Content">🖋</a> <a href="https://github.com/trolologuy/useful-tools/commits?author=trolologuy" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://code.rosaelefanten.org"><img src="https://avatars3.githubusercontent.com/u/125629?v=4" width="100px;" alt=""/><br /><sub><b>Cthulhux</b></sub></a><br /><a href="#content-dertuxmalwieder" title="Content">🖋</a></td>
   </tr>
 </table>
 
