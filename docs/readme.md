@@ -16,6 +16,7 @@ sidebarDepth: 2
 * [Borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [ceph](https://ceph.io/) - Storage platform - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [ddrescue](https://www.gnu.org/software/ddrescue/) - A data recovery tool. It copies data from one file or block device (hard disc, cdrom, etc) to another, trying to rescue the good parts first in case of read errors - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere.
 * [Duplicity](http://duplicity.nongnu.org/) - Duplicity backs directories by producing encrypted tar-format volumes and uploading them to a remote or local file server. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [lodestone](https://github.com/AnalogJ/lodestone/) - Personal Document Archiving (DMS, EDMS for Personal/Home Office use) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
