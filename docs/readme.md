@@ -604,6 +604,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 
 ## RSS / News aggregator
 * [reederapp](https://reederapp.com/) - your news reader for macOS and iOS - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
+* [rssfs](https://github.com/dertuxmalwieder/rssfs) - Mount RSS feeds as file systems - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [tt-rss](https://tt-rss.org/) - Web-based news feed (RSS/Atom) reader and aggregator - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ## Lamp Stack
@@ -614,6 +615,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 ## Mail
 *That relict of the past*
 
+* [aerc](https://aerc-mail.org) - A terminal-based e-mail client for power users - [![](https://img.shields.io/badge/pricing-open--source-green)]
 * [dnswl](https://www.dnswl.org/) - E-Mail Reputation – Protect against false positives. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [imapsync](https://imapsync.lamiral.info/) - An IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/imapsync/imapsync)
 * [Kanbanmail](https://kanbanmail.app/) - Kanban and email in one tool - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
@@ -760,6 +762,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 ## Operating Systems / Virtualization
 *My toaster runs on Linux!*
 
+* [9front](http://9front.org) - A modernized fork of Plan 9, the distributed operating system - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [kaosx](https://kaosx.us/) - A Lean KDE Distribution - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [proxmox](https://www.proxmox.com/en/) - Operating System for enterprise virtualization. With the built-in web interface you can easily manage VMs and containers, software-defined storage and networking, high-availability clustering, and multiple out-of-the-box tools on a single solution. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [qemu](https://www.qemu.org/) - A generic machine emulator and virtualizer. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/qemu/QEMU)
@@ -820,6 +823,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [meetingbird](https://www.meetingbird.com) - Simply schedule your meetins (integrates with gmail) - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [mindnode](https://mindnode.com/) - Mindmap and brainstorming - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Openproject](https://www.openproject.org/) - Collaborative Project Management: project management software. Gantt charts, Agile, Scrum, Wiki, ... - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [org-mode](https://orgmode.org) - Keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [simplemind](https://simplemind.eu/) - Mindmap - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [shipright](https://www.shipright.co/) - One organized place for product feedback - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [startinfinity](https://startinfinity.com/) - Kanban & More - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
