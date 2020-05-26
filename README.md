@@ -15,6 +15,8 @@ Please feel free to comment or open a pull request if you know better tools / or
 
 ![](https://media.giphy.com/media/yhcqymRLlv7K8/giphy.gif)
 
+Thanks a lot to Algolia for providing the search mechanism through [docsearch](https://docsearch.algolia.com/) !
+
 ## Usage
 
 You can either find the source [markdown file here](docs/readme.md), or access [the result here](https://trolologuy.github.io/useful-tools/).
