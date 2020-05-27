@@ -155,6 +155,7 @@ Please feel free to comment or open a pull request if you know better tools / or
 * [progress](https://github.com/verigak/progress) - Easy to use progress bars for Python - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [python-progressbar](https://github.com/WoLpH/python-progressbar) - A progress bar for Python 2 and Python 3 - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ## Cheatsheets
 *How was it again?*
