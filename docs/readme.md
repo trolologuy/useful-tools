@@ -23,6 +23,7 @@ Please feel free to comment or open a pull request if you know better tools / or
 * [Postman](https://www.postman.com/downloads/) - Complete API Development Environment - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Swagger](https://swagger.io/tools/open-source/) - Easy-to-use suite of API developer tools for teams and individuals, enabling development across the entire API lifecycle, from design and documentation, to test and deployment - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [Postwoman](https://github.com/liyasthomas/postwoman) - A free, fast and beautiful API request builder (web alternative to Postman) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ## Backup / Archiving / Restoration / ...
 *This category doesn't need an introduction i guess*
