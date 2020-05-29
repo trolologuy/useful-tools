@@ -42,6 +42,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "sobolevn",
+      "name": "Nikita Sobolev",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/4660275?v=4",
+      "profile": "https://sobolevn.me",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
