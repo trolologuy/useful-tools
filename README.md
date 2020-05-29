@@ -1,5 +1,5 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Useful Tools :mag_right: 
@@ -38,6 +38,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://trolologuy.github.io/"><img src="https://avatars2.githubusercontent.com/u/16886290?v=4" width="100px;" alt=""/><br /><sub><b>trolologuy</b></sub></a><br /><a href="#content-trolologuy" title="Content">🖋</a> <a href="https://github.com/trolologuy/useful-tools/commits?author=trolologuy" title="Documentation">📖</a></td>
     <td align="center"><a href="https://code.rosaelefanten.org"><img src="https://avatars3.githubusercontent.com/u/125629?v=4" width="100px;" alt=""/><br /><sub><b>Cthulhux</b></sub></a><br /><a href="#content-dertuxmalwieder" title="Content">🖋</a></td>
     <td align="center"><a href="https://deadc0de.re"><img src="https://avatars1.githubusercontent.com/u/8973919?v=4" width="100px;" alt=""/><br /><sub><b>deadc0de</b></sub></a><br /><a href="#content-deadc0de6" title="Content">🖋</a></td>
+    <td align="center"><a href="https://sobolevn.me"><img src="https://avatars1.githubusercontent.com/u/4660275?v=4" width="100px;" alt=""/><br /><sub><b>Nikita Sobolev</b></sub></a><br /><a href="#content-sobolevn" title="Content">🖋</a></td>
   </tr>
 </table>
 
