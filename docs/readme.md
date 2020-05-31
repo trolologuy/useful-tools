@@ -17,6 +17,14 @@ Since they did not fully suited my need, i preferred to go with my own version.
 
 Please feel free to comment or open a pull request if you know better tools / or alternatives or if some links are dead, ... 😉
 
+## Architecture / Modelling / UML / Diagrams
+*Planning is half the work*
+
+* [cloudcraft](https://cloudcraft.co/) - Visualize your cloud architecture like a pro: create smart AWS diagrams - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [gliffy](https://www.gliffy.com/) - Diagram software that integrates into confluence - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
+* [Staruml](http://staruml.io/) -  A sophisticated Cross-Platform software modeler for agile and concise modeling - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [yed](https://www.yworks.com/products/yed) - Quickly and effectively generate high-quality diagrams. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+
 ## Application Programming Interface (API) Development
 *'cause i'm API*
 
@@ -311,6 +319,7 @@ Guide to securing and improving privacy on macOS - [![](https://img.shields.io/b
 * [devilbox](https://github.com/cytopia/devilbox) - Docker LAMP stack and MEAN stack for local development - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [gasmask](https://github.com/2ndalpha/gasmask) - Hosts file manager for macOS - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [slashb](https://slashb.app/) - Spend half the time designing and developing responsive websites by testing them on multiple screens at once - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
+* [ngrok](https://ngrok.com/) -  Spend more time programming. One command for an instant, secure URL to your localhost server through any NAT or firewall. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [netsleuth](https://netsleuth.io/) - Use Chrome's Network Inspector with anything - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [sitebulb](https://sitebulb.com/) - Search Engine Optimization (SEO) tool - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [Unzipper](https://github.com/ndeet/unzipper) - Small class to extract + compress .zip, .gz, .rar archives via browser. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -474,11 +483,6 @@ Guide to securing and improving privacy on macOS - [![](https://img.shields.io/b
 * [Vectr](https://vectr.com/) - Web and Desktop cross-platform Graphics Software - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Webolution](http://fabianburghardt.de/webolution/) - Explore the evolution of Webdesign from 1991 to 2015 - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
-### Modelling / UML / Diagrams
-* [gliffy](https://www.gliffy.com/) - Diagram software that integrates into confluence - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
-* [Staruml](http://staruml.io/) -  A sophisticated Cross-Platform software modeler for agile and concise modeling - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
-* [yed](https://www.yworks.com/products/yed) - Quickly and effectively generate high-quality diagrams. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
-
 ### Free Stock Images
 * [deathtothestockphoto](https://deathtothestockphoto.com/) - Sign-up to get free photo sample. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Freepik](https://www.freepik.com) - Free Vectors, Stock Photos, PSD and Icons - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -574,13 +578,13 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 
 ## Recruitment / Job searching / Interviews
 *Getting paid for following your passion is even more fun, isn't it?*
-
 * [devops-exercises](https://github.com/bregman-arie/devops-exercises) - Questions and exercises on various technical topics, sometimes related to DevOps and SRE :) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [honeypot](https://www.honeypot.io/) - :uk: / :de: / NL - Europe’s developer-focused job platform.
 * [Interview Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map/blob/master/README-EN.md) - This is a map that can help you to prepare for the next job interview
 * [stackoverflow - jobs](https://stackoverflow.com/jobs) - :uk:
 * [talent.io](https://www.talent.io/en/) -  :uk: - Get the tech job you deserve. The simplest way to find full-time and contract tech positions in Europe
 * [test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - This project contains 284 test questions and answers that can be used as a test your knowledge or during an interview/exam for position such as Linux (*nix) System Administrator. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [triplebyte](https://triplebyte.com/) -  Showcase your tech skills and hear from top companies! - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [tweetjobs](https://tweetjobs.dev/) - :uk: Find Latest Jobs from Twitter
 
 ### Create a resume
@@ -759,6 +763,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 
 ### Plex-related
 * [Export tools for Plex](https://github.com/ukdtom/ExportTools.bundle) - Export Plex Library to a csv, xlsx or m3u8 file - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [JBOPS](https://github.com/blacktwin/JBOPS) - Just a Bunch Of Plex Scripts - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [PlexRedirect](https://github.com/ITRav4/PlexRedirect) - A Plex landing page that redirects you to various sites. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [python-plexapi](https://github.com/pkkid/python-plexapi) - Python bindings for the Plex API. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Plex Requests](https://github.com/lokenx/plexrequests-meteor) - Plex Requests: Simple automated way for users to request new content for Plex - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
