@@ -1009,6 +1009,7 @@ for the best of both worlds. - [![](https://img.shields.io/badge/pricing-commerc
 
 ### Password Manager
 * [Buttercup](https://buttercup.pw/) - Cross-platform, free and open-source password manager based on NodeJS. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [Passbolt](https://github.com/passbolt) - Open source password manager for teams. - [![](https://travis-ci.org/passbolt/passbolt-appjs.svg?branch=master)](#)
 * [Password store](https://www.passwordstore.org/) - Standard unix password manager - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Keepassxc](https://keepassxc.org/) - Cross-platform community fork of KeePassX. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/keepassxreboot/keepassxc)
 * [Keeweb](https://keeweb.info/) - Cross-platform password manager compatible with KeePass - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/keeweb/keeweb)
