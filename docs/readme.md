@@ -28,6 +28,7 @@ Please feel free to comment or open a pull request if you know better tools / or
 ## Application Programming Interface (API) Development
 *'cause i'm API*
 
+* [fastapi](https://github.com/tiangolo/fastapi) - Modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Postman](https://www.postman.com/downloads/) - Complete API Development Environment - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Swagger](https://swagger.io/tools/open-source/) - Easy-to-use suite of API developer tools for teams and individuals, enabling development across the entire API lifecycle, from design and documentation, to test and deployment - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -159,11 +160,15 @@ Please feel free to comment or open a pull request if you know better tools / or
 ### Python
 * [Black](https://github.com/psf/black) - The uncompromising Python code formatter - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [colorama](https://github.com/tartley/colorama) - cross-platform colored terminal text in Python - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
-* [pythondialog](https://pypi.org/project/pythondialog/) - A Python interface to the UNIX dialog utility and mostly-compatible programs - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
-* [Pylint](https://github.com/PyCQA/pylint) - A Python static code analysis tool (linter) which looks for programming errors, helps enforcing a coding standard, sniffs for code smells and offers simple refactoring suggestions. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [context_menu](https://github.com/saleguas/context_menu) - A Python library to create and deploy cross-platform native context menus. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [progress](https://github.com/verigak/progress) - Easy to use progress bars for Python - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
-* [tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [Pylint](https://github.com/PyCQA/pylint) - A Python static code analysis tool (linter) which looks for programming errors, helps enforcing a coding standard, sniffs for code smells and offers simple refactoring suggestions. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [python-package-template](https://github.com/TezRomacH/python-package-template) - 🚀 Your next Python package needs a bleeding-edge project structure. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [python-progressbar](https://github.com/WoLpH/python-progressbar) - A progress bar for Python 2 and Python 3 - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [pythondialog](https://pypi.org/project/pythondialog/) - A Python interface to the UNIX dialog utility and mostly-compatible programs - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [Simpdf](https://github.com/shashanoid/Simpdf) - Simple PDF text editor - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [typer](https://github.com/tiangolo/typer) - Easy to code. Based on Python type hints. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ## Cheatsheets
@@ -192,6 +197,7 @@ Guide to securing and improving privacy on macOS - [![](https://img.shields.io/b
 * [harness](https://harness.io/) - Jenkins Pipelines not scaling for CD? - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Jenkins](https://jenkins.io/) - An automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/jenkinsci/jenkins)
 * [Rudder](https://www.rudder.io/en/) - Multi-platform solution for managing configurations of mission-critical systems. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [shipjs](https://github.com/algolia/shipjs) - Take control of what is going to be your next release. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Travis](https://travis-ci.org/) - Test and Deploy code - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
 ## Databases - Related Stuff
@@ -266,6 +272,7 @@ Guide to securing and improving privacy on macOS - [![](https://img.shields.io/b
 * [public apis](https://public-apis.xyz/) - Learn & Fuel up your tools, apps and business with powerful 1000+ public apis. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [rabbitmq](https://www.rabbitmq.com/) - Message Broker - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Socket](https://socket.io/) -  Socket.IO enables real-time, bidirectional and event-based communication. It works on every platform, browser or device, focusing equally on reliability and speed. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/socketio/socket.io)
+* [yeoman](https://github.com/yeoman/yeoman) - A set of tools for automating development workflow - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs. (windows 98 style) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ### PHP
@@ -284,9 +291,11 @@ Guide to securing and improving privacy on macOS - [![](https://img.shields.io/b
 * [i18next](https://www.i18next.com/) -  An internationalization-framework written in and for JavaScript.  It provides you with a complete solution to localize your product from web to mobile and desktop. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [jdash](http://jdash.io/#about) - A customizable Javascript + Backend platform for adding end user designable dashboards into your web application - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [htmldom](https://htmldom.dev/) - Manage HTML DOM with vanilla JavaScript - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Mustache JS](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Parallax](https://pixelcog.github.io/parallax.js/) - Parallax.js is a dirt simple parallax scrolling effect inspired by Spotify.com and implemented as a jQuery plugin. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/pixelcog/parallax.js/)
 * [PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Create PowerPoint Presentations through JavaScript. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [riot.js](https://riot.js.org/) - Simple and elegant component-based UI library - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 #### Node.js
@@ -321,6 +330,7 @@ Guide to securing and improving privacy on macOS - [![](https://img.shields.io/b
 * [slashb](https://slashb.app/) - Spend half the time designing and developing responsive websites by testing them on multiple screens at once - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [ngrok](https://ngrok.com/) -  Spend more time programming. One command for an instant, secure URL to your localhost server through any NAT or firewall. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [netsleuth](https://netsleuth.io/) - Use Chrome's Network Inspector with anything - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [PureCSS-Font](https://github.com/cyanharlow/PureCSS-Font) - For private, SEO-hidden, CAPTCHA-friendly unselectable text. Deter plagiarism and spambots! - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [sitebulb](https://sitebulb.com/) - Search Engine Optimization (SEO) tool - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [Unzipper](https://github.com/ndeet/unzipper) - Small class to extract + compress .zip, .gz, .rar archives via browser. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
@@ -418,13 +428,14 @@ Guide to securing and improving privacy on macOS - [![](https://img.shields.io/b
 * [snipeit](https://snipeitapp.com/) - Say goodbye to spreadheets. Asset Management System. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Sogo](https://sogo.nu/) - Share your calendars, address books and mails in your community (groupware). - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
-## File Sharing / downloader
+## File Sharing / downloader / converter
 *Sharing is caring*
 
 * [ARTE-7-Downloader](https://github.com/GuGuss/ARTE-7-Downloader) - Download content from Arte - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [DC++](http://dcplusplus.sourceforge.net/) - Direct Connect allows you to share files over the Internet without restrictions or limits. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Gofile](https://gofile.io) - File sharing platform, anonymous and free - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [MystiQ](https://github.com/swl-x/MystiQ/) - GUI for FFmpeg for linux, windows and macOS - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [lftp](https://github.com/lavv17/lftp) - A sophisticated command line file transfer program (ftp, http, sftp, fish, torrent) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [piknik](https://github.com/jedisct1/piknik) - Copy/paste anything over the network. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Plik](https://plik.root.gg) Plik is a scalable & friendly temporary file upload system ( wetransfer like ) in golang. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/root-gg/plik/tree/master)
@@ -788,6 +799,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [mxtoolbox](https://mxtoolbox.com/) - Very helpful website for diagnostics on DNS zones, mail settings, ... - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [nmap](https://github.com/nmap/nmap) - Network Mapper - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [netbox](https://github.com/netbox-community/netbox) - IP address management (IPAM) and data center infrastructure management (DCIM) tool. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [phpipam](https://phpipam.net/) - Web IP address management application (IPAM) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Speedtest](https://github.com/sivel/speedtest-cli) - Test your internet bandwidth via the cli. It uses speedtest.net - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [speedtest](https://www.speedtest.net/) - Test your internet connection's speed - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [spotipo](https://www.spotipo.com/) - Hotspot portal for your existing WiFi router. For using,you will need to have a router that supports Spotipo.  - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
@@ -820,6 +832,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [estcequonpeutpartir](http://estcequonpeutpartir.fr/) - :fr: Helps taking decisions on where to go on holiday - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [farmbot](https://farm.bot/) - Open-Source CNC Farming - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/FarmBot/Farmbot-Web-App)
 * [Great escape](https://greatescape.co) - Flight tracker / Travel helper that helps take decisions or find new destinations based on prices and many other categories, for example if you want to start travelling from a specific starting point - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Open Street map](https://www.openstreetmap.org) - OpenStreetMap is the free wiki world map. OpenStreetMap is a map of the world, created by people like you and free to use under an open license. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [openHAB](https://www.openhab.org/) - Automation software for your home (smart home) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Public Money? Public Code!](https://publiccode.eu/openletter/) - Publicly funded software has to be Free and Open Source Software. While there are plenty of good reasons for this, many politicians don’t know about them yet.
@@ -934,6 +947,7 @@ for the best of both worlds. - [![](https://img.shields.io/badge/pricing-commerc
 * [xdebug](https://xdebug.org/) -  Xdebug is an extension for PHP to assist with debugging and development. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/xdebug/xdebug)
 
 ### git / code repositories
+* [gitchangelog](https://github.com/vaab/gitchangelog) - Creates a changelog from git log history. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [gitea](https://gitea.io/en-us/) - A painless self-hosted Git service. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/go-gitea/gitea)
 * [Gitlab](https://gitlab.com/) - A web-based DevOps lifecycle tool + git repository manager - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -968,6 +982,7 @@ for the best of both worlds. - [![](https://img.shields.io/badge/pricing-commerc
 * [shareit](https://shareit.video/) - Share screen recordings instantly - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [ScreenshotFramer](https://github.com/IdeasOnCanvas/ScreenshotFramer) - Create localized App Store screenshots - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [terminalizer](https://github.com/faressoft/terminalizer) - Record your terminal and generate animated gif images or share a web player - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 
 ## Scrapping / Parsing
@@ -1010,6 +1025,7 @@ for the best of both worlds. - [![](https://img.shields.io/badge/pricing-commerc
 * [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [cygwin]() - Get that Linux feeling but on Windows - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/cygwin/cygwin)
 * [easyigloo](https://easyigloo.org/) - A powerful, context-oriented command-line interface which allows IT gurus to manage their Windows desktop and server machines with ease. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [exa](https://github.com/ogham/exa) - A modern version of ‘ls’. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [FinderGo](https://github.com/onmyway133/FinderGo) - Open terminal quickly from Finder (macOS) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [howdoi](https://github.com/gleitz/howdoi) - Instant coding answers via the command line - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [HTTPie](https://github.com/jakubroztocil/httpie/) - cURL-like tool for humans - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -1042,6 +1058,9 @@ for the best of both worlds. - [![](https://img.shields.io/badge/pricing-commerc
   - colored-man-pages
   - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 
+### Oh-my-zsh Aliases
+  - [bat](https://github.com/sharkdp/bat) alternative to cat
+  - [exa](https://github.com/ogham/exa) alternative to ls
 
 ## System utilities
 *Automate all the things! ... or at least try to make your life easier*
@@ -1119,6 +1138,8 @@ Add a global delay to Command-Q to stop accidental app quits. - [![](https://img
 
 ## VPN
 * [subspace](https://github.com/subspacecloud/subspace) - simple WireGuard VPN server GUI - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [tailscale](https://tailscale.com/) -  Connect all your devices using WireGuard,
+without the hassle. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [wireguard](https://www.wireguard.com/) - Fast, Modern, Secure VPN Tunnel - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [wg-gen-web](https://github.com/vx3r/wg-gen-web) - Simple Web based configuration generator for WireGuard - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
@@ -1138,6 +1159,7 @@ Add a global delay to Command-Q to stop accidental app quits. - [![](https://img
 * [doctoc](https://github.com/thlorenz/doctoc) - Generates table of contents for markdown files - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [GitHub buttons](https://ghbtns.com/) - Showcase your GitHub repo’s success with hotlinkable GitHub star, fork, sponsor, and follow buttons. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [github-buttons](https://github.com/ntkme/github-buttons) - Unofficial github:buttons - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [Ghost](https://github.com/TryGhost/Ghost) - The #1 headless Node.js CMS for professional publishing - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Joplin](https://github.com/laurent22/joplin) - note taking and to-do application - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [mdx](https://github.com/mdx-js/mdx) - Use JSX in your markdown documents. You can import components, like interactive charts or notifications, and export metadata. This makes writing long-form content with components a blast. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
