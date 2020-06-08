@@ -46,6 +46,8 @@ Please feel free to comment or open a pull request if you know better tools / or
 * [lodestone](https://github.com/AnalogJ/lodestone/) - Personal Document Archiving (DMS, EDMS for Personal/Home Office use) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [phpmyadmin_sql_backup](https://github.com/qubitstream/phpmyadmin_sql_backup) - A Python script to automate SQL dumps via phpMyAdmin's web interface - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [rsync](https://rsync.samba.org/) - An utility that provides fast incremental file transfer that can use rsh, ssh or direct sockets as the transport  - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [rclone](https://rclone.org/) - A command line program to manage files on cloud storage. Rclone can mount any local, cloud or virtual filesystem as a disk on Windows, macOS, linux and FreeBSD, and also serve these over SFTP, HTTP, WebDAV, FTP and DLNA. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [shallow-backup](https://github.com/alichtman/shallow-backup) -  Git-integrated backup tool for macOS and Linux devs. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [sqlbackup](https://sqlbak.com/) - Backup, monitor and restore databases from the web - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [unraid](https://unraid.net/product) - Linux-based operating system optimized for media file storage - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
@@ -64,6 +66,7 @@ Please feel free to comment or open a pull request if you know better tools / or
 * [Developer Portfolios](https://github.com/emmabostian/developer-portfolios) - A list of developer portfolios for your inspiration
 * [Frankys Web](https://www.frankysweb.de) - :de: - Exchange-Guru
 * [Golem](https://www.golem.de) - :de: - News
+* [haydenjames](https://haydenjames.io/) - :uk: - A blog covering Linux Systems Administration
 * [Heise](https://www.heise.de) - :de: - News
 * [korben.info](https://korben.info/) - :fr: - Famous blogger
 * [lanbugs](https://lanbugs.de/) - :de: - Interesting reallife examples
@@ -149,6 +152,7 @@ Please feel free to comment or open a pull request if you know better tools / or
 
 * [bundlephobia](https://github.com/pastelsky/bundlephobia) - Find the cost of adding a node npm package to your bundle - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [codeclimate](https://codeclimate.com/) - Automated code review and quality analytics. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [editorconfig](https://github.com/editorconfig/editorconfig) - EditorConfig helps maintain consistent coding styles for multiple developers working on the same project across various editors and IDEs. The EditorConfig project consists of a file format for defining coding styles and a collection of text editor plugins that enable editors to read the file format and adhere to defined styles. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [gerrit](https://github.com/GerritCodeReview/gerrit) - Code Review tool - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [lepton](https://github.com/hackjutsu/Lepton) - Snippet Management (macOS/Win/Linux) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [rebound](https://github.com/shobrook/rebound/) - Command-line tool that instantly fetches Stack Overflow results when an exception is thrown. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -273,6 +277,7 @@ Guide to securing and improving privacy on macOS - [![](https://img.shields.io/b
 * [DockProgress](https://github.com/sindresorhus/DockProgress) - Show progress in your macOS app's Dock icon - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [easings](https://easings.net/en#) - Easing functions specify the rate of change of a parameter over time. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Fusioncharts](https://www.fusioncharts.com) - Get interactive and responsive charts for all your projects - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
+* [gridjs](https://gridjs.io/) -
 * [Getuikit](https://getuikit.com/) - A lightweight and modular front-end framework for developing fast and powerful web interfaces - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/uikit/uikit)
 * [google chart](https://developers.google.com/chart/) - Display live data on your site - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/google/charts)
 * [Hot Examples](https://hotexamples.com/) - Code examples from over 1.000.000 projects for PHP, Python, Java, ... - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -340,6 +345,7 @@ Guide to securing and improving privacy on macOS - [![](https://img.shields.io/b
 ### Webdevelopment
 * [devilbox](https://github.com/cytopia/devilbox) - Docker LAMP stack and MEAN stack for local development - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [gasmask](https://github.com/2ndalpha/gasmask) - Hosts file manager for macOS - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [responsively-app](https://github.com/manojVivek/responsively-app) - Open Source alternative to slashb. It's a modified browser that helps in responsive web development - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [slashb](https://slashb.app/) - Spend half the time designing and developing responsive websites by testing them on multiple screens at once - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [ngrok](https://ngrok.com/) -  Spend more time programming. One command for an instant, secure URL to your localhost server through any NAT or firewall. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [netsleuth](https://netsleuth.io/) - Use Chrome's Network Inspector with anything - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -390,6 +396,7 @@ Guide to securing and improving privacy on macOS - [![](https://img.shields.io/b
 * [Docsify](https://github.com/docsifyjs/docsify/) - A magical documentation site generator - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Docusaurus](https://github.com/facebook/Docusaurus) - Easy to maintain open source documentation websites - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Docute](https://github.com/egoist/docute) - Effortless documentation, done right. Markdown + vue - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [gitbook](https://www.gitbook.com/) - Document Everything! A modern documentation platform where teams can document everything from products to internal knowledge-bases and APIs - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Knowledge Repo](https://github.com/airbnb/knowledge-repo) - A next-generation curated knowledge sharing platform for data scientists and other technical professions. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Mediawiki](https://www.mediawiki.org) - The wiki system that powers Wikipedia - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/wikimedia/mediawiki)
 * [MKdocs](http://www.mkdocs.org/) - Fast, simple and static site generator based on Markdown - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/mkdocs/mkdocs/)
@@ -397,6 +404,7 @@ Guide to securing and improving privacy on macOS - [![](https://img.shields.io/b
 * [organigram](https://github.com/proshoumma/organigram) - A JSON based tree structure with drag and drop functionally to re-arrange the tree. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [percollate](https://github.com/danburzo/percollate) - 🌐 → 📖 A command-line tool to turn web pages into beautifully formatted PDFs - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [PHPback](http://www.phpback.org/) - Feedback system - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/ivandiazwm/phpback/)
+* [rootnroll](https://welcome.rootnroll.com/) -  Interactive playground in a browser for your GitHub projectGet an isolated environment with your software ready to be played with - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Rmarkdown](https://github.com/rstudio/rmarkdown) - Create dynamic analysis documents that combine code, rendered output (such as figures), and prose. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Slate](https://github.com/slatedocs/slate) - Create beautiful, intelligent, responsive API documentation - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Sphinx](http://www.sphinx-doc.org/en/stable/index.html) - Documentation builder, especially usefull for source code - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/sphinx-doc/sphinx/)
@@ -421,6 +429,11 @@ Guide to securing and improving privacy on macOS - [![](https://img.shields.io/b
 * [runme](https://runme.io/) - Run your application from any public Git-repo with one click - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Traeffik](https://github.com/containous/traefik/) - A HTTP reverse proxy and load balancer that makes deploying microservices easy- [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Watchtower](https://github.com/v2tec/watchtower) - A process for automating Docker container base image updates - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/containrrr/watchtower)
+
+## Ebooks
+* [calibre-web](https://github.com/janeczku/calibre-web) - Web app for browsing, reading and downloading eBooks stored in a Calibre database - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [feedbooks](https://www.feedbooks.com/publicdomain) - Discover thousands of public domain books - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [openlibrary](https://openlibrary.org/) - One webpage for every book ever published! - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ## Emulation
 *Feeling retro?*
@@ -479,10 +492,7 @@ Guide to securing and improving privacy on macOS - [![](https://img.shields.io/b
 ## Graphics / Design / Icons
 *echo "sheep"*
 
-* [Affinity](https://affinity.serif.com) - Great alternative to Photoshop - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
-* [bgeraser](http://bgeraser.com/) - Remove Background from Images - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Canva](https://www.canva.com/) - Create designs and documents in minutes - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
-* [Clrs](http://clrs.cc/) - A nicer color palette for the web. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [CSS Zengarden](http://www.csszengarden.com/) - A demonstration of what can be accomplished through CSS-based design - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Draw](https://www.draw.io/) - Online diagramming web site- [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/jgraph/drawio)
 * [favicon](https://favicon.io/) - Favicon generator. Create a favicon in few simple clicks. Generate a favicon from text, from an image, or from an emoji. Download in .ico and .png formats. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -491,22 +501,34 @@ Guide to securing and improving privacy on macOS - [![](https://img.shields.io/b
 * [getavataaars](https://getavataaars.com/) - Create a simple avatar for your online presence in just a few clicks - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [imglarger](https://imglarger.com/) - Enlarge Images Without Losing Quality - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [invisionapp](https://www.invisionapp.com/) - Digital product design platform, useful for building mockups, designs for websites, ... - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
-* [Inkscape](https://inkscape.org/) - A professional cross-platform vector graphics editor - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [JSpaint](https://jspaint.app) - You missed MS Paint? It's back ! - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/1j01/jspaint)
 * [Logo](https://logo.com/) - Make a logo in minutes - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [Nordesource](https://norde.io/) - Crossplatform (linux, widows macOS) SVG Icon manager and editor. Customize entire icon sets to fit your brand. Built for designers, developers, ... . - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [orioniconlibrary](https://www.orioniconlibrary.com/) - Free icons - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
-* [paletton](http://paletton.com/) - A Color Scheme Designer / Palette - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Picsum](https://picsum.photos/) - Lorem Ipsum for images - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [placeholder.com](https://placeholder.com/) - Free Image Placeholder Service - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [pngkey](https://www.pngkey.com/) -  Largest Archive Of Transparent PNG. No attribution required! - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
-* [rgb.to](https://rgb.to/) - Convert color values and find colour schemes simply - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [storybook.js](https://storybook.js.org/) - Build bulletproof UI components faster
+Storybook is an open source tool for developing UI components in isolation for React, Vue, and Angular. It makes building stunning UIs organized and efficient. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 350 free MIT-licensed high-quality SVG icons for you to use in your web projects - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [UI Design Daily](https://uidesigndaily.com/) - Daily examples of UI available as Sketch, Photoshop, Figma, Studio, ... files. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [uizard](https://uizard.io/) - Transform your hand-drawn wireframes into digital design files and front-end code – automatically! - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [vecta](https://vecta.io/symbols) - Flow chart, AWS, Google and Azure cloud symbols - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Vectr](https://vectr.com/) - Web and Desktop cross-platform Graphics Software - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Webolution](http://fabianburghardt.de/webolution/) - Explore the evolution of Webdesign from 1991 to 2015 - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+
+### Image Editing / Drawing
+* [Affinity](https://affinity.serif.com) - Great alternative to Photoshop - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
+* [bgeraser](http://bgeraser.com/) - Remove Background from Images - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [Inkscape](https://inkscape.org/) - A professional cross-platform vector graphics editor - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+
+
+### Color picker / Color schemes
+* [Clrs](http://clrs.cc/) - A nicer color palette for the web. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [coolors](https://coolors.co/) - The super fast color schemes generator! Create the perfect palette or get inspired by thousands of beautiful color schemes. Available as iOS app or Adobe addon. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [paletton](http://paletton.com/) - A Color Scheme Designer / Palette - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [rgb.to](https://rgb.to/) - Convert color values and find colour schemes simply - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+
 
 ### Free Stock Images
 * [deathtothestockphoto](https://deathtothestockphoto.com/) - Sign-up to get free photo sample. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -569,6 +591,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 
 * [Atom](https://atom.io/) - A hackable text editor for the 21st Century - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/atom/atom)
 * [Visual Studio Code](https://code.visualstudio.com/) - Great crossplatform IDE, made by microsoft - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/Microsoft/vscode)
+* [draculatheme](https://github.com/dracula/draculatheme.com) - Dark theme for VIM, VScode, firefox, Telegram, ... - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ### Atom Plugins
   - minimap
@@ -860,6 +883,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 *Bored of powerpoint?*
 
 * [big](https://github.com/tmcw/big) - A configuration-free system for creating presentation (powerpoint style) that naturally encourages good style. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [eagle.js](https://github.com/zulko/eagle.js/) - A hackable slideshow framework built with Vue.js - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [fusuma](https://github.com/hiroppy/fusuma) - Markdown and MDX Presentations (supports custom JS, CSS and React) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [gatsby-starter-deck](https://github.com/fabe/gatsby-starter-deck) - Create presentations using Gatsby, React & Markdown - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentation Service For Developers - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -1194,6 +1218,8 @@ without the hassle. - [![](https://img.shields.io/badge/pricing-open--source-gre
 
 * [doctoc](https://github.com/thlorenz/doctoc) - Generates table of contents for markdown files - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [GitHub buttons](https://ghbtns.com/) - Showcase your GitHub repo’s success with hotlinkable GitHub star, fork, sponsor, and follow buttons. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [github-calendar](https://github.com/Bloggify/github-calendar) - Embed your GitHub contributions calendar everywhere. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [githubchart-api](https://github.com/2016rshah/githubchart-api) - Embed github contributions chart as image - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [github-buttons](https://github.com/ntkme/github-buttons) - Unofficial github:buttons - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Ghost](https://github.com/TryGhost/Ghost) - The #1 headless Node.js CMS for professional publishing - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Joplin](https://github.com/laurent22/joplin) - note taking and to-do application - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
