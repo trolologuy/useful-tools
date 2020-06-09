@@ -153,6 +153,7 @@ Please feel free to comment or open a pull request if you know better tools / or
 * [lepton](https://github.com/hackjutsu/Lepton) - Snippet Management (macOS/Win/Linux) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [rebound](https://github.com/shobrook/rebound/) - Command-line tool that instantly fetches Stack Overflow results when an exception is thrown. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [scc](https://github.com/boyter/scc) - Very fast accurate code counter with complexity calculations - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [ShellCheck](https://www.shellcheck.net/) - ShellCheck finds bugs in your shell scripts. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [snipper](https://snipper.app/) - Code snippets manager - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Sonarlint](https://www.sonarlint.org/) - SonarLint is an IDE extension that helps you detect and fix quality issues as you write code (linter). - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Sonarqube](https://www.sonarqube.org/) - A tool for continuously inspecting the Code Quality and Security of your codebases, and guiding development teams during Code Reviews. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
