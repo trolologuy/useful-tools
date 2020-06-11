@@ -320,6 +320,7 @@ shape divider. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
 ### Javascript
 * [aos](https://github.com/michalsnik/aos) - Animate on scroll library - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [bootboxjs](http://bootboxjs.com/) - Create programmatic dialog boxes using Bootstrap modals, without having to worry about creating, managing, or removing any of the required DOM elements or JavaScript event handlers - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [gatsbyjs](https://www.gatsbyjs.org/) - Framework based on React that helps developers build blazing fast websites and apps. 
 * [Grunt JS](https://gruntjs.com/) - JavaScript Task Runner, automates repetitive tasks like minification, compilation, unit testing, linting, ... - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/gruntjs/grunt)
 * [Handlebar JS](http://handlebarsjs.com/) - Handlebars is a simple templating language it allows building semantic templates effectively (largely compatible with mustache) - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/wycats/handlebars.js)
@@ -327,10 +328,13 @@ shape divider. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [jdash](http://jdash.io/#about) - A customizable Javascript + Backend platform for adding end user designable dashboards into your web application - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [htmldom](https://htmldom.dev/) - Manage HTML DOM with vanilla JavaScript - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [micromodal](https://micromodal.now.sh/) - A lightweight, configurable and a11y-enabled modal library written in pure JavaScript   - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Mustache JS](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [notiflix](https://www.notiflix.com/) - A library for client-side non-blocking notifications, popup boxes, loading indicators, and more - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Parallax](https://pixelcog.github.io/parallax.js/) - Parallax.js is a dirt simple parallax scrolling effect inspired by Spotify.com and implemented as a jQuery plugin. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/pixelcog/parallax.js/)
 * [PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Create PowerPoint Presentations through JavaScript. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [riot.js](https://riot.js.org/) - Simple and elegant component-based UI library - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [tippyjs](https://atomiks.github.io/tippyjs/) - The complete tooltip, popover, dropdown, and menu solution for the web - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 #### Node.js
@@ -442,6 +446,7 @@ shape divider. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [linkerd](https://linkerd.io/) - A service mesh for Kubernetes and beyond. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [metallb](https://metallb.universe.tf/) - Load-balancer implementation for bare metal Kubernetes clusters - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Portainer](https://github.com/portainer/portainer) - A lightweight management UI which allows you to easily manage your different Docker environments (Docker hosts or Swarm clusters). - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [rancher](https://github.com/rancher/rancher) - Complete container management platform - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [runme](https://runme.io/) - Run your application from any public Git-repo with one click - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Traeffik](https://github.com/containous/traefik/) - A HTTP reverse proxy and load balancer that makes deploying microservices easy- [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Watchtower](https://github.com/v2tec/watchtower) - A process for automating Docker container base image updates - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/containrrr/watchtower)
@@ -1174,7 +1179,7 @@ Add a global delay to Command-Q to stop accidental app quits. - [![](https://img
 * [AutoHotkey_L](https://github.com/Lexikos/AutoHotkey_L) - Macro-creation and automation-oriented scripting utility for Windows. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [espanso](https://github.com/federico-terzi/espanso) - Cross-platform Text Expander - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
-## Templates / Dashboards
+## Templates / Dashboards / Tool overview
 * [Admin LTE](https://github.com/almasaeed2010/AdminLTE)
 * [Angular analytics](http://angular-material.fusetheme.com/apps/dashboards/analytics)
 * [backstage](https://github.com/spotify/backstage) - Backstage is an open platform for building developer portals made by spotify - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -1182,6 +1187,7 @@ Add a global delay to Command-Q to stop accidental app quits. - [![](https://img
 * [coreui admin template](https://github.com/coreui/coreui-free-bootstrap-admin-template)
 * [DashMachine](https://github.com/rmountjoy92/DashMachine) - Another web application bookmark dashboard, with fun features. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [dashing](https://github.com/HippyScript/dashing) - A simple home server dashboard - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [golinks](https://github.com/taliamax/golinks) - A personal 'golink' redirect service using nginx and docker - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Heimdall](https://github.com/linuxserver/Heimdall) - Application dashboard and launcher - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Ngx-admin](https://github.com/akveo/ngx-admin)
 * [Organizr](https://github.com/causefx/Organizr) - Homelab Services Organizer - Written in PHP - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
