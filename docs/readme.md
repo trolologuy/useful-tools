@@ -46,6 +46,7 @@ Please feel free to comment or open a pull request if you know better tools / or
 * [fogproject](https://github.com/FOGProject/fogproject) - A cloning/imaging solution/rescue suite. FOG can be used to image Windows XP, Vista, Windows 7, Window 8, and Windows 10 PCs using PXE, PartClone, and a Web GUI to tie it together - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [lodestone](https://github.com/AnalogJ/lodestone/) - Personal Document Archiving (DMS, EDMS for Personal/Home Office use) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [papermerge](https://github.com/ciur/papermerge) - Document Management System (DMS) for Scanned Documents - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [phpmyadmin_sql_backup](https://github.com/qubitstream/phpmyadmin_sql_backup) - A Python script to automate SQL dumps via phpMyAdmin's web interface - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [rsync](https://rsync.samba.org/) - An utility that provides fast incremental file transfer that can use rsh, ssh or direct sockets as the transport  - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [rclone](https://rclone.org/) - A command line program to manage files on cloud storage. Rclone can mount any local, cloud or virtual filesystem as a disk on Windows, macOS, linux and FreeBSD, and also serve these over SFTP, HTTP, WebDAV, FTP and DLNA. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -125,6 +126,7 @@ Please feel free to comment or open a pull request if you know better tools / or
 * [Matrix](https://matrix.org/blog/home/) - A new basis for open, interoperable, decentralised real-time communication - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Rambox](https://rambox.pro/) - Aggregates lots of differents chat-tools - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Rocket Chat](https://rocket.chat/) - The ultimate Free Open Source Solution for team communications - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [Stack](https://getstack.app/) - Stack is a smart browser for internet multitaskers. Manage all your social media, messaging, e-mailing, and productivity apps from one place! - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Signal](https://www.signal.org/) - Fast, simple, secure. Privacy that fits in your pocket. - [![](https://img.shields.io/badge/pricing-free-yellow)]()
 * [Telegram](https://telegram.org/) - Cloud-based mobile and desktop messaging app. Can be extended by many bots or through the API. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Whatsapp](https://www.whatsapp.com/) - Secure, reliable messaging and calling, available on phones. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -516,6 +518,7 @@ shape divider. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
 * [app-mockup](https://app-mockup.com/) - App Mockup & Screenshot Builder - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Canva](https://www.canva.com/) - Create designs and documents in minutes - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [Colorizer](https://deepai.org/machine-learning-model/colorizer) - Colorize black and white images or videos using the image colorization API. Add color to old family photos and historic images, or bring an old film back to life with colorization - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [CSS Zengarden](http://www.csszengarden.com/) - A demonstration of what can be accomplished through CSS-based design - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Draw](https://www.draw.io/) - Online diagramming web site- [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/jgraph/drawio)
 * [favicon](https://favicon.io/) - Favicon generator. Create a favicon in few simple clicks. Generate a favicon from text, from an image, or from an emoji. Download in .ico and .png formats. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -702,6 +705,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 
 ### France
 * [meteojob](https://www.meteojob.com/) - :fr: - Focused on France
+* [Simulateur salaire brut et net](https://droit-finances.commentcamarche.com/faq/83832-simulateur-salaire-brut-et-net-module-de-calcul) - :fr: Brut / Net calculator
 
 ### Germany
 * [brutto-netto-rechner](https://www.brutto-netto-rechner.info/) - :de: Brutto / Netto calculator
@@ -1094,6 +1098,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [ransomwhere](https://objective-see.com/products/ransomwhere.html) - Utility with a simple goal; generically thwart OS X ransomware - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Snort](https://www.snort.org/) - A lightweight network intrusion detection system (NIDS) software for Linux and Windows to detect emerging threats. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Suricata](https://suricata-ids.org/) - Real time intrusion detection (IDS), inline intrusion prevention (IPS), network security monitoring (NSM) and offline pcap processing - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [sqreen](https://www.sqreen.com/) - Application security platform that helps teams protect applications, increase visibility and secure code. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [virus total](https://www.virustotal.com/gui/home) -  Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Zoneminder](https://www.zoneminder.com/) - State-of-the-art video surveillance software system. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/ZoneMinder/ZoneMinder/)
 * [Zydra](https://github.com/hamedA2/Zydra) - File password recovery tool (pdf, rar, zip) and Linux shadow file cracker. It uses the dictionary search or Brute force method for cracking passwords. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -1131,6 +1136,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [simple curses](https://github.com/metal3d/bashsimplecurses) - "Bash simple curses" give you some basic functions to quickly create some windows on you terminal as Xterm, aterm, urxvt... - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt) - Zsh prompt for Astronauts - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Term Markdown viewer](https://github.com/axiros/terminal_markdown_viewer) - Read markdown in your terminal - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age - - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [the fuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [tldr](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [tmux](https://tmux.github.io/) - A terminal multiplexer. It lets you switch easily between several programs in one terminal - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
