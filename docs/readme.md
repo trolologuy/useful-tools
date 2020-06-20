@@ -158,9 +158,11 @@ Please feel free to comment or open a pull request if you know better tools / or
 * [codeclimate](https://codeclimate.com/) - Automated code review and quality analytics. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [editorconfig](https://github.com/editorconfig/editorconfig) - EditorConfig helps maintain consistent coding styles for multiple developers working on the same project across various editors and IDEs. The EditorConfig project consists of a file format for defining coding styles and a collection of text editor plugins that enable editors to read the file format and adhere to defined styles. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [gerrit](https://github.com/GerritCodeReview/gerrit) - Code Review tool - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [commitizen](https://github.com/commitizen/cz-cli) - The commitizen command line utility. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [lepton](https://github.com/hackjutsu/Lepton) - Snippet Management (macOS/Win/Linux) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [rebound](https://github.com/shobrook/rebound/) - Command-line tool that instantly fetches Stack Overflow results when an exception is thrown. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [scc](https://github.com/boyter/scc) - Very fast accurate code counter with complexity calculations - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [super-linter](https://github.com/github/super-linter) -  Combination of multiple linters to install as a GitHub Action  - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [ShellCheck](https://www.shellcheck.net/) - ShellCheck finds bugs in your shell scripts. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [snipper](https://snipper.app/) - Code snippets manager - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Sonarlint](https://www.sonarlint.org/) - SonarLint is an IDE extension that helps you detect and fix quality issues as you write code (linter). - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -373,6 +375,7 @@ shape divider. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [slashb](https://slashb.app/) - Spend half the time designing and developing responsive websites by testing them on multiple screens at once - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [ngrok](https://ngrok.com/) -  Spend more time programming. One command for an instant, secure URL to your localhost server through any NAT or firewall. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [netsleuth](https://netsleuth.io/) - Use Chrome's Network Inspector with anything - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [polyfill-service](https://github.com/financial-times/polyfill-service) - Polyfill.io reads the User-Agent header of each request and returns polyfills that are suitable for the requesting browser - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [sitebulb](https://sitebulb.com/) - Search Engine Optimization (SEO) tool - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [Unzipper](https://github.com/ndeet/unzipper) - Small class to extract + compress .zip, .gz, .rar archives via browser. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
@@ -635,8 +638,10 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 *printf("Hello, World!");*
 
 * [Atom](https://atom.io/) - A hackable text editor for the 21st Century - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/atom/atom)
+* [code-server](https://github.com/cdr/code-server/) - Run VS Code on any machine anywhere and access it in the browser. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [draculatheme](https://github.com/dracula/draculatheme.com) - Dark theme for VIM, VScode, firefox, Telegram, ... - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [spacemacs](https://github.com/syl20bnr/spacemacs) - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim! - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [theia](https://theia-ide.org/) - Theia is an extensible platform to develop multi-language Cloud & Desktop IDEs with state-of-the-art web technologies. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Visual Studio Code](https://code.visualstudio.com/) - Great crossplatform IDE, made by microsoft - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/Microsoft/vscode)
 
 ### Atom Plugins
@@ -861,6 +866,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [WatchSomething](https://pecko95.github.io/WatchSomething/) - No idea what to watch ? Find movies or tv shows to watch instantly, or store them in lists for later ! - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ### Plex-related
+* [Auto-Collections](https://github.com/mza921/Plex-Auto-Collections) -  Python 3 script to automatically update Plex collections based off a configuration file  - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Export tools for Plex](https://github.com/ukdtom/ExportTools.bundle) - Export Plex Library to a csv, xlsx or m3u8 file - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [JBOPS](https://github.com/blacktwin/JBOPS) - Just a Bunch Of Plex Scripts - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [PlexRedirect](https://github.com/ITRav4/PlexRedirect) - A Plex landing page that redirects you to various sites. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -925,6 +931,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [openHAB](https://www.openhab.org/) - Automation software for your home (smart home) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Public Money? Public Code!](https://publiccode.eu/openletter/) - Publicly funded software has to be Free and Open Source Software. While there are plenty of good reasons for this, many politicians don’t know about them yet.
 * [sdelete](https://docs.microsoft.com/en-us/sysinternals/downloads/sdelete) - Securely deleting a file - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [TimeLines](https://github.com/mathieudutour/TimeLines) - Know when all your friends, colleagues, and family are. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Product Hunt Time Machine](https://timemachine.betamode.dev/) - Most voted hunt from every day since Product Hunt records began. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [The true size](https://thetruesize.com) - Easily compare countries with each others - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [vervoe](https://vervoe.com/) - Skill testing software that automatically ranks candidates based on how well they can do the job. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
