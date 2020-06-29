@@ -53,6 +53,8 @@ Please feel free to comment or open a pull request if you know better tools / or
 * [shallow-backup](https://github.com/alichtman/shallow-backup) -  Git-integrated backup tool for macOS and Linux devs. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [sqlbackup](https://sqlbak.com/) - Backup, monitor and restore databases from the web - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [unraid](https://unraid.net/product) - Linux-based operating system optimized for media file storage - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
+* [Windows File Recovery](https://www.microsoft.com/en-us/store/r/windows-file-recovery/9n26s50ln705) - Accidentally deleted an important file? Wiped clean your hard drive? Unsure of what to do with corrupted data? Windows File Recovery can help recover your personal data. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+
 
 ## Blogs
 *Some helpful Blogs and Tech News websites*
@@ -370,8 +372,11 @@ shape divider. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [python-faker](https://github.com/joke2k/faker) - A Python package that generates fake data for you - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ### Webdevelopment
+* [awesome-react-generator](https://github.com/iamtabrezkhan/awesome-react-generator) - No more clicking around to create files in your react project! Awesome React Generator is Command Line Tool that let's you generate component files/folders without leaving your terminal. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [devilbox](https://github.com/cytopia/devilbox) - Docker LAMP stack and MEAN stack for local development - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [gasmask](https://github.com/2ndalpha/gasmask) - Hosts file manager for macOS - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [localwp](https://localwp.com/) - Local wordpress development tool - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [lovecroft](https://github.com/thesephist/lovecroft) -  Minimal mailing list manager for static sites, with a simple JSON API - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [responsively-app](https://github.com/manojVivek/responsively-app) - Open Source alternative to slashb. It's a modified browser that helps in responsive web development - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [slashb](https://slashb.app/) - Spend half the time designing and developing responsive websites by testing them on multiple screens at once - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [ngrok](https://ngrok.com/) -  Spend more time programming. One command for an instant, secure URL to your localhost server through any NAT or firewall. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -683,6 +688,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [devops-exercises](https://github.com/bregman-arie/devops-exercises) - Questions and exercises on various technical topics, sometimes related to DevOps and SRE :) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [honeypot](https://www.honeypot.io/) - :uk: / :de: / NL - Europe’s developer-focused job platform.
 * [Interview Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map/blob/master/README-EN.md) - This is a map that can help you to prepare for the next job interview
+* [microverse](https://www.microverse.org/) - Become a remote software developer, no matter where you're from. Learn with Microverse and connect to life-changing opportunities. Don’t pay anything until you get a job! - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [stackoverflow - jobs](https://stackoverflow.com/jobs) - :uk:
 * [talent.io](https://www.talent.io/en/) -  :uk: - Get the tech job you deserve. The simplest way to find full-time and contract tech positions in Europe
 * [test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - This project contains 284 test questions and answers that can be used as a test your knowledge or during an interview/exam for position such as Linux (*nix) System Administrator. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -1106,6 +1112,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [No more ransom](https://www.nomoreransom.org/en/index.html) - Helps unlocking ransomware infected files - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [ransomwhere](https://objective-see.com/products/ransomwhere.html) - Utility with a simple goal; generically thwart OS X ransomware - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Snort](https://www.snort.org/) - A lightweight network intrusion detection system (NIDS) software for Linux and Windows to detect emerging threats. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [sploitus](https://sploitus.com/) - List of exploits - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [stegcloak](https://github.com/KuroLabs/stegcloak) - Steganography module to hide secrets inside text by compressing and encrypting the secret before cloaking it with special unicode invisible characters. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Suricata](https://suricata-ids.org/) - Real time intrusion detection (IDS), inline intrusion prevention (IPS), network security monitoring (NSM) and offline pcap processing - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [sqreen](https://www.sqreen.com/) - Application security platform that helps teams protect applications, increase visibility and secure code. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
