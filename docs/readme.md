@@ -610,6 +610,7 @@ for your awesome landing pages. - [![](https://img.shields.io/badge/pricing-free
 * [i3wm](https://i3wm.org/) - Tiling window manager, very helpful when using several terminals - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [material-ui](https://material-ui.com/) - React components for faster and easier web development. Build your own design system, or start with Material Design. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [openchakra](https://github.com/premieroctet/openchakra) - Full-featured visual editor and code generator for React using Chakra UI - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [Rectangle](https://github.com/rxhanson/Rectangle) - Rectangle is a window management app for macOS based on Spectacle, written in Swift. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ### Python
 * [glade](https://glade.gnome.org/) - Rapid application development (RAD) tool to enable quick & easy development of user interfaces for the GTK toolkit and the GNOME desktop environment. Can be used with C, C++, C#, Vala, Java, Perl, Python, ... - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -967,7 +968,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [webslides](https://github.com/webslides/webslides/) - Create HTML presentations in seconds - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 
-## Project management / Time Management / Organisation
+## Project management / Time Management / Organisation / Productivity
 * [agantty](https://www.agantty.com/) - Free Projektmanagement (gantt, ...) - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [automate.io](https://automate.io/) - Automate like Fortune 500. Integrate your cloud applications. Automate marketing, sales and business processes. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [awwapp](https://awwapp.com/) - Online whiteboard - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -978,6 +979,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [Life-Calendar](https://github.com/wvdk/Life-Calendar) - A calendar... for your life (in development) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [limesurvey](https://www.limesurvey.org/) - Professional online surveys / polls selfhosted - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [meetingbird](https://www.meetingbird.com) - Simply schedule your meetins (integrates with gmail) - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [meeter](https://apps.apple.com/de/app/meeter-fast-call-initiation/id1510445899?l=en&mt=12) - Manage all your calls and meetings in one place. macOS app that is located in the taskbar. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [mindnode](https://mindnode.com/) - Mindmap and brainstorming - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Openproject](https://www.openproject.org/) - Collaborative Project Management: project management software. Gantt charts, Agile, Scrum, Wiki, ... - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [org-mode](https://orgmode.org) - Keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
