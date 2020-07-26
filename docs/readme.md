@@ -251,6 +251,7 @@ Guide to securing and improving privacy on macOS - [![](https://img.shields.io/b
 * [Vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ## Automation
+* [autoit](https://www.autoitscript.com/site/autoit/) - BASIC-like scripting language designed for automating the Windows GUI and general scripting (simulated keystrokes, mouse movement and window/control manipulation). - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Hazel](https://www.noodlesoft.com/) - Automated Organization for macOS. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [Parabola](https://parabola.io/) - Your computer should work for you. Automates processes via an easy-to-use, drag-and-drop interface. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [reflex](https://github.com/cespare/reflex) - Run a command when files change - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -321,6 +322,7 @@ shape divider. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [moment.php](https://github.com/fightbulc/moment.php) - Parse, validate, manipulate, and display dates in PHP w/ i18n support. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ### Python
+* [bandit](https://github.com/PyCQA/bandit) - A security linter for Python - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [isort](https://github.com/timothycrosley/isort) - A Python utility / library to sort imports. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [paramiko](https://www.paramiko.org/) - Paramiko is a Python (2.7, 3.4+) implementation of the SSHv2 protocol [1], providing both client and server functionality. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Python - Excel](https://xlsxwriter.readthedocs.io/#) - Python module for creating Excel XLSX files. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/jmcnamara/XlsxWriter)
@@ -375,6 +377,7 @@ shape divider. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 ### Webdevelopment
 * [awesome-react-generator](https://github.com/iamtabrezkhan/awesome-react-generator) - No more clicking around to create files in your react project! Awesome React Generator is Command Line Tool that let's you generate component files/folders without leaving your terminal. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [devilbox](https://github.com/cytopia/devilbox) - Docker LAMP stack and MEAN stack for local development - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [docksal](https://github.com/docksal/docksal) - Docker powered web development environments for macOS, Windows, and Linux. Unified environment for your team regardless of the OS. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [gasmask](https://github.com/2ndalpha/gasmask) - Hosts file manager for macOS - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [localwp](https://localwp.com/) - Local wordpress development tool - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [lovecroft](https://github.com/thesephist/lovecroft) -  Minimal mailing list manager for static sites, with a simple JSON API - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -663,6 +666,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 ## Images / Image Optimisation
 * [brunsli](https://google.github.io/brunsli/#brunsli) - Brunsli is a lossless JPEG repacking library (JPEG XL Lossless Recompression algorithm). - [![](https://img.shields.io/badge/pricing-open--source-green)](#https://github.com/google/brunsl)
 * [EXIF tool](http://owl.phy.queensu.ca/~phil/exiftool/) - A crossplatform command-line application for reading, writing and editing meta information in a wide variety of files. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/exiftool/exiftool)
+* [generated.photos](https://generated.photos/) - Enhance your creative works with photos generated completely by AI. Find model images through our sorted and tagged app, or integrate images via API. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [guetzli](https://github.com/google/guetzli/) - Guetzli is a JPEG encoder that aims for excellent compression density at high visual quality. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [image-scrubber](https://github.com/everestpipkin/image-scrubber) - A tool for anonymizing photographs taken at protests - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [imageoptim](https://imageoptim.com/) -  ImageOptim makes images load faster. Removes bloated metadata. Saves disk space & bandwidth by compressing images without losing quality. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -768,6 +772,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [offline imap](http://www.offlineimap.org/) - OfflineIMAP allows to dispose your mailbox(es) as a local Maildir(s). - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/OfflineIMAP/offlineimap)
 * [poste.io](https://poste.io/) - SMTP + IMAP + POP3 + Antispam + Antivirus +Web administration + Webmail...on your server in ~5 minutes [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [roundcube](https://roundcube.net/) - A browser-based multilingual IMAP client with an application-like user interface. It provides full functionality you expect from an email client, including MIME support, address book, folder manipulation, message searching and spell checking. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [spf test](https://appmaildev.com/en/spf/) - SPF record checker - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
 ## Mailing
 *Spam Ham*
@@ -1239,10 +1244,13 @@ Add a global delay to Command-Q to stop accidental app quits. - [![](https://img
 ## Useful Software
 ### Mac
   - App Cleaner
+  - [bat](https://github.com/sharkdp/bat)
   - Grand Perspective
   - [Balena Etcher](https://www.balena.io/etcher/) - Flash OS images to SD cards & USB drives, safely and easily.
+  - [exa](https://github.com/ogham/exa)
   - Keka
   - Oh My ZSH
+  - [organize](https://github.com/tfeldmann/organize)
   - Rambox
 
 ### Linux
