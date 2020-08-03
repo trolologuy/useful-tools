@@ -447,7 +447,7 @@ shape divider. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Wiki JS](https://wiki.js.org/) - A modern, lightweight and powerful wiki app built on Node.js - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/Requarks/wiki)
 * [Write the docs](http://www.writethedocs.org/) - Information about writing documentation - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
-
+* [nextra](https://github.com/shuding/nextra) - Next.js based documentation site generator. 0 line of code needed, just write Markdown. It supports MDX, anchor links, file-system based routing and built-in syntax highlighting. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ## Docker / Kubernetes
 *Containers and stuff*
@@ -640,10 +640,12 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [speccy](https://www.ccleaner.com/speccy) - Fast, lightweight, advanced system information tool for your PC. Need to find out what’s inside your computer? Speccy has all the information you need! - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
 ## Installers / Dependency Managers / Bundlers
+* [composer](https://getcomposer.org/) -  A Dependency Manager for PHP  - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Homebrew](https://github.com/Homebrew/brew) - The missing package manager for macOS (or Linux) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Node Version Manager](https://github.com/nvm-sh/nvm) - Bash script to manage multiple active node.js versions - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [parcel](https://github.com/parcel-bundler/parcel) - Zero configuration web application bundler - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [scoop](https://scoop.sh/) - Command-line installer for Windows - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [wpackagist](https://wpackagist.org/) - Allows WordPress plugins and themes to be managed along with other dependencies using Composer. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [yarn](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ## Integrated Development Environment (IDE)
@@ -663,8 +665,9 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 ### Visual Studio Code Plugins
   - [polacode](https://github.com/octref/polacode)
 
-## Images / Image Optimisation
+## Images / Image Optimisation / Text recognition (OCR)
 * [brunsli](https://google.github.io/brunsli/#brunsli) - Brunsli is a lossless JPEG repacking library (JPEG XL Lossless Recompression algorithm). - [![](https://img.shields.io/badge/pricing-open--source-green)](#https://github.com/google/brunsl)
+* [EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [EXIF tool](http://owl.phy.queensu.ca/~phil/exiftool/) - A crossplatform command-line application for reading, writing and editing meta information in a wide variety of files. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/exiftool/exiftool)
 * [generated.photos](https://generated.photos/) - Enhance your creative works with photos generated completely by AI. Find model images through our sorted and tagged app, or integrate images via API. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [guetzli](https://github.com/google/guetzli/) - Guetzli is a JPEG encoder that aims for excellent compression density at high visual quality. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -891,7 +894,8 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [Sub-Zero](https://github.com/pannal/Sub-Zero.bundle) - Subtitles for Plex, as good you would expect them to be. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Tautulli](https://github.com/Tautulli/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
-## Music
+## Music / Audio
+* [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - macOS audio utility - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Festify](https://festify.us/) - Festify lets your guests choose which music should be played using their smartphones (and spotify). - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [funkwhale](https://funkwhale.audio/en_GB) - Listen and share music and audio within a decentralised, open network - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [jqbx.fm/](https://www.jqbx.fm//) - Lets you play & listen to music in sync with friends or public groups - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -914,7 +918,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [speedtest](https://www.speedtest.net/) - Test your internet connection's speed - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [spotipo](https://www.spotipo.com/) - Hotspot portal for your existing WiFi router. For using,you will need to have a router that supports Spotipo.  - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [whatsmydns](https://www.whatsmydns.net/) - DNS Propagation Checker - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
-
+* [wifi-card](https://github.com/bndw/wifi-card) - Print a simple card with your WiFi login details. Tape it to the fridge, keep it in your wallet, etc. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ## Operating Systems / Virtualization
 *My toaster runs on Linux!*
@@ -966,12 +970,24 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [Hacker Slides](https://github.com/msoedov/hacker-slides) - A small UI for reveal.js presentations editor form markdown files. (it's selfhosted) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [keppler](https://github.com/brunosimon/keppler) - Real time code sharing for your lectures and presentations. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [presentify](https://presentify.compzets.com/) - macOS menu bar app that helps you give better presentations, online classes, or video tutorials by letting you annotate any screen, highlight your cursor, and more. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [reveal-md](https://github.com/webpro/reveal-md) - Reveal JS but for Markdown or YAML (supports custom JS, CSS and export to pdf) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Showoff Presenter](https://github.com/puppetlabs/showoff) - Slideshow presentation tool that runs as a web application, with audience interactivity features. This means that your audience can follow along in their own browsers, can download supplemental materials, can participate in quizzes or polls, post questions for the presenter, etc. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [vortex](https://github.com/tajpure/vortex) - A markdown presentation tool. (supports custom CSS) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [webslides](https://github.com/webslides/webslides/) - Create HTML presentations in seconds - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
+
+## Governement-funded / Participative software
+*Public money, public code !*
+* [ckan](https://ckan.org/) - Data portal platform / Data management system that makes data accessible – by providing tools to streamline publishing, sharing, finding and using data
+* [consulproject](https://consulproject.org/en/) - Citizen participation tool for an open, transparent and democratic government. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [decidim](https://github.com/decidim/decidim) - Participatory democracy framework - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [gnuhealth](https://gnuhealth.org/#/) - Libre Health and Hospital Information System - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [ogptoolbox](https://ogptoolbox.org/en/) - List of tools and resources to promote democracy, transparency, participation and collaboration. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [oskari](https://www.oskari.org/) - A framework for easily building multipurpose web mapping applications utilizing distributed Spatial Data Infrastructures like INSPIRE - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [sentilo](https://www.sentilo.io/wordpress/) - Smart City platform. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [X-Road](https://github.com/nordic-institute/X-Road) - X-Road Data Exchange Layer is a standardised, cohesive, collaborative, interoperable and secure data exchange layer that gives service providers the opportunity to combine many different services and data sources. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ## Project management / Time Management / Organisation / Productivity
 * [agantty](https://www.agantty.com/) - Free Projektmanagement (gantt, ...) - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -980,11 +996,12 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [clockify](https://clockify.me/) - Free time tracking software. It's a simple time tracker and timesheet app that lets you and your team track work hours across projects. Unlimited users, free forever. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [favro](https://learn.favro.com/) - Favro is the planning and collaboration app for organizational flow. It helps organizations do what they excel at - making products and services that change the game. Fast. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [gantt](https://github.com/frappe/gantt) - Javascript Gantt, A simple, interactive, modern gantt chart library for the web - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [hakatime](https://github.com/mujx/hakatime) - Hakatime is a server implementation of Wakatime. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [hill-charts](https://basecamp.com/features/hill-charts) - see where projects really stand - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Life-Calendar](https://github.com/wvdk/Life-Calendar) - A calendar... for your life (in development) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [limesurvey](https://www.limesurvey.org/) - Professional online surveys / polls selfhosted - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
-* [meetingbird](https://www.meetingbird.com) - Simply schedule your meetins (integrates with gmail) - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [meeter](https://apps.apple.com/de/app/meeter-fast-call-initiation/id1510445899?l=en&mt=12) - Manage all your calls and meetings in one place. macOS app that is located in the taskbar. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [meetingbird](https://www.meetingbird.com) - Simply schedule your meetins (integrates with gmail) - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [mindnode](https://mindnode.com/) - Mindmap and brainstorming - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Openproject](https://www.openproject.org/) - Collaborative Project Management: project management software. Gantt charts, Agile, Scrum, Wiki, ... - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [org-mode](https://orgmode.org) - Keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -999,6 +1016,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [todoist](https://todoist.com/fr) - Todo lists - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [topsi-project-manager](https://github.com/Physiix/topsi-project-manager) - A Desktop Kanban board app. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [untools](https://untools.co/) - Tools for better thinking. Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [wakatime](https://wakatime.com/) - Metrics about your programming. See [hakatime](https://github.com/mujx/hakatime) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ### Kanban
 * [kanban](https://github.com/leanlabsio/kanban) - Lean project management Kanban for GitLab - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -1113,6 +1131,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [Scrapy](https://doc.scrapy.org/en/latest/intro/overview.html) - Application framework for crawling web sites and extracting structured data - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/scrapy/scrapy)
 * [WHOIS parser](https://github.com/weppos/whois) - An intelligent — pure Ruby — WHOIS client and parser - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
+
 ## Security / Cracking
 * [DocBleach](https://github.com/docbleach/DocBleach-Web) - DocBleach allows you to sanitize your Word, Excel, PowerPoint, PDF, ... documents. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [etcd](https://etcd.io/) - Key-value store for the most critical data of a distributed system (anyjything from simple web app to a Kubernetes cluster)- [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -1122,6 +1141,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [lynis](https://github.com/CISOfy/lynis) - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [No more ransom](https://www.nomoreransom.org/en/index.html) - Helps unlocking ransomware infected files - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [ransomwhere](https://objective-see.com/products/ransomwhere.html) - Utility with a simple goal; generically thwart OS X ransomware - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [stronghold](https://github.com/alichtman/stronghold) - The easiest way to securely configure your Mac. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Snort](https://www.snort.org/) - A lightweight network intrusion detection system (NIDS) software for Linux and Windows to detect emerging threats. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [sploitus](https://sploitus.com/) - List of exploits - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [stegcloak](https://github.com/KuroLabs/stegcloak) - Steganography module to hide secrets inside text by compressing and encrypting the secret before cloaking it with special unicode invisible characters. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -1248,6 +1268,7 @@ Add a global delay to Command-Q to stop accidental app quits. - [![](https://img
   - Grand Perspective
   - [Balena Etcher](https://www.balena.io/etcher/) - Flash OS images to SD cards & USB drives, safely and easily.
   - [exa](https://github.com/ogham/exa)
+  - [MonitorControl](https://github.com/MonitorControl/MonitorControl) -  Control your external monitor brightness, contrast or volume directly from a menulet or with keyboard native keys. 
   - Keka
   - Oh My ZSH
   - [organize](https://github.com/tfeldmann/organize)
