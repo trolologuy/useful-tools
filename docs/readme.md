@@ -216,6 +216,7 @@ Guide to securing and improving privacy on macOS - [![](https://img.shields.io/b
 * [harness](https://harness.io/) - Jenkins Pipelines not scaling for CD? - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Jenkins](https://jenkins.io/) - An automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/jenkinsci/jenkins)
 * [Rudder](https://www.rudder.io/en/) - Multi-platform solution for managing configurations of mission-critical systems. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [semantic-release](https://github.com/semantic-release/semantic-release) - Fully automated version management and package publishing. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [shipjs](https://github.com/algolia/shipjs) - Take control of what is going to be your next release. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Travis](https://travis-ci.org/) - Test and Deploy code - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
