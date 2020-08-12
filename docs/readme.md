@@ -124,6 +124,7 @@ Please feel free to comment or open a pull request if you know better tools / or
 ## Chat / Communication
 *Good communication is an art, so get the right tools to get it right*
 
+* [chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live chat software - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Franz](https://meetfranz.com/) - Aggregates lots of differents chat-tools - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Matrix](https://matrix.org/blog/home/) - A new basis for open, interoperable, decentralised real-time communication - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Rambox](https://rambox.pro/) - Aggregates lots of differents chat-tools - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -162,9 +163,10 @@ Please feel free to comment or open a pull request if you know better tools / or
 * [gerrit](https://github.com/GerritCodeReview/gerrit) - Code Review tool - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [commitizen](https://github.com/commitizen/cz-cli) - The commitizen command line utility. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [lepton](https://github.com/hackjutsu/Lepton) - Snippet Management (macOS/Win/Linux) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [rebound](https://github.com/shobrook/rebound/) - Command-line tool that instantly fetches Stack Overflow results when an exception is thrown. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [scc](https://github.com/boyter/scc) - Very fast accurate code counter with complexity calculations - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
-* [super-linter](https://github.com/github/super-linter) -  Combination of multiple linters to install as a GitHub Action  - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action  - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [ShellCheck](https://www.shellcheck.net/) - ShellCheck finds bugs in your shell scripts. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [snipper](https://snipper.app/) - Code snippets manager - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Sonarlint](https://www.sonarlint.org/) - SonarLint is an IDE extension that helps you detect and fix quality issues as you write code (linter). - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -437,6 +439,7 @@ shape divider. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Knowledge Repo](https://github.com/airbnb/knowledge-repo) - A next-generation curated knowledge sharing platform for data scientists and other technical professions. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Mediawiki](https://www.mediawiki.org) - The wiki system that powers Wikipedia - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/wikimedia/mediawiki)
 * [MKdocs](http://www.mkdocs.org/) - Fast, simple and static site generator based on Markdown - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/mkdocs/mkdocs/)
+* [Orchid](https://github.com/orchidhq/Orchid) -  Build and deploy beautiful documentation sites that grow with you - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [orgchart](https://github.com/dabeng/vue-orgchart) - A simple and direct organization chart made with vue (also available for angular, react, jQuery ...)- [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [organigram](https://github.com/proshoumma/organigram) - A JSON based tree structure with drag and drop functionally to re-arrange the tree. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [percollate](https://github.com/danburzo/percollate) - 🌐 → 📖 A command-line tool to turn web pages into beautifully formatted PDFs - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -914,6 +917,8 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [mxtoolbox](https://mxtoolbox.com/) - Very helpful website for diagnostics on DNS zones, mail settings, ... - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [nmap](https://github.com/nmap/nmap) - Network Mapper - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [netbox](https://github.com/netbox-community/netbox) - IP address management (IPAM) and data center infrastructure management (DCIM) tool. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [opnsense](https://opnsense.org/) - OPNsense is a FreeBSD-based firewall and routing software - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [openmptcprouter](https://github.com/Ysurac/openmptcprouter) - Aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [phpipam](https://phpipam.net/) - Web IP address management application (IPAM) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [speedtest-cli](https://github.com/sivel/speedtest-cli) - Test your internet bandwidth via the cli. It uses speedtest.net - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [speedtest](https://www.speedtest.net/) - Test your internet connection's speed - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -1154,6 +1159,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 
 ### Password Manager
 * [Buttercup](https://buttercup.pw/) - Cross-platform, free and open-source password manager based on NodeJS. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [lesspass](https://lesspass.com/#/) - Stateless Password Manager. Stop wasting your time synchronizing your encrypted vault. Remember one master password to access your passwords, anywhere, anytime, from any device. No sync needed. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Passbolt](https://www.passbolt.com/) - Open source password manager for teams. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Password store](https://www.passwordstore.org/) - Standard unix password manager - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Keepassxc](https://keepassxc.org/) - Cross-platform community fork of KeePassX. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/keepassxreboot/keepassxc)
