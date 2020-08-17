@@ -189,6 +189,8 @@ Please feel free to comment or open a pull request if you know better tools / or
 * [tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [typer](https://github.com/tiangolo/typer) - Easy to code. Based on Python type hints. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [deep_translator](https://github.com/nidhaloff/deep_translator) - A tool to translate between different languages in a simple way using multiple translators.
+
 
 ## Cheatsheets
 *How was it again?*
@@ -268,8 +270,9 @@ Guide to securing and improving privacy on macOS - [![](https://img.shields.io/b
 * [selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ## Command Line Interface (CLI) - tools
-* [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find' - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [bullet](https://github.com/bchao1/bullet) - Beautiful Python Prompts Made Simple - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [enhancd](https://github.com/b4b4r07/enhancd) - 🚀 A next-generation cd command with your interactive filter - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find' - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [fzf](https://github.com/junegunn/fzf) - 🌸 A command-line fuzzy finder - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [htop](https://en.wikipedia.org/wiki/Top_(software)) - Interactive system-monitor for Linux or [bashtop](https://github.com/aristocratos/bashtop)
 * [jq](https://stedolan.github.io/jq/) - sed for JSON data - you can use it to slice and filter and map and transform structured data with the same ease that sed, awk, grep and friends let you play with text.
@@ -630,6 +633,7 @@ that make use of innovative user interfaces, such as multi-touch apps - [![](htt
 *Whatever you do, don't be one*
 
 * [act](https://github.com/nektos/act) - Run your GitHub Actions locally - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [forgit](https://github.com/wfxr/forgit) - Utility tool for using git interactively - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [gitignore](https://www.gitignore.io/) - Create useful .gitignore files for your project - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [gitignore collection](https://github.com/github/gitignore) -
 A collection of useful .gitignore templates - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -705,6 +709,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [microverse](https://www.microverse.org/) - Become a remote software developer, no matter where you're from. Learn with Microverse and connect to life-changing opportunities. Don’t pay anything until you get a job! - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [stackoverflow - jobs](https://stackoverflow.com/jobs) - :uk:
 * [talent.io](https://www.talent.io/en/) -  :uk: - Get the tech job you deserve. The simplest way to find full-time and contract tech positions in Europe
+[justjoinit](https://justjoin.it/) - :uk: - Mainly for Poland but also has some job listings for neighbouring countries.
 * [test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - This project contains 284 test questions and answers that can be used as a test your knowledge or during an interview/exam for position such as Linux (*nix) System Administrator. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [triplebyte](https://triplebyte.com/) -  Showcase your tech skills and hear from top companies! - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [tweetjobs](https://tweetjobs.dev/) - :uk: Find Latest Jobs from Twitter
@@ -1028,6 +1033,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [kanban](https://github.com/leanlabsio/kanban) - Lean project management Kanban for GitLab - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [react-kanban](https://github.com/markusenglund/react-kanban) - A server-rendered React Kanban app inspired by Trello built with React and Redux. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Wekan](https://github.com/wekan/wekan) - Kanban board (built with Meteor). - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [taskcafe](https://github.com/JordanKnott/taskcafe) - Kanban board - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ## Questions & Answers (Questions & Answers)
 *Ever heard of Stackoverflow ?*
