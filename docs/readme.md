@@ -158,6 +158,7 @@ Please feel free to comment or open a pull request if you know better tools / or
 *Code quality and standarts should be enforced more often, that's for sure! Which team are you on, Stroustrup or Allman ?*
 
 * [bundlephobia](https://github.com/pastelsky/bundlephobia) - Find the cost of adding a node npm package to your bundle - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [semantic-release](https://github.com/semantic-release/semantic-release) - Automates the whole package release workflow including: determining the next version number, generating the release notes and publishing the package. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [codeclimate](https://codeclimate.com/) - Automated code review and quality analytics. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [editorconfig](https://github.com/editorconfig/editorconfig) - EditorConfig helps maintain consistent coding styles for multiple developers working on the same project across various editors and IDEs. The EditorConfig project consists of a file format for defining coding styles and a collection of text editor plugins that enable editors to read the file format and adhere to defined styles. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [gerrit](https://github.com/GerritCodeReview/gerrit) - Code Review tool - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -1193,6 +1194,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) - The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [neofetch](https://github.com/dylanaraps/neofetch) - Command-line system information tool - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - Oh My Zsh will not make you a 10x developer...but you may feel like one.- [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/ohmyzsh/ohmyzsh)
+* [starship](https://github.com/starship/starship) - Minimal, blazing-fast, and infinitely customizable prompt for any shell!  - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [shell harden](https://github.com/anordal/shellharden) - A syntax highlighter and a tool to help do things safely in bash - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [simple curses](https://github.com/metal3d/bashsimplecurses) - "Bash simple curses" give you some basic functions to quickly create some windows on you terminal as Xterm, aterm, urxvt... - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt) - Zsh prompt for Astronauts - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
