@@ -38,6 +38,7 @@ Please feel free to comment or open a pull request if you know better tools / or
 *This category doesn't need an introduction i guess*
 
 * [Borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [burp](https://burp.grke.org/) - Network backup and restore program. It attempts to reduce network traffic and the amount of space that is used by each backup. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [ceph](https://ceph.io/) - Storage platform - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [ddrescue](https://www.gnu.org/software/ddrescue/) - A data recovery tool. It copies data from one file or block device (hard disc, cdrom, etc) to another, trying to rescue the good parts first in case of read errors - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -428,6 +429,7 @@ shape divider. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Sitespeed.io](https://github.com/sitespeedio/sitespeed.io/) - Helps you monitor, analyze and optimize your website speed and performance - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Webhint](https://webhint.io/scanner/) - webhint is a customizable linting tool that helps you improve your site's accessibility, speed, cross-browser compatibility, and more by checking your code for best practices and common errors. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/webhintio/hint)
 * [Webpagetest](http://www.webpagetest.org/) - Test a website's performance, helfpul waterfall charts - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [web.dev](https://web.dev/measure/) - See how well your website performs. Then, get tips to improve your user experience. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Yellowlab](https://yellowlab.tools) - WebPerf and front-end quality testing tool - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/YellowLabTools/YellowLabTools/)
 
 
@@ -936,6 +938,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 *My toaster runs on Linux!*
 
 * [9front](http://9front.org) - A modernized fork of Plan 9, the distributed operating system - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [aapanel](https://aapanel.com/) - source Hosting Control Panel (alternative to Plesk or Cpanel - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [kaosx](https://kaosx.us/) - A Lean KDE Distribution - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [proxmox](https://www.proxmox.com/en/) - Operating System for enterprise virtualization. With the built-in web interface you can easily manage VMs and containers, software-defined storage and networking, high-availability clustering, and multiple out-of-the-box tools on a single solution. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [qemu](https://www.qemu.org/) - A generic machine emulator and virtualizer. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/qemu/QEMU)
