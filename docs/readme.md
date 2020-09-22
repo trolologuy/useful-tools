@@ -963,6 +963,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [Great escape](https://greatescape.co) - Flight tracker / Travel helper that helps take decisions or find new destinations based on prices and many other categories, for example if you want to start travelling from a specific starting point - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [go-jira](https://github.com/andygrunwald/go-jira) -  Go client library for Atlassian Jira - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [jsfuck](http://www.jsfuck.com/) -  Write any JavaScript with 6 Characters: []()!+  - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [The-Open-Book](https://github.com/joeycastillo/The-Open-Book) - Want to create your own ebook reader? - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Open Street map](https://www.openstreetmap.org) - OpenStreetMap is the free wiki world map. OpenStreetMap is a map of the world, created by people like you and free to use under an open license. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [openHAB](https://www.openhab.org/) - Automation software for your home (smart home) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -978,6 +979,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 *Bored of powerpoint?*
 
 * [big](https://github.com/tmcw/big) - A configuration-free system for creating presentation (powerpoint style) that naturally encourages good style. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [beamer](https://github.com/josephwright/beamer) - LaTeX class for producing presentations - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [eagle.js](https://github.com/zulko/eagle.js/) - A hackable slideshow framework built with Vue.js - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [fusuma](https://github.com/hiroppy/fusuma) - Markdown and MDX Presentations (supports custom JS, CSS and React) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [gatsby-starter-deck](https://github.com/fabe/gatsby-starter-deck) - Create presentations using Gatsby, React & Markdown - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -985,6 +987,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [Hacker Slides](https://github.com/msoedov/hacker-slides) - A small UI for reveal.js presentations editor form markdown files. (it's selfhosted) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [keppler](https://github.com/brunosimon/keppler) - Real time code sharing for your lectures and presentations. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [present](https://github.com/vinayak-mehta/present) - Terminal-based presentation tool with colors and effects - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [presentify](https://presentify.compzets.com/) - macOS menu bar app that helps you give better presentations, online classes, or video tutorials by letting you annotate any screen, highlight your cursor, and more. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [reveal-md](https://github.com/webpro/reveal-md) - Reveal JS but for Markdown or YAML (supports custom JS, CSS and export to pdf) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -1151,6 +1154,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 ## Security / Cracking
 * [DocBleach](https://github.com/docbleach/DocBleach-Web) - DocBleach allows you to sanitize your Word, Excel, PowerPoint, PDF, ... documents. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [etcd](https://etcd.io/) - Key-value store for the most critical data of a distributed system (anyjything from simple web app to a Kubernetes cluster)- [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that very slowly sends an endless, random SSH banner. It keeps SSH clients locked up for hours or even days at a time. The purpose is to put your real SSH server on another port and then let the script kiddies get stuck in this tarpit instead of bothering a real server. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [have i been pwned?](https://haveibeenpwned.com/) - Check if you have an account that has been compromised in a data breach - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [lgtm](https://lgtm.com/) - Continuous security analysis
 * [lulu](https://objective-see.com/products/lulu.html) - macOS firewall that aims to block unknown outgoing connections, unless explicitly approved by the user. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
