@@ -358,7 +358,7 @@ shape divider. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
 #### Node.js
 * [broken-lin-checker](https://github.com/stevenvachon/broken-link-checker) - Find broken links, missing images, etc within your HTML. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
-* [node-geoip](https://github.com/bluesmoon/node-geoip) - Implementation of MaxMind's GeoIP API - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [node-geoip](https://github.com/bluesmoon/node-geoip) - Implementation of Max's GeoIP API - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [nodemon](https://nodemon.io/) - Nodemon is a utility for Node.js that will monitor for any changes in your source and automatically restart your server. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/remy/nodemon/)
 * [node-html-to-text](https://github.com/werk85/node-html-to-text) - Advanced html to text converter - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [pm2](http://pm2.keymetrics.io/) - Advanced, production daemon process manager for Node.JS that will help you manage and keep your application online 24/7 - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/Unitech/pm2)
@@ -1036,6 +1036,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [topsi-project-manager](https://github.com/Physiix/topsi-project-manager) - A Desktop Kanban board app. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [untools](https://untools.co/) - Tools for better thinking. Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [wakatime](https://wakatime.com/) - Metrics about your programming. See [hakatime](https://github.com/mujx/hakatime) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [xmind](https://www.xmind.net/) - Mind mapping and brainstorming tool - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
 ### Kanban
 * [kanban](https://github.com/leanlabsio/kanban) - Lean project management Kanban for GitLab - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -1200,6 +1201,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
 * [m-cli](https://github.com/rgcr/m-cli) - Swiss Army Knife for macOS - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) - The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [nanorc](https://github.com/scopatz/nanorc) - Improved Syntax Highlighting Files for the Nano text editor - - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [neofetch](https://github.com/dylanaraps/neofetch) - Command-line system information tool - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - Oh My Zsh will not make you a 10x developer...but you may feel like one.- [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/ohmyzsh/ohmyzsh)
 * [starship](https://github.com/starship/starship) - Minimal, blazing-fast, and infinitely customizable prompt for any shell!  - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -1235,6 +1237,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 
 * [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for macOS - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [anyshortcut](https://anyshortcut.com/) - Customize keyboard shortcuts for your frequently visited websites. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
+* [Barrier](https://github.com/debauchee/barrier) - Crossplatform tool that allows to use one mouse and keyboard on several computers (emulates a KVM switch) - - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [dot-hammerspoon](https://github.com/zzamboni/dot-hammerspoon) - example of Hammerspoon configuration. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [hammerspoon-config](https://github.com/cmsj/hammerspoon-config/) - another example of Hammerspoon configuration. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [dotfiles](https://github.com/orrsella/dotfiles) - A collection of miscellaneous .files ("dot" files) and some regular files for configuration - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -1357,6 +1360,7 @@ without the hassle. - [![](https://img.shields.io/badge/pricing-open--source-gre
 * [pdf.js](https://github.com/mozilla/pdf.js) - A PDF Reader in JavaScript made by mozilla - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/mozilla/pdf.js)
 * [Relaxed](https://github.com/RelaxedJS/ReLaXed) - Create PDF documents interactively using web technologies - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Scribus](https://www.scribus.net/) - A page layout / desktop publishing tool - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/scribusproject/scribus)
+* [standardnotes](https://standardnotes.org/) - Cross platform and mobile note taking app that is end-to-end (E2E) encrypted. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [shields](https://shields.io/) - Add fancy shields to your github readme pages. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [writty](https://iamcharlie.design/writty/) - A free open-source text editor
 to help you focus on what matters.  - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
