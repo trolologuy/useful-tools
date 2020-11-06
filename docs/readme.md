@@ -667,6 +667,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [Atom](https://atom.io/) - A hackable text editor for the 21st Century - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/atom/atom)
 * [code-server](https://github.com/cdr/code-server/) - Run VS Code on any machine anywhere and access it in the browser. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [draculatheme](https://github.com/dracula/draculatheme.com) - Dark theme for VIM, VScode, firefox, Telegram, ... - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [Ox](https://github.com/curlpipe/ox) - Ox is a code editor that runs in your terminal. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [spacemacs](https://github.com/syl20bnr/spacemacs) - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim! - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [theia](https://theia-ide.org/) - Theia is an extensible platform to develop multi-language Cloud & Desktop IDEs with state-of-the-art web technologies. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Visual Studio Code](https://code.visualstudio.com/) - Great crossplatform IDE, made by microsoft - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/Microsoft/vscode)
@@ -680,6 +681,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 
 ## Images / Image Optimisation / Text recognition (OCR)
 * [brunsli](https://google.github.io/brunsli/#brunsli) - Brunsli is a lossless JPEG repacking library (JPEG XL Lossless Recompression algorithm). - [![](https://img.shields.io/badge/pricing-open--source-green)](#https://github.com/google/brunsl)
+* [clipdrop](https://clipdrop.co/) - Extract objects, people, drawings and text. Simply point and tap, ClipDrop does the rest. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [EXIF tool](http://owl.phy.queensu.ca/~phil/exiftool/) - A crossplatform command-line application for reading, writing and editing meta information in a wide variety of files. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/exiftool/exiftool)
 * [generated.photos](https://generated.photos/) - Enhance your creative works with photos generated completely by AI. Find model images through our sorted and tagged app, or integrate images via API. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -785,6 +787,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [imapsync](https://imapsync.lamiral.info/) - An IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/imapsync/imapsync)
 * [Kanbanmail](https://kanbanmail.app/) - Kanban and email in one tool - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [Mailspring](https://www.getmailspring.com/) - Great mail client for Mac, Linux, and Windows. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [meilindex](https://github.com/tryffel/meilindex) - Email indexing and extremely fast full-text-search with Meilisearch. Meilindex supports configuring stop-words, ranking and synonyms. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [mb2md](http://batleth.sapienti-sat.org/projects/mb2md/) - Helps converting Mbox mailboxes to Maildir format. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [offline imap](http://www.offlineimap.org/) - OfflineIMAP allows to dispose your mailbox(es) as a local Maildir(s). - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/OfflineIMAP/offlineimap)
 * [poste.io](https://poste.io/) - SMTP + IMAP + POP3 + Antispam + Antivirus +Web administration + Webmail...on your server in ~5 minutes [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -1108,6 +1111,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [xdebug](https://xdebug.org/) -  Xdebug is an extension for PHP to assist with debugging and development. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/xdebug/xdebug)
 
 ### git / code repositories
+* [first-contributions](https://github.com/firstcontributions/first-contributions) - Help beginners to contribute to open source projects - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [gitchangelog](https://github.com/vaab/gitchangelog) - Creates a changelog from git log history. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [gitea](https://gitea.io/en-us/) - A painless self-hosted Git service. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/go-gitea/gitea)
 * [Gitlab](https://gitlab.com/) - A web-based DevOps lifecycle tool + git repository manager - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -1155,6 +1159,8 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 
 
 ## Security / Cracking
+
+* [the-bastion](https://github.com/ovh/the-bastion) - Bastions are a cluster of machines used as the unique entry point by operational teams (such as sysadmins, developers, database admins, ...) to securely connect to devices (servers, virtual machines, cloud instances, network equipment, ...), usually using ssh. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [DocBleach](https://github.com/docbleach/DocBleach-Web) - DocBleach allows you to sanitize your Word, Excel, PowerPoint, PDF, ... documents. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [etcd](https://etcd.io/) - Key-value store for the most critical data of a distributed system (anyjything from simple web app to a Kubernetes cluster)- [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that very slowly sends an endless, random SSH banner. It keeps SSH clients locked up for hours or even days at a time. The purpose is to put your real SSH server on another port and then let the script kiddies get stuck in this tarpit instead of bothering a real server. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -1236,6 +1242,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 ## System utilities
 *Automate all the things! ... or at least try to make your life easier*
 
+* [alfredapp](https://www.alfredapp.com/) - Hotkeys, keywords, text expansion and more for macOS - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for macOS - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [anyshortcut](https://anyshortcut.com/) - Customize keyboard shortcuts for your frequently visited websites. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [Barrier](https://github.com/debauchee/barrier) - Crossplatform tool that allows to use one mouse and keyboard on several computers (emulates a KVM switch) - - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -1244,6 +1251,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [dotfiles](https://github.com/orrsella/dotfiles) - A collection of miscellaneous .files ("dot" files) and some regular files for configuration - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [easy-file-organizer](https://qiplex.com/software/easy-file-organizer/) - Organize Files, Folders and Desktop easily! - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [hammerspoon](https://github.com/Hammerspoon/hammerspoon) - macOS desktop automation - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [Jarvis](https://github.com/spectresystems/jarvis) - Jarvis is an Alfred alternative for Windows 10. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Karabiner](https://pqrs.org/osx/karabiner/) - An utility for keyboard customization on macOS Sierra - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/pqrs-org/Karabiner-Elements)
 * [modd](https://github.com/cortesi/modd) - Triggers commands and manages daemons in response to filesystem changes (Unix, macOS, Windows) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -1359,6 +1367,7 @@ without the hassle. - [![](https://img.shields.io/badge/pricing-open--source-gre
 * [markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [mdx](https://github.com/mdx-js/mdx) - Use JSX in your markdown documents. You can import components, like interactive charts or notifications, and export metadata. This makes writing long-form content with components a blast. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [pdf.js](https://github.com/mozilla/pdf.js) - A PDF Reader in JavaScript made by mozilla - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/mozilla/pdf.js)
+* [quilljs](https://quilljs.com/) - WYSIWYG editor built for the modern web. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Relaxed](https://github.com/RelaxedJS/ReLaXed) - Create PDF documents interactively using web technologies - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Scribus](https://www.scribus.net/) - A page layout / desktop publishing tool - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/scribusproject/scribus)
 * [standardnotes](https://standardnotes.org/) - Cross platform and mobile note taking app that is end-to-end (E2E) encrypted. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
