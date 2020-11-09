@@ -115,7 +115,11 @@ Please feel free to comment or open a pull request if you know better tools / or
 * [Omnicalculator](https://www.omnicalculator.com/statistics) - Calculate Odds, Chi-square, ... without headache - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
 ## Data
+
+* [datacater](https://datacater.io/) - Integrate your data systems with streaming data pipelines - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [dbt](https://docs.getdbt.com/docs/introduction) - dbt (data build tool) enables analytics engineers to transform data in their warehouses by simply writing select statements. dbt handles turning these select statements into tables and views. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [muzejs](https://muzejs.org/) - Data visualization library to create composable and interactive data visualization for the web - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/chartshq/muze)
+* [prefect](https://docs.prefect.io/core/) - The easiest way to automate your data. Prefect is the new standard in dataflow automation, trusted to build, run, and monitor millions of data workflows, pipelines and add semantics like retries, logging, dynamic mapping, caching, failure notifications, and more. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)s
 
 ### JSON
 * [json2html](https://github.com/moappi/visualizer.json2html) - Simple JSON visualizer
@@ -273,12 +277,16 @@ Guide to securing and improving privacy on macOS - [![](https://img.shields.io/b
 
 ## Command Line Interface (CLI) - tools
 * [bullet](https://github.com/bchao1/bullet) - Beautiful Python Prompts Made Simple - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [cement](https://github.com/datafolklabs/cement) - Advanced Application Framework for Python, with a primary focus on Command Line Interfaces (CLI). Its goal is to introduce a standard, and feature-full platform for both simple and complex command line applications as well as support rapid development needs without sacrificing quality. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [cliff](https://github.com/openstack/cliff) - Framework for building command line programs. It uses entry points to provide subcommands, output formatters, and other extensions. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [enhancd](https://github.com/b4b4r07/enhancd) - 🚀 A next-generation cd command with your interactive filter - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find' - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [fzf](https://github.com/junegunn/fzf) - 🌸 A command-line fuzzy finder - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [htop](https://en.wikipedia.org/wiki/Top_(software)) - Interactive system-monitor for Linux or [bashtop](https://github.com/aristocratos/bashtop)
 * [jq](https://stedolan.github.io/jq/) - sed for JSON data - you can use it to slice and filter and map and transform structured data with the same ease that sed, awk, grep and friends let you play with text.
+* [plac](https://github.com/micheles/plac) - Plac: Parsing the Command Line the Easy Way - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [proji](https://github.com/nikoksr/proji) - A powerful cross-platform CLI project templating tool. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [PyInquirer](https://github.com/CITGuru/PyInquirer) - PyInquirer strives to be an easily embeddable and beautiful command line interface for Python. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Suitcase](https://github.com/Impedimenta/Suitcase) - A flexible command line tool for instantly deploying user interfaces for simple commands and scripts on macOS. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [tree](https://en.wikipedia.org/wiki/Tree_(command)) - Lists the files in the current directory.
 
@@ -401,12 +409,15 @@ shape divider. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 ### Website builder / CMS
 *The building without the struggle*
 
+* [Eleventy (11ty)](https://www.11ty.dev/) - A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Grav](https://github.com/getgrav/grav) - Grav is a Fast, Simple, and Flexible, file-based Web-platform - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [hexo.io](https://hexo.io/) - A fast, simple & powerful blog framework - [![](https://img.shields.io/badge/pricing-open--source-green)](#)s
 * [Hugo](https://gohugo.io/) - Static website generator based on markdown - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/gohugoio/hugo)
 * [pollygot](https://pollygot.com/) - Pollygot is a content platform that consolidates all the most important services you need to run your business. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [Staticgen](https://www.staticgen.com/) - A List of Static Site Generators for JAMstack Sites - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/netlify/staticgen)
 * [strapi](https://strapi.io/) - Headless CMS Front-End - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [vuepress](https://vuepress.vuejs.org/) -  Vue-powered Static Site Generator - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [zola](https://www.getzola.org/) - Your one-stop static site engine. Forget dependencies. Everything you need in one binary. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)s
 
 ### Website Analysis / Analytics
 *Wonder how the big guys do it?*
@@ -574,6 +585,8 @@ Storybook is an open source tool for developing UI components in isolation for R
 * [rgb.to](https://rgb.to/) - Convert color values and find colour schemes simply - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
 ### Fonts
+
+* [pyfiglet](https://github.com/pwaller/pyfiglet) - Takes ASCII text and renders it in ASCII art fonts. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [fontspark](https://fontspark.app/) - Helps to find cool fonts to use. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [FortAwesome](https://github.com/FortAwesome/vue-fontawesome) - Font Awesome 5 Vue component using SVG with JS - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [PureCSS-Font](https://github.com/cyanharlow/PureCSS-Font) - For private, SEO-hidden, CAPTCHA-friendly unselectable text. Deter plagiarism and spambots! - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -638,10 +651,12 @@ that make use of innovative user interfaces, such as multi-touch apps - [![](htt
 *Whatever you do, don't be one*
 
 * [act](https://github.com/nektos/act) - Run your GitHub Actions locally - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [changelog](https://github.com/olivierlacan/keep-a-changelog) - Don’t let your friends dump git logs into changelogs™ - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [forgit](https://github.com/wfxr/forgit) - Utility tool for using git interactively - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [gitignore](https://www.gitignore.io/) - Create useful .gitignore files for your project - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [gitignore collection](https://github.com/github/gitignore) -
 A collection of useful .gitignore templates - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [gitpod](https://www.gitpod.io/self-hosted/) - Take Control of Your Source Code - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [gource](https://github.com/acaudwell/Gource) - software version control visualization - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [vercel](https://vercel.com/) - Cloud platform for static frontends and serverless functions. It enables developers to host websites and web applications that deploy instantly for example from a git repository, scale automatically, and require no supervision - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
@@ -762,6 +777,9 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [trademe](https://www.trademe.co.nz/jobs) - :uk: Focused on New Zealand
 * [workhere](https://www.workhere.co.nz/jobs) - :uk: Focused on New Zealand
 * [workingin-newzealand](http://www.workingin-newzealand.com/jobs/) - :uk: Focused on New Zealand
+
+### Finland
+* [helsinkibusinesshub](https://www.helsinkibusinesshub.fi/90-day-finn/) - Apply Now for a Free 90-Day Helsinki Relocation Package! - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
 ## Robotic Process Automation (RPA)
 * [TagUI](https://github.com/kelaberetiv/TagUI) - Command-line tool for digital process automation (RPA) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -889,6 +907,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 ## Movies / Films / Plex / Animes
 *Having your own private media? or wondering what do watch tonight?*
 
+* [astrofox](https://astrofox.io/) - Turn audio into amazing videos - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [anidb](https://anidb.net/) - AniDB stands for Anime DataBase. We feature detailed information about all forms of CJK (Chinese, Japanese, and Korean) animation. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Emby](https://github.com/MediaBrowser/Emby) - personal media server with apps on just about every device - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [filebot](https://www.filebot.net/) - The ultimate tool for organizing and renaming your Movies, TV Shows and Anime as well as fetching subtitles and artwork. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -916,6 +935,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [Festify](https://festify.us/) - Festify lets your guests choose which music should be played using their smartphones (and spotify). - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [funkwhale](https://funkwhale.audio/en_GB) - Listen and share music and audio within a decentralised, open network - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [jqbx.fm/](https://www.jqbx.fm//) - Lets you play & listen to music in sync with friends or public groups - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [musicbrainz picard](https://picard.musicbrainz.org/) - Music tagger written in Python. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Soundscape](https://github.com/soundscapecloud/soundscape) - a personal music streaming server - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ## Networking / DNS / Wifi ...
@@ -1067,8 +1087,10 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [beekast](https://www.beekast.com/features/) - Fun and interactive activities during visioconferences - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Go to meeting](https://www.gotomeeting.com/) - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [Google Hangouts](https://hangouts.google.com/) - Communication software product developed by Google - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [hopin](https://hopin.to/) - Virtual venue with multiple interactive areas that are optimized for connecting and engaging. Attendees can move in and out of rooms just like an in-person event and enjoy the content and connections you've created for them. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [join me](https://www.join.me/) - Conferences, screen sharing, ... - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [obsproject](https://obsproject.com/) - Software for video recording and live streaming on windows, macOS and Linux. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [restream](https://restream.io/) - Stream live to 30+ social platforms at once. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Slack](https://slack.com) - A single place for messaging, tools and files - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Streamyard](https://streamyard.com/) - The easiest way to create professional live streams - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Teams](https://products.office.com/en-en/microsoft-teams/free) - Work remotely without feeling remote. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -1168,6 +1190,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [lgtm](https://lgtm.com/) - Continuous security analysis
 * [lulu](https://objective-see.com/products/lulu.html) - macOS firewall that aims to block unknown outgoing connections, unless explicitly approved by the user. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [lynis](https://github.com/CISOfy/lynis) - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [malwoverview](https://github.com/alexandreborges/malwoverview) - Simple tool to perform an initial and quick triage of malware samples, URLs and hashes. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)s
 * [No more ransom](https://www.nomoreransom.org/en/index.html) - Helps unlocking ransomware infected files - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [ransomwhere](https://objective-see.com/products/ransomwhere.html) - Utility with a simple goal; generically thwart OS X ransomware - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [stronghold](https://github.com/alichtman/stronghold) - The easiest way to securely configure your Mac. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -1268,7 +1291,9 @@ Add a global delay to Command-Q to stop accidental app quits. - [![](https://img
 
 ## Text Expanders
 * [AutoHotkey_L](https://github.com/Lexikos/AutoHotkey_L) - Macro-creation and automation-oriented scripting utility for Windows. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [atext](https://trankynam.com/atext/) - aText accelerates your typing in any application by replacing abbreviations with frequently used phrases you define. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [espanso](https://github.com/federico-terzi/espanso) - Cross-platform Text Expander - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [espanso "GUI" alternative to forms](https://gist.github.com/atika/dc2de3f8813d9919485761347b200d61) - For the time being, espanso does not come with a graphical user interface, in the meanwhile you can use this workaround to prompt for text or select result in a list, on macOS. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ## Templates / Dashboards / Tool overview
 * [Admin LTE](https://github.com/almasaeed2010/AdminLTE)
@@ -1366,6 +1391,7 @@ without the hassle. - [![](https://img.shields.io/badge/pricing-open--source-gre
 * [Joplin](https://github.com/laurent22/joplin) - note taking and to-do application - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [mdx](https://github.com/mdx-js/mdx) - Use JSX in your markdown documents. You can import components, like interactive charts or notifications, and export metadata. This makes writing long-form content with components a blast. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [notion](https://www.notion.so/product) - note taking app - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [pdf.js](https://github.com/mozilla/pdf.js) - A PDF Reader in JavaScript made by mozilla - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/mozilla/pdf.js)
 * [quilljs](https://quilljs.com/) - WYSIWYG editor built for the modern web. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Relaxed](https://github.com/RelaxedJS/ReLaXed) - Create PDF documents interactively using web technologies - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
