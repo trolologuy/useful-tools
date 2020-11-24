@@ -21,6 +21,7 @@ Please feel free to comment or open a pull request if you know better tools / or
 *Planning is half the work*
 
 * [cloudcraft](https://cloudcraft.co/) - Visualize your cloud architecture like a pro: create smart AWS diagrams - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [diagrams](https://www.diagrams.net/) - Online, desktop and container deployable diagramming software - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [gliffy](https://www.gliffy.com/) - Diagram software that integrates into confluence - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [Staruml](http://staruml.io/) -  A sophisticated Cross-Platform software modeler for agile and concise modeling - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [yed](https://www.yworks.com/products/yed) - Quickly and effectively generate high-quality diagrams. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -169,12 +170,14 @@ Please feel free to comment or open a pull request if you know better tools / or
 * [gerrit](https://github.com/GerritCodeReview/gerrit) - Code Review tool - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [commitizen](https://github.com/commitizen/cz-cli) - The commitizen command line utility. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [lepton](https://github.com/hackjutsu/Lepton) - Snippet Management (macOS/Win/Linux) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [massCode](https://github.com/antonreshetov/massCode) - Code snippets manager for developers. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [rebound](https://github.com/shobrook/rebound/) - Command-line tool that instantly fetches Stack Overflow results when an exception is thrown. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [scc](https://github.com/boyter/scc) - Very fast accurate code counter with complexity calculations - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action  - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [ShellCheck](https://www.shellcheck.net/) - ShellCheck finds bugs in your shell scripts. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [snipper](https://snipper.app/) - Code snippets manager - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [snibox](https://snibox.github.io/) - Self-hosted snippet manager. Developed to collect and organize code snippets - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Sonarlint](https://www.sonarlint.org/) - SonarLint is an IDE extension that helps you detect and fix quality issues as you write code (linter). - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Sonarqube](https://www.sonarqube.org/) - A tool for continuously inspecting the Code Quality and Security of your codebases, and guiding development teams during Code Reviews. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Sourcetrail](https://www.sourcetrail.com/) - Free and open-source cross-platform source explorer. Get productive on unfamiliar source code. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/CoatiSoftware/Sourcetrail)
@@ -287,6 +290,7 @@ Guide to securing and improving privacy on macOS - [![](https://img.shields.io/b
 * [plac](https://github.com/micheles/plac) - Plac: Parsing the Command Line the Easy Way - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [proji](https://github.com/nikoksr/proji) - A powerful cross-platform CLI project templating tool. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [PyInquirer](https://github.com/CITGuru/PyInquirer) - PyInquirer strives to be an easily embeddable and beautiful command line interface for Python. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [ripgep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Suitcase](https://github.com/Impedimenta/Suitcase) - A flexible command line tool for instantly deploying user interfaces for simple commands and scripts on macOS. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [tree](https://en.wikipedia.org/wiki/Tree_(command)) - Lists the files in the current directory.
 
@@ -726,6 +730,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 ## Recruitment / Job searching / Interviews
 *Getting paid for following your passion is even more fun, isn't it?*
 * [devops-exercises](https://github.com/bregman-arie/devops-exercises) - Questions and exercises on various technical topics, sometimes related to DevOps and SRE :) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - Easy way to create a GitHub profile readme with the latest add-ons - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [honeypot](https://www.honeypot.io/) - :uk: / :de: / NL - Europe’s developer-focused job platform.
 * [Interview Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map/blob/master/README-EN.md) - This is a map that can help you to prepare for the next job interview
 * [microverse](https://www.microverse.org/) - Become a remote software developer, no matter where you're from. Learn with Microverse and connect to life-changing opportunities. Don’t pay anything until you get a job! - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -760,8 +765,22 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [meteojob](https://www.meteojob.com/) - :fr: - Focused on France
 * [Simulateur salaire brut et net](https://droit-finances.commentcamarche.com/faq/83832-simulateur-salaire-brut-et-net-module-de-calcul) - :fr: Brut / Net calculator
 
+### Finland
+* [helsinkibusinesshub](https://www.helsinkibusinesshub.fi/90-day-finn/) - Apply Now for a Free 90-Day Helsinki Relocation Package! - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+
 ### Germany
 * [brutto-netto-rechner](https://www.brutto-netto-rechner.info/) - :de: Brutto / Netto calculator
+
+### Iceland
+* [Visa](https://work.iceland.is/working/iceland-announces-new-visa-changes-for-remotely-working) - Foreign nationals remotely working for foreign companies—or self-employed—are now eligible for a long-term visa.
+
+
+### New Zealand
+* [new-zealand](http://webrear.mbie.govt.nz/summary/new-zealand) - :uk: Interactive Regional Economic Activity map of New Zealand
+* [seek](https://www.seek.co.nz/) - :uk: Focused on New Zealand
+* [trademe](https://www.trademe.co.nz/jobs) - :uk: Focused on New Zealand
+* [workhere](https://www.workhere.co.nz/jobs) - :uk: Focused on New Zealand
+* [workingin-newzealand](http://www.workingin-newzealand.com/jobs/) - :uk: Focused on New Zealand
 
 ### Poland
 * [infopraca](https://www.infopraca.pl/) - Focused on Poland
@@ -771,15 +790,6 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [pracuj](https://www.pracuj.pl/) - Focused on Poland
 * [wynagrodzenia](https://wynagrodzenia.pl/kalkulator-wynagrodzen/wyniki) - Brutto / Netto calculator
 
-### New Zealand
-* [new-zealand](http://webrear.mbie.govt.nz/summary/new-zealand) - :uk: Interactive Regional Economic Activity map of New Zealand
-* [seek](https://www.seek.co.nz/) - :uk: Focused on New Zealand
-* [trademe](https://www.trademe.co.nz/jobs) - :uk: Focused on New Zealand
-* [workhere](https://www.workhere.co.nz/jobs) - :uk: Focused on New Zealand
-* [workingin-newzealand](http://www.workingin-newzealand.com/jobs/) - :uk: Focused on New Zealand
-
-### Finland
-* [helsinkibusinesshub](https://www.helsinkibusinesshub.fi/90-day-finn/) - Apply Now for a Free 90-Day Helsinki Relocation Package! - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
 ## Robotic Process Automation (RPA)
 * [TagUI](https://github.com/kelaberetiv/TagUI) - Command-line tool for digital process automation (RPA) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -939,8 +949,10 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [Soundscape](https://github.com/soundscapecloud/soundscape) - a personal music streaming server - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ## Networking / DNS / Wifi ...
+* [apackets](https://apackets.com/) - Allows to read pcap file and analyze IPv4/IPv6, HTTP, Telnet, FTP, DNS, SSDP, WPA protocols, build map of network structure and nodes activity graph, sniff and analyze network traffic and other pcap data - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Auvik](https://www.auvik.com/msp-network-features/) - Tool to manage network infrastructure - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [Angry IP Scanner](https://github.com/angryip/ipscan) - Fast and friendly network scanner - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [bandwhich](https://github.com/imsnif/bandwhich) - CLI utility for displaying current network utilization (bandwith) by process, connection and remote IP/hostname - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [dig online](http://digwebinterface.com/) - Dig, but online - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Dns watch](https://dns.watch/) - No Censorship. No Bullshit. Just DNS. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [dns-trails](https://securitytrails.com/dns-trails) - The World's Largest Repository of historical DNS data - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -1036,6 +1048,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [agantty](https://www.agantty.com/) - Free Projektmanagement (gantt, ...) - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [automate.io](https://automate.io/) - Automate like Fortune 500. Integrate your cloud applications. Automate marketing, sales and business processes. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [awwapp](https://awwapp.com/) - Online whiteboard - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [Clocker](https://github.com/n0shake/Clocker) - macOS app to plan and organize through timezones- [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [clockify](https://clockify.me/) - Free time tracking software. It's a simple time tracker and timesheet app that lets you and your team track work hours across projects. Unlimited users, free forever. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [favro](https://learn.favro.com/) - Favro is the planning and collaboration app for organizational flow. It helps organizations do what they excel at - making products and services that change the game. Fast. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [gantt](https://github.com/frappe/gantt) - Javascript Gantt, A simple, interactive, modern gantt chart library for the web - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -1183,6 +1196,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 ## Security / Cracking
 
 * [the-bastion](https://github.com/ovh/the-bastion) - Bastions are a cluster of machines used as the unique entry point by operational teams (such as sysadmins, developers, database admins, ...) to securely connect to devices (servers, virtual machines, cloud instances, network equipment, ...), usually using ssh. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [Damn Vulnerable Web Application (DVWA)](http://www.dvwa.co.uk/) - PHP/MySQL web application that is damn vulnerable. Its main goals are to be an aid for security professionals to test their skills and tools in a legal environment, help web developers better understand the processes of securing web applications and aid teachers/students to teach/learn web application security in a class room environment. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [DocBleach](https://github.com/docbleach/DocBleach-Web) - DocBleach allows you to sanitize your Word, Excel, PowerPoint, PDF, ... documents. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [etcd](https://etcd.io/) - Key-value store for the most critical data of a distributed system (anyjything from simple web app to a Kubernetes cluster)- [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that very slowly sends an endless, random SSH banner. It keeps SSH clients locked up for hours or even days at a time. The purpose is to put your real SSH server on another port and then let the script kiddies get stuck in this tarpit instead of bothering a real server. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -1192,6 +1206,8 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [lynis](https://github.com/CISOfy/lynis) - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [malwoverview](https://github.com/alexandreborges/malwoverview) - Simple tool to perform an initial and quick triage of malware samples, URLs and hashes. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)s
 * [No more ransom](https://www.nomoreransom.org/en/index.html) - Helps unlocking ransomware infected files - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [owasp - vulnerable web applications directory](https://owasp.org/www-project-vulnerable-web-applications-directory/) - comprehensive and well maintained registry of all known vulnerable web applications currently available. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [pwnadventure](https://www.pwnadventure.com/) - Game that is intentionally flawed to look for security issues (CTF). - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [ransomwhere](https://objective-see.com/products/ransomwhere.html) - Utility with a simple goal; generically thwart OS X ransomware - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [stronghold](https://github.com/alichtman/stronghold) - The easiest way to securely configure your Mac. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Snort](https://www.snort.org/) - A lightweight network intrusion detection system (NIDS) software for Linux and Windows to detect emerging threats. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -1279,6 +1295,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [modd](https://github.com/cortesi/modd) - Triggers commands and manages daemons in response to filesystem changes (Unix, macOS, Windows) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [organize](https://github.com/tfeldmann/organize) - The file management automation tool - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [procs](https://github.com/dalance/procs) - replacement for ps - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [sharemouse](https://www.sharemouse.com/) - Control multiple computers from a single mouse and keyboard - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [SlowQuitApps](https://github.com/dteoh/SlowQuitApps) - 
 Add a global delay to Command-Q to stop accidental app quits. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -1341,6 +1358,7 @@ Add a global delay to Command-Q to stop accidental app quits. - [![](https://img
   - mtr
   - ipcalc
   - grepcidr
+  - [popsicle](https://github.com/pop-os/popsicle) - Multiple USB File Flasher
 
 ### Windows
   - Windirstat
@@ -1382,6 +1400,7 @@ without the hassle. - [![](https://img.shields.io/badge/pricing-open--source-gre
 
 ## Writing / Markdown / Rendering
 
+* [bludit](https://www.bludit.com/) - Create your own Website or Blog in seconds. Simple, Fast, Secure, Flat-File CMS - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [doctoc](https://github.com/thlorenz/doctoc) - Generates table of contents for markdown files - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Ghost](https://github.com/TryGhost/Ghost) - The #1 headless Node.js CMS for professional publishing - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [GitHub buttons](https://ghbtns.com/) - Showcase your GitHub repo’s success with hotlinkable GitHub star, fork, sponsor, and follow buttons. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -1404,3 +1423,4 @@ to help you focus on what matters.  - [![](https://img.shields.io/badge/pricing-
 ## Wordpress
 * [WP - CLI](https://wp-cli.org) - WP-CLI is the command-line interface for WordPress. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [WP Speedster](http://www.wpspeedster.com/) -  You can find almost all themes from the WordPress.org theme repository tested against Google PageSpeed here. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [bedrock](https://roots.io/bedrock/) - Wordpress Boilerplate
