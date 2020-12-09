@@ -778,7 +778,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [brutto-netto-rechner](https://www.brutto-netto-rechner.info/) - :de: Brutto / Netto calculator
 
 ### Iceland
-* [Visa](https://work.iceland.is/working/iceland-announces-new-visa-changes-for-remotely-working) - Foreign nationals remotely working for foreign companies—or self-employed—are now eligible for a long-term visa.
+* [Visa](https://work.iceland.is/working/icelands-remote-work-long-term-visa) - Foreign nationals remotely working for foreign companies—or self-employed—are now eligible for a long-term visa.
 
 
 ### New Zealand
