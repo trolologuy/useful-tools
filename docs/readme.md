@@ -109,7 +109,9 @@ Please feel free to comment or open a pull request if you know better tools / or
 ## Browsers
 *The thing you use to navigate through the depth of internet*
 
+* [brave](https://brave.com/) - Get money from ads while browsing. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Vivaldi](https://vivaldi.com/) - Every aspect of Vivaldi can be tweaked and customized (look & feel, ...). - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [brow.sh](https://www.brow.sh/) - Fully-modern text-based browser. It renders anything that a modern browser can; HTML5, CSS3, JS, video and even WebGL - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ## Calculus
 *Struggling with numbers ? So am i, here are tools to help*
@@ -255,6 +257,7 @@ Guide to securing and improving privacy on macOS - [![](https://img.shields.io/b
 * [Ansible](https://github.com/ansible/ansible) - Automation platform that makes your applications and systems easier to deploy. Uses SSH only, no agents to install on remote systems. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [chaosmonkey](https://github.com/Netflix/chaosmonkey) - A resiliency tool that helps applications tolerate random instance failures. It randomly terminates virtual machine instances and containers that run inside of your production environment - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Cloud Foundry BOSH](https://github.com/cloudfoundry/bosh) - Release engineering, deployment, lifecycle management, and monitoring of distributed systems. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [deployer.org](https://deployer.org/) - A deployment tool written in PHP with support for popular frameworks out of the box. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [freckles](https://freckles.io/) - Python framework that helps getting computational environments into a defined state, with minimal amount of hassle - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [istio](https://istio.io/) - Connect, secure, control, and observe (micro)services. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Jamf](https://www.jamf.com/) - Mobile Device Management specialized on Apple / macOS products. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
@@ -490,6 +493,7 @@ shape divider. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [lens](https://github.com/lensapp/lens) - The Kubernetes IDE - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [linkerd](https://linkerd.io/) - A service mesh for Kubernetes and beyond. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [metallb](https://metallb.universe.tf/) - Load-balancer implementation for bare metal Kubernetes clusters - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [platform_cc](https://github.com/chompy/platform_cc) - Tool for provisioning apps with Docker based on Platform.sh's .platform.app.yaml spec. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Portainer](https://github.com/portainer/portainer) - A lightweight management UI which allows you to easily manage your different Docker environments (Docker hosts or Swarm clusters). - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [rancher](https://github.com/rancher/rancher) - Complete container management platform - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [runme](https://runme.io/) - Run your application from any public Git-repo with one click - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -858,6 +862,8 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [Algorithm visualizer](https://algorithm-visualizer.org/)
 * [class-central](https://www.class-central.com/)
 * [codecademy](https://www.codecademy.com/)
+* [codekingdoms](https://codekingdoms.com/) - Learn how to make your own Minecraft mods and Roblox games with Code Kingdoms.
+For ages 8-14. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [codingame](https://www.codingame.com) - The new way to improve your programming skills while having fun and getting noticed
 * [datacamp](https://www.datacamp.com/) - Learn Data Science Online - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [flexbox froggy](http://flexboxfroggy.com/)
@@ -991,12 +997,14 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [unraid](https://unraid.net/) - Operating system that brings enterprise-class features to maximize performance and capacity using any combination of applications, VMs, storage devices, and hardware. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [virtualbox](https://www.virtualbox.org/) - A virtualization product for both enterprise and home use. Only professional solution that is freely available as Open Source Software - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
-## Online Payment / Sell stuff / Buy stuff
+## Online Payment / Sell stuff / Buy stuff / TPE
 *Katsching*
 
 * [Apollo](https://www.apollo.io/) - Sales and engagement strategy platform - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [paytweak](https://www.paytweak.com/) - Email, text, chat, bots ... Payment Services - Build your own Secure Payment Links to get Payments directly to your bank account with No time and No fees ! - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [picfair](https://try.picfair.com/pp/) - You upload & set your prices. You customize your store. Picfair does everything else. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Stripe](https://stripe.com/) - Accept payments and manage your business online - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
+* [sumup](https://sumup.com/credit-card-processing-fees) - Card payment processor for small businesses. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [serverhunter](https://www.serverhunter.com/) - Compare servers from different providers - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [leanpub](https://leanpub.com/) - Sell ebooks - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 
@@ -1207,6 +1215,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 
 * [the-bastion](https://github.com/ovh/the-bastion) - Bastions are a cluster of machines used as the unique entry point by operational teams (such as sysadmins, developers, database admins, ...) to securely connect to devices (servers, virtual machines, cloud instances, network equipment, ...), usually using ssh. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [cfssl](https://github.com/cloudflare/cfssl) - CFSSL is CloudFlare's PKI/TLS swiss army knife. It is both a command line tool and an HTTP API server for signing, verifying, and bundling TLS certificates. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [crowdsec](https://github.com/crowdsecurity/crowdsec/) - A modern behavior detection system, written in Go. It stacks on Fail2ban's philosophy, but uses Grok patterns & YAML grammar to analyse logs, a modern decoupled approach (detect here, remedy there) for Cloud/Containers/VM based infrastructures. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Damn Vulnerable Web Application (DVWA)](http://www.dvwa.co.uk/) - PHP/MySQL web application that is damn vulnerable. Its main goals are to be an aid for security professionals to test their skills and tools in a legal environment, help web developers better understand the processes of securing web applications and aid teachers/students to teach/learn web application security in a class room environment. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [DocBleach](https://github.com/docbleach/DocBleach-Web) - DocBleach allows you to sanitize your Word, Excel, PowerPoint, PDF, ... documents. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [etcd](https://etcd.io/) - Key-value store for the most critical data of a distributed system (anyjything from simple web app to a Kubernetes cluster)- [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -1366,6 +1375,7 @@ Add a global delay to Command-Q to stop accidental app quits. - [![](https://img
   - Oh My ZSH
   - [organize](https://github.com/tfeldmann/organize)
   - Rambox
+  - [Does It ARM?](https://doesitarm.com/)
 
 ### Linux
   - lnav
