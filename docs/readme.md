@@ -136,6 +136,7 @@ Please feel free to comment or open a pull request if you know better tools / or
 
 * [chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live chat software - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Franz](https://meetfranz.com/) - Aggregates lots of differents chat-tools - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [Ferdi](https://getferdi.com/) - All your messaging services in one place - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Matrix](https://matrix.org/blog/home/) - A new basis for open, interoperable, decentralised real-time communication - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Rambox](https://rambox.pro/) - Aggregates lots of differents chat-tools - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Rocket Chat](https://rocket.chat/) - The ultimate Free Open Source Solution for team communications - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -247,6 +248,8 @@ Guide to securing and improving privacy on macOS - [![](https://img.shields.io/b
 
 * [Adminer](https://www.adminer.org/#download) - Database management in a single PHP file - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/vrana/adminer/)
 * [Dbeaver](http://dbeaver.io/) - Free universal database tool and SQL client - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [directus](https://directus.io/) - An Instant App & API for your SQL Database.
+Directus wraps your new or existing SQL database with a realtime GraphQL+REST API for developers, and an intuitive admin app for non-technical users. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [getmedis](http://getmedis.com/) - Beautiful Management Application for Redis - - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [SQLAlchemy](https://www.sqlalchemy.org/) - The Python SQL Toolkit and Object Relational Mapper - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/sqlalchemy/sqlalchemy/)
 
@@ -618,11 +621,12 @@ for your awesome landing pages. - [![](https://img.shields.io/badge/pricing-free
 * [Logo](https://logo.com/) - Make a logo in minutes - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 
 
-### Free Stock Images
+### Free Stock Images and Videos
 * [deathtothestockphoto](https://deathtothestockphoto.com/) - Sign-up to get free photo sample. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Freepik](https://www.freepik.com) - Free Vectors, Stock Photos, PSD and Icons - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [gratisography](https://gratisography.com/) - Quirky, Creative, Always Free Photos. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [lifeofpix](https://www.lifeofpix.com/) - Free high resolution photography. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [mixkit](https://mixkit.co/) - Stock Video Clips, Stock Music, Sound Effects & Video Templates. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [picjumbo](https://picjumbo.com/) - Download free stock photos, backgrounds and free high-resolution images for personal and commercial use - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [pixabay](https://pixabay.com/) - royalty free stock images - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [stocksnap](https://stocksnap.io/) - Beautiful free stock photos - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -832,6 +836,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [poste.io](https://poste.io/) - SMTP + IMAP + POP3 + Antispam + Antivirus +Web administration + Webmail...on your server in ~5 minutes [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [roundcube](https://roundcube.net/) - A browser-based multilingual IMAP client with an application-like user interface. It provides full functionality you expect from an email client, including MIME support, address book, folder manipulation, message searching and spell checking. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [spf test](https://appmaildev.com/en/spf/) - SPF record checker - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [signitic](https://www.signitic.com/) - Mail signatures managed centrally, consistent and brand aware. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 
 ## Mailing
 *Spam Ham*
@@ -1003,6 +1008,9 @@ For ages 8-14. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#
 * [Apollo](https://www.apollo.io/) - Sales and engagement strategy platform - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [paytweak](https://www.paytweak.com/) - Email, text, chat, bots ... Payment Services - Build your own Secure Payment Links to get Payments directly to your bank account with No time and No fees ! - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [picfair](https://try.picfair.com/pp/) - You upload & set your prices. You customize your store. Picfair does everything else. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [paytweak](https://www.paytweak.us/) - Build your own Universal Secure Payment Links to get Payments
+in seconds, directly to your bank account with No time and No fees ! - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [mazyng](https://mazyng.com/) - Build your brand. Design your future. We help you sell custom merchandise online. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Stripe](https://stripe.com/) - Accept payments and manage your business online - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [sumup](https://sumup.com/credit-card-processing-fees) - Card payment processor for small businesses. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [serverhunter](https://www.serverhunter.com/) - Compare servers from different providers - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -1011,6 +1019,7 @@ For ages 8-14. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#
 ## Others
 */dev/random*
 
+* [openframe](https://openframe.io/) - Platform for artists, curators and art enthusiasts to share, discover and display digital art. Raspberry pi based. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [estcequonpeutpartir](http://estcequonpeutpartir.fr/) - :fr: Helps taking decisions on where to go on holiday - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [farmbot](https://farm.bot/) - Open-Source CNC Farming - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/FarmBot/Farmbot-Web-App)
 * [Great escape](https://greatescape.co) - Flight tracker / Travel helper that helps take decisions or find new destinations based on prices and many other categories, for example if you want to start travelling from a specific starting point - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -1049,12 +1058,15 @@ For ages 8-14. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#
 * [webslides](https://github.com/webslides/webslides/) - Create HTML presentations in seconds - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 
-## Governement-funded / Participative software
+## Governement-funded / Participative software / Community
 *Public money, public code !*
 * [ckan](https://ckan.org/) - Data portal platform / Data management system that makes data accessible – by providing tools to streamline publishing, sharing, finding and using data
 * [consulproject](https://consulproject.org/en/) - Citizen participation tool for an open, transparent and democratic government. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [decidim](https://github.com/decidim/decidim) - Participatory democracy framework - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [gnuhealth](https://gnuhealth.org/#/) - Libre Health and Hospital Information System - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [kit](https://kit.co/) - Help Your Followers Find Your Favorite Tools - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [opencollective](https://opencollective.com/) - Manage your finances so everyone can see where money comes from and where it goes. Collect and spend money transparently.
+ - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [ogptoolbox](https://ogptoolbox.org/en/) - List of tools and resources to promote democracy, transparency, participation and collaboration. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [oskari](https://www.oskari.org/) - A framework for easily building multipurpose web mapping applications utilizing distributed Spatial Data Infrastructures like INSPIRE - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [sentilo](https://www.sentilo.io/wordpress/) - Smart City platform. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -1337,6 +1349,8 @@ Add a global delay to Command-Q to stop accidental app quits. - [![](https://img
 * [espanso "GUI" alternative to forms](https://gist.github.com/atika/dc2de3f8813d9919485761347b200d61) - For the time being, espanso does not come with a graphical user interface, in the meanwhile you can use this workaround to prompt for text or select result in a list, on macOS. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ## Templates / Dashboards / Tool overview
+* [appsmith](https://github.com/appsmithorg/appsmith) - Visual development platform to build and launch internal tools quickly. Drag-and-drop pre-built widgets, and connect them using JavaScript to create interactive pages. Connect UI to your APIs and Databases to build complex workflows in minutes.
+ - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Admin LTE](https://github.com/almasaeed2010/AdminLTE)
 * [Angular analytics](http://angular-material.fusetheme.com/apps/dashboards/analytics)
 * [backstage](https://github.com/spotify/backstage) - Backstage is an open platform for building developer portals made by spotify - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -1398,11 +1412,14 @@ without the hassle. - [![](https://img.shields.io/badge/pricing-open--source-gre
 * [wireguard](https://www.wireguard.com/) - Fast, Modern, Secure VPN Tunnel - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [wg-gen-web](https://github.com/vx3r/wg-gen-web) - Simple Web based configuration generator for WireGuard - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
-## Voice Assistant
+## Voice / Home Assistant
 *Ok Siri*
 
+* [gladysassistant](https://gladysassistant.com/en/) - Home assistant - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [home-assistant](https://www.home-assistant.io/) - Home automation that puts local control and privacy first. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [jarvis](https://github.com/alexylem/jarvis) - Jarvis.sh is a simple configurable multi-lang assistant - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
-
+* [picovoice](https://picovoice.ai/) - Create context-aware voice products. Platform for adding voice to anything - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [replicastudios](https://replicastudios.com/) - Create naturally expressive voice overs and performances with a Replica Voice.
 
 ## Webservers
 * [NGINX Config](https://www.digitalocean.com/community/tools/nginx) - The easiest way to configure a performant, secure, and stable NGINX server. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/digitalocean/nginxconfig.io)
