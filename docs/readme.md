@@ -723,6 +723,7 @@ A collection of useful .gitignore templates - [![](https://img.shields.io/badge/
 * [guetzli](https://github.com/google/guetzli/) - Guetzli is a JPEG encoder that aims for excellent compression density at high visual quality. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [image-scrubber](https://github.com/everestpipkin/image-scrubber) - A tool for anonymizing photographs taken at protests - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [imageoptim](https://imageoptim.com/) -  ImageOptim makes images load faster. Removes bloated metadata. Saves disk space & bandwidth by compressing images without losing quality. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [piwigo](https://piwigo.org/) - Photo gallery software that helps to manage your photo collection - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [svgomg](https://jakearchibald.github.io/svgomg/) - Helps optimizing SVG images - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ## Images reverse search / Face search / Search Engines / Image tagging / Deepfake
@@ -1033,6 +1034,7 @@ in seconds, directly to your bank account with No time and No fees ! - [![](http
 ## Others
 */dev/random*
 
+* [aircall](https://aircall.io/) - Cloud-based call center software - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [openframe](https://openframe.io/) - Platform for artists, curators and art enthusiasts to share, discover and display digital art. Raspberry pi based. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [estcequonpeutpartir](http://estcequonpeutpartir.fr/) - :fr: Helps taking decisions on where to go on holiday - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [ergodox-ez](https://ergodox-ez.com/) - fully customizable ergonomic keyboard. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
@@ -1154,6 +1156,7 @@ in seconds, directly to your bank account with No time and No fees ! - [![](http
 * [Tixeo](https://www.tixeo.com/) - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [Webex](https://cart.webex.com/sign-up?locale=en_EN) - Enterprise solution for video conferencing, online meetings, screen share, and webinars. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [whereby](https://whereby.com/) - Easy video meetings - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [when2meet](https://www.when2meet.com/) - Makes scheduling meeting accross timezones easy. Very helpful for distributed teams. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [youtube](http://youtube.com/) - Allows to live stream - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Zoho](https://www.zoho.com/meeting/) - Your online meeting and webinar solution - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [zoom](https://zoom.us/) - Enterprise video conferencing with real-time messaging and content sharing - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -1385,7 +1388,7 @@ Add a global delay to Command-Q to stop accidental app quits. - [![](https://img
 *Фэсапщы Elu הלו Güata Tàg السلام عليكم Cześć নমস্কাৰ Kasalehlie მარშიხ Aloha ვალ Haluu 你好 Γειά! Halito 今日は ជំរាបសួរ Kamusta 안녕하십니까 ສະບາຍດີ გეგაჯგინას Здраво*
 * [Deepl](https://deepl.com/) - (The best) machine translation service. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [glosbe](https://glosbe.com/) - Multilingual online dictionary - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
-
+* [libretranslate](https://libretranslate.com/) - Machine Translation API - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ## User Management (LDAP / Radius / SSO / OpenID Connect / OAuth / SAML / ... )
 * [free ipa](https://www.freeipa.org/page/Main_Page) - Manage Linux users and client hosts in your realm from one central location with CLI, Web UI or RPC access. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://pagure.io/freeipa/issues)
