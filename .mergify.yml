@@ -1,0 +1,8 @@
+pull_request_rules:
+  - name: automatic merge for Dependabot pull requests
+    conditions:
+      - author~=^dependabot(|-preview)\[bot\]$
+      - status-success=platformsh
+    actions:
+      merge:
+        method: squash
