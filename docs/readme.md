@@ -312,6 +312,7 @@ Directus wraps your new or existing SQL database with a realtime GraphQL+REST AP
 * [AsciiSignature](http://www.kammerl.de/ascii/AsciiSignature.php/) - Generate ASCII signatures - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [bootstrap-table](https://bootstrap-table.com/) - Extended HTML tables for bootstrap. Adds search, sorting, ... (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation) - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/bower/bower)
 * [Bower](https://bower.io/) - Web sites are made of lots of things — frameworks, libraries, assets, and utilities. Bower manages all these things for you. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/bower/bower)
+* [cosmopolitan](https://github.com/jart/cosmopolitan) - Makes C a build-once run-anywhere language, like Java, except it doesn't need an interpreter or virtual machine. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Can i use](https://caniuse.com) - Browser support tables for comparing the availability of modern web technologies - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/Fyrd/caniuse)
 * [CodyHouse](https://github.com/CodyHouse/codyhouse-framework) - A lightweight front-end framework for building accessible, bespoke interfaces. Allows to design a web page (kinda wireframe deluxe). - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/CodyHouse/codyhouse-framework)
 * [dark-mode-switch](https://github.com/coliff/dark-mode-switch) - Add a dark-mode theme toggle with a Bootstrap Custom Switch - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -674,8 +675,8 @@ that make use of innovative user interfaces, such as multi-touch apps - [![](htt
 * [changelog](https://github.com/olivierlacan/keep-a-changelog) - Don’t let your friends dump git logs into changelogs™ - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [forgit](https://github.com/wfxr/forgit) - Utility tool for using git interactively - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [gitignore](https://www.gitignore.io/) - Create useful .gitignore files for your project - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
-* [gitignore collection](https://github.com/github/gitignore) -
-A collection of useful .gitignore templates - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [gitignore collection](https://github.com/github/gitignore) - A collection of useful .gitignore templates - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [glab](https://github.com/profclems/glab) - GitLab CLI tool - [![](https://img.shields.io/badge/pricing-open--source-green)](#) 
 * [gitpod](https://www.gitpod.io/self-hosted/) - Take Control of Your Source Code - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [gource](https://github.com/acaudwell/Gource) - software version control visualization - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [vercel](https://vercel.com/) - Cloud platform for static frontends and serverless functions. It enables developers to host websites and web applications that deploy instantly for example from a git repository, scale automatically, and require no supervision - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -1000,6 +1001,7 @@ For ages 8-14. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#
 * [speedtest](https://www.speedtest.net/) - Test your internet connection's speed - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [spotipo](https://www.spotipo.com/) - Hotspot portal for your existing WiFi router. For using,you will need to have a router that supports Spotipo.  - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [whatsmydns](https://www.whatsmydns.net/) - DNS Propagation Checker - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [wtfismyip](https://github.com/wtfismyip/wtfismyip) - Helps to find out the IP used (IPv4 and IPv6) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [wifi-card](https://github.com/bndw/wifi-card) - Print a simple card with your WiFi login details. Tape it to the fridge, keep it in your wallet, etc. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ## Operating Systems / Virtualization
@@ -1161,6 +1163,11 @@ in seconds, directly to your bank account with No time and No fees ! - [![](http
 * [Zoho](https://www.zoho.com/meeting/) - Your online meeting and webinar solution - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [zoom](https://zoom.us/) - Enterprise video conferencing with real-time messaging and content sharing - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
+### Games for remote teams
+* [cardsagainstformality](https://cardsagainstformality.io/) - Cards against humanity but online. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [Skribbl](https://skribbl.io/) - Drawing and typing. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [garticphone](https://garticphone.com/) - The phone game - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+
 ## Server Basics
   - Apache / Nginx
   - Certbot
@@ -1200,8 +1207,9 @@ in seconds, directly to your bank account with No time and No fees ! - [![](http
 * [pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Rhodecode](https://rhodecode.com/) -  Centralized control for distributed repositories. Mercurial, Git, and Subversion under a single roof. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://code.rhodecode.com/)
 
-### Ticketing / Bug tracker
+### Ticketing / Bug tracker / Support
 * [Mantis BT](https://www.mantisbt.org/) - An issue tracker / Ticketing tool that provides a delicate balance between simplicity and power - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/mantisbt/mantisbt)
+* [liveagent](https://www.liveagent.com/) - Tickets, Livechat, ... all in one place - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [linear](https://linear.app/) - Linear helps streamline software projects, sprints, tasks, and bug tracking. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [zammad](https://zammad.org/) - Zammad is a web-based user support/ticketing solution. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/zammad/zammad)
 * [YouTrack](https://www.jetbrains.com/youtrack/features/) - Issue tracking tool that enables teams to collaborate efficiently. Made by JetBrains - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -1222,6 +1230,7 @@ in seconds, directly to your bank account with No time and No fees ! - [![](http
 
 * [annotate-capture-screenshot](https://apps.apple.com/us/app/annotate-capture-screenshot/id918207447?mt=12) - Annotate (formerly know as Glui) is the simplest way to capture, annotate and share screenshots on macOS. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [asciinema](https://asciinema.org/) - Record and share your terminal sessions, the right way.  → "Shellcast" - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/asciinema/asciinema)
+* [Printimage](https://justine.lol/printimage.html) - Displays image in the terminal - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Kap](https://github.com/wulkano/kap) - Screen recorder built with web technology - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [keycastr](https://github.com/keycastr/keycastr) - macOS keystroke visualizer - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Licecap](https://www.cockos.com/licecap/) - Do a simple screencast in gif format - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/justinfrankel/licecap)
@@ -1267,6 +1276,7 @@ in seconds, directly to your bank account with No time and No fees ! - [![](http
 * [Suricata](https://suricata-ids.org/) - Real time intrusion detection (IDS), inline intrusion prevention (IPS), network security monitoring (NSM) and offline pcap processing - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [sqreen](https://www.sqreen.com/) - Application security platform that helps teams protect applications, increase visibility and secure code. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [virus total](https://www.virustotal.com/gui/home) -  Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [vuls.io](https://vuls.io/) - Agentless Vulnerability Scanner for Linux/FreeBSD - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Zoneminder](https://www.zoneminder.com/) - State-of-the-art video surveillance software system. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/ZoneMinder/ZoneMinder/)
 * [Zydra](https://github.com/hamedA2/Zydra) - File password recovery tool (pdf, rar, zip) and Linux shadow file cracker. It uses the dictionary search or Brute force method for cracking passwords. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
