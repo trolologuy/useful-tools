@@ -779,6 +779,7 @@ that make use of innovative user interfaces, such as multi-touch apps - [![](htt
 * [housefor.work](https://housefor.work/) - Test internet connection - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [remoteleaf](https://remoteleaf.com/) -  We search the entire internet and hand-pick thousands of remote jobs, so you don’t have to. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [Remoteok](https://remoteok.io/) - :uk: Get a remote job you can do anywhere - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [Remote Workers](https://remoteworkers.net) - Remote Jobs & Talent Network
 * [weworkremotely](https://weworkremotely.com/) - :uk: - Largest remote work community in the world - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
 ### Canada
