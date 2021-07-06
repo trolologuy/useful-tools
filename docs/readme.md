@@ -30,6 +30,7 @@ Please feel free to comment or open a pull request if you know better tools / or
 *'cause i'm API*
 
 * [fastapi](https://github.com/tiangolo/fastapi) - Modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem- [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Postman](https://www.postman.com/downloads/) - Complete API Development Environment - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Swagger](https://swagger.io/tools/open-source/) - Easy-to-use suite of API developer tools for teams and individuals, enabling development across the entire API lifecycle, from design and documentation, to test and deployment - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
