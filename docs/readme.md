@@ -175,6 +175,7 @@ Please feel free to comment or open a pull request if you know better tools / or
 * [bundlephobia](https://github.com/pastelsky/bundlephobia) - Find the cost of adding a node npm package to your bundle - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [semantic-release](https://github.com/semantic-release/semantic-release) - Automates the whole package release workflow including: determining the next version number, generating the release notes and publishing the package. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [codeclimate](https://codeclimate.com/) - Automated code review and quality analytics. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [editorconfig](https://github.com/editorconfig/editorconfig) - EditorConfig helps maintain consistent coding styles for multiple developers working on the same project across various editors and IDEs. The EditorConfig project consists of a file format for defining coding styles and a collection of text editor plugins that enable editors to read the file format and adhere to defined styles. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [gerrit](https://github.com/GerritCodeReview/gerrit) - Code Review tool - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [commitizen](https://github.com/commitizen/cz-cli) - The commitizen command line utility. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -254,6 +255,7 @@ Guide to securing and improving privacy on macOS - [![](https://img.shields.io/b
 * [Dbeaver](http://dbeaver.io/) - Free universal database tool and SQL client - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [directus](https://directus.io/) - An Instant App & API for your SQL Database.
 Directus wraps your new or existing SQL database with a realtime GraphQL+REST API for developers, and an intuitive admin app for non-technical users. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [nocodb](https://www.nocodb.com/) - Platform that turns any database into a smart spreadsheet - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [getmedis](http://getmedis.com/) - Beautiful Management Application for Redis - - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [SQLAlchemy](https://www.sqlalchemy.org/) - The Python SQL Toolkit and Object Relational Mapper - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/sqlalchemy/sqlalchemy/)
 
@@ -434,7 +436,9 @@ shape divider. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [hexo.io](https://hexo.io/) - A fast, simple & powerful blog framework - [![](https://img.shields.io/badge/pricing-open--source-green)](#)s
 * [Hugo](https://gohugo.io/) - Static website generator based on markdown - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/gohugoio/hugo)
 * [pollygot](https://pollygot.com/) - Pollygot is a content platform that consolidates all the most important services you need to run your business. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
+* [rocket](https://github.com/modernweb-dev/rocket) - Another static site generator. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Staticgen](https://www.staticgen.com/) - A List of Static Site Generators for JAMstack Sites - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/netlify/staticgen)
+* [statamic](https://statamic.com/) - Static site generator - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [strapi](https://strapi.io/) - Headless CMS Front-End - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [vuepress](https://vuepress.vuejs.org/) -  Vue-powered Static Site Generator - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [zola](https://www.getzola.org/) - Your one-stop static site engine. Forget dependencies. Everything you need in one binary. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)s
@@ -491,6 +495,7 @@ shape divider. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Wiki JS](https://wiki.js.org/) - A modern, lightweight and powerful wiki app built on Node.js - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/Requarks/wiki)
 * [Write the docs](http://www.writethedocs.org/) - Information about writing documentation - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [nextra](https://github.com/shuding/nextra) - Next.js based documentation site generator. 0 line of code needed, just write Markdown. It supports MDX, anchor links, file-system based routing and built-in syntax highlighting. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [youneedawiki](https://youneedawiki.com/) - Create a wiki with Google Docs - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
 ## Docker / Kubernetes
 *Containers and stuff*
@@ -533,6 +538,7 @@ shape divider. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [monica](https://github.com/monicahq/monica) - Personal Relationship Manager - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Metasfresh](https://metasfresh.com/en/) - Responsive Free and Open Source ERP System - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/metasfresh/metasfresh)
 * [planless](https://planless.io/pricing) - Artificial intelligence to constantly, instantly and automatically calculate who on your team should do what/when and when things will be done. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
+* [phasecrm](https://phasecrm.com/) - Efficiently manage your channels & keep a pulse on what your members care about on Slack - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Sabre](http://sabre.io/) - A CardDAV, CalDAV and WebDAV server - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/sabre-io/Baikal)
 * [snipeit](https://snipeitapp.com/) - Say goodbye to spreadheets. Asset Management System. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Sogo](https://sogo.nu/) - Share your calendars, address books and mails in your community (groupware). - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -682,6 +688,7 @@ that make use of innovative user interfaces, such as multi-touch apps - [![](htt
 * [gitpod](https://www.gitpod.io/self-hosted/) - Take Control of Your Source Code - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [gource](https://github.com/acaudwell/Gource) - software version control visualization - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [vercel](https://vercel.com/) - Cloud platform for static frontends and serverless functions. It enables developers to host websites and web applications that deploy instantly for example from a git repository, scale automatically, and require no supervision - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [whatthecommit](http://whatthecommit.com/) - commit message generator. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
 ## Hardware Checks
 *Sometimes the source of the issue is not located on the chair and the "Have you tried turning it off and on again" is not enough*
@@ -705,6 +712,8 @@ that make use of innovative user interfaces, such as multi-touch apps - [![](htt
 * [Atom](https://atom.io/) - A hackable text editor for the 21st Century - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/atom/atom)
 * [code-server](https://github.com/cdr/code-server/) - Run VS Code on any machine anywhere and access it in the browser. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [draculatheme](https://github.com/dracula/draculatheme.com) - Dark theme for VIM, VScode, firefox, Telegram, ... - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [micro](https://github.com/zyedidia/micro) - easy to use and intuitive. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [neovim](https://neovim.io/) - hyperextensible Vim-based text editor - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Ox](https://github.com/curlpipe/ox) - Ox is a code editor that runs in your terminal. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [spacemacs](https://github.com/syl20bnr/spacemacs) - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim! - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [theia](https://theia-ide.org/) - Theia is an extensible platform to develop multi-language Cloud & Desktop IDEs with state-of-the-art web technologies. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -1087,8 +1096,7 @@ in seconds, directly to your bank account with No time and No fees ! - [![](http
 * [decidim](https://github.com/decidim/decidim) - Participatory democracy framework - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [gnuhealth](https://gnuhealth.org/#/) - Libre Health and Hospital Information System - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [kit](https://kit.co/) - Help Your Followers Find Your Favorite Tools - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
-* [opencollective](https://opencollective.com/) - Manage your finances so everyone can see where money comes from and where it goes. Collect and spend money transparently.
- - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [opencollective](https://opencollective.com/) - Manage your finances so everyone can see where money comes from and where it goes. Collect and spend money transparently. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [ogptoolbox](https://ogptoolbox.org/en/) - List of tools and resources to promote democracy, transparency, participation and collaboration. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [oskari](https://www.oskari.org/) - A framework for easily building multipurpose web mapping applications utilizing distributed Spatial Data Infrastructures like INSPIRE - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [sentilo](https://www.sentilo.io/wordpress/) - Smart City platform. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -1257,6 +1265,7 @@ in seconds, directly to your bank account with No time and No fees ! - [![](http
 
 * [the-bastion](https://github.com/ovh/the-bastion) - Bastions are a cluster of machines used as the unique entry point by operational teams (such as sysadmins, developers, database admins, ...) to securely connect to devices (servers, virtual machines, cloud instances, network equipment, ...), usually using ssh. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [cfssl](https://github.com/cloudflare/cfssl) - CFSSL is CloudFlare's PKI/TLS swiss army knife. It is both a command line tool and an HTTP API server for signing, verifying, and bundling TLS certificates. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [crt.sh](https://github.com/snwlvl/crt.sh) - A shell script to grab subdomains and probe for working http and https servers. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [crowdsec](https://github.com/crowdsecurity/crowdsec/) - A modern behavior detection system, written in Go. It stacks on Fail2ban's philosophy, but uses Grok patterns & YAML grammar to analyse logs, a modern decoupled approach (detect here, remedy there) for Cloud/Containers/VM based infrastructures. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Damn Vulnerable Web Application (DVWA)](http://www.dvwa.co.uk/) - PHP/MySQL web application that is damn vulnerable. Its main goals are to be an aid for security professionals to test their skills and tools in a legal environment, help web developers better understand the processes of securing web applications and aid teachers/students to teach/learn web application security in a class room environment. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [DocBleach](https://github.com/docbleach/DocBleach-Web) - DocBleach allows you to sanitize your Word, Excel, PowerPoint, PDF, ... documents. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -1310,7 +1319,8 @@ in seconds, directly to your bank account with No time and No fees ! - [![](http
 * [hyper](https://github.com/zeit/hyper) - A terminal built on web technologies - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
 * [m-cli](https://github.com/rgcr/m-cli) - Swiss Army Knife for macOS - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
-* [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) - The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [Mac-CI](https://github.com/guarinogabriel/Mac-CLI) - The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [mosh](https://mosh.org/#) - Mosh is a replacement for interactive SSH terminals. It's more robust and responsive, especially over Wi-Fi, cellular, and long-distance links. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [mobaxterm](https://mobaxterm.mobatek.net/) - Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [nanorc](https://github.com/scopatz/nanorc) - Improved Syntax Highlighting Files for the Nano text editor - - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [neofetch](https://github.com/dylanaraps/neofetch) - Command-line system information tool - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -1500,3 +1510,4 @@ to help you focus on what matters.  - [![](https://img.shields.io/badge/pricing-
 * [WP - CLI](https://wp-cli.org) - WP-CLI is the command-line interface for WordPress. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [WP Speedster](http://www.wpspeedster.com/) -  You can find almost all themes from the WordPress.org theme repository tested against Google PageSpeed here. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [bedrock](https://roots.io/bedrock/) - Wordpress Boilerplate
+* [frontity](https://frontity.org/) - React framework for WordPress - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
