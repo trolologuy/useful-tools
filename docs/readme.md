@@ -244,6 +244,7 @@ Guide to securing and improving privacy on macOS - [![](https://img.shields.io/b
 * [Travis](https://travis-ci.org/) - Test and Deploy code - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
 ### Automated tests
+* [behat](https://docs.behat.org/en/latest/) - Behat is a BDD framework for PHP to help you test business expectations. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [jestjs](https://jestjs.io/) - JavaScript Testing Framework with a focus on simplicity. It works with projects using: Babel, TypeScript, Node, React, Angular, Vue and more! - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [majestic](https://github.com/Raathigesh/majestic) - ⚡ Zero config GUI for Jest - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
@@ -252,11 +253,14 @@ Guide to securing and improving privacy on macOS - [![](https://img.shields.io/b
 *Store that data*
 
 * [Adminer](https://www.adminer.org/#download) - Database management in a single PHP file - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/vrana/adminer/)
+* [arctype](https://www.arctype.com/) - The SQL client and database management tool that's fun to use - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Dbeaver](http://dbeaver.io/) - Free universal database tool and SQL client - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [directus](https://directus.io/) - An Instant App & API for your SQL Database.
 Directus wraps your new or existing SQL database with a realtime GraphQL+REST API for developers, and an intuitive admin app for non-technical users. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [keydb](https://keydb.dev/keydb-open-source/) - fastest in-memory database in the world - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [nocodb](https://www.nocodb.com/) - Platform that turns any database into a smart spreadsheet - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [getmedis](http://getmedis.com/) - Beautiful Management Application for Redis - - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [InfluxDB](https://www.influxdata.com/) - Purpose-built to handle massive volumes and countless sources of time-stamped data produced by sensors, applications and infrastructure (for IoT, analytics and monitoring software). - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [SQLAlchemy](https://www.sqlalchemy.org/) - The Python SQL Toolkit and Object Relational Mapper - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/sqlalchemy/sqlalchemy/)
 
 ## Deployment / Remote management / MDM
@@ -302,6 +306,8 @@ Directus wraps your new or existing SQL database with a realtime GraphQL+REST AP
 * [htop](https://en.wikipedia.org/wiki/Top_(software)) - Interactive system-monitor for Linux or [bashtop](https://github.com/aristocratos/bashtop)
 * [jq](https://stedolan.github.io/jq/) - sed for JSON data - you can use it to slice and filter and map and transform structured data with the same ease that sed, awk, grep and friends let you play with text.
 * [plac](https://github.com/micheles/plac) - Plac: Parsing the Command Line the Easy Way - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [flow](https://www.getflow.com/why-flow) - Brings together your tasks, projects, timelines, and conversations,
+and integrates with your favorite tools, to help you achieve more. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [proji](https://github.com/nikoksr/proji) - A powerful cross-platform CLI project templating tool. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [PyInquirer](https://github.com/CITGuru/PyInquirer) - PyInquirer strives to be an easily embeddable and beautiful command line interface for Python. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [ripgep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -460,6 +466,7 @@ shape divider. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Google lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Google pagespeed](https://developers.google.com/speed/pagespeed/insights/) - PageSpeed Insights (PSI) reports on the performance of a page on both mobile and desktop devices, and provides suggestions on how that page may be improved. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [GTMetrix](https://gtmetrix.com/) -We'll breakdown your page performance in a summarized report: PageSpeed and YSlow scores and Recommendations, Page Load Details (time, size, number of requests), Waterfall, ... - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [host-tracker](https://www.host-tracker.com/v3/check) - Run website availability and performance check from different locations - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Pingdom](https://tools.pingdom.com/) - With Pingdom you can monitor your websites' uptime, performance, and interactions for a better end-user-experience. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [redbot](https://redbot.org/) - lint for HTTP resources; it tests protocol correctness, cacheability, content negotiation and more. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Sitespeed.io](https://github.com/sitespeedio/sitespeed.io/) - Helps you monitor, analyze and optimize your website speed and performance - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -467,7 +474,6 @@ shape divider. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Webpagetest](http://www.webpagetest.org/) - Test a website's performance, helfpul waterfall charts - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [web.dev](https://web.dev/measure/) - See how well your website performs. Then, get tips to improve your user experience. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Yellowlab](https://yellowlab.tools) - WebPerf and front-end quality testing tool - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/YellowLabTools/YellowLabTools/)
-
 
 ## Documentation / Wikis / User Feedback
 *Because it's always difficult when facing a PEBKAC to tell him to RTFM...when there's no documentation*
@@ -716,6 +722,7 @@ that make use of innovative user interfaces, such as multi-touch apps - [![](htt
 * [neovim](https://neovim.io/) - hyperextensible Vim-based text editor - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Ox](https://github.com/curlpipe/ox) - Ox is a code editor that runs in your terminal. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [spacemacs](https://github.com/syl20bnr/spacemacs) - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim! - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [tabnine](https://www.tabnine.com/) - Code faster with AI completions - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [theia](https://theia-ide.org/) - Theia is an extensible platform to develop multi-language Cloud & Desktop IDEs with state-of-the-art web technologies. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Visual Studio Code](https://code.visualstudio.com/) - Great crossplatform IDE, made by microsoft - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/Microsoft/vscode)
 
@@ -1009,6 +1016,7 @@ For ages 8-14. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#
 * [opnsense](https://opnsense.org/) - OPNsense is a FreeBSD-based firewall and routing software - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [openmptcprouter](https://github.com/Ysurac/openmptcprouter) - Aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [phpipam](https://phpipam.net/) - Web IP address management application (IPAM) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [redirection](https://redirection.io/) - HTTP redirection manager (SEO) - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [speedtest-cli](https://github.com/sivel/speedtest-cli) - Test your internet bandwidth via the cli. It uses speedtest.net - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [speedtest](https://www.speedtest.net/) - Test your internet connection's speed - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [spotipo](https://www.spotipo.com/) - Hotspot portal for your existing WiFi router. For using,you will need to have a router that supports Spotipo.  - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
@@ -1106,8 +1114,8 @@ in seconds, directly to your bank account with No time and No fees ! - [![](http
 * [agantty](https://www.agantty.com/) - Free Projektmanagement (gantt, ...) - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [automate.io](https://automate.io/) - Automate like Fortune 500. Integrate your cloud applications. Automate marketing, sales and business processes. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [awwapp](https://awwapp.com/) - Online whiteboard - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [cal.com](https://cal.com/) - Open source Calendly alternative. You are in charge of your own data, workflow and appearance. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Clocker](https://github.com/n0shake/Clocker) - macOS app to plan and organize through timezones- [![](https://img.shields.io/badge/pricing-open--source-green)](#)
-* [worldtimebuddy](https://www.worldtimebuddy.com/) - Visualize Timezones (ECT, UTC, ...) - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [clockify](https://clockify.me/) - Free time tracking software. It's a simple time tracker and timesheet app that lets you and your team track work hours across projects. Unlimited users, free forever. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [favro](https://learn.favro.com/) - Favro is the planning and collaboration app for organizational flow. It helps organizations do what they excel at - making products and services that change the game. Fast. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [gantt](https://github.com/frappe/gantt) - Javascript Gantt, A simple, interactive, modern gantt chart library for the web - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -1128,10 +1136,12 @@ in seconds, directly to your bank account with No time and No fees ! - [![](http
 * [survio](https://www.survio.com/en/) - Simply create surveys - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [timeout](https://www.dejal.com/timeout/) - Time tracker and break reminder for macOS - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [timingapp](https://timingapp.com/?lang=en) - Automatic and manual time tracking, for the best of both worlds. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
+* [todo-cli](https://github.com/francoischalifour/todo-cli) - Command-line tool to manage the Todo lists of your projects - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [todoist](https://todoist.com/fr) - Todo lists - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [topsi-project-manager](https://github.com/Physiix/topsi-project-manager) - A Desktop Kanban board app. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [untools](https://untools.co/) - Tools for better thinking. Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [wakatime](https://wakatime.com/) - Metrics about your programming. See [hakatime](https://github.com/mujx/hakatime) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [worldtimebuddy](https://www.worldtimebuddy.com/) - Visualize Timezones (ECT, UTC, ...) - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [xmind](https://www.xmind.net/) - Mind mapping and brainstorming tool - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
 ### Kanban
@@ -1184,6 +1194,18 @@ in seconds, directly to your bank account with No time and No fees ! - [![](http
   - Certbot
   - Fail2Ban
   - UFW (Iptables alternative)
+
+## Server Loadtest
+*But... will it scale?*
+* [ab](https://httpd.apache.org/docs/2.4/programs/ab.html) - Tool for benchmarking your Apache Hypertext Transfer Protocol (HTTP) server. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [blazemeter](https://www.blazemeter.com/) - open-source based, enterprise ready platform unifies all the functionality you need to shift testing left - and right. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [flood](https://www.flood.io/) - Easy to use load testing platform - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [jmeter](https://jmeter.apache.org/) - Java application designed to load test functional behavior and measure performance. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [k6](https://k6.io/) - Open source load testing tool and SaaS for engineering teams - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [loader](https://loader.io/) - Simple free Cloud-based LOAD TESTING - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [vegeta](https://github.com/tsenart/vegeta/) - HTTP load testing tool and library. It's over 9000! - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+
 
 ## Selfhosted
 * [CachetHQ](https://cachethq.io/) - Status page system, helps better communicate downtime and system outages - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/CachetHQ/Cachet)
@@ -1263,6 +1285,7 @@ in seconds, directly to your bank account with No time and No fees ! - [![](http
 
 ## Security / Cracking
 
+* [allstar](https://github.com/ossf/allstar) - GitHub App installed on organizations or repositories to set and enforce security policies - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [the-bastion](https://github.com/ovh/the-bastion) - Bastions are a cluster of machines used as the unique entry point by operational teams (such as sysadmins, developers, database admins, ...) to securely connect to devices (servers, virtual machines, cloud instances, network equipment, ...), usually using ssh. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [cfssl](https://github.com/cloudflare/cfssl) - CFSSL is CloudFlare's PKI/TLS swiss army knife. It is both a command line tool and an HTTP API server for signing, verifying, and bundling TLS certificates. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [crt.sh](https://github.com/snwlvl/crt.sh) - A shell script to grab subdomains and probe for working http and https servers. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -1299,6 +1322,12 @@ in seconds, directly to your bank account with No time and No fees ! - [![](http
 * [Password store](https://www.passwordstore.org/) - Standard unix password manager - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Keepassxc](https://keepassxc.org/) - Cross-platform community fork of KeePassX. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/keepassxreboot/keepassxc)
 * [Keeweb](https://keeweb.info/) - Cross-platform password manager compatible with KeePass - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/keeweb/keeweb)
+
+### Abusive IPs / Whois
+*Keep the h4xx0r5 out*
+* [abuseipdb](https://www.abuseipdb.com/) - Check the report history of any IP address to see if anyone else has reported malicious activities. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [abuseipdb-cli](https://github.com/kristuff/abuseipdb-cli - A CLI tool to check ✔️, report 🚩 IP address, download blacklist 🚫 with AbuseIPDB API v2 - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [ipwhois](https://github.com/secynic/ipwhois) - Retrieve and parse whois data for IPv4 and IPv6 addresses - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 
 ## Server Management
@@ -1369,6 +1398,7 @@ in seconds, directly to your bank account with No time and No fees ! - [![](http
 * [httpstat](https://github.com/reorx/httpstat) - httpstat visualizes curl(1) statistics in a way of beauty and clarity. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Jarvis](https://github.com/spectresystems/jarvis) - Jarvis is an Alfred alternative for Windows 10. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Karabiner](https://pqrs.org/osx/karabiner/) - An utility for keyboard customization on macOS Sierra - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/pqrs-org/Karabiner-Elements)
+* [kinto.sh](https://github.com/rbreaves/kinto) - Seamless copy and paste with all apps and terminals. The zero effort solution. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [modd](https://github.com/cortesi/modd) - Triggers commands and manages daemons in response to filesystem changes (Unix, macOS, Windows) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [organize](https://github.com/tfeldmann/organize) - The file management automation tool - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -1453,6 +1483,7 @@ Add a global delay to Command-Q to stop accidental app quits. - [![](https://img
 without the hassle. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [wireguard](https://www.wireguard.com/) - Fast, Modern, Secure VPN Tunnel - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [wg-gen-web](https://github.com/vx3r/wg-gen-web) - Simple Web based configuration generator for WireGuard - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [zerotier](https://www.zerotier.com/) - Combines the capabilities of VPN and SD-WAN, simplifying network management - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ## Voice / Home Assistant
 *Ok Siri*
