@@ -100,6 +100,7 @@ Please feel free to comment or open a pull request if you know better tools / or
 * [rasa](https://rasa.com/) - Build contextual assistants that really help customers - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [integram](https://integram.org/) - Integrate Telegram into your workflow – Trello, Github, Gitlab, Bitbucket and other bots - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [intergram](https://github.com/idoco/intergram) - Free live chat widget linked to your Telegram messenger - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [opendialog](https://opendialog.ai/) - Design context-rich, multi-turn conversations. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [landbot](https://landbot.io) - Most Intuitive No Code Chatbot Builder - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
 ### Telegram Bots
@@ -174,6 +175,7 @@ Please feel free to comment or open a pull request if you know better tools / or
 
 * [bundlephobia](https://github.com/pastelsky/bundlephobia) - Find the cost of adding a node npm package to your bundle - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [semantic-release](https://github.com/semantic-release/semantic-release) - Automates the whole package release workflow including: determining the next version number, generating the release notes and publishing the package. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [checkov](https://www.checkov.io/) - Scans cloud infrastructure configurations to find misconfigurations before they're deployed. Analyze infrastructure as code (IaC) scan results across platforms such as Terraform, CloudFormation, Kubernetes, Helm, ARM Templates and Serverless framework. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [codeclimate](https://codeclimate.com/) - Automated code review and quality analytics. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [editorconfig](https://github.com/editorconfig/editorconfig) - EditorConfig helps maintain consistent coding styles for multiple developers working on the same project across various editors and IDEs. The EditorConfig project consists of a file format for defining coding styles and a collection of text editor plugins that enable editors to read the file format and adhere to defined styles. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -564,6 +566,7 @@ shape divider. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [requestrr](https://github.com/darkalfx/requestrr) - A chatbot used to simplify using services like Sonarr/Radarr/Ombi via the use of chat. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [send](https://send.firefox.com/) - Simple, private file sharing from the makers of Firefox - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/mozilla/send)
 * [Sonarr](https://github.com/Sonarr/Sonarr) - Sonarr is a PVR for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new episodes of your favorite shows and will grab, sort and rename them. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [streamrip](https://github.com/nathom/streamrip) - A scriptable music downloader for Qobuz, Tidal, SoundCloud, and Deezer. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [urlpages](https://github.com/jstrieb/urlpages) - Create and view web pages stored entirely in the URL - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [vidl](https://omz-software.com/vidl/) - easily download videos from YouTube and hundreds of other websites for offline viewing (macOS) - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [ytmdl](https://github.com/deepjyoti30/ytmdl) - YouTube Music Downloader, A simple app to get songs from youtube in mp3 format with artist name, album name etc from itunes, gaana etc. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -580,8 +583,11 @@ shape divider. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [launchbox-app](https://www.launchbox-app.com) - Emulate, Organize, and Beautify Your Game Collection - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [liero](https://liero.be/) - Game similar to worms - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Minetest](https://www.minetest.net/) - Similar to minecraft - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/minetest/minetest)
+* [opensurge](https://opensurge2d.org/) - retro platformer inspired by Sonic. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [retroarch](https://www.retroarch.com/) - Frontend for emulators, game engines and media players. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [teeworlds](https://www.teeworlds.com/) - A retro multiplayer shooter - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/teeworlds/teeworlds/)
+* [veloren](https://veloren.net/) - multiplayer voxel RPG inspired by games such as Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress and Minecraft. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+
 
 ## Graphics / Design / Icons
 *echo "sheep"*
@@ -933,6 +939,7 @@ For ages 8-14. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#
 * [cronhub](https://cronhub.io/) - Cron Monitoring, Get instant alerts when any of your background jobs fail silently or run longer than expected. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [crontab](https://crontab.guru/) - Quick and simple editor for cron schedule expressions - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [era](https://era.co/) - Observability and analytics for log management at scale - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [ELK - elastic stack](https://www.elastic.co/products) - Search is foundational to a wide variety of experiences — from finding documents to monitoring infrastructure to protecting against security threats.  - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [fluentd](https://www.fluentd.org/) - Data collector for unified logging layer - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Grafana](https://grafana.com/) - Analytics and monitoring solution for every database - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/grafana/grafana)
@@ -956,6 +963,7 @@ For ages 8-14. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#
 * [Thruk](https://thruk.org/) - Webinterface for Naemon, Icinga, Shinken and Nagios [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/sni/Thruk)
 * [Uchiwa](https://uchiwa.io/) - Open source dashboard for Sensu. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/sensu/uchiwa)
 * [Uptime robot](https://uptimerobot.com/) - Downtime Happens. Get Notified! - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [Vector by Datadog](https://vector.dev/) - Tool for building observability pipelines. Collect, transform, and route all your logs and metrics with one simple tool. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
 ### CRON Monitoring
 * [healthchecks](https://healthchecks.io/) -  Simple and Effective Cron Job Monitoring - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -1057,6 +1065,8 @@ in seconds, directly to your bank account with No time and No fees ! - [![](http
 */dev/random*
 
 * [aircall](https://aircall.io/) - Cloud-based call center software - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
+* [accredible](https://www.accredible.com/) - Digital badge and certificate platform - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [brickit](https://brickit.app/) - Build new creations from your lego bricks
 * [openframe](https://openframe.io/) - Platform for artists, curators and art enthusiasts to share, discover and display digital art. Raspberry pi based. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [estcequonpeutpartir](http://estcequonpeutpartir.fr/) - :fr: Helps taking decisions on where to go on holiday - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [ergodox-ez](https://ergodox-ez.com/) - fully customizable ergonomic keyboard. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
@@ -1271,6 +1281,7 @@ in seconds, directly to your bank account with No time and No fees ! - [![](http
 * [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/KittyKatt/screenFetch)
 * [shareit](https://shareit.video/) - Share screen recordings instantly - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [ScreenshotFramer](https://github.com/IdeasOnCanvas/ScreenshotFramer) - Create localized App Store screenshots - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [screencast-o-matic](https://screencast-o-matic.com/) - Helps to easily create, edit and communicate with videos and images - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [terminalizer](https://github.com/faressoft/terminalizer) - Record your terminal and generate animated gif images or share a web player - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
@@ -1300,6 +1311,7 @@ in seconds, directly to your bank account with No time and No fees ! - [![](http
 * [lynis](https://github.com/CISOfy/lynis) - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [malwoverview](https://github.com/alexandreborges/malwoverview) - Simple tool to perform an initial and quick triage of malware samples, URLs and hashes. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)s
 * [No more ransom](https://www.nomoreransom.org/en/index.html) - Helps unlocking ransomware infected files - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [nexfil](https://github.com/thewhiteh4t/nexfil) - OSINT tool written in python for finding profiles by username. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [openxpki](https://www.openxpki.org/) - OpenXPKI is an enterprise-grade PKI/Trustcenter software. It implements the necessary features to operate a PKI in professional environments. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [owasp - vulnerable web applications directory](https://owasp.org/www-project-vulnerable-web-applications-directory/) - comprehensive and well maintained registry of all known vulnerable web applications currently available. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [pwnadventure](https://www.pwnadventure.com/) - Game that is intentionally flawed to look for security issues (CTF). - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -1517,6 +1529,7 @@ without the hassle. - [![](https://img.shields.io/badge/pricing-open--source-gre
 ## Writing / Markdown / Rendering
 
 * [bludit](https://www.bludit.com/) - Create your own Website or Blog in seconds. Simple, Fast, Secure, Flat-File CMS - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [bibcitation](https://www.bibcitation.com/) - Citation generator that creates bibliographies, references and works cited. Automatically generate MLA, APA, Chicago and other citations and create an accurate bibliography in one click. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [doctoc](https://github.com/thlorenz/doctoc) - Generates table of contents for markdown files - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Ghost](https://github.com/TryGhost/Ghost) - The #1 headless Node.js CMS for professional publishing - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [GitHub buttons](https://ghbtns.com/) - Showcase your GitHub repo’s success with hotlinkable GitHub star, fork, sponsor, and follow buttons. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
