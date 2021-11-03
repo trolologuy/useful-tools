@@ -23,6 +23,7 @@ Please feel free to comment or open a pull request if you know better tools / or
 * [cloudcraft](https://cloudcraft.co/) - Visualize your cloud architecture like a pro: create smart AWS diagrams - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [diagrams](https://www.diagrams.net/) - Online, desktop and container deployable diagramming software - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [gliffy](https://www.gliffy.com/) - Diagram software that integrates into confluence - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
+* [Lucidchart](https://www.lucidchart.com/pages/) - Diagramming application that brings teams together - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Staruml](http://staruml.io/) -  A sophisticated Cross-Platform software modeler for agile and concise modeling - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [yed](https://www.yworks.com/products/yed) - Quickly and effectively generate high-quality diagrams. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
@@ -144,6 +145,7 @@ Please feel free to comment or open a pull request if you know better tools / or
 * [Matrix](https://matrix.org/blog/home/) - A new basis for open, interoperable, decentralised real-time communication - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble and more with REST API (mattermost not required!) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Rambox](https://rambox.pro/) - Aggregates lots of differents chat-tools - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [Revolt](https://revolt.chat/) - Privacy-first chat software that can be selfhosted. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Rocket Chat](https://rocket.chat/) - The ultimate Free Open Source Solution for team communications - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Stack](https://getstack.app/) - Stack is a smart browser for internet multitaskers. Manage all your social media, messaging, e-mailing, and productivity apps from one place! - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Signal](https://www.signal.org/) - Fast, simple, secure. Privacy that fits in your pocket. - [![](https://img.shields.io/badge/pricing-free-yellow)]()
@@ -312,7 +314,7 @@ Directus wraps your new or existing SQL database with a realtime GraphQL+REST AP
 and integrates with your favorite tools, to help you achieve more. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [proji](https://github.com/nikoksr/proji) - A powerful cross-platform CLI project templating tool. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [PyInquirer](https://github.com/CITGuru/PyInquirer) - PyInquirer strives to be an easily embeddable and beautiful command line interface for Python. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
-* [ripgep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Suitcase](https://github.com/Impedimenta/Suitcase) - A flexible command line tool for instantly deploying user interfaces for simple commands and scripts on macOS. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [tree](https://en.wikipedia.org/wiki/Tree_(command)) - Lists the files in the current directory.
 
@@ -697,7 +699,7 @@ that make use of innovative user interfaces, such as multi-touch apps - [![](htt
 * [gitignore](https://www.gitignore.io/) - Create useful .gitignore files for your project - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [gitignore collection](https://github.com/github/gitignore) - A collection of useful .gitignore templates - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [glab](https://github.com/profclems/glab) - GitLab CLI tool - [![](https://img.shields.io/badge/pricing-open--source-green)](#) 
-* [gitpod](https://www.gitpod.io/self-hosted/) - Take Control of Your Source Code - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [gitpod](https://www.gitpod.io/self-hosted/) - Take Control of Your Source Code. Also works with Visual Studio Code. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [gource](https://github.com/acaudwell/Gource) - software version control visualization - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [vercel](https://vercel.com/) - Cloud platform for static frontends and serverless functions. It enables developers to host websites and web applications that deploy instantly for example from a git repository, scale automatically, and require no supervision - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [whatthecommit](http://whatthecommit.com/) - commit message generator. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -764,6 +766,7 @@ that make use of innovative user interfaces, such as multi-touch apps - [![](htt
 * [pictriev](http://www.pictriev.com/) - Gives attributes to pictures in percentages - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [pimeyes](https://pimeyes.com/en/) - Find people with similar faces. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [typensense](https://github.com/typesense/typesense) - Fast, typo-tolerant search engine for building delightful search experiences - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [yandex.ru](https://yandex.ru/images/) - The search engine can be used to reverse search for images as well - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
 ## PAAS Providers
@@ -1072,8 +1075,10 @@ in seconds, directly to your bank account with No time and No fees ! - [![](http
 * [ergodox-ez](https://ergodox-ez.com/) - fully customizable ergonomic keyboard. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [farmbot](https://farm.bot/) - Open-Source CNC Farming - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/FarmBot/Farmbot-Web-App)
 * [Great escape](https://greatescape.co) - Flight tracker / Travel helper that helps take decisions or find new destinations based on prices and many other categories, for example if you want to start travelling from a specific starting point - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [greenframe](https://greenframe.io/) - Measure and reduce your website CO2 emissions
 * [go-jira](https://github.com/andygrunwald/go-jira) -  Go client library for Atlassian Jira - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [jsfuck](http://www.jsfuck.com/) -  Write any JavaScript with 6 Characters: []()!+  - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [jollyroger telephone](https://jollyrogertelephone.com/) - Fight back against annoying telemarketers and evil scammers! - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [The-Open-Book](https://github.com/joeycastillo/The-Open-Book) - Want to create your own ebook reader? - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Open Street map](https://www.openstreetmap.org) - OpenStreetMap is the free wiki world map. OpenStreetMap is a map of the world, created by people like you and free to use under an open license. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -1175,7 +1180,7 @@ in seconds, directly to your bank account with No time and No fees ! - [![](http
 * [sed online](https://sed.js.org/) - the sed command, but online - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
 
-## Remote work / Visioconference
+## Remote work / Visioconference / Pair programming
 * [beekast](https://www.beekast.com/features/) - Fun and interactive activities during visioconferences - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Go to meeting](https://www.gotomeeting.com/) - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [Google Hangouts](https://hangouts.google.com/) - Communication software product developed by Google - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -1184,7 +1189,9 @@ in seconds, directly to your bank account with No time and No fees ! - [![](http
 * [obsproject](https://obsproject.com/) - Software for video recording and live streaming on windows, macOS and Linux. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [restream](https://restream.io/) - Stream live to 30+ social platforms at once. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Slack](https://slack.com) - A single place for messaging, tools and files - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [Seashells](https://github.com/anishathalye/seashells) - Pipe output from command-line programs to the web in real-time, even without installing any new software on your machine. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Streamyard](https://streamyard.com/) - The easiest way to create professional live streams - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [Streamhut](https://github.com/miguelmota/streamhut) - Stream your terminal to web without installing anything. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Teams](https://products.office.com/en-en/microsoft-teams/free) - Work remotely without feeling remote. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Tixeo](https://www.tixeo.com/) - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [Webex](https://cart.webex.com/sign-up?locale=en_EN) - Enterprise solution for video conferencing, online meetings, screen share, and webinars. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -1277,6 +1284,7 @@ in seconds, directly to your bank account with No time and No fees ! - [![](http
 * [Kap](https://github.com/wulkano/kap) - Screen recorder built with web technology - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [keycastr](https://github.com/keycastr/keycastr) - macOS keystroke visualizer - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Licecap](https://www.cockos.com/licecap/) - Do a simple screencast in gif format - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/justinfrankel/licecap)
+* [pop](https://pop.com/) - Screen sharing, multiplayer control, voice and high-quality video. Perfect for pair programming. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/phw/peek)
 * [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/KittyKatt/screenFetch)
 * [shareit](https://shareit.video/) - Share screen recordings instantly - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -1432,9 +1440,8 @@ Add a global delay to Command-Q to stop accidental app quits. - [![](https://img
 * [espanso](https://github.com/federico-terzi/espanso) - Cross-platform Text Expander - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [espanso "GUI" alternative to forms](https://gist.github.com/atika/dc2de3f8813d9919485761347b200d61) - For the time being, espanso does not come with a graphical user interface, in the meanwhile you can use this workaround to prompt for text or select result in a list, on macOS. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
-## Templates / Dashboards / Tool overview
-* [appsmith](https://github.com/appsmithorg/appsmith) - Visual development platform to build and launch internal tools quickly. Drag-and-drop pre-built widgets, and connect them using JavaScript to create interactive pages. Connect UI to your APIs and Databases to build complex workflows in minutes.
- - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+## Templates / Dashboards / Tool overview / Bookmarks
+* [appsmith](https://github.com/appsmithorg/appsmith) - Visual development platform to build and launch internal tools quickly. Drag-and-drop pre-built widgets, and connect them using JavaScript to create interactive pages. Connect UI to your APIs and Databases to build complex workflows in minutes. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Admin LTE](https://github.com/almasaeed2010/AdminLTE)
 * [Angular analytics](http://angular-material.fusetheme.com/apps/dashboards/analytics)
 * [backstage](https://github.com/spotify/backstage) - Backstage is an open platform for building developer portals made by spotify - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -1442,6 +1449,7 @@ Add a global delay to Command-Q to stop accidental app quits. - [![](https://img
 * [coreui admin template](https://github.com/coreui/coreui-free-bootstrap-admin-template)
 * [DashMachine](https://github.com/rmountjoy92/DashMachine) - Another web application bookmark dashboard, with fun features. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [dashing](https://github.com/HippyScript/dashing) - A simple home server dashboard - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [golinks.io](https://www.golinks.io/) - Intuitive, secure, go links, shared by teams. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [golinks](https://github.com/taliamax/golinks) - A personal 'golink' redirect service using nginx and docker - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Heimdall](https://github.com/linuxserver/Heimdall) - Application dashboard and launcher - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Ngx-admin](https://github.com/akveo/ngx-admin)
@@ -1541,6 +1549,7 @@ without the hassle. - [![](https://img.shields.io/badge/pricing-open--source-gre
 * [mdx](https://github.com/mdx-js/mdx) - Use JSX in your markdown documents. You can import components, like interactive charts or notifications, and export metadata. This makes writing long-form content with components a blast. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [nb](https://github.com/xwmx/nb) - Command line note-taking, bookmarking, archiving, and knowledge base application - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [notion](https://www.notion.so/product) - note taking app - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [obsidian](https://obsidian.md/) - knowledge base on top of a local folder of plain text Markdown files. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [pdf.js](https://github.com/mozilla/pdf.js) - A PDF Reader in JavaScript made by mozilla - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/mozilla/pdf.js)
 * [quilljs](https://quilljs.com/) - WYSIWYG editor built for the modern web. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Relaxed](https://github.com/RelaxedJS/ReLaXed) - Create PDF documents interactively using web technologies - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
