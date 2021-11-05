@@ -31,6 +31,7 @@ Please feel free to comment or open a pull request if you know better tools / or
 *'cause i'm API*
 
 * [fastapi](https://github.com/tiangolo/fastapi) - Modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [Functionscript](https://github.com/acode/FunctionScript) - An API gateway and framework for turning JavaScript functions into web services. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem- [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Postman](https://www.postman.com/downloads/) - Complete API Development Environment - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Swagger](https://swagger.io/tools/open-source/) - Easy-to-use suite of API developer tools for teams and individuals, enabling development across the entire API lifecycle, from design and documentation, to test and deployment - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -128,6 +129,7 @@ Please feel free to comment or open a pull request if you know better tools / or
 
 * [datacater](https://datacater.io/) - Integrate your data systems with streaming data pipelines - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [dbt](https://docs.getdbt.com/docs/introduction) - dbt (data build tool) enables analytics engineers to transform data in their warehouses by simply writing select statements. dbt handles turning these select statements into tables and views. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [re_data](https://github.com/re-data/dbt-re-data) - re_data is a set of tools (dbt macros & models) that helps you with making sure your data pipelines are clean & reliable. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [muzejs](https://muzejs.org/) - Data visualization library to create composable and interactive data visualization for the web - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/chartshq/muze)
 * [prefect](https://docs.prefect.io/core/) - The easiest way to automate your data. Prefect is the new standard in dataflow automation, trusted to build, run, and monitor millions of data workflows, pipelines and add semantics like retries, logging, dynamic mapping, caching, failure notifications, and more. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)s
 
@@ -482,15 +484,19 @@ shape divider. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 ## Documentation / Wikis / User Feedback
 *Because it's always difficult when facing a PEBKAC to tell him to RTFM...when there's no documentation*
 
+* [bookstackapp](https://www.bookstackapp.com/) - Self-hosted, easy-to-use platform for organising and storing information - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Carbon](https://github.com/dawnlabs/carbon) - Create and share beautiful images of your source code - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/carbon-app/carbon)
 * [Daux](http://daux.io/) - Markdown based documentation generator - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/dauxio/daux.io)
 * [Docsify](https://github.com/docsifyjs/docsify/) - A magical documentation site generator - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Docusaurus](https://github.com/facebook/Docusaurus) - Easy to maintain open source documentation websites - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Docute](https://github.com/egoist/docute) - Effortless documentation, done right. Markdown + vue - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [guru](https://www.getguru.com/) - Company wiki that works in your workflow. Helps capture all of your company’s info & expertise and creates a single source of truth - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [gitbook](https://www.gitbook.com/) - Document Everything! A modern documentation platform where teams can document everything from products to internal knowledge-bases and APIs - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Knowledge Repo](https://github.com/airbnb/knowledge-repo) - A next-generation curated knowledge sharing platform for data scientists and other technical professions. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Mediawiki](https://www.mediawiki.org) - The wiki system that powers Wikipedia - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/wikimedia/mediawiki)
 * [MKdocs](http://www.mkdocs.org/) - Fast, simple and static site generator based on Markdown - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/mkdocs/mkdocs/)
+* [notion](https://www.notion.so/product) - note taking / wiki app - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [Outline](https://www.getoutline.com/) - Wiki and knowledge base with slack integration. Supports markdown. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Orchid](https://github.com/orchidhq/Orchid) -  Build and deploy beautiful documentation sites that grow with you - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [orgchart](https://github.com/dabeng/vue-orgchart) - A simple and direct organization chart made with vue (also available for angular, react, jQuery ...)- [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [organigram](https://github.com/proshoumma/organigram) - A JSON based tree structure with drag and drop functionally to re-arrange the tree. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -499,8 +505,12 @@ shape divider. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [readthedocs](https://readthedocs.org/) - Documentation server - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [rootnroll](https://welcome.rootnroll.com/) -  Interactive playground in a browser for your GitHub projectGet an isolated environment with your software ready to be played with - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Rmarkdown](https://github.com/rstudio/rmarkdown) - Create dynamic analysis documents that combine code, rendered output (such as figures), and prose. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [Stackoverflow Teams](https://stackoverflow.com/teams/) - Knowledge management, Q&A & collaboration solution that technologists already trust - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Slate](https://github.com/slatedocs/slate) - Create beautiful, intelligent, responsive API documentation - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [Slite](https://slite.com/) - Wiki with several external integrations - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Sphinx](http://www.sphinx-doc.org/en/stable/index.html) - Documentation builder, especially usefull for source code - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/sphinx-doc/sphinx/)
+* [tettra](https://tettra.com/) - Q&A, knowledge management, and knowledge base tool with Slack integration. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [tech-docs-monitor](https://github.com/alphagov/tech-docs-monitor) - Expiry notifier for documentation. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Wiki JS](https://wiki.js.org/) - A modern, lightweight and powerful wiki app built on Node.js - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/Requarks/wiki)
 * [Write the docs](http://www.writethedocs.org/) - Information about writing documentation - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -599,6 +609,7 @@ shape divider. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Colorizer](https://deepai.org/machine-learning-model/colorizer) - Colorize black and white images or videos using the image colorization API. Add color to old family photos and historic images, or bring an old film back to life with colorization - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [CSS Zengarden](http://www.csszengarden.com/) - A demonstration of what can be accomplished through CSS-based design - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Draw](https://www.draw.io/) - Online diagramming web site- [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/jgraph/drawio)
+* [Diagrams as code](https://diagrams.mingrammer.com/) - Diagrams lets you draw the cloud system architecture in Python code. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [favicon](https://favicon.io/) - Favicon generator. Create a favicon in few simple clicks. Generate a favicon from text, from an image, or from an emoji. Download in .ico and .png formats. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Figma](https://www.figma.com/) - Figma helps teams create, test, and ship better designs from start to finish. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [getavataaars](https://getavataaars.com/) - Create a simple avatar for your online presence in just a few clicks - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -769,9 +780,15 @@ that make use of innovative user interfaces, such as multi-touch apps - [![](htt
 * [typensense](https://github.com/typesense/typesense) - Fast, typo-tolerant search engine for building delightful search experiences - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [yandex.ru](https://yandex.ru/images/) - The search engine can be used to reverse search for images as well - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
-## PAAS Providers
+## PAAS / SAAS Providers
 * [platform.sh](https://platform.sh)
+* [pulumi](https://www.pulumi.com/)
+* [spaceship](https://spaceship.run/)
 * [jelastic](https://jelastic.com/paas-cloud-hosting/)
+* [lastbackend](https://lastbackend.com/)
+* [kuberlogic](https://kuberlogic.com/)
+
+
 
 ## Remote Desktop
 *Always there for you*
@@ -1010,6 +1027,10 @@ For ages 8-14. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#
 * [musicbrainz picard](https://picard.musicbrainz.org/) - Music tagger written in Python. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Soundscape](https://github.com/soundscapecloud/soundscape) - a personal music streaming server - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
+## Video Editing
+* [deface](https://github.com/ORB-HD/deface) - Command-line tool for automatic anonymization of faces in videos or photos (video anonymization) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+
+
 ## Networking / DNS / Wifi ...
 * [apackets](https://apackets.com/) - Allows to read pcap file and analyze IPv4/IPv6, HTTP, Telnet, FTP, DNS, SSDP, WPA protocols, build map of network structure and nodes activity graph, sniff and analyze network traffic and other pcap data - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Auvik](https://www.auvik.com/msp-network-features/) - Tool to manage network infrastructure - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
@@ -1056,6 +1077,7 @@ For ages 8-14. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#
 * [picfair](https://try.picfair.com/pp/) - You upload & set your prices. You customize your store. Picfair does everything else. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [paytweak](https://www.paytweak.us/) - Build your own Universal Secure Payment Links to get Payments
 in seconds, directly to your bank account with No time and No fees ! - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [gumroad](https://gumroad.com/) - Self-publishing digital market place platform to sell digital services such as books, memberships, courses and other digital services. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [honey](https://www.joinhoney.com/) -  helps you find some of the best coupon codes on 30,000+ sites. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [mazyng](https://mazyng.com/) - Build your brand. Design your future. We help you sell custom merchandise online. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [leanpub](https://leanpub.com/) - Sell ebooks - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -1548,7 +1570,6 @@ without the hassle. - [![](https://img.shields.io/badge/pricing-open--source-gre
 * [markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [mdx](https://github.com/mdx-js/mdx) - Use JSX in your markdown documents. You can import components, like interactive charts or notifications, and export metadata. This makes writing long-form content with components a blast. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [nb](https://github.com/xwmx/nb) - Command line note-taking, bookmarking, archiving, and knowledge base application - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
-* [notion](https://www.notion.so/product) - note taking app - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [obsidian](https://obsidian.md/) - knowledge base on top of a local folder of plain text Markdown files. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [pdf.js](https://github.com/mozilla/pdf.js) - A PDF Reader in JavaScript made by mozilla - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/mozilla/pdf.js)
 * [quilljs](https://quilljs.com/) - WYSIWYG editor built for the modern web. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
