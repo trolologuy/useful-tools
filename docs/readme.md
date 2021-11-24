@@ -481,6 +481,9 @@ shape divider. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [web.dev](https://web.dev/measure/) - See how well your website performs. Then, get tips to improve your user experience. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Yellowlab](https://yellowlab.tools) - WebPerf and front-end quality testing tool - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/YellowLabTools/YellowLabTools/)
 
+#### Website emission analysis
+* [greenframe](https://greenframe.io/) - Measure and reduceyour website CO2 emissions - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+
 ## Documentation / Wikis / User Feedback
 *Because it's always difficult when facing a PEBKAC to tell him to RTFM...when there's no documentation*
 
@@ -620,6 +623,7 @@ shape divider. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [orioniconlibrary](https://www.orioniconlibrary.com/) - Free icons - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Picsum](https://picsum.photos/) - Lorem Ipsum for images - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [placeholder.com](https://placeholder.com/) - Free Image Placeholder Service - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [photo-enhancer](https://www.myheritage.com/photo-enhancer) - Enhance your family photos automatically. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [pngkey](https://www.pngkey.com/) -  Largest Archive Of Transparent PNG. No attribution required! - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Pixelorama](https://github.com/Orama-Interactive/Pixelorama) -  A free & open-source 2D sprite editor, made with the Godot Engine! Available on Windows, Linux & macOS! - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [storybook.js](https://storybook.js.org/) - Build bulletproof UI components faster
@@ -706,6 +710,7 @@ that make use of innovative user interfaces, such as multi-touch apps - [![](htt
 
 * [act](https://github.com/nektos/act) - Run your GitHub Actions locally - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [changelog](https://github.com/olivierlacan/keep-a-changelog) - Don’t let your friends dump git logs into changelogs™ - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) - A specification for adding human and machine readable meaning to commit messages - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [forgit](https://github.com/wfxr/forgit) - Utility tool for using git interactively - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [gitignore](https://www.gitignore.io/) - Create useful .gitignore files for your project - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [gitignore collection](https://github.com/github/gitignore) - A collection of useful .gitignore templates - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -886,6 +891,7 @@ that make use of innovative user interfaces, such as multi-touch apps - [![](htt
 * [aerc](https://aerc-mail.org) - A terminal-based e-mail client for power users - [![](https://img.shields.io/badge/pricing-open--source-green)]
 * [dnswl](https://www.dnswl.org/) - E-Mail Reputation – Protect against false positives. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [imapsync](https://imapsync.lamiral.info/) - An IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/imapsync/imapsync)
+* [complete IP Blacklist (BL) check for sending Mailservers](https://multirbl.valli.org/) - Free DNSBL (DNS BlackList aka RBL) lookup and FCrDNS (Forward Confirmed reverse DNS aka iprev) check tool. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Kanbanmail](https://kanbanmail.app/) - Kanban and email in one tool - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [Mailspring](https://www.getmailspring.com/) - Great mail client for Mac, Linux, and Windows. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [meilindex](https://github.com/tryffel/meilindex) - Email indexing and extremely fast full-text-search with Meilisearch. Meilindex supports configuring stop-words, ranking and synonyms. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
