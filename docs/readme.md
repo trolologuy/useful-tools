@@ -504,7 +504,7 @@ shape divider. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Knowledge Repo](https://github.com/airbnb/knowledge-repo) - A next-generation curated knowledge sharing platform for data scientists and other technical professions. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Mediawiki](https://www.mediawiki.org) - The wiki system that powers Wikipedia - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/wikimedia/mediawiki)
 * [MKdocs](http://www.mkdocs.org/) - Fast, simple and static site generator based on Markdown - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/mkdocs/mkdocs/)
-* [notion](https://www.notion.so/product) - note taking / wiki app - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [notion](https://www.notion.so/product) - note taking / wiki app, can be extended with [super](https://super.so/builder) - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Nuclino](https://www.nuclino.com/) - Another wiki - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Outline](https://www.getoutline.com/) - Wiki and knowledge base with slack integration. Supports markdown. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Orchid](https://github.com/orchidhq/Orchid) -  Build and deploy beautiful documentation sites that grow with you - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -728,7 +728,12 @@ that make use of innovative user interfaces, such as multi-touch apps - [![](htt
 * [vercel](https://vercel.com/) - Cloud platform for static frontends and serverless functions. It enables developers to host websites and web applications that deploy instantly for example from a git repository, scale automatically, and require no supervision - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [whatthecommit](http://whatthecommit.com/) - commit message generator. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
-## Hardware Checks
+## Hardware
+
+* [pikvm](https://pikvm.org/) - Open and cheap DIY IP-KVM on Raspberry Pi - - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [flipperzero](https://flipperzero.one/) - Open source multi-tool device for researching and pentesting radio protocols, access control systems, hardware, and more. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+
+### Hardware Checks
 *Sometimes the source of the issue is not located on the chair and the "Have you tried turning it off and on again" is not enough*
 
 * [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - Gathers information on some of the main devices of your system) - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
