@@ -1592,7 +1592,6 @@ without the hassle. - [![](https://img.shields.io/badge/pricing-open--source-gre
 * [h5ai](https://larsjung.de/h5ai/) - A file indexer for HTTP web servers with focus on your files. Directories are displayed in a appealing way and browsing them is enhanced by different views, a breadcrumb and a tree overview. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ## Website Hosting (Free)
-* [fast.io](https://fast.io/) - 1 custom domain, up to 5 sites, CDN and analytics included, 500 MB per File, Free 100 GB Usage / Month. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [netlify](https://www.netlify.com/) - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Github Pages](https://pages.github.com/) - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [vercel](https://vercel.com/) - Previously known as Zeit. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
