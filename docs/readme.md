@@ -129,6 +129,7 @@ Please feel free to comment or open a pull request if you know better tools / or
 
 ## Data
 
+* [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another 🐊 📦. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [datacater](https://datacater.io/) - Integrate your data systems with streaming data pipelines - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [dbt](https://docs.getdbt.com/docs/introduction) - dbt (data build tool) enables analytics engineers to transform data in their warehouses by simply writing select statements. dbt handles turning these select statements into tables and views. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [facebook-delete](https://github.com/marcelja/facebook-delete) - Clean up a facebook account without deleting the entire account. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -726,10 +727,12 @@ that make use of innovative user interfaces, such as multi-touch apps - [![](htt
 
 * [act](https://github.com/nektos/act) - Run your GitHub Actions locally - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [changelog](https://github.com/olivierlacan/keep-a-changelog) - Don’t let your friends dump git logs into changelogs™ - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - For cleansing bad data out of your Git repository such as big files, Passwords, Credentials & other Private data. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) - A specification for adding human and machine readable meaning to commit messages - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [forgit](https://github.com/wfxr/forgit) - Utility tool for using git interactively - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [gitignore](https://www.gitignore.io/) - Create useful .gitignore files for your project - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [gitignore collection](https://github.com/github/gitignore) - A collection of useful .gitignore templates - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [git-sizer](https://github.com/github/git-sizer) - Compute various size metrics for a Git repository, flagging those that might cause problems. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [glab](https://github.com/profclems/glab) - GitLab CLI tool - [![](https://img.shields.io/badge/pricing-open--source-green)](#) 
 * [gitpod](https://www.gitpod.io/self-hosted/) - Take Control of Your Source Code. Also works with Visual Studio Code. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [gource](https://github.com/acaudwell/Gource) - software version control visualization - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -904,6 +907,7 @@ that make use of innovative user interfaces, such as multi-touch apps - [![](htt
 
 ## RSS / News aggregator
 * [fluent-reader](https://hyliu.me/fluent-reader/) - Local, cross-platform news aggregator with a fresh look. Bring all your favorite sources with you and read distraction-free. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [flusio](https://github.com/flusio/flusio) - Aggregate, save and share news links from all over the Web. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Lemmy](https://join-lemmy.org/) - Lemmy is similar to sites like Reddit, Lobste.rs, or Hacker News: you subscribe to communities you're interested in, post links and discussions, then vote and comment on them. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [reederapp](https://reederapp.com/) - your news reader for macOS and iOS - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [rssfs](https://github.com/dertuxmalwieder/rssfs) - Mount RSS feeds as file systems - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -977,8 +981,10 @@ For ages 8-14. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#
 * [linux journey](https://linuxjourney.com/)
 * [linux academy](https://linuxacademy.com/) - Real skills for real-world application. Experience interactive courses in AWS, Google Cloud, and Azure and master the tools that shape technology.
 * [magic of css](https://adamschwartz.co/magic-of-css/)
+* [Minecraft Hour of Code](https://studio.code.org/s/mc/) - Use blocks of code to take Steve or Alex on an adventure through this Minecraft world. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [OSSU](https://github.com/ossu/data-science)
 * [Pluralsight](https://www.pluralsight.com/partners/stack-overflow/iq)
+* [scratch](https://scratch.mit.edu/) - Free coding community for kids - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Secnumacademie](https://secnumacademie.gouv.fr/)
 * [serversforhackers](https://serversforhackers.com/) - Teaching the server tech you need for development and production. Eliminating the frustration of server configuration. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [sololearn](https://www.sololearn.com/) - Learn to code for free - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -1139,12 +1145,14 @@ in seconds, directly to your bank account with No time and No fees ! - [![](http
 * [Great escape](https://greatescape.co) - Flight tracker / Travel helper that helps take decisions or find new destinations based on prices and many other categories, for example if you want to start travelling from a specific starting point - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [greenframe](https://greenframe.io/) - Measure and reduce your website CO2 emissions
 * [go-jira](https://github.com/andygrunwald/go-jira) -  Go client library for Atlassian Jira - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [ioverlander](https://www.ioverlander.com/) - Mapping project for travellers. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [jsfuck](http://www.jsfuck.com/) -  Write any JavaScript with 6 Characters: []()!+  - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [jollyroger telephone](https://jollyrogertelephone.com/) - Fight back against annoying telemarketers and evil scammers! - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [The-Open-Book](https://github.com/joeycastillo/The-Open-Book) - Want to create your own ebook reader? - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Open Street map](https://www.openstreetmap.org) - OpenStreetMap is the free wiki world map. OpenStreetMap is a map of the world, created by people like you and free to use under an open license. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [openHAB](https://www.openhab.org/) - Automation software for your home (smart home) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [pixelartcss](https://www.pixelartcss.com/) - Create pixel art using CSS - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Public Money? Public Code!](https://publiccode.eu/openletter/) - Publicly funded software has to be Free and Open Source Software. While there are plenty of good reasons for this, many politicians don’t know about them yet.
 * [sdelete](https://docs.microsoft.com/en-us/sysinternals/downloads/sdelete) - Securely deleting a file - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [TimeLines](https://github.com/mathieudutour/TimeLines) - Know when all your friends, colleagues, and family are. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -1158,6 +1166,7 @@ in seconds, directly to your bank account with No time and No fees ! - [![](http
 
 * [big](https://github.com/tmcw/big) - A configuration-free system for creating presentation (powerpoint style) that naturally encourages good style. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [beamer](https://github.com/josephwright/beamer) - LaTeX class for producing presentations - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [browserframe](https://browserframe.com/) - Wrap screenshots in browser frames. Supports multiple browsers, operating systems, and themes. - - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [eagle.js](https://github.com/zulko/eagle.js/) - A hackable slideshow framework built with Vue.js - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [fusuma](https://github.com/hiroppy/fusuma) - Markdown and MDX Presentations (supports custom JS, CSS and React) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [gatsby-starter-deck](https://github.com/fabe/gatsby-starter-deck) - Create presentations using Gatsby, React & Markdown - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -1318,6 +1327,7 @@ in seconds, directly to your bank account with No time and No fees ! - [![](http
 * [first-contributions](https://github.com/firstcontributions/first-contributions) - Help beginners to contribute to open source projects - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [gitchangelog](https://github.com/vaab/gitchangelog) - Creates a changelog from git log history. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [gitea](https://gitea.io/en-us/) - A painless self-hosted Git service. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/go-gitea/gitea)
+* [gitexplorer](https://gitexplorer.com/) - Find the right commands you need without digging through the web. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [git-jump](https://github.com/mykolaharmash/git-jump) - Improved navigation between Git branches. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Gitlab](https://gitlab.com/) - A web-based DevOps lifecycle tool + git repository manager - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -1373,6 +1383,7 @@ in seconds, directly to your bank account with No time and No fees ! - [![](http
 
 * [allstar](https://github.com/ossf/allstar) - GitHub App installed on organizations or repositories to set and enforce security policies - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [the-bastion](https://github.com/ovh/the-bastion) - Bastions are a cluster of machines used as the unique entry point by operational teams (such as sysadmins, developers, database admins, ...) to securely connect to devices (servers, virtual machines, cloud instances, network equipment, ...), usually using ssh. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [canary](https://canary.tools/) - Notifies on detected intrusion, also exists as [tokens](https://canarytokens.org/generate)- [![](https://img.shields.io/badge/pricing-free-yellow)](#) 
 * [cfssl](https://github.com/cloudflare/cfssl) - CFSSL is CloudFlare's PKI/TLS swiss army knife. It is both a command line tool and an HTTP API server for signing, verifying, and bundling TLS certificates. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [crt.sh](https://github.com/snwlvl/crt.sh) - A shell script to grab subdomains and probe for working http and https servers. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [crowdsec](https://github.com/crowdsecurity/crowdsec/) - A modern behavior detection system, written in Go. It stacks on Fail2ban's philosophy, but uses Grok patterns & YAML grammar to analyse logs, a modern decoupled approach (detect here, remedy there) for Cloud/Containers/VM based infrastructures. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -1493,6 +1504,7 @@ in seconds, directly to your bank account with No time and No fees ! - [![](http
 * [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [organize](https://github.com/tfeldmann/organize) - The file management automation tool - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [procs](https://github.com/dalance/procs) - replacement for ps - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [PowerToys](https://github.com/microsoft/PowerToys/) - Tune and streamline Windows (mouse finder, file renaming tool, ...) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [sharemouse](https://www.sharemouse.com/) - Control multiple computers from a single mouse and keyboard - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [SlowQuitApps](https://github.com/dteoh/SlowQuitApps) - 
 Add a global delay to Command-Q to stop accidental app quits. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -1549,6 +1561,7 @@ Add a global delay to Command-Q to stop accidental app quits. - [![](https://img
   - [exa](https://github.com/ogham/exa)
   - [MonitorControl](https://github.com/MonitorControl/MonitorControl) -  Control your external monitor brightness, contrast or volume directly from a menulet or with keyboard native keys.
   - [multi](https://github.com/kofigumbs/multi) - Create a custom, lightweight macOS app from a group of websites.
+  - [latest](https://github.com/mangerlahn/latest)
   - Keka
   - Oh My ZSH
   - [organize](https://github.com/tfeldmann/organize)
