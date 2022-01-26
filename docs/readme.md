@@ -319,9 +319,10 @@ Directus wraps your new or existing SQL database with a realtime GraphQL+REST AP
 * [cliff](https://github.com/openstack/cliff) - Framework for building command line programs. It uses entry points to provide subcommands, output formatters, and other extensions. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [enhancd](https://github.com/b4b4r07/enhancd) - 🚀 A next-generation cd command with your interactive filter - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find' - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [fx](https://github.com/antonmedv/fx) - Alternative to JQ - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [fzf](https://github.com/junegunn/fzf) - 🌸 A command-line fuzzy finder - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [htop](https://en.wikipedia.org/wiki/Top_(software)) - Interactive system-monitor for Linux or [bashtop](https://github.com/aristocratos/bashtop)
-* [jq](https://stedolan.github.io/jq/) - sed for JSON data - you can use it to slice and filter and map and transform structured data with the same ease that sed, awk, grep and friends let you play with text.
+* [jq](https://stedolan.github.io/jq/) - sed for JSON data - you can use it to slice and filter and map and transform structured data with the same ease that sed, awk, grep and friends let you play with text. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [plac](https://github.com/micheles/plac) - Plac: Parsing the Command Line the Easy Way - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [flow](https://www.getflow.com/why-flow) - Brings together your tasks, projects, timelines, and conversations,
 and integrates with your favorite tools, to help you achieve more. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
@@ -501,8 +502,10 @@ shape divider. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 *Because it's always difficult when facing a PEBKAC to tell him to RTFM...when there's no documentation*
 
 * [archbee](https://www.archbee.io/) - Product docs on your domain, API documentation, developer guides, internal wikis, change logs & diagrams — all in one. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
+* [appflowy](https://github.com/AppFlowy-IO/appflowy) - Open-source alternative to Notion. You are in charge of your data and customizations. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [bookstackapp](https://www.bookstackapp.com/) - Self-hosted, easy-to-use platform for organising and storing information - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Carbon](https://github.com/dawnlabs/carbon) - Create and share beautiful images of your source code - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/carbon-app/carbon)
+* [codehike](https://github.com/code-hike/codehike) - Build first-class code walkthroughs for the web. Whether you are writing blog posts, documentation, tutorials, coding videos, or any type of technical content, Code Hike helps you create a superior code reading experience. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Daux](http://daux.io/) - Markdown based documentation generator - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/dauxio/daux.io)
 * [Docsify](https://github.com/docsifyjs/docsify/) - A magical documentation site generator - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Docusaurus](https://github.com/facebook/Docusaurus) - Easy to maintain open source documentation websites - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -736,6 +739,7 @@ that make use of innovative user interfaces, such as multi-touch apps - [![](htt
 * [glab](https://github.com/profclems/glab) - GitLab CLI tool - [![](https://img.shields.io/badge/pricing-open--source-green)](#) 
 * [gitpod](https://www.gitpod.io/self-hosted/) - Take Control of Your Source Code. Also works with Visual Studio Code. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [gource](https://github.com/acaudwell/Gource) - software version control visualization - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [notifier-for-github](https://github.com/sindresorhus/notifier-for-github) - Get notified about new GitHub notifications - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [vercel](https://vercel.com/) - Cloud platform for static frontends and serverless functions. It enables developers to host websites and web applications that deploy instantly for example from a git repository, scale automatically, and require no supervision - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [whatthecommit](http://whatthecommit.com/) - commit message generator. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
@@ -861,6 +865,10 @@ that make use of innovative user interfaces, such as multi-touch apps - [![](htt
 * [Remote Workers](https://remoteworkers.net) - Remote Jobs & Talent Network
 * [weworkremotely](https://weworkremotely.com/) - :uk: - Largest remote work community in the world - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
+### Housing
+* [nomadlist.com](https://nomadlist.com/europe) - Community of remote workers living around the world. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [nomador](https://www.nomador.com/) - House sitting. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+
 ### Canada
 * [neuvoo](https://neuvoo.ca/) - Focused on Canada
 
@@ -951,6 +959,7 @@ that make use of innovative user interfaces, such as multi-touch apps - [![](htt
   - Fing
   - Waze
   - Authy
+  - [Mark O'Travel: Where I've Been](https://apps.apple.com/us/app/mark-otravel-tvoa-karta-putesestvij/id866778149) - Keep track of the countries where you have been and where you would like to go next.
   - [Pl@ntNet](https://plantnet.org/en/) - Identify one plant from a picture, and be part of a citizen science project on plant biodiversity
   - [F-Droid](https://f-droid.org/)
   - [termux](https://termux.com/) - Android terminal emulator and Linux environment app (no root rights required)
@@ -1139,6 +1148,7 @@ in seconds, directly to your bank account with No time and No fees ! - [![](http
 * [brickit](https://brickit.app/) - Build new creations from your lego bricks. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [Coffitivity](https://coffitivity.com/) - Recreates the ambient sounds of a cafe to boost your creativity and help you work better - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [openframe](https://openframe.io/) - Platform for artists, curators and art enthusiasts to share, discover and display digital art. Raspberry pi based. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [pixelartcss](https://www.pixelartcss.com/) - Generate pixel art css. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [estcequonpeutpartir](http://estcequonpeutpartir.fr/) - :fr: Helps taking decisions on where to go on holiday - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [ergodox-ez](https://ergodox-ez.com/) - fully customizable ergonomic keyboard. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 * [farmbot](https://farm.bot/) - Open-Source CNC Farming - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/FarmBot/Farmbot-Web-App)
@@ -1151,10 +1161,13 @@ in seconds, directly to your bank account with No time and No fees ! - [![](http
 * [The-Open-Book](https://github.com/joeycastillo/The-Open-Book) - Want to create your own ebook reader? - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Open Street map](https://www.openstreetmap.org) - OpenStreetMap is the free wiki world map. OpenStreetMap is a map of the world, created by people like you and free to use under an open license. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [OpenHaystack](https://github.com/seemoo-lab/openhaystack) - Track personal Bluetooth devices via Apple's massive Find My network. Use it to create your own tracking tags that you can append to physical objects (keyrings, backpacks, ...) or integrate it into other Bluetooth-capable devices such as notebooks. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+ - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [openHAB](https://www.openhab.org/) - Automation software for your home (smart home) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [pixelartcss](https://www.pixelartcss.com/) - Create pixel art using CSS - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Public Money? Public Code!](https://publiccode.eu/openletter/) - Publicly funded software has to be Free and Open Source Software. While there are plenty of good reasons for this, many politicians don’t know about them yet.
 * [sdelete](https://docs.microsoft.com/en-us/sysinternals/downloads/sdelete) - Securely deleting a file - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+* [streamlit](https://streamlit.gishub.org/) - Interactive web app for creating Landsat/GOES timelapse for any location around the globe. The app was built using streamlit, geemap, and Google Earth Engine. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [TimeLines](https://github.com/mathieudutour/TimeLines) - Know when all your friends, colleagues, and family are. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Product Hunt Time Machine](https://timemachine.betamode.dev/) - Most voted hunt from every day since Product Hunt records began. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [The true size](https://thetruesize.com) - Easily compare countries with each others - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -1371,6 +1384,7 @@ in seconds, directly to your bank account with No time and No fees ! - [![](http
 
 
 ## Scrapping / Parsing
+
 * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - Python library for pulling data out of HTML and XML files. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [G-Map Extractor](https://r2media.in/google-map-data-extractor-chrome-extension) - Captures contact information such as business name, address, phone number, website address, zip code information from Google maps. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf on the web. Your agents are standing by! - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -1580,6 +1594,7 @@ Add a global delay to Command-Q to stop accidental app quits. - [![](https://img
 ### Windows
   - Windirstat
   - Total Commander
+  - [Files](https://github.com/files-community/Files)
   - [Rufus](https://rufus.ie/) -  Create bootable USB drives the easy way 
 
 ## VPN
@@ -1647,5 +1662,6 @@ to help you focus on what matters.  - [![](https://img.shields.io/badge/pricing-
 * [WP - CLI](https://wp-cli.org) - WP-CLI is the command-line interface for WordPress. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [WP Speedster](http://www.wpspeedster.com/) -  You can find almost all themes from the WordPress.org theme repository tested against Google PageSpeed here. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [bedrock](https://roots.io/bedrock/) - Wordpress Boilerplate
+* [frost](https://frostwp.com/patterns/) -  Experimental block theme for designers, developers, and creators. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [frontity](https://frontity.org/) - React framework for WordPress - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Modern Wordpress](https://github.com/vincenzo/modern-wp) - Modern WordPress development and deployment workflow template on Platform.sh - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
