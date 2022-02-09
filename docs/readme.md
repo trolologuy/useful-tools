@@ -135,6 +135,7 @@ Please feel free to comment or open a pull request if you know better tools / or
 * [datacater](https://datacater.io/) - Integrate your data systems with streaming data pipelines - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [dbt](https://docs.getdbt.com/docs/introduction) - dbt (data build tool) enables analytics engineers to transform data in their warehouses by simply writing select statements. dbt handles turning these select statements into tables and views. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [facebook-delete](https://github.com/marcelja/facebook-delete) - Clean up a facebook account without deleting the entire account. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+* [garage](https://garagehq.deuxfleurs.fr/) - Distributed storage service to host a website, store media, have a backup target. Can be self-hosted. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [re_data](https://github.com/re-data/dbt-re-data) - re_data is a set of tools (dbt macros & models) that helps you with making sure your data pipelines are clean & reliable. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [muzejs](https://muzejs.org/) - Data visualization library to create composable and interactive data visualization for the web - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/chartshq/muze)
 * [prefect](https://docs.prefect.io/core/) - The easiest way to automate your data. Prefect is the new standard in dataflow automation, trusted to build, run, and monitor millions of data workflows, pipelines and add semantics like retries, logging, dynamic mapping, caching, failure notifications, and more. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)s
@@ -311,7 +312,6 @@ Directus wraps your new or existing SQL database with a realtime GraphQL+REST AP
 * [watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ### Browser Automation
-* [kasaya](https://github.com/syscolabs/kasaya) - A "WYSIWYG" (sort of) scripting language and runtime for browser automation - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Phantom JS](https://github.com/ariya/phantomjs) - Scriptable Headless Browser scriptable with JavaScript - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [nightmare](https://github.com/segmentio/nightmare) - High-level browser automation library from Segment. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -378,6 +378,7 @@ and integrates with your favorite tools, to help you achieve more. - [![](https:
 * [CSS box-shadow](https://www.cssmatic.com/box-shadow) - Simply generate CSS box shadows - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [css-effects-snippets](https://emilkowalski.github.io/css-effects-snippets/) - A collection of CSS effects made with Vue.js. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [Custom Shape Dividers](https://www.shapedivider.app/) - Generate and export a beautiful SVG
+* [generate-css](https://generate-css.com/) - Generate complex CSS easily (Box Shadow, Border Radius, Image Filter, Transform). - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [pattern-css](https://bansal.io/pattern-css#introduction) - CSS only library to fill your empty background with beautiful patterns. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 * [tailwindcomponents](https://tailwindcomponents.com/) - A free repository for community components using TailwindCSS - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 * [tailwindcss](https://tailwindcss.com/) - A highly customizable, low-level CSS framework for rapidly building custom designs. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
