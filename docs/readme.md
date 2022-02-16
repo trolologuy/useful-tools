@@ -50,6 +50,7 @@ _This category doesn't need an introduction i guess_
 - [ddrescue](https://www.gnu.org/software/ddrescue/) - A data recovery tool. It copies data from one file or block device (hard disc, cdrom, etc) to another, trying to rescue the good parts first in case of read errors - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [Duplicity](http://duplicity.nongnu.org/) - Duplicity backs directories by producing encrypted tar-format volumes and uploading them to a remote or local file server. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+- [edocperso](https://edocperso.fr/) - Store pay slips, invoices, tax assessment and more through collectors that automatically gather your documents. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [fogproject](https://github.com/FOGProject/fogproject) - A cloning/imaging solution/rescue suite. FOG can be used to image Windows XP, Vista, Windows 7, Window 8, and Windows 10 PCs using PXE, PartClone, and a Web GUI to tie it together - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [freefilesync](https://freefilesync.org/) - Folder comparison and synchronization software that creates and manages backup copies of all your important files - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [lodestone](https://github.com/AnalogJ/lodestone/) - Personal Document Archiving (DMS, EDMS for Personal/Home Office use) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -1167,7 +1168,7 @@ _Having your own private media? or wondering what do watch tonight?_
 - [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - macOS audio utility - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [Festify](https://festify.us/) - Festify lets your guests choose which music should be played using their smartphones (and spotify). - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [funkwhale](https://funkwhale.audio/en_GB) - Listen and share music and audio within a decentralised, open network - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
-- [jqbx.fm/](https://www.jqbx.fm//) - Lets you play & listen to music in sync with friends or public groups - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+- [jqbx.fm/](https://www.jqbx.fm//) - Lets you play & listen to music in sync with friends or public groups. Works with spotify - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [musicbrainz picard](https://picard.musicbrainz.org/) - Music tagger written in Python. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [Soundscape](https://github.com/soundscapecloud/soundscape) - a personal music streaming server - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
