@@ -939,7 +939,7 @@ _Getting paid for following your passion is even more fun, isn't it?_
 
 - [nomadlist.com](https://nomadlist.com/europe) - Community of remote workers living around the world. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [nomador](https://www.nomador.com/) - House sitting. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
-- [Scoperty](https://scoperty.de/home) - Gives precise information about housing value for houses and flats in Germany :de: .
+- [Scoperty](https://scoperty.de/home) - Gives precise information about housing value for houses and flats in Germany :de:
 
 ### Canada
 
