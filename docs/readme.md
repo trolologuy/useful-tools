@@ -939,6 +939,7 @@ _Getting paid for following your passion is even more fun, isn't it?_
 
 - [nomadlist.com](https://nomadlist.com/europe) - Community of remote workers living around the world. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [nomador](https://www.nomador.com/) - House sitting. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+- [Scoperty](https://scoperty.de/home) - Gives precise information about housing value for houses and flats in Germany :de: .
 
 ### Canada
 
@@ -953,6 +954,7 @@ _Getting paid for following your passion is even more fun, isn't it?_
 
 - [meteojob](https://www.meteojob.com/) - :fr: - Focused on France
 - [Salaires en France](https://www.journaldunet.com/business/salaire/france/pays-fra) - :fr: - Salaries in France
+- [Are you rich or poor?](https://www.inegalites.fr/Salaire-etes-vous-riche-ou-pauvre) - :fr: - Compare your salary with the rest of the french population
 - [Simulateur salaire brut et net](https://droit-finances.commentcamarche.com/faq/83832-simulateur-salaire-brut-et-net-module-de-calcul) - :fr: Brut / Net calculator
 
 ### Finland
