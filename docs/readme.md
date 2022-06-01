@@ -279,6 +279,7 @@ _You will be assimilated_
 - [Rudder](https://www.rudder.io/en/) - Multi-platform solution for managing configurations of mission-critical systems. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [semantic-release](https://github.com/semantic-release/semantic-release) - Fully automated version management and package publishing. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [shipjs](https://github.com/algolia/shipjs) - Take control of what is going to be your next release. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+- [Spacelift](https://spacelift.io/) - Sophisticated and compliant infrastructure delivery platform for Terraform, CloudFormation, Pulumi, and Kubernetes. - [![](https://img.shields.io/badge/pricing-free-yellow)](#) 
 - [Travis](https://travis-ci.org/) - Test and Deploy code - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
 ### Automated tests
