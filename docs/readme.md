@@ -1108,6 +1108,7 @@ _The true question should be: Quis custodiet ipsos custodes?_
 
 - [bosun](https://bosun.org/) - Monitoring and alerting system by Stack Exchange - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/bosun-monitor/bosun)
 - [Cockpit](https://cockpit-project.org/) - Web-based interface for your servers - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/cockpit-project/cockpit)
+- [Beew](https://beew.io/) - The simplest way of scheduling HTTP requests. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [cronhub](https://cronhub.io/) - Cron Monitoring, Get instant alerts when any of your background jobs fail silently or run longer than expected. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [crontab](https://crontab.guru/) - Quick and simple editor for cron schedule expressions - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
