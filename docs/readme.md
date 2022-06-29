@@ -1357,6 +1357,7 @@ _Public money, public code !_
 - [startinfinity](https://startinfinity.com/) - Kanban & More - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [strategr](https://khrykin.github.io/strategr/) -  No-Fuss Time Management - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [survio](https://www.survio.com/en/) - Simply create surveys - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+- [taskade](https://taskade.com/) - Real-time todo lists, mind maps, and notes - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 - [timeout](https://www.dejal.com/timeout/) - Time tracker and break reminder for macOS - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [timingapp](https://timingapp.com/?lang=en) - Automatic and manual time tracking, for the best of both worlds. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 - [todo-cli](https://github.com/francoischalifour/todo-cli) - Command-line tool to manage the Todo lists of your projects - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
