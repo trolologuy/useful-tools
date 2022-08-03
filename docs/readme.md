@@ -976,7 +976,7 @@ _Getting paid for following your passion is even more fun, isn't it?_
 ### Germany
 
 - [brutto-netto-rechner](https://www.brutto-netto-rechner.info/) - :de: Brutto / Netto calculator
-- [German salary calculator](https://visualsm.art/gross-net-salary-calculator/) - :de: Gross to net salary calculator with tax and income break down charts.
+- [German salary calculator](https://lohntastik.de/gns/gross-net-salary-calculator) - :de: Gross to net salary calculator with tax and income break down charts.
 
 ### Iceland
 
