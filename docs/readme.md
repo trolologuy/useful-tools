@@ -35,6 +35,7 @@ _'cause i'm API_
 - [fastapi](https://github.com/tiangolo/fastapi) - Modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [Functionscript](https://github.com/acode/FunctionScript) - An API gateway and framework for turning JavaScript functions into web services. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem- [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+- [Linx](https://linx.software) - A low-code development platform to implement, debug and host custom APIs,- [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 - [Postman](https://www.postman.com/downloads/) - Complete API Development Environment - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [Postwoman](https://github.com/liyasthomas/postwoman) - A free, fast and beautiful API request builder (web alternative to Postman) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
