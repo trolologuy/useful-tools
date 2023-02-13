@@ -1388,6 +1388,7 @@ _Public money, public code !_
 - [wakatime](https://wakatime.com/) - Metrics about your programming. See [hakatime](https://github.com/mujx/hakatime) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [worldtimebuddy](https://www.worldtimebuddy.com/) - Visualize Timezones (ECT, UTC, ...) - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [xmind](https://www.xmind.net/) - Mind mapping and brainstorming tool - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+- [bordio](https://bordio.com/) - Daily planner app, which allows to manage tasks and events on one single board - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
 ### Kanban
 
