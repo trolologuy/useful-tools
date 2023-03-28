@@ -141,6 +141,7 @@ _Struggling with numbers ? So am i, here are tools to help_
 ## Data
 
 - [airbyte](https://airbyte.com/) - EL(T) platform that helps sync data from applications, APIs & databases to warehouses, lakes & other destinations. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+- [Clipboard](https://github.com/Slackadays/Clipboard) - An external brain that remembers anything, anytime, anywhere. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another 🐊 📦. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [datacater](https://datacater.io/) - Integrate your data systems with streaming data pipelines - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [dbt](https://docs.getdbt.com/docs/introduction) - dbt (data build tool) enables analytics engineers to transform data in their warehouses by simply writing select statements. dbt handles turning these select statements into tables and views. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -352,6 +353,7 @@ _Who likes to do stuff manually anyway  ¯\_(ツ)_/¯_
 - [bullet](https://github.com/bchao1/bullet) - Beautiful Python Prompts Made Simple - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [cement](https://github.com/datafolklabs/cement) - Advanced Application Framework for Python, with a primary focus on Command Line Interfaces (CLI). Its goal is to introduce a standard, and feature-full platform for both simple and complex command line applications as well as support rapid development needs without sacrificing quality. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [cliff](https://github.com/openstack/cliff) - Framework for building command line programs. It uses entry points to provide subcommands, output formatters, and other extensions. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+- [Clipboard](https://github.com/Slackadays/Clipboard) - An external brain that remembers anything, anytime, anywhere. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [enhancd](https://github.com/b4b4r07/enhancd) - 🚀 A next-generation cd command with your interactive filter - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find' - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [flow](https://www.getflow.com/why-flow) - Brings together your tasks, projects, timelines, and conversations,
@@ -1619,6 +1621,7 @@ _Keep the h4xx0r5 out_
 - [babun](https://babun.github.io/) - A windows shell you will love - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+- [Clipboard](https://github.com/Slackadays/Clipboard) - An external brain that remembers anything, anytime, anywhere. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [cygwin]() - Get that Linux feeling but on Windows - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/cygwin/cygwin)
 - [easyigloo](https://easyigloo.org/) - A powerful, context-oriented command-line interface which allows IT gurus to manage their Windows desktop and server machines with ease. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -1752,6 +1755,7 @@ _Фэсапщы Elu הלו Güata Tàg السلام عليكم Cześć নমস
 - [bpytop](https://github.com/aristocratos/bpytop) - `htop` clone
 - Grand Perspective
 - [Balena Etcher](https://www.balena.io/etcher/) - Flash OS images to SD cards & USB drives, safely and easily.
+- [Clipboard](https://github.com/Slackadays/Clipboard) - An external brain that remembers anything, anytime, anywhere.
 - [exa](https://github.com/ogham/exa)
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) -  Control your external monitor brightness, contrast or volume directly from a menulet or with keyboard native keys.
 - [nightowl](https://nightowl.kramser.xyz/) - Switch between light and dark mode
@@ -1766,6 +1770,7 @@ _Фэсапщы Elu הלו Güata Tàg السلام عليكم Cześć নমস
 ### Linux
 
 - bat
+- Clipboard
 - grepcidr
 - ipcalc
 - iperf
