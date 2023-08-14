@@ -736,6 +736,7 @@ _echo "sheep"_
 ### Color picker / Color schemes
 
 - [Clrs](http://clrs.cc/) - A nicer color palette for the web. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+- [ColorSlurp](https://colorslurp.com/) - The ultimate color tool for developers and designers. Available for iOS macOS. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [coolors](https://coolors.co/) - The super fast color schemes generator! Create the perfect palette or get inspired by thousands of beautiful color schemes. Available as iOS app or Adobe addon. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [paletton](http://paletton.com/) - A Color Scheme Designer / Palette - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [rgb.to](https://rgb.to/) - Convert color values and find colour schemes simply - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
