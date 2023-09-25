@@ -1,0 +1,2 @@
+- name: Check links with linkcheck
+  uses: filiph/linkcheck@2.0.20
