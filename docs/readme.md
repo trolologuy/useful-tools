@@ -877,6 +877,7 @@ _printf("Hello, World!");_
 ### Visual Studio Code Plugins
 
 - [polacode](https://github.com/octref/polacode)
+- [SemanticDiff](https://semanticdiff.com/) - Programming language aware diff that hides irrelevant changes and detects moved code. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
 ## Images / Image Optimisation / Text recognition (OCR)
 
