@@ -1416,6 +1416,7 @@ _Ever heard of Stackoverflow ?_
 
 <img src="https://media.giphy.com/media/mDFpdL1UxdVZRBN2V4/giphy.gif" width="200"/>
 
+- [Cyrilex](https://extendsclass.com/regex-tester.html) - A visual regex tester - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [I hate regex](https://ihateregex.io/) - Because you know you do... online tool with helpful charts and explanations to your regex - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [Regex101](https://regex101.com/) - Another online tool for dealing with regex - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [regexcrossword](https://m.regexcrossword.com/) - A Regex Crossword "Game" - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
