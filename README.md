@@ -1,7 +1,6 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-[![Build Status](https://travis-ci.com/trolologuy/useful-tools.svg?branch=master)](https://travis-ci.com/trolologuy/useful-tools)
 
 # Useful Tools :mag_right: 
 
@@ -21,6 +20,25 @@ Thanks a lot to Algolia for providing the search mechanism through [docsearch](h
 ## Usage
 
 You can either find the source [markdown file here](docs/readme.md), or access [the result here](https://trolologuy.github.io/useful-tools/).
+
+<details>
+<summary>To set it up locally:</summary>
+
+For development mode:
+
+1. Run `yarn install` to install all dependencies.
+2. Run `yarn vuepress dev docs`
+3. Open [http://localhost:8080/useful-tools/](http://localhost:8080/useful-tools/) in your browser.
+
+To generate the static files:
+
+1. Run `yarn install` to install all dependencies.
+2. Run `yarn vuepress build docs`
+
+To update the dependencies:
+1. Run `yarn upgrade`
+
+</details>
 
 ## Preview
 
