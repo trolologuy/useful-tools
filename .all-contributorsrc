@@ -69,6 +69,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "cyr1l0u",
+      "name": "cyr1l0u",
+      "avatar_url": "https://avatars.githubusercontent.com/u/164659715?v=4",
+      "profile": "https://github.com/cyr1l0u",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -76,5 +85,7 @@
   "projectOwner": "trolologuy",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": true
+  "skipCi": true,
+  "commitType": "docs",
+  "commitConvention": "angular"
 }
