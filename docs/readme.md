@@ -1382,7 +1382,7 @@ _Public money, public code !_
 - [org-mode](https://orgmode.org) - Keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [pandora](https://getpandora.tech/) - Collect the content (docs, links, ppt, img, code snippets and more... ) your co-workers have shared with you on Slack and Gmail. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [pomofocus](https://pomofocus.io/) - Pomodoro time tracking that can be customized. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
-- [shipright](https://www.shipright.co/) - One organized place for product feedback - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+- [productlift](https://www.productlift.dev/) - One organized place for product feedback - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [simplemind](https://simplemind.eu/) - Mindmap - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [startinfinity](https://startinfinity.com/) - Kanban & More - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [strategr](https://khrykin.github.io/strategr/) - No-Fuss Time Management - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
