@@ -87,6 +87,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "rubenbuijs",
+      "name": "Ruben",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9210390?v=4",
+      "profile": "http://www.rubenbuijs.nl",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
