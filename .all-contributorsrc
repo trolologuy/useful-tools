@@ -78,6 +78,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "slackner",
+      "name": "Sebastian Lackner",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5781160?v=4",
+      "profile": "https://semanticdiff.com/",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
