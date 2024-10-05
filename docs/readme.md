@@ -188,16 +188,22 @@ _Converting from one format to another_
 
 - [Pandoc](http://pandoc.org/) - If you need to convert files from one markup format into another, pandoc is your swiss-army knife - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
-## Craft / Home Automation
+## Craft
 
 _Doing stuff in real life too?_
 
-- [home-assistant](https://github.com/home-assistant/core) - Home automation that puts local control and privacy first - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [Meshroom](https://github.com/alicevision/meshroom) - 3D Reconstruction Software - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [MicroscoPy](https://github.com/IBM/MicroscoPy) - An open-source MICROSCOPE built using LEGO bricks, 3D-printing, Arduino and Raspberry Pi - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [Precious Plastic](https://preciousplastic.com/) - Start a business from plastic waste! - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
-- [Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Written for Arduino IDE and PlatformIO. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [Templatemaker](https://www.templatemaker.nl/en/) - Custom sized papercraft and packaging templates for free - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+
+## Home automation
+_Make it smart_
+
+- [home-assistant](https://www.home-assistant.io/) - Home automation that puts local control and privacy first. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+- [openHAB](https://www.openhab.org/) - Automation software for your home (smart home) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+- [openhue](https://github.com/openhue/openhue-api) - Comprehensive OpenAPI specification for the Philips Hue REST API - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+- [Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Written for Arduino IDE and PlatformIO. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ## Code style, review, quality and security / Linters / Debugging
 
@@ -335,6 +341,7 @@ _Who likes to do stuff manually anyway ¯\_(ツ)_/¯_
 - [Automa](https://github.com/AutomaApp/automa) - A chrome extension for automating your browser by connecting blocks - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [automate.io](https://automate.io/) - Connect your cloud apps. Automate work. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [Hazel](https://www.noodlesoft.com/) - Automated Organization for macOS. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
+- [Manychat](https://manychat.com/) - Drive more sales and conversions on Instagram, WhatsApp, and Messenger using automation. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [n8n](https://n8n.io/) - Automation platform (zapier like) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [Parabola](https://parabola.io/) - Your computer should work for you. Automates processes via an easy-to-use, drag-and-drop interface. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [reflex](https://github.com/cespare/reflex) - Run a command when files change - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -343,6 +350,7 @@ _Who likes to do stuff manually anyway ¯\_(ツ)_/¯_
 
 ### Browser Automation and tests
 
+- [cypress](https://www.cypress.io/) - Create tests for your modern web applications, debug them visually, and automatically run them in your continuous integration (CI) builds. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 - [nightmare](https://github.com/segmentio/nightmare) - High-level browser automation library from Segment. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [Phantom JS](https://github.com/ariya/phantomjs) - Scriptable Headless Browser scriptable with JavaScript - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [playwright](https://github.com/microsoft/playwright) - Framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -763,6 +771,7 @@ for your awesome landing pages. - [![](https://img.shields.io/badge/pricing-free
 - [Affinity](https://affinity.serif.com) - Great alternative to Photoshop - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 - [bgeraser](http://bgeraser.com/) - Remove Background from Images - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [cleanup.pictures](https://cleanup.pictures/) - Remove objects and defects from your pictures. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+- [getheadshots](https://www.getheadshots.ai/) - Get HD headshots generated by AI. Ideal for social profiles, resumes, and professional portfolios. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [Inkscape](https://inkscape.org/) - A professional cross-platform vector graphics editor - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ### Logo
@@ -934,6 +943,7 @@ To get an idea of what technology to learn next, what tools are commonly used by
 - [devops-exercises](https://github.com/bregman-arie/devops-exercises) - Questions and exercises on various technical topics, sometimes related to DevOps and SRE :) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [fullstack.cafe](https://www.fullstack.cafe/) - Kill Your Tech Interview. Full-Stack, Coding & System Design Interview Questions Answered To Get Your Next Six-Figure Job Offer. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - Easy way to create a GitHub profile readme with the latest add-ons - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+- [Hacker news jobs](https://news.ycombinator.com/jobs) - Hacker news job postings. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [honeypot](https://www.honeypot.io/) - :uk: / :de: / NL - Europe’s developer-focused job platform.
 - [Interview Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map/blob/master/README-EN.md) - This is a map that can help you to prepare for the next job interview
 - [layoffs.fyi](https://layoffs.fyi/) - Tracking all tech startup layoffs. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -944,6 +954,7 @@ To get an idea of what technology to learn next, what tools are commonly used by
 - [triplebyte](https://triplebyte.com/) - Showcase your tech skills and hear from top companies! - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [tweetjobs](https://tweetjobs.dev/) - :uk: Find Latest Jobs from Twitter
 - [justjoinit](https://justjoin.it/) - :uk: - Mainly for Poland but also has some job listings for neighbouring countries.
+- [Lobste.rs Job board](https://lobste.rs/t/job) - lobste.rs job postings. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
 ### Freelance
 
@@ -969,6 +980,7 @@ Since salaries are tough to manage, see an idea of solution with [slite's salary
 - [remoteleaf](https://remoteleaf.com/) - We search the entire internet and hand-pick thousands of remote jobs, so you don’t have to. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 - [Remoteok](https://remoteok.io/) - :uk: Get a remote job you can do anywhere - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [weworkremotely](https://weworkremotely.com/) - :uk: - Largest remote work community in the world - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+- [remote](https://www.remote.io/) - Browse thousands of remote job listings to work at startups and leading companies. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
 ### Housing
 
@@ -1026,6 +1038,11 @@ Since salaries are tough to manage, see an idea of solution with [slite's salary
 - [nofluffjobs](https://nofluffjobs.com/) - :uk: Focused on Poland
 - [pracuj](https://www.pracuj.pl/) - Focused on Poland
 - [wynagrodzenia](https://wynagrodzenia.pl/kalkulator-wynagrodzen/wyniki) - Brutto / Netto calculator
+
+### Switzerland
+
+- [jobset](https://jobset.io/) - Find your dream job in Switzerland / Europe. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+
 
 ## Robotic Process Automation (RPA)
 
@@ -1285,10 +1302,12 @@ _/dev/random_
 - [accredible](https://www.accredible.com/) - Digital badge and certificate platform - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [aircall](https://aircall.io/) - Cloud-based call center software - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 - [brickit](https://brickit.app/) - Build new creations from your lego bricks. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+- [bullshitremover](https://www.bullshitremover.com/) - Paste crap, get truth. AI powered. - [![](https://img.shields.io/badge/pricing-free-yellow)](#) 
 - [Coffitivity](https://coffitivity.com/) - Recreates the ambient sounds of a cafe to boost your creativity and help you work better - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [direkt bahn guru](https://direkt.bahn.guru/) - See how far you can get with a train from different locations. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [ergodox-ez](https://ergodox-ez.com/) - fully customizable ergonomic keyboard. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 - [estcequonpeutpartir](http://estcequonpeutpartir.fr/) - :fr: Helps taking decisions on where to go on holiday - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+- [Eventinc](https://www.eventinc.de/) - Organize real life events more easily. The tool assists in keeping track of locations, when requests were sent, etc etc. Focuses on Germany. - [![](https://img.shields.io/badge/pricing-free-yellow)](#) 
 - [farmbot](https://farm.bot/) - Open-Source CNC Farming - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/FarmBot/Farmbot-Web-App)
 - [foldnfly](https://www.foldnfly.com/) - Database of paper planes with easy to follow folding instructions. Perfect to keep kids entertained. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -1304,13 +1323,13 @@ _/dev/random_
 - [maze](https://maze.co/) - Usability tests with dashboards and metrics. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [Open Street map](https://www.openstreetmap.org) - OpenStreetMap is the free wiki world map. OpenStreetMap is a map of the world, created by people like you and free to use under an open license. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [openframe](https://openframe.io/) - Platform for artists, curators and art enthusiasts to share, discover and display digital art. Raspberry pi based. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
-- [openHAB](https://www.openhab.org/) - Automation software for your home (smart home) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [OpenHaystack](https://github.com/seemoo-lab/openhaystack) - Track personal Bluetooth devices via Apple's massive Find My network. Use it to create your own tracking tags that you can append to physical objects (keyrings, backpacks, ...) or integrate it into other Bluetooth-capable devices such as notebooks. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [pdfmapmaker](https://pdfmapmaker.com/) - Create pdfs from maps. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [pixelartcss](https://www.pixelartcss.com/) - Create pixel art using CSS - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [pixelartcss](https://www.pixelartcss.com/) - Generate pixel art css. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [Product Hunt Time Machine](https://timemachine.betamode.dev/) - Most voted hunt from every day since Product Hunt records began. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [Public Money? Public Code!](https://publiccode.eu/openletter/) - Publicly funded software has to be Free and Open Source Software. While there are plenty of good reasons for this, many politicians don’t know about them yet.
+- [scamdoc](https://fr.scamdoc.com/) - Assess the trustworthiness of a “digital identity” (e-mail address or website) and avoid scams. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [schlouk-map](https://www.schlouk-map.com/fr/) - Find the perfect bar close to you. France only. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [sdelete](https://docs.microsoft.com/en-us/sysinternals/downloads/sdelete) - Securely deleting a file - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [streamlit](https://streamlit.gishub.org/) - Interactive web app for creating Landsat/GOES timelapse for any location around the globe. The app was built using streamlit, geemap, and Google Earth Engine. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -1322,6 +1341,11 @@ _/dev/random_
 - [vector.rocks](https://vector.rocks/) - Add content on a map. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [vervoe](https://vervoe.com/) - Skill testing software that automatically ranks candidates based on how well they can do the job. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [WDL](https://www.wdl.org/) - World Digital Library, has books, maps, ... - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+
+### Desk setup
+
+- [Idasen Desk Controller – Mac app](https://github.com/DWilliames/idasen-controller-mac) - Controller for the Ikea Stand Up Desk Idasen. Allows to automate automatical switch of positions during the hour. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+- [idasen](https://github.com/newAM/idasen) - Python API and CLI for the ikea IDÅSEN desk. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ## Presentations
 
@@ -1388,6 +1412,7 @@ _Public money, public code !_
 - [strategr](https://khrykin.github.io/strategr/) - No-Fuss Time Management - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [survio](https://www.survio.com/en/) - Simply create surveys - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [taskade](https://taskade.com/) - Real-time todo lists, mind maps, and notes - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
+- [timefall](https://github.com/antonreshetov/timefall) - Tracks and Records Your Work Time Accurately. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [timeout](https://www.dejal.com/timeout/) - Time tracker and break reminder for macOS - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [timingapp](https://timingapp.com/?lang=en) - Automatic and manual time tracking, for the best of both worlds. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 - [todo-cli](https://github.com/francoischalifour/todo-cli) - Command-line tool to manage the Todo lists of your projects - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -1662,6 +1687,11 @@ _Keep the h4xx0r5 out_
 - [wifi-password](https://github.com/rauchg/wifi-password) - Get the password of the wifi you're on (bash) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the ssh - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
+## Sports
+_Sitting in front of a screen all day slowly kills you. Do something against it._
+
+- [hybridcalisthenics](https://www.hybridcalisthenics.com/routine) - Get healthy, fit, and strong with just your body, gravity, and very little equipment. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+
 ### Oh-my-zsh Theme
 
 - agnoster
@@ -1809,7 +1839,6 @@ without the hassle. - [![](https://img.shields.io/badge/pricing-open--source-gre
 _Ok Siri_
 
 - [gladysassistant](https://gladysassistant.com/en/) - Home assistant - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
-- [home-assistant](https://www.home-assistant.io/) - Home automation that puts local control and privacy first. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [jarvis](https://github.com/alexylem/jarvis) - Jarvis.sh is a simple configurable multi-lang assistant - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [picovoice](https://picovoice.ai/) - Create context-aware voice products. Platform for adding voice to anything - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [replicastudios](https://replicastudios.com/) - Create naturally expressive voice overs and performances with a Replica Voice.
