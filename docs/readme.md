@@ -101,6 +101,7 @@ _Some helpful Blogs and Tech News websites_
 
 _Time is money as they say :hourglass_flowing_sand: :money_with_wings:_
 
+- [actualbudget](https://github.com/actualbudget/actual) - Local-first personal finance app. Has dedicated apps. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [firefly-iii](https://github.com/firefly-iii/firefly-iii) - A personal finances manager - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [splitwise](https://www.splitwise.com/) - Share expenses or rent price. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [tricount](https://www.tricount.com/) - Make sharing expenses simple for travel, activities and daily life. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -129,6 +130,10 @@ _The thing you use to navigate through the depth of internet_
 - [brave](https://brave.com/) - Get money from ads while browsing. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [brow.sh](https://www.brow.sh/) - Browsh is a fully-modern text-based browser. It renders anything that a modern browser can; HTML5, CSS3, JS, video and even WebGL - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [Vivaldi](https://vivaldi.com/) - Every aspect of Vivaldi can be tweaked and customized (look & feel, ...). - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+
+### Browser plugins for chrome based stuff
+
+- [Clutter Free - Prevent duplicate tabs](https://chromewebstore.google.com/detail/clutter-free-prevent-dupl/iipjdmnoigaobkamfhnojmglcdbnfaaf?hl=en).
 
 ## Calculus
 
@@ -724,6 +729,7 @@ _echo "sheep"_
 - [Draw](https://www.draw.io/) - Online diagramming web site- [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/jgraph/drawio)
 - [favicon](https://favicon.io/) - Favicon generator. Create a favicon in few simple clicks. Generate a favicon from text, from an image, or from an emoji. Download in .ico and .png formats. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [Figma](https://www.figma.com/) - Figma helps teams create, test, and ship better designs from start to finish. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+- [graphite](https://graphite.rs/) - 2D vector & raster editor that melds traditional layers & tools - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [getavataaars](https://getavataaars.com/) - Create a simple avatar for your online presence in just a few clicks - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [imglarger](https://imglarger.com/) - Enlarge Images Without Losing Quality - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [invisionapp](https://www.invisionapp.com/) - Digital product design platform, useful for building mockups, designs for websites, ... - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -841,6 +847,7 @@ _Whatever you do, don't be one_
 
 ## Hardware
 
+- [ifixit](https://www.ifixit.com/) - Repair guides for every thing, written by everyone. Phones, cars, game consoles, camera, tablets, ... - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [flipperzero](https://flipperzero.one/) - Open source multi-tool device for researching and pentesting radio protocols, access control systems, hardware, and more. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [pikvm](https://pikvm.org/) - Open and cheap DIY IP-KVM on Raspberry Pi - - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
@@ -1324,7 +1331,6 @@ _/dev/random_
 - [Open Street map](https://www.openstreetmap.org) - OpenStreetMap is the free wiki world map. OpenStreetMap is a map of the world, created by people like you and free to use under an open license. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [openframe](https://openframe.io/) - Platform for artists, curators and art enthusiasts to share, discover and display digital art. Raspberry pi based. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [OpenHaystack](https://github.com/seemoo-lab/openhaystack) - Track personal Bluetooth devices via Apple's massive Find My network. Use it to create your own tracking tags that you can append to physical objects (keyrings, backpacks, ...) or integrate it into other Bluetooth-capable devices such as notebooks. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
-- [pdfmapmaker](https://pdfmapmaker.com/) - Create pdfs from maps. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [pixelartcss](https://www.pixelartcss.com/) - Create pixel art using CSS - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [pixelartcss](https://www.pixelartcss.com/) - Generate pixel art css. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [Product Hunt Time Machine](https://timemachine.betamode.dev/) - Most voted hunt from every day since Product Hunt records began. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -1341,6 +1347,18 @@ _/dev/random_
 - [vector.rocks](https://vector.rocks/) - Add content on a map. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [vervoe](https://vervoe.com/) - Skill testing software that automatically ranks candidates based on how well they can do the job. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [WDL](https://www.wdl.org/) - World Digital Library, has books, maps, ... - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+- [Festivals-A-Companion-Guide](https://mercurial-maker.notion.site/Festivals-A-Companion-Guide-215cbbe1f9354e5b804e14954ba7289e) - Guide on how to survive on festivals. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+- [howtoadhd](https://howtoadhd.com/) - Infomaterial on ADHD. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+
+### Maps
+
+- [flightradar24](https://www.flightradar24.com/) - Live air traffic (planes). - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+- [marinetraffic](https://www.marinetraffic.com/en/ais/home/centerx:7.6/centery:48.0/zoom:11) - Live boat traffic. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+- [openstreetmap](https://www.openstreetmap.org/) - OpenStreetMap is an open geographic database which is updated and maintained by a community of volunteers. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+- [opencyclemap](https://www.opencyclemap.org/) - OpenStreetMap Cycle map (bikelanes, ...). - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+- [opencampingmap](https://opencampingmap.org/en/) - OpenStreetMap for campsites. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+- [gratisparken](https://m.gratisparken.de/) - Free parking spots in germany. - [![](https://img.shields.io/badge/pricing-free-yellow)](#) 
+- [pdfmapmaker](https://pdfmapmaker.com/) - Create pdfs from maps. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
 ### Desk setup
 
@@ -1365,6 +1383,7 @@ _Bored of powerpoint?_
 - [presentify](https://presentify.compzets.com/) - macOS menu bar app that helps you give better presentations, online classes, or video tutorials by letting you annotate any screen, highlight your cursor, and more. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 - [reveal-md](https://github.com/webpro/reveal-md) - Reveal JS but for Markdown or YAML (supports custom JS, CSS and export to pdf) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+- [sli.dev](https://sli.dev/) - Presentation Slides for Developers made with vue.js. Compatible with Mermaid. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [Showoff Presenter](https://github.com/puppetlabs/showoff) - Slideshow presentation tool that runs as a web application, with audience interactivity features. This means that your audience can follow along in their own browsers, can download supplemental materials, can participate in quizzes or polls, post questions for the presenter, etc. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [vortex](https://github.com/tajpure/vortex) - A markdown presentation tool. (supports custom CSS) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [webslides](https://github.com/webslides/webslides/) - Create HTML presentations in seconds - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
