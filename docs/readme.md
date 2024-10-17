@@ -430,6 +430,7 @@ _Reinventing the wheel can be fun but just in case you just don't feel like it, 
 - [Custom Shape Dividers](https://www.shapedivider.app/) - Generate and export a beautiful SVG
 - [generate-css](https://generate-css.com/) - Generate complex CSS easily (Box Shadow, Border Radius, Image Filter, Transform). - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [pattern-css](https://bansal.io/pattern-css#introduction) - CSS only library to fill your empty background with beautiful patterns. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+- [projectwallace](https://www.projectwallace.com/) - CSS analyzers that check your complexity, specificity, performance, Design Tokens and much more. And all of that in a single web app. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [tailwindcomponents](https://tailwindcomponents.com/) - A free repository for community components using TailwindCSS - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [tailwindcss](https://tailwindcss.com/) - A highly customizable, low-level CSS framework for rapidly building custom designs. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 shape divider. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -716,6 +717,7 @@ _You know you need a break_
 - [retroarch](https://www.retroarch.com/) - Frontend for emulators, game engines and media players. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [teeworlds](https://www.teeworlds.com/) - A retro multiplayer shooter - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/teeworlds/teeworlds/)
 - [veloren](https://veloren.net/) - multiplayer voxel RPG inspired by games such as Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress and Minecraft. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+- [Zelda 64: Recompiled](https://github.com/Zelda64Recomp/Zelda64Recomp) - Statically recompiled Majora's Mask (and soon Ocarina of Time) into a native port with many new features and enhancements.  - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ## Graphics / Design / Icons
 
@@ -849,7 +851,7 @@ _Whatever you do, don't be one_
 
 - [ifixit](https://www.ifixit.com/) - Repair guides for every thing, written by everyone. Phones, cars, game consoles, camera, tablets, ... - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [flipperzero](https://flipperzero.one/) - Open source multi-tool device for researching and pentesting radio protocols, access control systems, hardware, and more. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
-- [pikvm](https://pikvm.org/) - Open and cheap DIY IP-KVM on Raspberry Pi - - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+- [pikvm](https://pikvm.org/) - Open and cheap DIY IP-KVM on Raspberry Pi - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ### Hardware Checks
 
@@ -1275,6 +1277,7 @@ _My toaster runs on Linux!_
 - [9front](http://9front.org) - A modernized fork of Plan 9, the distributed operating system - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [aapanel](https://aapanel.com/) - source Hosting Control Panel (alternative to Plesk or Cpanel - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [kaosx](https://kaosx.us/) - A Lean KDE Distribution - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+- [multipass](https://multipass.run/) - Ubuntu VMs on demand for any workstation. Launch and run virtual machines and configure them with cloud-init like a public cloud. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [proxmox](https://www.proxmox.com/en/) - Operating System for enterprise virtualization. With the built-in web interface you can easily manage VMs and containers, software-defined storage and networking, high-availability clustering, and multiple out-of-the-box tools on a single solution. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [qemu](https://www.qemu.org/) - A generic machine emulator and virtualizer. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/qemu/QEMU)
 - [reactOS](https://www.reactos.org/) - Imagine running your favorite Windows applications and drivers in an open-source environment you can trust. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -1344,6 +1347,7 @@ _/dev/random_
 - [The-Open-Book](https://github.com/joeycastillo/The-Open-Book) - Want to create your own ebook reader? - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [TimeLines](https://github.com/mathieudutour/TimeLines) - Know when all your friends, colleagues, and family are. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [usertesting](https://www.usertesting.com/get-paid-to-test) - Get paid to test products. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+- [vancubic](https://vancubic.com/modules/) - Modules that can be inserted or removed inside any H2L2 or larger van. 
 - [vector.rocks](https://vector.rocks/) - Add content on a map. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [vervoe](https://vervoe.com/) - Skill testing software that automatically ranks candidates based on how well they can do the job. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [WDL](https://www.wdl.org/) - World Digital Library, has books, maps, ... - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
@@ -1413,13 +1417,13 @@ _Public money, public code !_
 - [Clocker](https://github.com/n0shake/Clocker) - macOS app to plan and organize through timezones- [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [clockify](https://clockify.me/) - Free time tracking software. It's a simple time tracker and timesheet app that lets you and your team track work hours across projects. Unlimited users, free forever. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [favro](https://learn.favro.com/) - Favro is the planning and collaboration app for organizational flow. It helps organizations do what they excel at - making products and services that change the game. Fast. - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
+- [fathom](https://fathom.video/) -  Records, transcribes, highlights, and summarizes your meetings so you can focus on the conversation. AI powered. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [gantt](https://github.com/frappe/gantt) - Javascript Gantt, A simple, interactive, modern gantt chart library for the web - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [hakatime](https://github.com/mujx/hakatime) - Hakatime is a server implementation of Wakatime. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [hill-charts](https://basecamp.com/features/hill-charts) - see where projects really stand - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [Life-Calendar](https://github.com/wvdk/Life-Calendar) - A calendar... for your life (in development) - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [limesurvey](https://www.limesurvey.org/) - Professional online surveys / polls selfhosted - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [meeter](https://apps.apple.com/de/app/meeter-fast-call-initiation/id1510445899?l=en&mt=12) - Manage all your calls and meetings in one place. macOS app that is located in the taskbar. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
-- [meetingbird](https://www.meetingbird.com) - Simply schedule your meetins (integrates with gmail) - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [mindnode](https://mindnode.com/) - Mindmap and brainstorming - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [Openproject](https://www.openproject.org/) - Collaborative Project Management: project management software. Gantt charts, Agile, Scrum, Wiki, ... - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [org-mode](https://orgmode.org) - Keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -1648,11 +1652,17 @@ _One image = 1000 words_
 
 ### Password Manager
 
+- [1password](https://1password.com/) - Cloud based password manager - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
+- [bitwarden](https://bitwarden.com/) - Cloud based password manager - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
+- [dashlane](https://www.dashlane.com/) - Cloud based password manager - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
+- [nordpass](https://nordpass.com/) - Cloud based password manager - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
+- [enpass](https://www.enpass.io/) - Cloud based password manager - [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
 - [Buttercup](https://buttercup.pw/) - Cross-platform, free and open-source password manager based on NodeJS. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [Keepassxc](https://keepassxc.org/) - Cross-platform community fork of KeePassX. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/keepassxreboot/keepassxc)
 - [Keeweb](https://keeweb.info/) - Cross-platform password manager compatible with KeePass - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/keeweb/keeweb)
 - [lesspass](https://lesspass.com/#/) - Stateless Password Manager. Stop wasting your time synchronizing your encrypted vault. Remember one master password to access your passwords, anywhere, anytime, from any device. No sync needed. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [Passbolt](https://www.passbolt.com/) - Open source password manager for teams. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+- [passkeycentral](https://www.passkeycentral.org/home) - Introduction to passkeys and how to use them. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [Password store](https://www.passwordstore.org/) - Standard unix password manager - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ### Abusive IPs / Whois
@@ -1867,6 +1877,7 @@ _Ok Siri_
 - [h5ai](https://larsjung.de/h5ai/) - A file indexer for HTTP web servers with focus on your files. Directories are displayed in a appealing way and browsing them is enhanced by different views, a breadcrumb and a tree overview. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [NGINX Config](https://www.digitalocean.com/community/tools/nginx) - The easiest way to configure a performant, secure, and stable NGINX server. - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/digitalocean/nginxconfig.io)
 - [puphpet](https://puphpet.com/#create) - Simplify deployment through vagrant for nginx / apache / mySQL / ... - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+- [frankenphp](https://frankenphp.dev/) - Production-grade PHP server up in just one command! Native support for HTTP/1.1, HTTP/2 and HTTP/3, Automatic HTTPS certificates generation and renewal (Let’s Encrypt or ZeroSSL). Native support for wordpress, laravel, symfony, ... . - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ## Website Hosting (Free)
 
@@ -1910,8 +1921,10 @@ to help you focus on what matters. - [![](https://img.shields.io/badge/pricing-o
 ## Wordpress
 
 - [bedrock](https://roots.io/bedrock/) - Wordpress Boilerplate
+- [health-check](https://github.com/WordPress/health-check) - plugin that performs checks on your WordPress to detect common configuration errors and known issues. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [frontity](https://frontity.org/) - React framework for WordPress - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [frost](https://frostwp.com/patterns/) - Experimental block theme for designers, developers, and creators. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [Modern Wordpress](https://github.com/vincenzo/modern-wp) - Modern WordPress development and deployment workflow template on Platform.sh - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+- [underscores](https://underscores.me/) - Starter theme template for WordPress. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [WP - CLI](https://wp-cli.org) - WP-CLI is the command-line interface for WordPress. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [WP Speedster](http://www.wpspeedster.com/) - You can find almost all themes from the WordPress.org theme repository tested against Google PageSpeed here. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
