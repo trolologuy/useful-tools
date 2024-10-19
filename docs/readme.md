@@ -105,6 +105,8 @@ _Time is money as they say :hourglass_flowing_sand: :money_with_wings:_
 - [firefly-iii](https://github.com/firefly-iii/firefly-iii) - A personal finances manager - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [splitwise](https://www.splitwise.com/) - Share expenses or rent price. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [tricount](https://www.tricount.com/) - Make sharing expenses simple for travel, activities and daily life. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+- [Property value data explorer](https://explore.data.gouv.fr/fr/immobilier) - Property value data explorer for france (made by the government). - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+- [finary](https://finary.com/referral/DDAFA9) - Track and manage your financial portfolios in real-time. Supports bank accounts, loans, cryptos, stocks, real estate, ETFs, ... . Referal link. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
 ## Bots / Chatbots
 
@@ -801,6 +803,10 @@ for your awesome landing pages. - [![](https://img.shields.io/badge/pricing-free
 - [stocksy](https://www.stocksy.com/) - Stock photos and video footage with no filler - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [unsplash](https://unsplash.com/) - The internet’s source of freely-usable images. Powered by creators everywhere. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 
+### Alternative OS for cameras
+
+- [magiclantern](https://www.magiclantern.fm/index.html) - add-on that runs from the SD/CF card and adds features to Canon EOS cameras. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+
 ## Good Practices / Best Practices / Ebooks
 
 _When you don't know where to start, that's probably the right place_
@@ -996,6 +1002,8 @@ Since salaries are tough to manage, see an idea of solution with [slite's salary
 - [nomadlist.com](https://nomadlist.com/europe) - Community of remote workers living around the world. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [nomador](https://www.nomador.com/) - House sitting. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [Scoperty](https://scoperty.de/home) - Gives precise information about housing value for houses and flats in Germany :de:
+- [flatio](https://www.flatio.com/) - Short, mid and long-term rentals for digital nomads in over 300 destinations.
+- [idealista](https://www.idealista.com/en/) - Rent flats in Spain, Italy or Portugal.
 
 ### Canada
 
@@ -1215,6 +1223,7 @@ _Having your own private media? or wondering what do watch tonight?_
 - [myanimelist](https://myanimelist.net/) - Large anime and manga community and database - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [mydramalist](https://mydramalist.com/) - MyDramaList.com is a community-based project which provides Asian drama & movie fans a site where they can create their very own drama watchlist. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [mythtv](https://www.mythtv.org/) - A digital video recorder (DVR) - [![](https://img.shields.io/badge/pricing-open--source-green)](https://github.com/MythTV/mythtv)
+- [flickmetrix](https://flickmetrix.com/) - Find what TV series or movie to watch on netflix, amazon prime, or disney plus. - [![](https://img.shields.io/badge/pricing-free-yellow)](#) 
 - [Plex](https://plex.tv) - Plex brings together all the media that matters to you. Your personal collection will look beautiful alongside stellar streaming content. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [subsync](https://github.com/sc0ty/subsync) - Automatic movie subtitle synchronization tool. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [WatchSomething](https://pecko95.github.io/WatchSomething/) - No idea what to watch ? Find movies or tv shows to watch instantly, or store them in lists for later ! - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
@@ -1627,12 +1636,14 @@ _One image = 1000 words_
 - [lgtm](https://lgtm.com/) - Continuous security analysis
 - [lulu](https://objective-see.com/products/lulu.html) - macOS firewall that aims to block unknown outgoing connections, unless explicitly approved by the user. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [lynis](https://github.com/CISOfy/lynis) - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
-- [malwoverview](https://github.com/alexandreborges/malwoverview) - Simple tool to perform an initial and quick triage of malware samples, URLs and hashes. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)s
+- [malwoverview](https://github.com/alexandreborges/malwoverview) - Simple tool to perform an initial and quick triage of malware samples, URLs and hashes. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+- [MetaDetective](https://github.com/franckferman/MetaDetective) - Advanced metadata analysis and web scraping - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [nexfil](https://github.com/thewhiteh4t/nexfil) - OSINT tool written in python for finding profiles by username. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [No more ransom](https://www.nomoreransom.org/en/index.html) - Helps unlocking ransomware infected files - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [openxpki](https://www.openxpki.org/) - OpenXPKI is an enterprise-grade PKI/Trustcenter software. It implements the necessary features to operate a PKI in professional environments. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [owasp - vulnerable web applications directory](https://owasp.org/www-project-vulnerable-web-applications-directory/) - comprehensive and well maintained registry of all known vulnerable web applications currently available. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [pwnadventure](https://www.pwnadventure.com/) - Game that is intentionally flawed to look for security issues (CTF). - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
+- [Personal Security Checklist](https://github.com/lissy93/personal-security-checklist) - Compiled checklist of 300+ tips for protecting digital security and privacy. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [Ransomware - Map of US ransomware attacks](https://www.comparitech.com/ransomware-attack-map/) - Pinpoints the locations of each ransomware attack in the US, from 2018 to present day. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [ransomwhere](https://objective-see.com/products/ransomwhere.html) - Utility with a simple goal; generically thwart macOS ransomware - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
 - [Redact](https://redact.dev/) - Delete your digital footprint. The only platform that allows you to automatically clean up your old posts from services like Twitter, Reddit, Facebook, Discord and more all in one place. - [![](https://img.shields.io/badge/pricing-free-yellow)](#)
