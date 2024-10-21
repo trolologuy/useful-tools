@@ -23,7 +23,7 @@ jobs:
       
       - name: Run Link Check
         run: |
-          markdown-link-check ./useful-tools.md -p -c link-check-config.json
+          markdown-link-check ../docs/readme.md -p -c link-check-config.json
           
       - name: Archive results for review
         if: failure()
