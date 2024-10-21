@@ -1,0 +1,33 @@
+name: Link Checker
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout the code
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+          
+      - name: Install markdown-link-check
+        run: npm install -g markdown-link-check
+      
+      - name: Run Link Check
+        run: |
+          markdown-link-check ./useful-tools.md -p -c link-check-config.json
+          
+      - name: Archive results for review
+        if: failure()
+        uses: actions/upload-artifact@v3
+        with:
+          name: failed-links
+          path: ./failed-links.log
