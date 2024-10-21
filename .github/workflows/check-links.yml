@@ -23,7 +23,7 @@ jobs:
       
       - name: Run Link Check
         run: |
-          markdown-link-check ../docs/readme.md -p -c link-check-config.json
+          markdown-link-check ${GITHUB_WORKSPACE}/docs/readme.md -p -c link-check-config.json
           
       - name: Archive results for review
         if: failure()
