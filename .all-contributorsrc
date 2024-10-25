@@ -105,6 +105,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "martinstastny",
+      "name": "Martin Stastny",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6364437?v=4",
+      "profile": "https://martinstastny.com",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
