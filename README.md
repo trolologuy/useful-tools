@@ -76,6 +76,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://martinstastny.com"><img src="https://avatars.githubusercontent.com/u/6364437?v=4?s=100" width="100px;" alt="Martin Stastny"/><br /><sub><b>Martin Stastny</b></sub></a><br /><a href="#content-martinstastny" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/tomzur"><img src="https://avatars.githubusercontent.com/u/11505426?v=4?s=100" width="100px;" alt="Tomzur"/><br /><sub><b>Tomzur</b></sub></a><br /><a href="#content-tomzur" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/definiteIymaybe"><img src="https://avatars.githubusercontent.com/u/16208594?v=4?s=100" width="100px;" alt="dfntlmb"/><br /><sub><b>dfntlmb</b></sub></a><br /><a href="#content-definiteIymaybe" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/mariuszmichalowski"><img src="https://avatars.githubusercontent.com/u/92091891?v=4?s=100" width="100px;" alt="Mariusz Michalowski"/><br /><sub><b>Mariusz Michalowski</b></sub></a><br /><a href="#content-mariuszmichalowski" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
