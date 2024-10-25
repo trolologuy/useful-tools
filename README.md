@@ -73,6 +73,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/tomilomark"><img src="https://avatars.githubusercontent.com/u/82877044?v=4?s=100" width="100px;" alt="Tomilo Mark"/><br /><sub><b>Tomilo Mark</b></sub></a><br /><a href="#content-tomilomark" title="Content">🖋</a></t
+      <td align="center" valign="top" width="14.28%"><a href="https://martinstastny.com"><img src="https://avatars.githubusercontent.com/u/6364437?v=4?s=100" width="100px;" alt="Martin Stastny"/><br /><sub><b>Martin Stastny</b></sub></a><br /><a href="#content-martinstastny" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
