@@ -1,5 +1,5 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Useful Tools :mag_right: 
@@ -67,6 +67,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://semanticdiff.com/"><img src="https://avatars.githubusercontent.com/u/5781160?v=4?s=100" width="100px;" alt="Sebastian Lackner"/><br /><sub><b>Sebastian Lackner</b></sub></a><br /><a href="#content-slackner" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://www.rubenbuijs.nl"><img src="https://avatars.githubusercontent.com/u/9210390?v=4?s=100" width="100px;" alt="Ruben"/><br /><sub><b>Ruben</b></sub></a><br /><a href="#content-rubenbuijs" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/CaioRolla"><img src="https://avatars.githubusercontent.com/u/25801532?v=4?s=100" width="100px;" alt="Caio Rolla"/><br /><sub><b>Caio Rolla</b></sub></a><br /><a href="#content-CaioRolla" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/tomzur"><img src="https://avatars.githubusercontent.com/u/11505426?v=4?s=100" width="100px;" alt="Tomzur"/><br /><sub><b>Tomzur</b></sub></a><br /><a href="#content-tomzur" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
