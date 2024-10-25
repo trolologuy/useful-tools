@@ -24,3 +24,11 @@ jobs:
       - name: Run Link Check
         run: |
           markdown-link-check ${GITHUB_WORKSPACE}/docs/readme.md -p -c ${GITHUB_WORKSPACE}/.github/workflows/link-check-config.json
+        continue-on-error: true # That job helps assess which links might be broken for faster periodic manual review. It shouldn't be a blocker since so many things can block it.
+
+      - name: Finish job
+        if: success() || failure()
+        run: | 
+          echo "The link check is done ✔"
+          echo "Check the output for failures marked with: [✖]\n"
+
