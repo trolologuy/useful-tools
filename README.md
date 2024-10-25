@@ -1,5 +1,5 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-20-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Useful Tools :mag_right: 
@@ -77,6 +77,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/tomzur"><img src="https://avatars.githubusercontent.com/u/11505426?v=4?s=100" width="100px;" alt="Tomzur"/><br /><sub><b>Tomzur</b></sub></a><br /><a href="#content-tomzur" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/definiteIymaybe"><img src="https://avatars.githubusercontent.com/u/16208594?v=4?s=100" width="100px;" alt="dfntlmb"/><br /><sub><b>dfntlmb</b></sub></a><br /><a href="#content-definiteIymaybe" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/mariuszmichalowski"><img src="https://avatars.githubusercontent.com/u/92091891?v=4?s=100" width="100px;" alt="Mariusz Michalowski"/><br /><sub><b>Mariusz Michalowski</b></sub></a><br /><a href="#content-mariuszmichalowski" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://taskade.com"><img src="https://avatars.githubusercontent.com/u/792088?v=4?s=100" width="100px;" alt="John Xie"/><br /><sub><b>John Xie</b></sub></a><br /><a href="#content-johnxie" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
