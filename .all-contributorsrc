@@ -105,6 +105,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "johnxie",
+      "name": "John Xie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/792088?v=4",
+      "profile": "https://taskade.com",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
