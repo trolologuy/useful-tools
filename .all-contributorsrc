@@ -114,6 +114,60 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "tomzur",
+      "name": "Tomzur",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11505426?v=4",
+      "profile": "https://github.com/tomzur",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "martinstastny",
+      "name": "Martin Stastny",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6364437?v=4",
+      "profile": "https://martinstastny.com",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "tomilomark",
+      "name": "Tomilo Mark",
+      "avatar_url": "https://avatars.githubusercontent.com/u/82877044?v=4",
+      "profile": "https://github.com/tomilomark",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "gruelingpine185",
+      "name": "gruelingpine185",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66073333?v=4",
+      "profile": "https://github.com/gruelingpine185",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "antmorr",
+      "name": "antmorr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30291115?v=4",
+      "profile": "https://github.com/antmorr",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "JonasHass",
+      "name": "Jonass Hass",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96917577?v=4",
+      "profile": "https://github.com/JonasHass",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
