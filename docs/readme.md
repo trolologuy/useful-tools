@@ -1230,6 +1230,7 @@ _The true question should be: Quis custodiet ipsos custodes?_
 - [Uptime robot](https://uptimerobot.com/) - Downtime Happens. Get Notified! - <Badge type="info" text="free" vertical="middle" />
 - [uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool like "Uptime Robot". It includes Status Page, Ping Chart, ... - <Badge type="note" text="open-source" vertical="middle" />
 - [Vector by Datadog](https://vector.dev/) - Tool for building observability pipelines. Collect, transform, and route all your logs and metrics with one simple tool. - <Badge type="info" text="free" vertical="middle" />
+- [Middleware](https://middleware.io) - A full-stack cloud observability platform. - <Badge type="danger" text="commercial" vertical="middle" />
 
 ### CRON Monitoring
 
