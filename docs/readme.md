@@ -784,6 +784,7 @@ _echo "sheep"_
 - [vecta](https://vecta.io/symbols) - Flow chart, AWS, Google and Azure cloud symbols - <Badge type="info" text="free" vertical="middle" />
 - [Vectr](https://vectr.com/) - Web and Desktop cross-platform Graphics Software - <Badge type="info" text="free" vertical="middle" />
 - [Webolution](http://fabianburghardt.de/webolution/) - Explore the evolution of Webdesign from 1991 to 2015 - <Badge type="info" text="free" vertical="middle" />
+- [flux dev](https://fluxdev.net/) - Enter text and easily create AI images online for free.  - <Badge type="info" text="free" vertical="middle" />
 
 ### Color picker / Color schemes
 
