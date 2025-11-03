@@ -182,6 +182,7 @@ _Struggling with numbers ? So am i, here are tools to help_
 - [JSON Schema](https://json-schema.org/understanding-json-schema) - A tool for validating the structure of JSON data. - <Badge type="note" text="open-source" vertical="middle" />
 - [json2html](https://github.com/moappi/visualizer.json2html) - Simple JSON visualizer
 - [Jsonnet](https://jsonnet.org/) - A data templating language - <Badge type="note" text="open-source" vertical="middle" />
+- [Format JSON Online](https://formatjsononline.com/) - Professional JSON platform with 40+ free tools. Features AI-powered error fixing, API testing, and code generation. -<Badge type="info" text="free" vertical="middle" />
 
 ## Chat / Communication
 
