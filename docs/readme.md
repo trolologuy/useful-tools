@@ -278,6 +278,7 @@ _Code quality and standarts should be enforced more often, that's for sure! Whic
 - [python-package-template](https://github.com/TezRomacH/python-package-template) - 🚀 Your next Python package needs a bleeding-edge project structure. - <Badge type="note" text="open-source" vertical="middle" />
 - [python-progressbar](https://github.com/WoLpH/python-progressbar) - A progress bar for Python 2 and Python 3 - <Badge type="note" text="open-source" vertical="middle" />
 - [pythondialog](https://pypi.org/project/pythondialog/) - A Python interface to the UNIX dialog utility and mostly-compatible programs - <Badge type="note" text="open-source" vertical="middle" />
+- [Pythonium](https://pythonium.net/) - A set of Python tools such as a code checker, regex tester, mock API, data generator, pickle viewer, and more. - <Badge type="info" text="free" vertical="middle" />
 - [Simpdf](https://github.com/shashanoid/Simpdf) - Simple PDF text editor - <Badge type="note" text="open-source" vertical="middle" />
 - [tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI - <Badge type="note" text="open-source" vertical="middle" />
 - [typer](https://github.com/tiangolo/typer) - Easy to code. Based on Python type hints. - <Badge type="note" text="open-source" vertical="middle" />
