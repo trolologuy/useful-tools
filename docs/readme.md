@@ -883,6 +883,7 @@ _Whatever you do, don't be one_
 - [gitignore collection](https://github.com/github/gitignore) - A collection of useful .gitignore templates - <Badge type="note" text="open-source" vertical="middle" />
 - [gitignore](https://www.gitignore.io/) - Create useful .gitignore files for your project - <Badge type="note" text="open-source" vertical="middle" />
 - [gitpod](https://www.gitpod.io/self-hosted/) - Take Control of Your Source Code. Also works with Visual Studio Code. - <Badge type="info" text="free" vertical="middle" />
+- [gitty](https://github.com/Omibranch/gitty) - Single-binary CLI for Git and GitHub with short, human-readable commands - <Badge type="note" text="open-source" vertical="middle" />
 - [glab](https://github.com/profclems/glab) - GitLab CLI tool - <Badge type="note" text="open-source" vertical="middle" />
 - [gource](https://github.com/acaudwell/Gource) - software version control visualization - <Badge type="note" text="open-source" vertical="middle" />
 - [notifier-for-github](https://github.com/sindresorhus/notifier-for-github) - Get notified about new GitHub notifications - <Badge type="note" text="open-source" vertical="middle" />
