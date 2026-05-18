@@ -1004,6 +1004,7 @@ To get an idea of what technology to learn next, what tools are commonly used by
 - [fullstack.cafe](https://www.fullstack.cafe/) - Kill Your Tech Interview. Full-Stack, Coding & System Design Interview Questions Answered To Get Your Next Six-Figure Job Offer. - <Badge type="info" text="free" vertical="middle" />
 - [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - Easy way to create a GitHub profile readme with the latest add-ons - <Badge type="note" text="open-source" vertical="middle" />
 - [Hacker news jobs](https://news.ycombinator.com/jobs) - Hacker news job postings. - <Badge type="info" text="free" vertical="middle" />
+- [Hanzilla Jobs](https://jobs.hanzilla.co/categories/software-engineering/) - Daily-updated Canadian student and new-grad tech jobs across internships, co-ops, junior roles, and software/data categories. - <Badge type="info" text="free" vertical="middle" />
 - [honeypot](https://www.honeypot.io/) - :uk: / :de: / NL - Europe’s developer-focused job platform.
 - [Interview Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map/blob/master/README-EN.md) - This is a map that can help you to prepare for the next job interview
 - [justjoinit](https://justjoin.it/) - :uk: - Mainly for Poland but also has some job listings for neighbouring countries.
