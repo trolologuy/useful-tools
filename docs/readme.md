@@ -1361,6 +1361,7 @@ _/dev/random_
 - [accredible](https://www.accredible.com/) - Digital badge and certificate platform - <Badge type="info" text="free" vertical="middle" />
 - [aircall](https://aircall.io/) - Cloud-based call center software - <Badge type="danger" text="commercial" vertical="middle" />
 - [brickit](https://brickit.app/) - Build new creations from your lego bricks. - <Badge type="info" text="free" vertical="middle" />
+- [concrete-calculator-hub](https://concreteestimatorhub.com/) - Free concrete calculators for slabs, footings, columns, and bags with cost estimates. - <Badge type="info" text="free" vertical="middle" />
 - [bullshitremover](https://www.bullshitremover.com/) - Paste crap, get truth. AI powered. - <Badge type="info" text="free" vertical="middle" /> 
 - [burnerlist](https://burnerlist.org/) - The Complete Burning Man Shopping & Packing Checklist (or for festivals). - <Badge type="info" text="free" vertical="middle" />
 - [Coffitivity](https://coffitivity.com/) - Recreates the ambient sounds of a cafe to boost your creativity and help you work better - <Badge type="info" text="free" vertical="middle" />
