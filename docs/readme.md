@@ -1750,6 +1750,7 @@ _Keep the h4xx0r5 out_
 - [mobaxterm](https://mobaxterm.mobatek.net/) - Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more - <Badge type="info" text="free" vertical="middle" />
 - [mosh](https://mosh.org/#) - Mosh is a replacement for interactive SSH terminals. It's more robust and responsive, especially over Wi-Fi, cellular, and long-distance links. - <Badge type="note" text="open-source" vertical="middle" />
 - [nanorc](https://github.com/scopatz/nanorc) - Improved Syntax Highlighting Files for the Nano text editor - - <Badge type="note" text="open-source" vertical="middle" />
+- [Nexus Shell](https://nexusshell.app/) - Native macOS SSH workspace with terminal sessions, SFTP file management, Docker tools and server monitoring. - <Badge type="danger" text="commercial" vertical="middle" />
 - [neofetch](https://github.com/dylanaraps/neofetch) - Command-line system information tool - <Badge type="note" text="open-source" vertical="middle" />
 - [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - Oh My Zsh will not make you a 10x developer...but you may feel like one. - <Badge type="note" text="open-source" vertical="middle" />
 - [shell harden](https://github.com/anordal/shellharden) - A syntax highlighter and a tool to help do things safely in bash - <Badge type="note" text="open-source" vertical="middle" />
