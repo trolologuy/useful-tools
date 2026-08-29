@@ -1519,6 +1519,7 @@ _Ever heard of Stackoverflow ?_
 - [AI Powered Regex Generator](https://rgx.tools/) - Describe what you need and let GPT-3.5 Turbo generate the regex for you. - <Badge type="info" text="free" vertical="middle" />
 - [Cyrilex](https://extendsclass.com/regex-tester.html) - A visual regex tester - <Badge type="note" text="open-source" vertical="middle" />
 - [I hate regex](https://ihateregex.io/) - Because you know you do... online tool with helpful charts and explanations to your regex - <Badge type="info" text="free" vertical="middle" />
+- [Nutilz Regex Tester](https://nutilz.com/regex-tester) - Free browser-based regular expression tester and debugger with real-time match highlighting. - <Badge type="info" text="free" vertical="middle" />
 - [Regex101](https://regex101.com/) - Another online tool for dealing with regex - <Badge type="info" text="free" vertical="middle" />
 - [regexcrossword](https://regexcrossword.com/) - A Regex Crossword "Game" - <Badge type="info" text="free" vertical="middle" />
 - [rgxg](https://github.com/rgxg/rgxg) - rgxg (ReGular eXpression Generator) is a C library and a command-line tool to generate (extended) regular expressions. - <Badge type="note" text="open-source" vertical="middle" />
