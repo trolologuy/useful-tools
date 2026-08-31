@@ -1705,6 +1705,7 @@ _One image = 1000 words_
 ### Password Manager
 
 - [1password](https://1password.com/) - Cloud based password manager - <Badge type="danger" text="commercial" vertical="middle" />
+- [Authier](https://www.authier.pm/) - Open-source browser password manager with encrypted sync, TOTP, autofill, and trusted-device approval. - <Badge type="note" text="open-source" vertical="middle" />
 - [bitwarden](https://bitwarden.com/) - Cloud based password manager - <Badge type="danger" text="commercial" vertical="middle" />
 - [Buttercup](https://buttercup.pw/) - Cross-platform, free and open-source password manager based on NodeJS. - <Badge type="note" text="open-source" vertical="middle" />
 - [dashlane](https://www.dashlane.com/) - Cloud based password manager - <Badge type="danger" text="commercial" vertical="middle" />
