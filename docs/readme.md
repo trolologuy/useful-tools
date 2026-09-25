@@ -1523,6 +1523,7 @@ _Ever heard of Stackoverflow ?_
 - [regexcrossword](https://regexcrossword.com/) - A Regex Crossword "Game" - <Badge type="info" text="free" vertical="middle" />
 - [rgxg](https://github.com/rgxg/rgxg) - rgxg (ReGular eXpression Generator) is a C library and a command-line tool to generate (extended) regular expressions. - <Badge type="note" text="open-source" vertical="middle" />
 - [sed online](https://sed.js.org/) - the sed command, but online - <Badge type="info" text="free" vertical="middle" />
+- [Regex Tester](https://devbox.tools/utils/regex-tester) - Test and debug JavaScript regular expressions in real-time with visual match highlighting. - <Badge type="info" text="free" vertical="middle" />
 
 ## Remote work / Visioconference / Pair programming
 
@@ -1850,6 +1851,7 @@ _Automate all the things! ... or at least try to make your life easier_
 - [Organizr](https://github.com/causefx/Organizr) - Homelab Services Organizer - Written in PHP - <Badge type="note" text="open-source" vertical="middle" />
 - [Simplefolio](https://github.com/cobidev/simplefolio) - A minimal portfolio template for Developers - <Badge type="note" text="open-source" vertical="middle" />
 - [Sufee admin dashboard](https://github.com/puikinsh/sufee-admin-dashboard) - <Badge type="note" text="open-source" vertical="middle" />
+- [DevBox Tools](https://devbox.tools/) - Browser-based developer toolbox with 58+ free utilities for development, SEO, and daily tasks. - <Badge type="info" text="free" vertical="middle" />
 
 ## Translations
 
