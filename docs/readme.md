@@ -408,6 +408,7 @@ _Who likes to do stuff manually anyway ¯\_(ツ)_/¯_
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore - <Badge type="note" text="open-source" vertical="middle" />
 - [Suitcase](https://github.com/Impedimenta/Suitcase) - A flexible command line tool for instantly deploying user interfaces for simple commands and scripts on macOS. - <Badge type="note" text="open-source" vertical="middle" />
 - [tree](https://en.wikipedia.org/wiki/Tree_(command)) - Lists the files in the current directory.
+- [vhr-bench](https://github.com/vpshostreview/vhr-vps-benchmark) - Benchmarks a Linux server (sysbench CPU and memory, fio 4k random IOPS) in about a minute - <Badge type="note" text="open-source" vertical="middle" />
 
 ## Development / Frameworks / Snippets
 
