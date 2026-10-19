@@ -1957,6 +1957,7 @@ _Ok Siri_
 - [github-buttons](https://github.com/ntkme/github-buttons) - Unofficial github:buttons - <Badge type="note" text="open-source" vertical="middle" />
 - [github-calendar](https://github.com/Bloggify/github-calendar) - Embed your GitHub contributions calendar everywhere. - <Badge type="note" text="open-source" vertical="middle" />
 - [githubchart-api](https://github.com/2016rshah/githubchart-api) - Embed github contributions chart as image - <Badge type="note" text="open-source" vertical="middle" />
+- [Glim](https://github.com/NeoPanic/Glim) - MIT-licensed macOS file viewer with Markdown diagrams and formulas, source/data previews and basic UTF-8 editing. - <Badge type="note" text="open-source" vertical="middle" />
 - [Joplin](https://github.com/laurent22/joplin) - note taking and to-do application - <Badge type="note" text="open-source" vertical="middle" />
 - [markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending. - <Badge type="note" text="open-source" vertical="middle" />
 - [mdx](https://github.com/mdx-js/mdx) - Use JSX in your markdown documents. You can import components, like interactive charts or notifications, and export metadata. This makes writing long-form content with components a blast. - <Badge type="note" text="open-source" vertical="middle" />
