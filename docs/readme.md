@@ -449,7 +449,7 @@ _Reinventing the wheel can be fun but just in case you just don't feel like it, 
 - [98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs. (windows 98 style) - <Badge type="note" text="open-source" vertical="middle" />
 - [animista](https://animista.net/) - CSS animations on demand - <Badge type="info" text="free" vertical="middle" />
 - [bulma](https://bulma.io/) - CSS framework based on Flexbox - <Badge type="note" text="open-source" vertical="middle" />
-- [CSS box-shadow](https://www.cssmatic.com/box-shadow) - Simply generate CSS box shadows - <Badge type="info" text="free" vertical="middle" />
+- [CSS box-shadow](https://coddy.tech/tools/box-shadow-generator) - Simply generate CSS box shadows, with multiple layers and a live preview (Coddy) - <Badge type="info" text="free" vertical="middle" />
 - [css-effects-snippets](https://ui-snippets.dev/) - A collection of CSS effects made with Vue.js. - <Badge type="note" text="open-source" vertical="middle" />
 - [Custom Shape Dividers](https://www.shapedivider.app/) - Generate and export a beautiful SVG
 - [generate-css](https://generate-css.com/) - Generate complex CSS easily (Box Shadow, Border Radius, Image Filter, Transform). - <Badge type="info" text="free" vertical="middle" />
