@@ -55,7 +55,7 @@ _'cause i'm API_
 - [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development. - <Badge type="note" text="open-source" vertical="middle" />
 - [Swagger](https://swagger.io/tools/open-source/) - Easy-to-use suite of API developer tools for teams and individuals, enabling development across the entire API lifecycle, from design and documentation, to test and deployment - <Badge type="note" text="open-source" vertical="middle" />
 
-- [axum](https://github.com/tokio-rs/axum) - Modular web application framework for Rust, built on Tokio and Hyper. - <Badge type="note" text="open-source" vertical="middle" />
+- [axum](https://github.com/tokio-rs/axum) - Modular web application framework for Rust. - <Badge type="note" text="open-source" vertical="middle" />
 - [Bruno](https://github.com/usebruno/bruno) - Git-friendly API client for working with and testing APIs. - <Badge type="note" text="open-source" vertical="middle" />
 - [LiteLLM](https://github.com/berriai/litellm) - Unified interface for calling and managing multiple LLM providers. - <Badge type="note" text="open-source" vertical="middle" />
 
