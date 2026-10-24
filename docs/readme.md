@@ -201,7 +201,7 @@ _Struggling with numbers ? So am i, here are tools to help_
 
 - [csvkit](https://github.com/wireservice/csvkit) - Command-line utilities for converting and working with CSV files. - <Badge type="note" text="open-source" vertical="middle" />
 - [Docling](https://github.com/docling-project/docling) - Parse and convert documents - including advanced PDF understanding - into structured formats for document-processing pipelines or AI tools and LLMs. - <Badge type="note" text="open-source" vertical="middle" />
-- [MarkItDown](https://github.com/microsoft/markitdown) - Convert files and office documents to Markdown for text-processing workflows. - <Badge type="note" text="open-source" vertical="middle" />
+- [MarkItDown](https://github.com/microsoft/markitdown) - Convert files and office documents to Markdown for text-processing workflows or AI tools and LLMs.. - <Badge type="note" text="open-source" vertical="middle" />
 - [octosql](https://github.com/cube2222/octosql) - Query multiple data sources using SQL. - <Badge type="note" text="open-source" vertical="middle" />
 - [qsv](https://github.com/dathere/qsv) - High-performance CSV data-wrangling toolkit. - <Badge type="note" text="open-source" vertical="middle" />
 - [xan](https://github.com/medialab/xan) - Command-line toolkit for processing and analyzing CSV data. - <Badge type="note" text="open-source" vertical="middle" />
