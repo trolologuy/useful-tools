@@ -695,6 +695,8 @@ _Make it fast_
 - [Awesome Rust Tools](https://github.com/unpluggedcoder/awesome-rust-tools) - Curated list of tools in the Rust ecosystem. - <Badge type="note" text="open-source" vertical="middle" />
 - [Mintable](https://github.com/kevinschaich/mintable) - Personal finance and asset tracking application. - <Badge type="note" text="open-source" vertical="middle" />
 - [CSV Cut](https://github.com/zigazou/csvcut) - Command-line tool for selecting and manipulating CSV columns. - <Badge type="note" text="open-source" vertical="middle" />
+
+- [Agent Skills](https://github.com/vercel-labs/agent-skills) - Reusable skills and instructions for coding agents. - <Badge type="note" text="open-source" vertical="middle" />
 ## Documentation / Wikis / User Feedback
 
 _Because it's always difficult when facing a PEBKAC to tell him to RTFM...when there's no documentation_
@@ -1592,6 +1594,7 @@ _/dev/random_
 - [Idasen Desk Controller – Mac app](https://github.com/DWilliames/idasen-controller-mac) - Controller for the Ikea Stand Up Desk Idasen. Allows to automate automatical switch of positions during the hour. - <Badge type="note" text="open-source" vertical="middle" />
 - [idasen](https://github.com/newAM/idasen) - Python API and CLI for the ikea IDÅSEN desk. - <Badge type="note" text="open-source" vertical="middle" />
 
+- [FMHY Edit](https://fmhy.net/edit) - Community-maintained resource index and editing entry point. - <Badge type="info" text="free" vertical="middle" />
 ## Presentations
 
 _Bored of powerpoint?_
