@@ -1672,7 +1672,7 @@ _Ever heard of Stackoverflow ?_
 - Fail2Ban
 - UFW (Iptables alternative)
 
-- [Arr Stack for UGREEN NAS](https://github.com/olukmani/arr-stack-ugreennas) - Arr media stack configuration for UGREEN NAS. - <Badge type="note" text="open-source" vertical="middle" />
+- [Arr Stack for UGREEN NAS](https://github.com/olukmani/arr-stack-ugreennas) - Arr (Sonarr, Radarr, Prowlarr, Bazarr) media stack configuration and library management for UGREEN NAS. - <Badge type="note" text="open-source" vertical="middle" />
 - [Proxmox Traefik Proxy Cloudflare Tunnel](https://github.com/sfnemis/proxmox-traefikproxy-cloudflaretunnel) - Example setup combining Proxmox, Traefik, and Cloudflare Tunnel. - <Badge type="note" text="open-source" vertical="middle" />
 - [Ultimate Arr Stack](https://github.com/Pharkie/ultimate-arr-stack) - Deployment setup for a media automation stack. - <Badge type="note" text="open-source" vertical="middle" />
 
