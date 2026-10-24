@@ -1996,7 +1996,7 @@ _Automate all the things! ... or at least try to make your life easier_
 - [Simplefolio](https://github.com/cobidev/simplefolio) - A minimal portfolio template for Developers - <Badge type="note" text="open-source" vertical="middle" />
 - [Sufee admin dashboard](https://github.com/puikinsh/sufee-admin-dashboard) - <Badge type="note" text="open-source" vertical="middle" />
 
-- [Bento](https://github.com/nyblnet/bento) - Personal dashboard and workspace project. - <Badge type="note" text="open-source" vertical="middle" />
+- [Bento](https://github.com/nyblnet/bento) - PowerPoint alternative is a single HTML file. - <Badge type="note" text="open-source" vertical="middle" />
 - [Dev Cockpit](https://github.com/caioricciuti/dev-cockpit) - Dashboard for developer tools and workflows. - <Badge type="note" text="open-source" vertical="middle" />
 - [Rackula](https://github.com/RackulaLives/Rackula) - Tool for planning and visualizing rack layouts. - <Badge type="note" text="open-source" vertical="middle" />
 
