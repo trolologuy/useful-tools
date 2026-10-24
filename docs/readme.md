@@ -301,8 +301,8 @@ _Code quality and standarts should be enforced more often, that's for sure! Whic
 - [ukip](https://github.com/google/ukip) - USB Keystroke Injection Protection - <Badge type="note" text="open-source" vertical="middle" />
 - [Vaultproject](https://www.vaultproject.io/) - Manage Secrets and Protect Sensitive Data: Secure, store and tightly control access to tokens, passwords, certificates, encryption keys for protecting secrets and other sensitive data using a UI, CLI, or HTTP API. - <Badge type="note" text="open-source" vertical="middle" />
 
-- [DepsGuard](https://github.com/arnica/depsguard) - Dependency security and policy checks for software projects. - <Badge type="note" text="open-source" vertical="middle" />
 - [ClaudePulse](https://github.com/nikolmedo/ClaudePulse) - Monitoring and visibility tool for Claude-related activity. - <Badge type="note" text="open-source" vertical="middle" />
+- [DepsGuard](https://github.com/arnica/depsguard) - Dependency security and policy checks for software projects. - <Badge type="note" text="open-source" vertical="middle" />
 
 ### Vale
 
@@ -524,13 +524,13 @@ _Reinventing the wheel can be fun but just in case you just don't feel like it, 
 - [sui](https://github.com/jeroenpardon/sui) - A startpage for your server and / or new tab page - <Badge type="note" text="open-source" vertical="middle" />
 - [yeoman](https://github.com/yeoman/yeoman) - A set of tools for automating development workflow - <Badge type="note" text="open-source" vertical="middle" />
 
-- [Codachi](https://github.com/blairjordan/codachi) - Developer tool and coding utility. - <Badge type="note" text="open-source" vertical="middle" />
-- [Gitingest Extension](https://github.com/coderamp-labs/gitingest-extension) - Browser extension for turning Git repositories into LLM-friendly text. - <Badge type="note" text="open-source" vertical="middle" />
-- [Vis Timeline](https://github.com/visjs/vis-timeline) - Interactive timeline visualization component. - <Badge type="note" text="open-source" vertical="middle" />
-- [Awesome Rust Tools](https://github.com/unpluggedcoder/awesome-rust-tools) - Curated list of tools in the Rust ecosystem. - <Badge type="note" text="open-source" vertical="middle" />
-- [Mintable](https://github.com/kevinschaich/mintable) - Personal finance and asset tracking application. - <Badge type="note" text="open-source" vertical="middle" />
-- [CSV Cut](https://github.com/zigazou/csvcut) - Command-line tool for selecting and manipulating CSV columns. - <Badge type="note" text="open-source" vertical="middle" />
 - [Agent Skills](https://github.com/vercel-labs/agent-skills) - Reusable skills and instructions for coding agents. - <Badge type="note" text="open-source" vertical="middle" />
+- [Awesome Rust Tools](https://github.com/unpluggedcoder/awesome-rust-tools) - Curated list of tools in the Rust ecosystem. - <Badge type="note" text="open-source" vertical="middle" />
+- [Codachi](https://github.com/blairjordan/codachi) - Developer tool and coding utility. - <Badge type="note" text="open-source" vertical="middle" />
+- [CSV Cut](https://github.com/zigazou/csvcut) - Command-line tool for selecting and manipulating CSV columns. - <Badge type="note" text="open-source" vertical="middle" />
+- [Gitingest Extension](https://github.com/coderamp-labs/gitingest-extension) - Browser extension for turning Git repositories into LLM-friendly text. - <Badge type="note" text="open-source" vertical="middle" />
+- [Mintable](https://github.com/kevinschaich/mintable) - Personal finance and asset tracking application. - <Badge type="note" text="open-source" vertical="middle" />
+- [Vis Timeline](https://github.com/visjs/vis-timeline) - Interactive timeline visualization component. - <Badge type="note" text="open-source" vertical="middle" />
 
 ### CSS
 
@@ -697,7 +697,6 @@ _Make it fast_
 - [Pake](https://github.com/tw93/Pake) - Package websites into lightweight desktop applications. - <Badge type="note" text="open-source" vertical="middle" />
 - [Typst](https://github.com/typst/typst) - Markup-based typesetting system designed as an alternative to LaTeX. - <Badge type="note" text="open-source" vertical="middle" />
 - [UIKit](https://github.com/uikit/uikit) - Lightweight modular front-end framework for building web interfaces. - <Badge type="note" text="open-source" vertical="middle" />
-
 
 ## Documentation / Wikis / User Feedback
 
@@ -931,7 +930,6 @@ _echo "sheep"_
 - [delesign](https://delesign.com/free-designs/graphics/) - Royalty-free designs for your website, social media, blog, email newsletters, and more. - <Badge type="info" text="free" vertical="middle" />
 - [freellustrations](https://freellustrations.com/) - Free illustrations background images. - <Badge type="info" text="free" vertical="middle" />
 - [undraw](https://undraw.co/illustrations) - Browse to find the images that fit your needs and click to download. Use the on-the-fly color image generation to match your brand identity. - <Badge type="note" text="open-source" vertical="middle" />
-
 
 ### Image Editing / Drawing
 
@@ -1582,7 +1580,7 @@ _/dev/random_
 - [vervoe](https://vervoe.com/) - Skill testing software that automatically ranks candidates based on how well they can do the job. - <Badge type="info" text="free" vertical="middle" />
 - [WDL](https://www.wdl.org/) - World Digital Library, has books, maps, ... - <Badge type="info" text="free" vertical="middle" />
 
-- [FMHY Edit](https://fmhy.net/edit) - Community-maintained resource index and editing entry point. - <Badge type="info" text="free" vertical="middle" />
+- [FMHY Edit](https://github.com/fmhy/edit) - Community-maintained resource index and editing entry point. - <Badge type="info" text="free" vertical="middle" />
 
 ### Maps
 
@@ -1787,9 +1785,9 @@ _But... will it scale?_
 - [Apprise API](https://github.com/caronc/apprise-api) - REST API for sending notifications through Apprise-supported services. - <Badge type="note" text="open-source" vertical="middle" />
 - [Beachpatrol](https://github.com/sebastiancarlos/beachpatrol) - Self-hosting and infrastructure management project. - <Badge type="note" text="open-source" vertical="middle" />
 - [Homelab Hub](https://github.com/RaidOwl/homelab-hub) - Dashboard and management hub for homelab services. - <Badge type="note" text="open-source" vertical="middle" />
+- [LinuxServer.io](https://github.com/linuxserver) - Organization publishing container images and self-hosting projects. - <Badge type="note" text="open-source" vertical="middle" />
 - [LM Studio MCP](https://github.com/infinitimeless/LMStudio-MCP) - Model Context Protocol integration for LM Studio. - <Badge type="note" text="open-source" vertical="middle" />
 - [MCP for LM Studio](https://github.com/kevin-biot/MCP-LMstudio) - Model Context Protocol integration for LM Studio. - <Badge type="note" text="open-source" vertical="middle" />
-- [LinuxServer.io](https://github.com/linuxserver) - Organization publishing container images and self-hosting projects. - <Badge type="note" text="open-source" vertical="middle" />
 
 ### git / code repositories
 
@@ -2077,15 +2075,15 @@ _Automate all the things! ... or at least try to make your life easier_
 - [coreui admin template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - <Badge type="note" text="open-source" vertical="middle" />
 - [dashing](https://github.com/HippyScript/dashing) - A simple home server dashboard - <Badge type="note" text="open-source" vertical="middle" />
 - [DashMachine](https://github.com/rmountjoy92/DashMachine) - Another web application bookmark dashboard, with fun features. - <Badge type="note" text="open-source" vertical="middle" />
-- [golinks.io](https://www.golinks.io/) - Intuitive, secure, go links, shared by teams. - <Badge type="danger" text="commercial" vertical="middle" />
+- [Dev Cockpit](https://github.com/caioricciuti/dev-cockpit) - Dashboard for developer tools and workflows. - <Badge type="note" text="open-source" vertical="middle" />
 - [golinks](https://github.com/taliamax/golinks) - A personal 'golink' redirect service using nginx and docker - <Badge type="note" text="open-source" vertical="middle" />
+- [golinks.io](https://www.golinks.io/) - Intuitive, secure, go links, shared by teams. - <Badge type="danger" text="commercial" vertical="middle" />
 - [Heimdall](https://github.com/linuxserver/Heimdall) - Application dashboard and launcher - <Badge type="note" text="open-source" vertical="middle" />
 - [Ngx-admin](https://github.com/akveo/ngx-admin) - <Badge type="note" text="open-source" vertical="middle" />
 - [Organizr](https://github.com/causefx/Organizr) - Homelab Services Organizer - Written in PHP - <Badge type="note" text="open-source" vertical="middle" />
+- [Rackula](https://github.com/RackulaLives/Rackula) - Tool for planning and visualizing rack layouts. - <Badge type="note" text="open-source" vertical="middle" />
 - [Simplefolio](https://github.com/cobidev/simplefolio) - A minimal portfolio template for Developers - <Badge type="note" text="open-source" vertical="middle" />
 - [Sufee admin dashboard](https://github.com/puikinsh/sufee-admin-dashboard) - <Badge type="note" text="open-source" vertical="middle" />
-- [Dev Cockpit](https://github.com/caioricciuti/dev-cockpit) - Dashboard for developer tools and workflows. - <Badge type="note" text="open-source" vertical="middle" />
-- [Rackula](https://github.com/RackulaLives/Rackula) - Tool for planning and visualizing rack layouts. - <Badge type="note" text="open-source" vertical="middle" />
 
 - [AI Companies Dataset](https://epoch.ai/data/ai-companies) - Dataset tracking AI companies and related information. - <Badge type="info" text="free" vertical="middle" />
 - [OpenAlternative](https://openalternative.co/) - Directory of open-source alternatives to popular software. - <Badge type="info" text="free" vertical="middle" />
@@ -2109,9 +2107,9 @@ _Фэсапщы Elu הלו Güata Tàg السلام عليكم Cześć নমস
 
 ## Useful Software
 
+- [Pangram](https://pangram.com/) - AI text detection service. - <Badge type="danger" text="commercial" vertical="middle" />
 - [PureMac](https://github.com/momenbasel/PureMac) - macOS utility and customization project. - <Badge type="note" text="open-source" vertical="middle" />
 - [Taste Skill](https://github.com/Leonxlnx/taste-skill) - Skill/tool for taste-based recommendations and discovery. - <Badge type="note" text="open-source" vertical="middle" />
-- [Pangram](https://pangram.com/) - AI text detection service. - <Badge type="danger" text="commercial" vertical="middle" />
 
 ### Mac
 
