@@ -1767,6 +1767,7 @@ _But... will it scale?_
 _One image = 1000 words_
 
 - [asciinema](https://asciinema.org/) - Record and share your terminal sessions, the right way. → "Shellcast" - <Badge type="note" text="open-source" vertical="middle" />
+- [CurlShot](https://curlshot.com/) - Take a full-page screenshot of any website as a computer, phone or tablet sees it, as an image or PDF, online or via an API (free plan: 100 screenshots a month) - <Badge type="info" text="free" vertical="middle" />
 - [Kap](https://github.com/wulkano/kap) - Screen recorder built with web technology - <Badge type="note" text="open-source" vertical="middle" />
 - [keycastr](https://github.com/keycastr/keycastr) - macOS keystroke visualizer - <Badge type="note" text="open-source" vertical="middle" />
 - [Licecap](https://www.cockos.com/licecap/) - Do a simple screencast in gif format - <Badge type="note" text="open-source" vertical="middle" />
