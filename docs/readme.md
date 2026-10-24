@@ -246,13 +246,23 @@ _Doing stuff in real life too?_
 - [Precious Plastic](https://preciousplastic.com/) - Start a business from plastic waste! - <Badge type="note" text="open-source" vertical="middle" />
 - [Templatemaker](https://www.templatemaker.nl/en/) - Custom sized papercraft and packaging templates for free - <Badge type="info" text="free" vertical="middle" />
 
-## Home automation
-_Make it smart_
+## Home Assistant and Home automation
 
+_Make it smart: Home Assistant, integrations, add-ons, cards, and other home-automation tools._
+
+- [ApexCharts Card](https://github.com/RomRider/apexcharts-card) - Advanced ApexCharts visualizations for Home Assistant. - <Badge type="note" text="open-source" vertical="middle" />
+- [FindMy for Home Assistant](https://github.com/malmeloo/hass-FindMy) - Home Assistant integration for Find My location data. - <Badge type="note" text="open-source" vertical="middle" />
+- [HA Battery Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) - Home Assistant integration for tracking battery-powered device maintenance. - <Badge type="note" text="open-source" vertical="middle" />
+- [Home Assistant Entity Database](https://github.com/theNorr/ha-entity-db) - Entity database tooling for Home Assistant. - <Badge type="note" text="open-source" vertical="middle" />
+- [Home Assistant UGREEN NAS](https://github.com/Tom-Bom-badil/home-assistant_ugreen-nas) - Home Assistant integration for UGREEN NAS devices. - <Badge type="note" text="open-source" vertical="middle" />
 - [home-assistant](https://www.home-assistant.io/) - Home automation that puts local control and privacy first. - <Badge type="note" text="open-source" vertical="middle" />
+- [Matterbridge Home Assistant Add-on](https://github.com/Luligu/matterbridge-home-assistant-addon) - Home Assistant add-on for Matterbridge. - <Badge type="note" text="open-source" vertical="middle" />
+- [Mini Graph Card](https://github.com/kalkih/mini-graph-card) - Home Assistant Lovelace card for displaying compact sensor graphs. - <Badge type="note" text="open-source" vertical="middle" />
 - [openHAB](https://www.openhab.org/) - Automation software for your home (smart home) - <Badge type="note" text="open-source" vertical="middle" />
 - [openhue](https://github.com/openhue/openhue-api) - Comprehensive OpenAPI specification for the Philips Hue REST API - <Badge type="note" text="open-source" vertical="middle" />
 - [Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Written for Arduino IDE and PlatformIO. - <Badge type="note" text="open-source" vertical="middle" />
+- [Ultra Card](https://github.com/WJDDesigns/Ultra-Card) - Configurable Lovelace card for Home Assistant dashboards. - <Badge type="note" text="open-source" vertical="middle" />
+- [Versatile Thermostat](https://github.com/jmcollin78/versatile_thermostat) - Advanced thermostat integration for Home Assistant. - <Badge type="note" text="open-source" vertical="middle" />
 
 ## Code style, review, quality and security / Linters / Debugging
 
@@ -1539,6 +1549,7 @@ _/dev/random_
 _Bored of powerpoint?_
 
 - [beamer](https://github.com/josephwright/beamer) - LaTeX class for producing presentations - <Badge type="note" text="open-source" vertical="middle" />
+- [Bento](https://github.com/nyblnet/bento) - PowerPoint alternative is a single HTML file. - <Badge type="note" text="open-source" vertical="middle" />
 - [big](https://github.com/tmcw/big) - A configuration-free system for creating presentation (powerpoint style) that naturally encourages good style. - <Badge type="note" text="open-source" vertical="middle" />
 - [browserframe](https://browserframe.com/) - Wrap screenshots in browser frames. Supports multiple browsers, operating systems, and themes. - <Badge type="info" text="free" vertical="middle" />
 - [eagle.js](https://github.com/zulko/eagle.js/) - A hackable slideshow framework built with Vue.js - <Badge type="note" text="open-source" vertical="middle" />
@@ -1995,8 +2006,6 @@ _Automate all the things! ... or at least try to make your life easier_
 - [Organizr](https://github.com/causefx/Organizr) - Homelab Services Organizer - Written in PHP - <Badge type="note" text="open-source" vertical="middle" />
 - [Simplefolio](https://github.com/cobidev/simplefolio) - A minimal portfolio template for Developers - <Badge type="note" text="open-source" vertical="middle" />
 - [Sufee admin dashboard](https://github.com/puikinsh/sufee-admin-dashboard) - <Badge type="note" text="open-source" vertical="middle" />
-
-- [Bento](https://github.com/nyblnet/bento) - PowerPoint alternative is a single HTML file. - <Badge type="note" text="open-source" vertical="middle" />
 - [Dev Cockpit](https://github.com/caioricciuti/dev-cockpit) - Dashboard for developer tools and workflows. - <Badge type="note" text="open-source" vertical="middle" />
 - [Rackula](https://github.com/RackulaLives/Rackula) - Tool for planning and visualizing rack layouts. - <Badge type="note" text="open-source" vertical="middle" />
 
@@ -2064,7 +2073,7 @@ _Фэсапщы Elu הלו Güata Tàg السلام عليكم Cześć নমস
 - [wireproxy](https://github.com/pufferffish/wireproxy) - Wireguard client that exposes itself as a socks5 proxy - <Badge type="note" text="open-source" vertical="middle" />
 - [zerotier](https://www.zerotier.com/) - Combines the capabilities of VPN and SD-WAN, simplifying network management without the hassle. - <Badge type="note" text="open-source" vertical="middle" />
 
-## Voice / Home Assistant
+## Voice Assistants
 
 _Ok Siri_
 
@@ -2072,16 +2081,6 @@ _Ok Siri_
 - [jarvis](https://github.com/alexylem/jarvis) - Jarvis.sh is a simple configurable multi-lang assistant - <Badge type="note" text="open-source" vertical="middle" />
 - [picovoice](https://picovoice.ai/) - Create context-aware voice products. Platform for adding voice to anything - <Badge type="info" text="free" vertical="middle" />
 - [replicastudios](https://replicastudios.com/) - Create naturally expressive voice overs and performances with a Replica Voice. - <Badge type="info" text="free" vertical="middle" />
-
-- [ApexCharts Card](https://github.com/RomRider/apexcharts-card) - Advanced ApexCharts visualizations for Home Assistant. - <Badge type="note" text="open-source" vertical="middle" />
-- [FindMy for Home Assistant](https://github.com/malmeloo/hass-FindMy) - Home Assistant integration for Find My location data. - <Badge type="note" text="open-source" vertical="middle" />
-- [HA Battery Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) - Home Assistant integration for tracking battery-powered device maintenance. - <Badge type="note" text="open-source" vertical="middle" />
-- [Home Assistant Entity Database](https://github.com/theNorr/ha-entity-db) - Entity database tooling for Home Assistant. - <Badge type="note" text="open-source" vertical="middle" />
-- [Home Assistant UGREEN NAS](https://github.com/Tom-Bom-badil/home-assistant_ugreen-nas) - Home Assistant integration for UGREEN NAS devices. - <Badge type="note" text="open-source" vertical="middle" />
-- [Matterbridge Home Assistant Add-on](https://github.com/Luligu/matterbridge-home-assistant-addon) - Home Assistant add-on for Matterbridge. - <Badge type="note" text="open-source" vertical="middle" />
-- [Mini Graph Card](https://github.com/kalkih/mini-graph-card) - Home Assistant Lovelace card for displaying compact sensor graphs. - <Badge type="note" text="open-source" vertical="middle" />
-- [Ultra Card](https://github.com/WJDDesigns/Ultra-Card) - Configurable Lovelace card for Home Assistant dashboards. - <Badge type="note" text="open-source" vertical="middle" />
-- [Versatile Thermostat](https://github.com/jmcollin78/versatile_thermostat) - Advanced thermostat integration for Home Assistant. - <Badge type="note" text="open-source" vertical="middle" />
 
 ## Webservers / Webapp hosting
 
