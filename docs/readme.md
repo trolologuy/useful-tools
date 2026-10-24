@@ -1966,7 +1966,7 @@ _Automate all the things! ... or at least try to make your life easier_
 - [AppCleaner](https://freemacsoft.net/appcleaner/) - macOS utility for uninstalling applications and related files. - <Badge type="info" text="free" vertical="middle" />
 - [CircleLens](https://github.com/alixsep/CircleLens) - Utility for working with circular visual elements. - <Badge type="note" text="open-source" vertical="middle" />
 - [Lock It](https://github.com/EthanMCao/lock-it) - Desktop utility for locking or securing a workstation. - <Badge type="note" text="open-source" vertical="middle" />
-- [OpenMouse](https://github.com/OpenMouse-Project/openmouse) - Open-source mouse utility and customization project. - <Badge type="note" text="open-source" vertical="middle" />
+- [OpenMouse](https://github.com/OpenMouse-Project/openmouse) - Browser-based control panel for supported gaming mice: change DPI, polling rate, and sensor settings without installing a driver. - <Badge type="note" text="open-source" vertical="middle" />
 - [The Boring Notch](https://github.com/TheBoredTeam/boring.notch) - macOS notch utility with media and system controls. - <Badge type="note" text="open-source" vertical="middle" />
 
 ## Text Expanders
