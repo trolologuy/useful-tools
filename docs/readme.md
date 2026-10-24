@@ -2006,7 +2006,6 @@ _Automate all the things! ... or at least try to make your life easier_
 - [Organizr](https://github.com/causefx/Organizr) - Homelab Services Organizer - Written in PHP - <Badge type="note" text="open-source" vertical="middle" />
 - [Simplefolio](https://github.com/cobidev/simplefolio) - A minimal portfolio template for Developers - <Badge type="note" text="open-source" vertical="middle" />
 - [Sufee admin dashboard](https://github.com/puikinsh/sufee-admin-dashboard) - <Badge type="note" text="open-source" vertical="middle" />
-
 - [Dev Cockpit](https://github.com/caioricciuti/dev-cockpit) - Dashboard for developer tools and workflows. - <Badge type="note" text="open-source" vertical="middle" />
 - [Rackula](https://github.com/RackulaLives/Rackula) - Tool for planning and visualizing rack layouts. - <Badge type="note" text="open-source" vertical="middle" />
 
@@ -2082,7 +2081,6 @@ _Ok Siri_
 - [jarvis](https://github.com/alexylem/jarvis) - Jarvis.sh is a simple configurable multi-lang assistant - <Badge type="note" text="open-source" vertical="middle" />
 - [picovoice](https://picovoice.ai/) - Create context-aware voice products. Platform for adding voice to anything - <Badge type="info" text="free" vertical="middle" />
 - [replicastudios](https://replicastudios.com/) - Create naturally expressive voice overs and performances with a Replica Voice. - <Badge type="info" text="free" vertical="middle" />
-
 
 ## Webservers / Webapp hosting
 
