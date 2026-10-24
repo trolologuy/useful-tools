@@ -59,6 +59,9 @@ _'cause i'm API_
 - [Bruno](https://github.com/usebruno/bruno) - Git-friendly API client for working with and testing APIs (lightweight alternative to Postman/Insomnia) - <Badge type="note" text="open-source" vertical="middle" />
 - [LiteLLM](https://github.com/berriai/litellm) - Unified interface for calling and managing multiple LLM providers. - <Badge type="note" text="open-source" vertical="middle" />
 
+- [Sourcebot](https://github.com/sourcebot-dev/sourcebot) - Self-hosted code search and repository exploration. - <Badge type="note" text="open-source" vertical="middle" />
+- [Well](https://github.com/WellApp-ai/Well) - AI-assisted development and workflow tool. - <Badge type="note" text="open-source" vertical="middle" />
+- [AI Robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - Resources and tooling for managing AI crawler access rules. - <Badge type="note" text="open-source" vertical="middle" />
 ## Backup / Archiving / Restoration / ...
 
 _This category doesn't need an introduction i guess_
@@ -264,6 +267,10 @@ _Make it smart: Home Assistant, integrations, add-ons, cards, and other home-aut
 - [Ultra Card](https://github.com/WJDDesigns/Ultra-Card) - Configurable Lovelace card for Home Assistant dashboards. - <Badge type="note" text="open-source" vertical="middle" />
 - [Versatile Thermostat](https://github.com/jmcollin78/versatile_thermostat) - Advanced thermostat integration for Home Assistant. - <Badge type="note" text="open-source" vertical="middle" />
 
+- [Area Occupancy Detection](https://github.com/Hankanman/Area-Occupancy-Detection) - Home Assistant-oriented area occupancy detection. - <Badge type="note" text="open-source" vertical="middle" />
+- [Matter-Driven Plant Monitoring System](https://github.com/udishadc/Matter-Driven---Plant-Monitoring-System) - Plant monitoring project using Matter-connected devices. - <Badge type="note" text="open-source" vertical="middle" />
+- [Retry](https://github.com/amitfin/retry) - Home Assistant integration for retrying actions or services. - <Badge type="note" text="open-source" vertical="middle" />
+- [Lovelace Layout Card](https://github.com/thomasloven/lovelace-layout-card) - Custom Lovelace card for arranging Home Assistant dashboards. - <Badge type="note" text="open-source" vertical="middle" />
 ## Code style, review, quality and security / Linters / Debugging
 
 _Code quality and standarts should be enforced more often, that's for sure! Which team are you on, Stroustrup or Allman ?_
@@ -321,6 +328,8 @@ _Code quality and standarts should be enforced more often, that's for sure! Whic
 - [tokei](https://github.com/XAMPPRocky/tokei) - Count lines of code and summarize source-code statistics. - <Badge type="note" text="open-source" vertical="middle" />
 - [ty](https://github.com/astral-sh/ty) - Fast Python type checker. - <Badge type="note" text="open-source" vertical="middle" />
 
+- [DepsGuard](https://github.com/arnica/depsguard) - Dependency security and policy checks for software projects. - <Badge type="note" text="open-source" vertical="middle" />
+- [ClaudePulse](https://github.com/nikolmedo/ClaudePulse) - Monitoring and visibility tool for Claude-related activity. - <Badge type="note" text="open-source" vertical="middle" />
 ## Cheatsheets
 
 _How was it again?_
@@ -442,6 +451,8 @@ _Who likes to do stuff manually anyway ¯\_(ツ)_/¯_
 - [Novu](https://github.com/novuhq/novu) - Developer infrastructure for managing application notifications. - <Badge type="note" text="open-source" vertical="middle" />
 - [OpenCode](https://github.com/anomalyco/opencode) - Open-source AI coding agent for the terminal. - <Badge type="note" text="open-source" vertical="middle" />
 
+- [Playwright CLI](https://github.com/microsoft/playwright-cli) - Command-line interface for browser automation with Playwright. - <Badge type="note" text="open-source" vertical="middle" />
+- [Recordly](https://github.com/webadderallorg/Recordly) - Tool for recording and replaying browser workflows. - <Badge type="note" text="open-source" vertical="middle" />
 ## Command Line Interface (CLI) - tools
 
 - [bullet](https://github.com/bchao1/bullet) - Beautiful Python Prompts Made Simple - <Badge type="note" text="open-source" vertical="middle" />
@@ -678,6 +689,12 @@ _Make it fast_
 - [Typst](https://github.com/typst/typst) - Markup-based typesetting system designed as an alternative to LaTeX. - <Badge type="note" text="open-source" vertical="middle" />
 - [UIKit](https://github.com/uikit/uikit) - Lightweight modular front-end framework for building web interfaces. - <Badge type="note" text="open-source" vertical="middle" />
 
+- [Codachi](https://github.com/blairjordan/codachi) - Developer tool and coding utility. - <Badge type="note" text="open-source" vertical="middle" />
+- [Gitingest Extension](https://github.com/coderamp-labs/gitingest-extension) - Browser extension for turning Git repositories into LLM-friendly text. - <Badge type="note" text="open-source" vertical="middle" />
+- [Vis Timeline](https://github.com/visjs/vis-timeline) - Interactive timeline visualization component. - <Badge type="note" text="open-source" vertical="middle" />
+- [Awesome Rust Tools](https://github.com/unpluggedcoder/awesome-rust-tools) - Curated list of tools in the Rust ecosystem. - <Badge type="note" text="open-source" vertical="middle" />
+- [Mintable](https://github.com/kevinschaich/mintable) - Personal finance and asset tracking application. - <Badge type="note" text="open-source" vertical="middle" />
+- [CSV Cut](https://github.com/zigazou/csvcut) - Command-line tool for selecting and manipulating CSV columns. - <Badge type="note" text="open-source" vertical="middle" />
 ## Documentation / Wikis / User Feedback
 
 _Because it's always difficult when facing a PEBKAC to tell him to RTFM...when there's no documentation_
@@ -738,6 +755,11 @@ replace them all. (Tasks, Docs, Chat, Goals) - <Badge type="info" text="free" ve
 - [Foam](https://github.com/foambubble/foam) - Personal knowledge management system built on Markdown files. - <Badge type="note" text="open-source" vertical="middle" />
 - [Linkwarden](https://github.com/linkwarden/linkwarden) - Self-hosted collaborative bookmark manager and web archive. - <Badge type="note" text="open-source" vertical="middle" />
 
+- [Backstage](https://github.com/backstage/backstage) - Open platform for building developer portals. - <Badge type="note" text="open-source" vertical="middle" />
+- [CodeAF](https://github.com/Agent-Field/CodeAF) - AI-assisted coding and agent workflow project. - <Badge type="note" text="open-source" vertical="middle" />
+- [Requarks Wiki](https://github.com/Requarks/wiki) - Modern, extensible wiki and documentation platform. - <Badge type="note" text="open-source" vertical="middle" />
+- [Structured Text Tools](https://github.com/dbohdan/structured-text-tools) - Curated collection of tools for structured text data. - <Badge type="note" text="open-source" vertical="middle" />
+- [Awesome Design MD](https://github.com/VoltAgent/awesome-design-md) - Curated design resources for AI-assisted development. - <Badge type="note" text="open-source" vertical="middle" />
 ## Docker / Kubernetes
 
 _Containers and stuff_
@@ -764,6 +786,7 @@ _Containers and stuff_
 - [KubeVPN](https://github.com/kubenetworks/kubevpn) - Connect local development environments to Kubernetes networks. - <Badge type="note" text="open-source" vertical="middle" />
 - [WG-Easy](https://github.com/wg-easy/wg-easy) - Web-based management interface for WireGuard VPN. - <Badge type="note" text="open-source" vertical="middle" />
 
+- [Docker Immich](https://github.com/imagegenius/docker-immich) - Container image and configuration for running Immich. - <Badge type="note" text="open-source" vertical="middle" />
 ## Ebooks
 
 - [calibre-web](https://github.com/janeczku/calibre-web) - Web app for browsing, reading and downloading eBooks stored in a Calibre database - <Badge type="note" text="open-source" vertical="middle" />
@@ -826,6 +849,8 @@ _Sharing is caring_
 - [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - Self-hosted web application for performing operations on PDF files. - <Badge type="note" text="open-source" vertical="middle" />
 - [youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - Python API for retrieving YouTube transcripts and subtitles. - <Badge type="note" text="open-source" vertical="middle" />
 
+- [Deezer Downloader](https://github.com/kmille/deezer-downloader) - Command-line utility for downloading music from Deezer. - <Badge type="note" text="open-source" vertical="middle" />
+- [PeaZip](https://github.com/peazip/PeaZip) - Cross-platform file archiver and compression utility. - <Badge type="note" text="open-source" vertical="middle" />
 ## Games / Game launchers
 
 _You know you need a break_
@@ -965,6 +990,14 @@ _Tired of using the terminal?_
 - [Rectangle](https://github.com/rxhanson/Rectangle) - Rectangle is a window management app for macOS based on Spectacle, written in Swift. - <Badge type="note" text="open-source" vertical="middle" />
 - [VTM](https://vtm.netxs.online/) - Monotty Desktopio: Text-based desktop environment inside your terminal. - <Badge type="note" text="open-source" vertical="middle" />
 
+- [Beeper Bridge Manager](https://github.com/beeper/bridge-manager) - Utilities for managing Beeper messaging bridges. - <Badge type="note" text="open-source" vertical="middle" />
+- [Deskflow](https://github.com/deskflow/deskflow) - Share one keyboard and mouse across multiple computers. - <Badge type="note" text="open-source" vertical="middle" />
+- [Ocular](https://github.com/simonwep/ocular) - Desktop utility project by SimonWep. - <Badge type="note" text="open-source" vertical="middle" />
+- [OpenDisplay](https://github.com/peetzweg/opendisplay) - Open-source display management utility. - <Badge type="note" text="open-source" vertical="middle" />
+- [PaperWM](https://github.com/paperwm/PaperWM) - Tiling window manager extension for GNOME. - <Badge type="note" text="open-source" vertical="middle" />
+- [Raycast Beeper](https://github.com/beeper/raycast) - Raycast integration for Beeper. - <Badge type="note" text="open-source" vertical="middle" />
+- [SketchyBar](https://github.com/FelixKratz/SketchyBar) - Highly customizable macOS status bar. - <Badge type="note" text="open-source" vertical="middle" />
+- [Gaming Status](https://github.com/adamjthompson/Gaming-Status) - Gaming status utility. - <Badge type="note" text="open-source" vertical="middle" />
 ## Git
 
 _Whatever you do, don't be one_
@@ -1195,7 +1228,7 @@ Since salaries are tough to manage, see an idea of solution with [slite's salary
 
 - [jobset](https://jobset.io/) - Find your dream job in Switzerland / Europe. - <Badge type="info" text="free" vertical="middle" />
 
-
+- [Career Ops](https://github.com/career-ops-hq/career-ops) - Career management and job-search workflow project. - <Badge type="note" text="open-source" vertical="middle" />
 ## Robotic Process Automation (RPA)
 
 - [roro](https://github.com/arviedelgado/roro) - RPA Software for windows - <Badge type="note" text="open-source" vertical="middle" />
@@ -1253,6 +1286,9 @@ _Spam Ham_
 - [hoteldruid](http://www.hoteldruid.com/) - Hotel management (property / booking management software) - <Badge type="info" text="free" vertical="middle" />
 - [locanda](http://locanda.sourceforge.net/) - Booking and management system designed for small hotels, bed & breakfasts, farmhouses. It can be installed on-site, or used as a service. - <Badge type="note" text="open-source" vertical="middle" />
 
+- [Paperasse](https://github.com/romainsimon/paperasse) - Tool for organizing personal administrative documents. - <Badge type="note" text="open-source" vertical="middle" />
+- [Sure](https://github.com/we-promise/sure) - Personal finance and wealth tracking application. - <Badge type="note" text="open-source" vertical="middle" />
+- [TREK](https://github.com/liketrek/TREK) - Personal tracking and journaling application. - <Badge type="note" text="open-source" vertical="middle" />
 ## Mobile Apps / iOS / Android
 
 - [F-Droid](https://f-droid.org/)
@@ -1351,6 +1387,9 @@ _The true question should be: Quis custodiet ipsos custodes?_
 - [neohtop](https://github.com/Abdenasser/neohtop) - System monitoring interface for viewing resource usage. - <Badge type="note" text="open-source" vertical="middle" />
 - [server-survival](https://github.com/pshenok/server-survival) - Practical tools and guidance for server administration and troubleshooting. - <Badge type="note" text="open-source" vertical="middle" />
 
+- [Awesome Status Pages](https://github.com/ivbeg/awesome-status-pages) - Curated list of status page software and services. - <Badge type="note" text="open-source" vertical="middle" />
+- [God's Eye View](https://github.com/bilawalsidhu/gods-eye-view) - Infrastructure visualization and monitoring dashboard. - <Badge type="note" text="open-source" vertical="middle" />
+- [Mafl](https://github.com/hywax/mafl) - Minimalistic homepage/dashboard for self-hosted services. - <Badge type="note" text="open-source" vertical="middle" />
 ## Movies / Films / Plex / Animes
 
 _Having your own private media? or wondering what do watch tonight?_
@@ -1386,6 +1425,8 @@ _Having your own private media? or wondering what do watch tonight?_
 - [Ryot](https://github.com/ignisda/ryot) - Self-hosted tracker for books, movies, shows, games, and other personal media. - <Badge type="note" text="open-source" vertical="middle" />
 - [Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - Self-hosted tracker for movies, TV shows, anime, games, and other media. - <Badge type="note" text="open-source" vertical="middle" />
 
+- [Bazarr](https://github.com/morpheus65535/bazarr) - Companion application for managing and downloading subtitles. - <Badge type="note" text="open-source" vertical="middle" />
+- [MovieMod Scraper](https://github.com/barryallen16/moviemod-scraper) - Scraper for movie metadata and related information. - <Badge type="note" text="open-source" vertical="middle" />
 ## Music / Audio
 
 - [asak](https://github.com/chaosprint/asak) - Cross-platform audio recording/playback CLI tool with TUI, written in Rust - <Badge type="note" text="open-source" vertical="middle" />
@@ -1397,6 +1438,9 @@ _Having your own private media? or wondering what do watch tonight?_
 - [Organize Your Music](http://organizeyourmusic.playlistmachinery.com/) - Organize your Spotify music collection by any of a wide range of musical attributes including genre, mood, decade of release and more. - <Badge type="info" text="free" vertical="middle" />
 - [Soundscape](https://github.com/soundscapecloud/soundscape) - a personal music streaming server - <Badge type="note" text="open-source" vertical="middle" />
 
+- [Dayotter](https://github.com/Dayotter/dayotter) - Music discovery and listening-related application. - <Badge type="note" text="open-source" vertical="middle" />
+- [Podscribe](https://github.com/menor/podscribe) - Tool for transcribing podcast audio. - <Badge type="note" text="open-source" vertical="middle" />
+- [Quien](https://github.com/retlehs/quien) - Music-related application and discovery project. - <Badge type="note" text="open-source" vertical="middle" />
 ## Video Editing
 
 - [deface](https://github.com/ORB-HD/deface) - Command-line tool for automatic anonymization of faces in videos or photos (video anonymization) - <Badge type="note" text="open-source" vertical="middle" />
@@ -1434,6 +1478,9 @@ _Having your own private media? or wondering what do watch tonight?_
 - [bore](https://github.com/ekzhang/bore) - Simple tool for exposing local ports to remote networks. - <Badge type="note" text="open-source" vertical="middle" />
 - [Prxy](https://github.com/Madh93/prxy) - Proxy utility for developer workflows. - <Badge type="note" text="open-source" vertical="middle" />
 
+- [DNS Twist](https://github.com/elceef/dnstwist) - Finds potential phishing domains by generating domain permutations. - <Badge type="note" text="open-source" vertical="middle" />
+- [iPerf](https://github.com/esnet/iperf) - Tool for measuring network throughput and performance. - <Badge type="note" text="open-source" vertical="middle" />
+- [UniFi Sync](https://github.com/shields/unifi-sync) - Utility for synchronizing data with UniFi environments. - <Badge type="note" text="open-source" vertical="middle" />
 ## Operating Systems / Virtualization
 
 _My toaster runs on Linux!_
@@ -1455,6 +1502,7 @@ _My toaster runs on Linux!_
 - [Windows USB Installer for macOS](https://github.com/DavidAGInnovation/windows-usb-installer-macos) - Create Windows installation media from macOS. - <Badge type="note" text="open-source" vertical="middle" />
 - [yabai](https://github.com/asmvik/yabai) - Tiling window manager for macOS. - <Badge type="note" text="open-source" vertical="middle" />
 
+- [Internet-in-a-Box](https://github.com/iiab/iiab) - Offline learning server that packages educational resources for local access. - <Badge type="note" text="open-source" vertical="middle" />
 ## Online Payment / Sell stuff / Buy stuff / TPE / Passive income
 
 _Katsching_
@@ -1760,6 +1808,13 @@ _But... will it scale?_
 - [Wallos](https://github.com/ellite/wallos) - Self-hosted subscription tracking application. - <Badge type="note" text="open-source" vertical="middle" />
 - [World Monitor](https://github.com/koala73/worldmonitor) - Real-time global events and situational awareness dashboard. - <Badge type="note" text="open-source" vertical="middle" />
 
+- [Anthias](https://github.com/Screenly/Anthias) - Open-source digital signage platform. - <Badge type="note" text="open-source" vertical="middle" />
+- [Apprise API](https://github.com/caronc/apprise-api) - REST API for sending notifications through Apprise-supported services. - <Badge type="note" text="open-source" vertical="middle" />
+- [Beachpatrol](https://github.com/sebastiancarlos/beachpatrol) - Self-hosting and infrastructure management project. - <Badge type="note" text="open-source" vertical="middle" />
+- [Homelab Hub](https://github.com/RaidOwl/homelab-hub) - Dashboard and management hub for homelab services. - <Badge type="note" text="open-source" vertical="middle" />
+- [LM Studio MCP](https://github.com/infinitimeless/LMStudio-MCP) - Model Context Protocol integration for LM Studio. - <Badge type="note" text="open-source" vertical="middle" />
+- [MCP for LM Studio](https://github.com/kevin-biot/MCP-LMstudio) - Model Context Protocol integration for LM Studio. - <Badge type="note" text="open-source" vertical="middle" />
+- [LinuxServer.io](https://github.com/linuxserver) - Organization publishing container images and self-hosting projects. - <Badge type="note" text="open-source" vertical="middle" />
 ## SSL
 
 - [Certbot](https://certbot.eff.org/) - A software tool for automatically using Let’s Encrypt certificates on manually-administrated websites to enable HTTPS. - <Badge type="note" text="open-source" vertical="middle" />
@@ -1873,10 +1928,14 @@ _Keep the h4xx0r5 out_
 - [OWASP Go-SCP](https://github.com/OWASP/Go-SCP) - OWASP security project focused on software supply-chain practices. - <Badge type="note" text="open-source" vertical="middle" />
 - [OWASP Web Security Testing Guide](https://github.com/OWASP/wstg) - Comprehensive guide to web application security testing. - <Badge type="note" text="open-source" vertical="middle" />
 
+- [Geo Sleuth](https://github.com/Oldcircle/geo-sleuth) - Geolocation and investigation utility. - <Badge type="note" text="open-source" vertical="middle" />
+- [Microsoft Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Scripts related to Windows and Office activation; review licensing and compliance before use. - <Badge type="note" text="open-source" vertical="middle" />
 ## Server Management
 
 - [ISPconfig](https://www.ispconfig.org/) - Manage Your Servers Directly Through Your Browser - <Badge type="info" text="free" vertical="middle" />
 
+- [Dagu](https://github.com/dagucloud/dagu) - Workflow engine for defining, running, and monitoring DAG-based jobs. - <Badge type="note" text="open-source" vertical="middle" />
+- [WakeSmith](https://github.com/HuskerMinion/wakesmith) - Wake-on-LAN utility for waking devices on a network. - <Badge type="note" text="open-source" vertical="middle" />
 ## Shell / Terminal / Powershell / Command Line Interface (CLI)
 
 - [argbash](https://argbash.io/) - Makes Bash argument parsing easier - <Badge type="note" text="open-source" vertical="middle" />
@@ -1917,6 +1976,8 @@ _Keep the h4xx0r5 out_
 
 - [zsh-copilot](https://github.com/Myzel394/zsh-copilot) - Shell plugin that uses AI to assist with command-line usage. - <Badge type="note" text="open-source" vertical="middle" />
 
+- [tea](https://github.com/teaxyz/teaBASE) - Package manager and reproducible environment tooling from tea.xyz. - <Badge type="note" text="open-source" vertical="middle" />
+- [Vorssaint Utils](https://github.com/vorssaint/vorssaint-utils) - Collection of developer utilities. - <Badge type="note" text="open-source" vertical="middle" />
 ## Sports
 _Sitting in front of a screen all day slowly kills you. Do something against it._
 
@@ -1980,6 +2041,13 @@ _Automate all the things! ... or at least try to make your life easier_
 - [OpenMouse](https://github.com/OpenMouse-Project/openmouse) - Browser-based control panel for supported gaming mice: change DPI, polling rate, and sensor settings without installing a driver. - <Badge type="note" text="open-source" vertical="middle" />
 - [The Boring Notch](https://github.com/TheBoredTeam/boring.notch) - macOS notch utility with media and system controls. - <Badge type="note" text="open-source" vertical="middle" />
 
+- [Mac Keyboard Style on Linux](https://github.com/Anas-Alhariri/Mac-Keyboard-Style-On-Linux) - Linux keyboard configuration inspired by macOS keyboard behavior. - <Badge type="note" text="open-source" vertical="middle" />
+- [macUSB](https://github.com/Kruszoneq/macUSB) - macOS USB utility. - <Badge type="note" text="open-source" vertical="middle" />
+- [May](https://github.com/dannymcc/may) - Desktop utility project. - <Badge type="note" text="open-source" vertical="middle" />
+- [Ponytail](https://github.com/DietrichGebert/ponytail) - Desktop utility project. - <Badge type="note" text="open-source" vertical="middle" />
+- [Yaffa](https://github.com/kantorge/yaffa) - Desktop productivity utility. - <Badge type="note" text="open-source" vertical="middle" />
+- [I Need Space](https://github.com/unbelauscht/ineedspace) - Utility to help manage focus and workspace. - <Badge type="note" text="open-source" vertical="middle" />
+- [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) - Patched fonts that add developer-focused glyphs and icons. - <Badge type="note" text="open-source" vertical="middle" />
 ## Text Expanders
 
 - [atext](https://trankynam.com/atext/) - aText accelerates your typing in any application by replacing abbreviations with frequently used phrases you define. - <Badge type="danger" text="commercial" vertical="middle" />
@@ -2009,6 +2077,10 @@ _Automate all the things! ... or at least try to make your life easier_
 - [Dev Cockpit](https://github.com/caioricciuti/dev-cockpit) - Dashboard for developer tools and workflows. - <Badge type="note" text="open-source" vertical="middle" />
 - [Rackula](https://github.com/RackulaLives/Rackula) - Tool for planning and visualizing rack layouts. - <Badge type="note" text="open-source" vertical="middle" />
 
+- [AI Companies Dataset](https://epoch.ai/data/ai-companies) - Dataset tracking AI companies and related information. - <Badge type="info" text="free" vertical="middle" />
+- [OpenAlternative](https://openalternative.co/) - Directory of open-source alternatives to popular software. - <Badge type="info" text="free" vertical="middle" />
+- [Europe Alternative](https://europealternative.com/alternative-to) - Directory of European alternatives to popular products. - <Badge type="info" text="free" vertical="middle" />
+- [FMHY Edit](https://fmhy.net/edit) - Community-maintained resource index and editing entry point. - <Badge type="info" text="free" vertical="middle" />
 ## Translations
 
 _Фэсапщы Elu הלו Güata Tàg السلام عليكم Cześć নমস্কাৰ Kasalehlie მარშიხ Aloha ვალ Haluu 你好 Γειά! Halito 今日は ជំរាបសួរ Kamusta 안녕하십니까 ສະບາຍດີ გეგაჯგინას Здраво_
@@ -2061,6 +2133,9 @@ _Фэсапщы Elu הלו Güata Tàg السلام عليكم Cześć নমস
 - Total Commander
 - Windirstat
 
+- [PureMac](https://github.com/momenbasel/PureMac) - macOS utility and customization project. - <Badge type="note" text="open-source" vertical="middle" />
+- [Taste Skill](https://github.com/Leonxlnx/taste-skill) - Skill/tool for taste-based recommendations and discovery. - <Badge type="note" text="open-source" vertical="middle" />
+- [Pangram](https://pangram.com/) - AI text detection service. - <Badge type="danger" text="commercial" vertical="middle" />
 ## VPN
 
 - [innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood. - <Badge type="note" text="open-source" vertical="middle" />
