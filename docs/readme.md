@@ -1642,6 +1642,7 @@ _Ever heard of Stackoverflow ?_
 - [Google Hangouts](https://hangouts.google.com/) - Communication software product developed by Google - <Badge type="info" text="free" vertical="middle" />
 - [join me](https://www.join.me/) - Conferences, screen sharing, ... - <Badge type="danger" text="commercial" vertical="middle" />
 - [obsproject](https://obsproject.com/) - Software for video recording and live streaming on windows, macOS and Linux. - <Badge type="note" text="open-source" vertical="middle" />
+- [OpenCal](https://opencal.link/) - OpenCal gives you a free scheduling link that shows your open times across Google, Microsoft and iCloud calendars. - <Badge type="info" text="free" vertical="middle" />
 - [restream](https://restream.io/) - Stream live to 30+ social platforms at once. - <Badge type="info" text="free" vertical="middle" />
 - [safetywing.com](https://safetywing.com/remote-health/) - Health insurancefor your remote team. - <Badge type="danger" text="commercial" vertical="middle" />
 - [Seashells](https://github.com/anishathalye/seashells) - Pipe output from command-line programs to the web in real-time, even without installing any new software on your machine. - <Badge type="note" text="open-source" vertical="middle" />
