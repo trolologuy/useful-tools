@@ -1791,7 +1791,7 @@ _One image = 1000 words_
 
 - [MasterParser](https://github.com/securityjoes/MasterParser) - Security-focused parser for extracting and analyzing artifacts. - <Badge type="note" text="open-source" vertical="middle" />
 - [Pagemagic](https://github.com/khaledh/pagemagic) - Tool for transforming and working with web pages. Uses AI to customize the appearance of any web page - <Badge type="note" text="open-source" vertical="middle" />
-- [Web Check](https://github.com/Lissy93/web-check) - Website reconnaissance and infrastructure inspection tool. - <Badge type="note" text="open-source" vertical="middle" />
+- [Web Check](https://github.com/Lissy93/web-check) - Website reconnaissance and infrastructure OSINT inspection tool.- <Badge type="note" text="open-source" vertical="middle" />
 
 ## Security / Cracking
 
