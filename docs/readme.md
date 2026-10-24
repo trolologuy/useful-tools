@@ -301,6 +301,9 @@ _Code quality and standarts should be enforced more often, that's for sure! Whic
 - [ukip](https://github.com/google/ukip) - USB Keystroke Injection Protection - <Badge type="note" text="open-source" vertical="middle" />
 - [Vaultproject](https://www.vaultproject.io/) - Manage Secrets and Protect Sensitive Data: Secure, store and tightly control access to tokens, passwords, certificates, encryption keys for protecting secrets and other sensitive data using a UI, CLI, or HTTP API. - <Badge type="note" text="open-source" vertical="middle" />
 
+- [DepsGuard](https://github.com/arnica/depsguard) - Dependency security and policy checks for software projects. - <Badge type="note" text="open-source" vertical="middle" />
+- [ClaudePulse](https://github.com/nikolmedo/ClaudePulse) - Monitoring and visibility tool for Claude-related activity. - <Badge type="note" text="open-source" vertical="middle" />
+
 ### Vale
 
 - [errata-ai/Google](https://github.com/errata-ai/Google) - A Vale-compatible implementation of the Google Developer Documentation Style Guide. - <Badge type="note" text="open-source" vertical="middle" />
@@ -328,8 +331,6 @@ _Code quality and standarts should be enforced more often, that's for sure! Whic
 - [tokei](https://github.com/XAMPPRocky/tokei) - Count lines of code and summarize source-code statistics. - <Badge type="note" text="open-source" vertical="middle" />
 - [ty](https://github.com/astral-sh/ty) - Fast Python type checker. - <Badge type="note" text="open-source" vertical="middle" />
 
-- [DepsGuard](https://github.com/arnica/depsguard) - Dependency security and policy checks for software projects. - <Badge type="note" text="open-source" vertical="middle" />
-- [ClaudePulse](https://github.com/nikolmedo/ClaudePulse) - Monitoring and visibility tool for Claude-related activity. - <Badge type="note" text="open-source" vertical="middle" />
 ## Cheatsheets
 
 _How was it again?_
@@ -523,6 +524,14 @@ _Reinventing the wheel can be fun but just in case you just don't feel like it, 
 - [sui](https://github.com/jeroenpardon/sui) - A startpage for your server and / or new tab page - <Badge type="note" text="open-source" vertical="middle" />
 - [yeoman](https://github.com/yeoman/yeoman) - A set of tools for automating development workflow - <Badge type="note" text="open-source" vertical="middle" />
 
+- [Codachi](https://github.com/blairjordan/codachi) - Developer tool and coding utility. - <Badge type="note" text="open-source" vertical="middle" />
+- [Gitingest Extension](https://github.com/coderamp-labs/gitingest-extension) - Browser extension for turning Git repositories into LLM-friendly text. - <Badge type="note" text="open-source" vertical="middle" />
+- [Vis Timeline](https://github.com/visjs/vis-timeline) - Interactive timeline visualization component. - <Badge type="note" text="open-source" vertical="middle" />
+- [Awesome Rust Tools](https://github.com/unpluggedcoder/awesome-rust-tools) - Curated list of tools in the Rust ecosystem. - <Badge type="note" text="open-source" vertical="middle" />
+- [Mintable](https://github.com/kevinschaich/mintable) - Personal finance and asset tracking application. - <Badge type="note" text="open-source" vertical="middle" />
+- [CSV Cut](https://github.com/zigazou/csvcut) - Command-line tool for selecting and manipulating CSV columns. - <Badge type="note" text="open-source" vertical="middle" />
+- [Agent Skills](https://github.com/vercel-labs/agent-skills) - Reusable skills and instructions for coding agents. - <Badge type="note" text="open-source" vertical="middle" />
+
 ### CSS
 
 - [98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs. (windows 98 style) - <Badge type="note" text="open-source" vertical="middle" />
@@ -689,14 +698,7 @@ _Make it fast_
 - [Typst](https://github.com/typst/typst) - Markup-based typesetting system designed as an alternative to LaTeX. - <Badge type="note" text="open-source" vertical="middle" />
 - [UIKit](https://github.com/uikit/uikit) - Lightweight modular front-end framework for building web interfaces. - <Badge type="note" text="open-source" vertical="middle" />
 
-- [Codachi](https://github.com/blairjordan/codachi) - Developer tool and coding utility. - <Badge type="note" text="open-source" vertical="middle" />
-- [Gitingest Extension](https://github.com/coderamp-labs/gitingest-extension) - Browser extension for turning Git repositories into LLM-friendly text. - <Badge type="note" text="open-source" vertical="middle" />
-- [Vis Timeline](https://github.com/visjs/vis-timeline) - Interactive timeline visualization component. - <Badge type="note" text="open-source" vertical="middle" />
-- [Awesome Rust Tools](https://github.com/unpluggedcoder/awesome-rust-tools) - Curated list of tools in the Rust ecosystem. - <Badge type="note" text="open-source" vertical="middle" />
-- [Mintable](https://github.com/kevinschaich/mintable) - Personal finance and asset tracking application. - <Badge type="note" text="open-source" vertical="middle" />
-- [CSV Cut](https://github.com/zigazou/csvcut) - Command-line tool for selecting and manipulating CSV columns. - <Badge type="note" text="open-source" vertical="middle" />
 
-- [Agent Skills](https://github.com/vercel-labs/agent-skills) - Reusable skills and instructions for coding agents. - <Badge type="note" text="open-source" vertical="middle" />
 ## Documentation / Wikis / User Feedback
 
 _Because it's always difficult when facing a PEBKAC to tell him to RTFM...when there's no documentation_
@@ -1148,6 +1150,8 @@ To get an idea of what technology to learn next, what tools are commonly used by
 - [talent.io](https://www.talent.io/) - :uk: - Get the tech job you deserve. The simplest way to find full-time and contract tech positions in Europe
 - [test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - This project contains 284 test questions and answers that can be used as a test your knowledge or during an interview/exam for position such as Linux (*nix) System Administrator. - <Badge type="note" text="open-source" vertical="middle" />
 
+- [Career Ops](https://github.com/career-ops-hq/career-ops) - Career management and job-search workflow project. - <Badge type="note" text="open-source" vertical="middle" />
+
 ### Freelance
 
 - [xolo](https://www.xolo.io/zz-en) - Solution that handles bureaucracy from setting up the business to accounting- <Badge type="danger" text="commercial" vertical="middle" />
@@ -1230,7 +1234,6 @@ Since salaries are tough to manage, see an idea of solution with [slite's salary
 
 - [jobset](https://jobset.io/) - Find your dream job in Switzerland / Europe. - <Badge type="info" text="free" vertical="middle" />
 
-- [Career Ops](https://github.com/career-ops-hq/career-ops) - Career management and job-search workflow project. - <Badge type="note" text="open-source" vertical="middle" />
 ## Robotic Process Automation (RPA)
 
 - [roro](https://github.com/arviedelgado/roro) - RPA Software for windows - <Badge type="note" text="open-source" vertical="middle" />
@@ -1374,6 +1377,10 @@ _The true question should be: Quis custodiet ipsos custodes?_
 - [Vector by Datadog](https://vector.dev/) - Tool for building observability pipelines. Collect, transform, and route all your logs and metrics with one simple tool. - <Badge type="info" text="free" vertical="middle" />
 - [Middleware](https://middleware.io) - A full-stack cloud observability platform. - <Badge type="danger" text="commercial" vertical="middle" />
 
+- [Awesome Status Pages](https://github.com/ivbeg/awesome-status-pages) - Curated list of status page software and services. - <Badge type="note" text="open-source" vertical="middle" />
+- [God's Eye View](https://github.com/bilawalsidhu/gods-eye-view) - Infrastructure visualization and monitoring dashboard. - <Badge type="note" text="open-source" vertical="middle" />
+- [Mafl](https://github.com/hywax/mafl) - Minimalistic homepage/dashboard for self-hosted services. - <Badge type="note" text="open-source" vertical="middle" />
+
 ### CRON Monitoring
 
 - [cronitor](https://cronitor.io/) - Instant alerts when your critical background jobs, websites & APIs fail. - <Badge type="danger" text="commercial" vertical="middle" />
@@ -1389,9 +1396,6 @@ _The true question should be: Quis custodiet ipsos custodes?_
 - [neohtop](https://github.com/Abdenasser/neohtop) - System monitoring interface for viewing resource usage. - <Badge type="note" text="open-source" vertical="middle" />
 - [server-survival](https://github.com/pshenok/server-survival) - Practical tools and guidance for server administration and troubleshooting. - <Badge type="note" text="open-source" vertical="middle" />
 
-- [Awesome Status Pages](https://github.com/ivbeg/awesome-status-pages) - Curated list of status page software and services. - <Badge type="note" text="open-source" vertical="middle" />
-- [God's Eye View](https://github.com/bilawalsidhu/gods-eye-view) - Infrastructure visualization and monitoring dashboard. - <Badge type="note" text="open-source" vertical="middle" />
-- [Mafl](https://github.com/hywax/mafl) - Minimalistic homepage/dashboard for self-hosted services. - <Badge type="note" text="open-source" vertical="middle" />
 ## Movies / Films / Plex / Animes
 
 _Having your own private media? or wondering what do watch tonight?_
@@ -1578,6 +1582,8 @@ _/dev/random_
 - [vervoe](https://vervoe.com/) - Skill testing software that automatically ranks candidates based on how well they can do the job. - <Badge type="info" text="free" vertical="middle" />
 - [WDL](https://www.wdl.org/) - World Digital Library, has books, maps, ... - <Badge type="info" text="free" vertical="middle" />
 
+- [FMHY Edit](https://fmhy.net/edit) - Community-maintained resource index and editing entry point. - <Badge type="info" text="free" vertical="middle" />
+
 ### Maps
 
 - [flightradar24](https://www.flightradar24.com/) - Live air traffic (planes). - <Badge type="info" text="free" vertical="middle" />
@@ -1594,7 +1600,6 @@ _/dev/random_
 - [Idasen Desk Controller – Mac app](https://github.com/DWilliames/idasen-controller-mac) - Controller for the Ikea Stand Up Desk Idasen. Allows to automate automatical switch of positions during the hour. - <Badge type="note" text="open-source" vertical="middle" />
 - [idasen](https://github.com/newAM/idasen) - Python API and CLI for the ikea IDÅSEN desk. - <Badge type="note" text="open-source" vertical="middle" />
 
-- [FMHY Edit](https://fmhy.net/edit) - Community-maintained resource index and editing entry point. - <Badge type="info" text="free" vertical="middle" />
 ## Presentations
 
 _Bored of powerpoint?_
@@ -1778,6 +1783,14 @@ _But... will it scale?_
 - [turtl app](https://turtlapp.com/) - The secure, collaborative notebook - <Badge type="note" text="open-source" vertical="middle" />
 - [xdebug](https://xdebug.org/) - Xdebug is an extension for PHP to assist with debugging and development. - <Badge type="note" text="open-source" vertical="middle" />
 
+- [Anthias](https://github.com/Screenly/Anthias) - Open-source digital signage platform. - <Badge type="note" text="open-source" vertical="middle" />
+- [Apprise API](https://github.com/caronc/apprise-api) - REST API for sending notifications through Apprise-supported services. - <Badge type="note" text="open-source" vertical="middle" />
+- [Beachpatrol](https://github.com/sebastiancarlos/beachpatrol) - Self-hosting and infrastructure management project. - <Badge type="note" text="open-source" vertical="middle" />
+- [Homelab Hub](https://github.com/RaidOwl/homelab-hub) - Dashboard and management hub for homelab services. - <Badge type="note" text="open-source" vertical="middle" />
+- [LM Studio MCP](https://github.com/infinitimeless/LMStudio-MCP) - Model Context Protocol integration for LM Studio. - <Badge type="note" text="open-source" vertical="middle" />
+- [MCP for LM Studio](https://github.com/kevin-biot/MCP-LMstudio) - Model Context Protocol integration for LM Studio. - <Badge type="note" text="open-source" vertical="middle" />
+- [LinuxServer.io](https://github.com/linuxserver) - Organization publishing container images and self-hosting projects. - <Badge type="note" text="open-source" vertical="middle" />
+
 ### git / code repositories
 
 - [first-contributions](https://github.com/firstcontributions/first-contributions) - Help beginners to contribute to open source projects - <Badge type="note" text="open-source" vertical="middle" />
@@ -1811,13 +1824,6 @@ _But... will it scale?_
 - [Wallos](https://github.com/ellite/wallos) - Self-hosted subscription tracking application. - <Badge type="note" text="open-source" vertical="middle" />
 - [World Monitor](https://github.com/koala73/worldmonitor) - Real-time global events and situational awareness dashboard. - <Badge type="note" text="open-source" vertical="middle" />
 
-- [Anthias](https://github.com/Screenly/Anthias) - Open-source digital signage platform. - <Badge type="note" text="open-source" vertical="middle" />
-- [Apprise API](https://github.com/caronc/apprise-api) - REST API for sending notifications through Apprise-supported services. - <Badge type="note" text="open-source" vertical="middle" />
-- [Beachpatrol](https://github.com/sebastiancarlos/beachpatrol) - Self-hosting and infrastructure management project. - <Badge type="note" text="open-source" vertical="middle" />
-- [Homelab Hub](https://github.com/RaidOwl/homelab-hub) - Dashboard and management hub for homelab services. - <Badge type="note" text="open-source" vertical="middle" />
-- [LM Studio MCP](https://github.com/infinitimeless/LMStudio-MCP) - Model Context Protocol integration for LM Studio. - <Badge type="note" text="open-source" vertical="middle" />
-- [MCP for LM Studio](https://github.com/kevin-biot/MCP-LMstudio) - Model Context Protocol integration for LM Studio. - <Badge type="note" text="open-source" vertical="middle" />
-- [LinuxServer.io](https://github.com/linuxserver) - Organization publishing container images and self-hosting projects. - <Badge type="note" text="open-source" vertical="middle" />
 ## SSL
 
 - [Certbot](https://certbot.eff.org/) - A software tool for automatically using Let’s Encrypt certificates on manually-administrated websites to enable HTTPS. - <Badge type="note" text="open-source" vertical="middle" />
@@ -1903,6 +1909,9 @@ _One image = 1000 words_
 - [Zoneminder](https://www.zoneminder.com/) - State-of-the-art video surveillance software system. - <Badge type="note" text="open-source" vertical="middle" />
 - [Zydra](https://github.com/hamedA2/Zydra) - File password recovery tool (pdf, rar, zip) and Linux shadow file cracker. It uses the dictionary search or Brute force method for cracking passwords. - <Badge type="note" text="open-source" vertical="middle" />
 
+- [Geo Sleuth](https://github.com/Oldcircle/geo-sleuth) - Geolocation and investigation utility. - <Badge type="note" text="open-source" vertical="middle" />
+- [Microsoft Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Scripts related to Windows and Office activation; review licensing and compliance before use. - <Badge type="note" text="open-source" vertical="middle" />
+
 ### Password Manager
 
 - [1password](https://1password.com/) - Cloud based password manager - <Badge type="danger" text="commercial" vertical="middle" />
@@ -1931,8 +1940,6 @@ _Keep the h4xx0r5 out_
 - [OWASP Go-SCP](https://github.com/OWASP/Go-SCP) - OWASP security project focused on software supply-chain practices. - <Badge type="note" text="open-source" vertical="middle" />
 - [OWASP Web Security Testing Guide](https://github.com/OWASP/wstg) - Comprehensive guide to web application security testing. - <Badge type="note" text="open-source" vertical="middle" />
 
-- [Geo Sleuth](https://github.com/Oldcircle/geo-sleuth) - Geolocation and investigation utility. - <Badge type="note" text="open-source" vertical="middle" />
-- [Microsoft Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Scripts related to Windows and Office activation; review licensing and compliance before use. - <Badge type="note" text="open-source" vertical="middle" />
 ## Server Management
 
 - [ISPconfig](https://www.ispconfig.org/) - Manage Your Servers Directly Through Your Browser - <Badge type="info" text="free" vertical="middle" />
@@ -2102,6 +2109,10 @@ _Фэсапщы Elu הלו Güata Tàg السلام عليكم Cześć নমস
 
 ## Useful Software
 
+- [PureMac](https://github.com/momenbasel/PureMac) - macOS utility and customization project. - <Badge type="note" text="open-source" vertical="middle" />
+- [Taste Skill](https://github.com/Leonxlnx/taste-skill) - Skill/tool for taste-based recommendations and discovery. - <Badge type="note" text="open-source" vertical="middle" />
+- [Pangram](https://pangram.com/) - AI text detection service. - <Badge type="danger" text="commercial" vertical="middle" />
+
 ### Mac
 
 - [Balena Etcher](https://www.balena.io/etcher/) - Flash OS images to SD cards & USB drives, safely and easily.
@@ -2136,9 +2147,6 @@ _Фэсапщы Elu הלו Güata Tàg السلام عليكم Cześć নমস
 - Total Commander
 - Windirstat
 
-- [PureMac](https://github.com/momenbasel/PureMac) - macOS utility and customization project. - <Badge type="note" text="open-source" vertical="middle" />
-- [Taste Skill](https://github.com/Leonxlnx/taste-skill) - Skill/tool for taste-based recommendations and discovery. - <Badge type="note" text="open-source" vertical="middle" />
-- [Pangram](https://pangram.com/) - AI text detection service. - <Badge type="danger" text="commercial" vertical="middle" />
 ## VPN
 
 - [innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood. - <Badge type="note" text="open-source" vertical="middle" />
