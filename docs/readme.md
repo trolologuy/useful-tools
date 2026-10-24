@@ -246,12 +246,9 @@ _Doing stuff in real life too?_
 - [Precious Plastic](https://preciousplastic.com/) - Start a business from plastic waste! - <Badge type="note" text="open-source" vertical="middle" />
 - [Templatemaker](https://www.templatemaker.nl/en/) - Custom sized papercraft and packaging templates for free - <Badge type="info" text="free" vertical="middle" />
 
-## Home automation
-_Make it smart_
+## Home Assistant and Home automation
 
-## Home Assistant
-
-_Home Assistant integrations, add-ons, cards, and related tooling._
+_Make it smart: Home Assistant, integrations, add-ons, cards, and other home-automation tools._
 
 - [ApexCharts Card](https://github.com/RomRider/apexcharts-card) - Advanced ApexCharts visualizations for Home Assistant. - <Badge type="note" text="open-source" vertical="middle" />
 - [FindMy for Home Assistant](https://github.com/malmeloo/hass-FindMy) - Home Assistant integration for Find My location data. - <Badge type="note" text="open-source" vertical="middle" />
@@ -261,12 +258,11 @@ _Home Assistant integrations, add-ons, cards, and related tooling._
 - [home-assistant](https://www.home-assistant.io/) - Home automation that puts local control and privacy first. - <Badge type="note" text="open-source" vertical="middle" />
 - [Matterbridge Home Assistant Add-on](https://github.com/Luligu/matterbridge-home-assistant-addon) - Home Assistant add-on for Matterbridge. - <Badge type="note" text="open-source" vertical="middle" />
 - [Mini Graph Card](https://github.com/kalkih/mini-graph-card) - Home Assistant Lovelace card for displaying compact sensor graphs. - <Badge type="note" text="open-source" vertical="middle" />
-- [Ultra Card](https://github.com/WJDDesigns/Ultra-Card) - Configurable Lovelace card for Home Assistant dashboards. - <Badge type="note" text="open-source" vertical="middle" />
-- [Versatile Thermostat](https://github.com/jmcollin78/versatile_thermostat) - Advanced thermostat integration for Home Assistant. - <Badge type="note" text="open-source" vertical="middle" />
-
 - [openHAB](https://www.openhab.org/) - Automation software for your home (smart home) - <Badge type="note" text="open-source" vertical="middle" />
 - [openhue](https://github.com/openhue/openhue-api) - Comprehensive OpenAPI specification for the Philips Hue REST API - <Badge type="note" text="open-source" vertical="middle" />
 - [Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Written for Arduino IDE and PlatformIO. - <Badge type="note" text="open-source" vertical="middle" />
+- [Ultra Card](https://github.com/WJDDesigns/Ultra-Card) - Configurable Lovelace card for Home Assistant dashboards. - <Badge type="note" text="open-source" vertical="middle" />
+- [Versatile Thermostat](https://github.com/jmcollin78/versatile_thermostat) - Advanced thermostat integration for Home Assistant. - <Badge type="note" text="open-source" vertical="middle" />
 
 ## Code style, review, quality and security / Linters / Debugging
 
