@@ -1739,7 +1739,7 @@ _But... will it scale?_
 - [AIOStreams](https://github.com/Viren070/AIOStreams) - Aggregation and configuration tool for supported streaming addons. - <Badge type="note" text="open-source" vertical="middle" />
 - [Authentik](https://github.com/goauthentik/authentik) - Identity provider and access management platform. - <Badge type="note" text="open-source" vertical="middle" />
 - [Ente](https://github.com/ente/ente) - End-to-end encrypted photo and data storage applications. - <Badge type="note" text="open-source" vertical="middle" />
-- [Glance](https://github.com/glanceapp/glance) - Self-hosted dashboard for feeds, services, and personal information. - <Badge type="note" text="open-source" vertical="middle" />
+- [Glance](https://github.com/glanceapp/glance) - Self-hosted dashboard for RSS feeds, services status, and personal information. - <Badge type="note" text="open-source" vertical="middle" />
 - [Homarr](https://github.com/homarr-labs/homarr) - Customizable dashboard for self-hosted applications and services. - <Badge type="note" text="open-source" vertical="middle" />
 - [Homepage](https://github.com/gethomepage/homepage) - Customizable start page and dashboard for self-hosted services. - <Badge type="note" text="open-source" vertical="middle" />
 - [Immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup and management solution. - <Badge type="note" text="open-source" vertical="middle" />
