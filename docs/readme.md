@@ -401,7 +401,7 @@ _Who likes to do stuff manually anyway ¯\_(ツ)_/¯_
 - [Apple container](https://github.com/apple/container) - Container runtime and tooling designed for macOS and Apple silicon. - <Badge type="note" text="open-source" vertical="middle" />
 - [Proxmox Ansible](https://github.com/yokozu777/proxmox-ansible) - Ansible automation for managing Proxmox environments. - <Badge type="note" text="open-source" vertical="middle" />
 - [Proxmox VE Helper-Scripts](https://github.com/community-scripts/ProxmoxVE) - Community-maintained helper scripts for deploying and managing services on Proxmox VE. - <Badge type="note" text="open-source" vertical="middle" />
-- [Rundeck](https://github.com/rundeck/rundeck) - Automate operational procedures and runbook workflows across systems. - <Badge type="note" text="open-source" vertical="middle" />
+- [Rundeck](https://github.com/rundeck/rundeck) - Automate operational procedures and runbook workflows across systems. It includes a web console, command line tools and a WebAPI - <Badge type="note" text="open-source" vertical="middle" />
 
 ## Automation
 
