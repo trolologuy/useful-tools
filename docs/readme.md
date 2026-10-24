@@ -1049,6 +1049,7 @@ _printf("Hello, World!");_
 ## Images / Image Optimisation / Text recognition (OCR)
 
 - [brunsli](https://github.com/google/brunsli) - Brunsli is a lossless JPEG repacking library (JPEG XL Lossless Recompression algorithm). - <Badge type="note" text="open-source" vertical="middle" />
+- [BulkPicTools](https://bulkpictools.com/) - Browser-based batch image compression, conversion, resizing and cropping, with local processing and chained operations. - <Badge type="info" text="free" vertical="middle" />
 - [clipdrop](https://clipdrop.co/) - Extract objects, people, drawings and text. Simply point and tap, ClipDrop does the rest. - <Badge type="info" text="free" vertical="middle" />
 - [EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai. - <Badge type="note" text="open-source" vertical="middle" />
 - [EXIF tool](https://github.com/exiftool/exiftool) - A crossplatform command-line application for reading, writing and editing meta information in a wide variety of files. - <Badge type="note" text="open-source" vertical="middle" />
