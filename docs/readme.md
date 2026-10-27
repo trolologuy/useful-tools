@@ -824,6 +824,7 @@ _Sharing is caring_
 - [Kiwix tools](https://github.com/kiwix/kiwix-tools) - Command-line utilities for serving and working with offline ZIM content. - <Badge type="note" text="open-source" vertical="middle" />
 - [spotDL](https://github.com/spotDL/spotify-downloader) - Tool for retrieving track metadata and matching audio from supported sources. - <Badge type="note" text="open-source" vertical="middle" />
 - [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - Self-hosted web application for performing operations on PDF files. - <Badge type="note" text="open-source" vertical="middle" />
+- [ToolKnit PDF to Image](https://toolknit.com/tools/pdf-to-image.html) - Render PDF pages to PNG, JPG or WebP in the browser, with page selection and adjustable resolution; PDFs up to 100 MB. - <Badge type="info" text="free" vertical="middle" />
 - [youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - Python API for retrieving YouTube transcripts and subtitles. - <Badge type="note" text="open-source" vertical="middle" />
 
 ## Games / Game launchers
