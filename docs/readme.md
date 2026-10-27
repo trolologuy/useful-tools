@@ -2035,6 +2035,7 @@ _Фэсапщы Elu הלו Güata Tàg السلام عليكم Cześć নমস
 - [Does It ARM?](https://doesitarm.com/)
 - [exa](https://github.com/ogham/exa)
 - [latest](https://github.com/mangerlahn/latest)
+- [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper) - Menu bar app that puts windows back on their original external monitor, Space and position when the display is plugged back in. - <Badge type="note" text="open-source" vertical="middle" />
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) - Control your external monitor brightness, contrast or volume directly from a menulet or with keyboard native keys.
 - [multi](https://github.com/kofigumbs/multi) - Create a custom, lightweight macOS app from a group of websites.
 - [organize](https://github.com/tfeldmann/organize)
