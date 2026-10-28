@@ -1259,6 +1259,7 @@ _Spam Ham_
 - [Mark O'Travel: Where I've Been](https://apps.apple.com/us/app/mark-otravel-tvoa-karta-putesestvij/id866778149) - Keep track of the countries where you have been and where you would like to go next.
 - [Omninotes](https://omninotes.app/) - Note taking app on android
 - [Pl@ntNet](https://plantnet.org/en/) - Identify one plant from a picture, and be part of a citizen science project on plant biodiversity
+- [Ripple](https://ripplefocus.github.io/en/) - Free local-only Android app and short-form video blocker with mandatory monotonic-clock cooldowns and self-healing uninstall protection. - <Badge type="info" text="free" vertical="middle" />
 - [strong](https://www.strong.app/) - Best and easiest way to track your workouts.
 - [termux](https://termux.com/) - Android terminal emulator and Linux environment app (no root rights required)
 - [Time Cop](https://github.com/hamaluik/timecop) - A time tracking app that respects your privacy and gets the job done without getting too fancy.
