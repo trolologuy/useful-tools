@@ -1619,6 +1619,7 @@ _Public money, public code !_
 - [untools](https://untools.co/) - Tools for better thinking. Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems. - <Badge type="info" text="free" vertical="middle" />
 - [wakatime](https://wakatime.com/) - Metrics about your programming. See [hakatime](https://github.com/mujx/hakatime) - <Badge type="note" text="open-source" vertical="middle" />
 - [worldtimebuddy](https://www.worldtimebuddy.com/) - Visualize Timezones (ECT, UTC, ...) - <Badge type="info" text="free" vertical="middle" />
+- - [thecurrentdate](https://thecurrentdate.com) - Today's date in every format, ISO week number, day of year, days left in the year, world clock and date calculators, all in the browser, no sign-up. - free
 - [xmind](https://www.xmind.net/) - Mind mapping and brainstorming tool - <Badge type="info" text="free" vertical="middle" />
 
 ### Kanban
