@@ -1188,6 +1188,7 @@ Since salaries are tough to manage, see an idea of solution with [slite's salary
 - [infopraca](https://www.infopraca.pl/) - Focused on Poland
 - [jobesto](https://jobesto.com/) - Focused on Poland
 - [nofluffjobs](https://nofluffjobs.com/) - :uk: Focused on Poland
+- [noexp.it](https://noexp.it/) - Focused on Poland, IT jobs that require no prior experience - <Badge type="info" text="free" vertical="middle" />
 - [pracuj](https://www.pracuj.pl/) - Focused on Poland
 - [wynagrodzenia](https://wynagrodzenia.pl/kalkulator-wynagrodzen/wyniki) - Brutto / Netto calculator
 
