@@ -1050,6 +1050,7 @@ _printf("Hello, World!");_
 
 - [brunsli](https://github.com/google/brunsli) - Brunsli is a lossless JPEG repacking library (JPEG XL Lossless Recompression algorithm). - <Badge type="note" text="open-source" vertical="middle" />
 - [clipdrop](https://clipdrop.co/) - Extract objects, people, drawings and text. Simply point and tap, ClipDrop does the rest. - <Badge type="info" text="free" vertical="middle" />
+- [Compress & Resize Image](https://zequnweb.com/tools/compress-image/) - Free in-browser image compressor and resizer - <Badge type="info" text="free" vertical="middle" />
 - [EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai. - <Badge type="note" text="open-source" vertical="middle" />
 - [EXIF tool](https://github.com/exiftool/exiftool) - A crossplatform command-line application for reading, writing and editing meta information in a wide variety of files. - <Badge type="note" text="open-source" vertical="middle" />
 - [generated.photos](https://generated.photos/) - Enhance your creative works with photos generated completely by AI. Find model images through our sorted and tagged app, or integrate images via API. - <Badge type="info" text="free" vertical="middle" />
