@@ -190,6 +190,7 @@ _Struggling with numbers ? So am i, here are tools to help_
 - [minio](https://github.com/minio/minio) - Multi-Cloud ☁️ Object Storage. - <Badge type="note" text="open-source" vertical="middle" />
 - [prefect](https://docs.prefect.io/core/) - The easiest way to automate your data. Prefect is the new standard in dataflow automation, trusted to build, run, and monitor millions of data workflows, pipelines and add semantics like retries, logging, dynamic mapping, caching, failure notifications, and more. - <Badge type="note" text="open-source" vertical="middle" />s
 - [re_data](https://github.com/re-data/dbt-re-data) - re_data is a set of tools (dbt macros & models) that helps you with making sure your data pipelines are clean & reliable. - <Badge type="note" text="open-source" vertical="middle" />
+- [TLD Renewal Prices](https://github.com/AlonDrilich/tld-renewal-prices) - Weekly CSV of first-year vs renewal list prices for 532 domain extensions, to spot the ones that are cheap in year one and expensive afterwards. CC BY 4.0. - <Badge type="note" text="open-source" vertical="middle" />
 - [WhatTheDuck](https://github.com/incentius-foss/WhatTheDuck) - Run SQL queries on your CSV files in your browser. - <Badge type="note" text="open-source" vertical="middle" />
 
 ### JSON
@@ -566,6 +567,7 @@ shape divider. - <Badge type="info" text="free" vertical="middle" />
 - [Mustache JS](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript - <Badge type="note" text="open-source" vertical="middle" />
 - [notiflix](https://www.notiflix.com/) - A library for client-side non-blocking notifications, popup boxes, loading indicators, and more - <Badge type="note" text="open-source" vertical="middle" />
 - [Parallax](https://pixelcog.github.io/parallax.js/) - Parallax.js is a dirt simple parallax scrolling effect inspired by Spotify.com and implemented as a jQuery plugin. - <Badge type="note" text="open-source" vertical="middle" />
+- [pdf-view-coords](https://github.com/AlonDrilich/pdf-view-coords) - Converts click positions in a PDF viewer to pdf-lib coordinates, so stamps and signatures land in the right place on rotated or cropped pages. - <Badge type="note" text="open-source" vertical="middle" />
 - [PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Create PowerPoint Presentations through JavaScript. - <Badge type="note" text="open-source" vertical="middle" />
 - [riot.js](https://riot.js.org/) - Simple and elegant component-based UI library - <Badge type="note" text="open-source" vertical="middle" />
 - [runjs](https://runjs.dev/) - The JavaScript playground for your desktop, it runs code as it's written and displays formatted results in the output panel on the right. - <Badge type="note" text="open-source" vertical="middle" />
@@ -1388,6 +1390,7 @@ _Having your own private media? or wondering what do watch tonight?_
 
 ## Music / Audio
 
+- [72FM](https://72fm.com/) - Live radio from 30,000+ public stations in 200+ countries, in the browser with no account. The free tier plays 15 minutes a day. - <Badge type="info" text="free" vertical="middle" />
 - [asak](https://github.com/chaosprint/asak) - Cross-platform audio recording/playback CLI tool with TUI, written in Rust - <Badge type="note" text="open-source" vertical="middle" />
 - [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - macOS audio utility - <Badge type="note" text="open-source" vertical="middle" />
 - [Festify](https://festify.us/) - Festify lets your guests choose which music should be played using their smartphones (and spotify). - <Badge type="info" text="free" vertical="middle" />
@@ -1501,6 +1504,7 @@ _/dev/random_
 - [jollyroger telephone](https://jollyrogertelephone.com/) - Fight back against annoying telemarketers and evil scammers! - <Badge type="danger" text="commercial" vertical="middle" />
 - [jsfuck](http://www.jsfuck.com/) - Write any JavaScript with 6 Characters: []()!+ - <Badge type="note" text="open-source" vertical="middle" />
 - [lingopie](https://lingopie.com/) - Learn a New Language With Great TV - <Badge type="info" text="free" vertical="middle" />
+- [LoftLoom Sizing Tools](https://loftloom.com/tools) - Calculators for rug, dining table, chandelier and wall art sizes, and whether a sofa fits through your door. - <Badge type="info" text="free" vertical="middle" />
 - [loki](https://loki.librai.tech/) - Fact-Verification tool. - <Badge type="note" text="open-source" vertical="middle" />
 - [Lukky](https://lukky.app/) - Social Contests Made Easy. Quickly draw winners from the comments on Instagram, Twitter and Facebook! - <Badge type="info" text="free" vertical="middle" />
 - [macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS - <Badge type="note" text="open-source" vertical="middle" />
@@ -1920,6 +1924,7 @@ _Keep the h4xx0r5 out_
 ## Sports
 _Sitting in front of a screen all day slowly kills you. Do something against it._
 
+- [depot.fitness](https://depot.fitness/) - 101 written-out strength programs (5/3/1, 5x5, push/pull/legs, upper/lower, ...) with a workout tracker. 5 programs are free in full; the rest need Pro. - <Badge type="info" text="free" vertical="middle" />
 - [hybridcalisthenics](https://www.hybridcalisthenics.com/routine) - Get healthy, fit, and strong with just your body, gravity, and very little equipment. - <Badge type="info" text="free" vertical="middle" />
 - [musclewiki](https://musclewiki.com/) - A wiki but for sport exercises with videos. - <Badge type="info" text="free" vertical="middle" />
 
