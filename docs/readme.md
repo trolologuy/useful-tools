@@ -176,6 +176,7 @@ _Struggling with numbers ? So am i, here are tools to help_
 
 - [numbr](https://numbr.dev/) - smart calculator combined with a notepad. - <Badge type="note" text="open-source" vertical="middle" />
 - [Omnicalculator](https://www.omnicalculator.com/statistics) - Calculate Odds, Chi-square, ... without headache - <Badge type="info" text="free" vertical="middle" />
+- [Dash Calculator](https://dashcalculator.com) - Free calculators for math, finance, health and everyday figures, with formulas and source links on each page. - <Badge type="info" text="free" vertical="middle" />
 - [symbolab](https://www.symbolab.com) - An advanced math education tool - <Badge type="info" text="free" vertical="middle" />
 
 ## Data
