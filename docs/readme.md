@@ -2095,6 +2095,7 @@ _Ok Siri_
 - [alwaysdata](https://www.alwaysdata.com/en/) - <Badge type="info" text="free" vertical="middle" />
 - [atspace](https://www.atspace.com/?aid=MTkyNDE4MTgyNDIyMjM%3D) - <Badge type="info" text="free" vertical="middle" />
 - [awardspace](https://www.awardspace.com/free-hosting/) - <Badge type="info" text="free" vertical="middle" />
+- [deed.page](https://deed.page) - Publish a static site or a single HTML file to a permanent HTTPS URL with one HTTP request (`curl -T index.html`), no account needed. Built for AI coding agents, with an MCP server. - <Badge type="info" text="free" vertical="middle" />
 - [Github Pages](https://pages.github.com/) - <Badge type="info" text="free" vertical="middle" />
 - [Gitlab Pages](https://about.gitlab.com/stages-devops-lifecycle/pages/) - <Badge type="info" text="free" vertical="middle" />
 - [infinityfree](https://infinityfree.net/) - <Badge type="info" text="free" vertical="middle" />
