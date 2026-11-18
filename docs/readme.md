@@ -1813,6 +1813,7 @@ _One image = 1000 words_
 ## Security / Cracking
 
 - [allstar](https://github.com/ossf/allstar) - GitHub App installed on organizations or repositories to set and enforce security policies - <Badge type="note" text="open-source" vertical="middle" />
+- [BlockBlock](https://objective-see.org/products/blockblock.html) - macOS: alerts when something installs itself to run at login (persistence). - <Badge type="note" text="open-source" vertical="middle" />
 - [canary](https://canary.tools/) - Notifies on detected intrusion, also exists as [tokens](https://canarytokens.org/generate)- <Badge type="info" text="free" vertical="middle" />
 - [cfssl](https://github.com/cloudflare/cfssl) - CFSSL is CloudFlare's PKI/TLS swiss army knife. It is both a command line tool and an HTTP API server for signing, verifying, and bundling TLS certificates. - <Badge type="note" text="open-source" vertical="middle" />
 - [crowdsec](https://github.com/crowdsecurity/crowdsec/) - A modern behavior detection system, written in Go. It stacks on Fail2ban's philosophy, but uses Grok patterns & YAML grammar to analyse logs, a modern decoupled approach (detect here, remedy there) for Cloud/Containers/VM based infrastructures. - <Badge type="note" text="open-source" vertical="middle" />
@@ -1821,30 +1822,38 @@ _One image = 1000 words_
 - [DocBleach](https://github.com/docbleach/DocBleach-Web) - DocBleach allows you to sanitize your Word, Excel, PowerPoint, PDF, ... documents. - <Badge type="note" text="open-source" vertical="middle" />
 - [endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that very slowly sends an endless, random SSH banner. It keeps SSH clients locked up for hours or even days at a time. The purpose is to put your real SSH server on another port and then let the script kiddies get stuck in this tarpit instead of bothering a real server. - <Badge type="note" text="open-source" vertical="middle" />
 - [etcd](https://etcd.io/) - Key-value store for the most critical data of a distributed system (anyjything from simple web app to a Kubernetes cluster)- <Badge type="note" text="open-source" vertical="middle" />
+- [gitleaks](https://github.com/gitleaks/gitleaks) - Finds secrets (API keys, passwords, tokens) in git repositories, including their whole history. - <Badge type="note" text="open-source" vertical="middle" />
 - [HackTricks](https://book.hacktricks.xyz/) - Book by Carlos Polop with tricks and techniques he learnt from CTFs, real life apps, and reading researches and news. Includes pentest, wordpress security, ... - <Badge type="info" text="free" vertical="middle" />
 - [have i been pwned?](https://haveibeenpwned.com/) - Check if you have an account that has been compromised in a data breach - <Badge type="info" text="free" vertical="middle" />
+- [KnockKnock](https://objective-see.org/products/knockknock.html) - macOS: lists everything that runs at login, with VirusTotal lookups. - <Badge type="note" text="open-source" vertical="middle" />
 - [lgtm](https://lgtm.com/) - Continuous security analysis - <Badge type="info" text="free" vertical="middle" />
 - [lulu](https://objective-see.com/products/lulu.html) - macOS firewall that aims to block unknown outgoing connections, unless explicitly approved by the user. - <Badge type="info" text="free" vertical="middle" />
 - [lynis](https://github.com/CISOfy/lynis) - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional. - <Badge type="note" text="open-source" vertical="middle" />
+- [macOS Security Compliance Project (mSCP)](https://github.com/usnistgov/macos_security) - NIST project that generates macOS security baselines (CIS, NIST 800-53) as audit and fix scripts. - <Badge type="note" text="open-source" vertical="middle" />
 - [malwoverview](https://github.com/alexandreborges/malwoverview) - Simple tool to perform an initial and quick triage of malware samples, URLs and hashes. - <Badge type="note" text="open-source" vertical="middle" />
 - [MetaDetective](https://github.com/franckferman/MetaDetective) - Advanced metadata analysis and web scraping - <Badge type="note" text="open-source" vertical="middle" />
 - [nexfil](https://github.com/thewhiteh4t/nexfil) - OSINT tool written in python for finding profiles by username. - <Badge type="note" text="open-source" vertical="middle" />
 - [No more ransom](https://www.nomoreransom.org/en/index.html) - Helps unlocking ransomware infected files - <Badge type="info" text="free" vertical="middle" />
+- [Nuclei](https://github.com/projectdiscovery/nuclei) - Fast, template-based vulnerability scanner for web services and networks. - <Badge type="note" text="open-source" vertical="middle" />
 - [opencanary](https://github.com/thinkst/opencanary) - Modular and decentralised honeypot - <Badge type="note" text="open-source" vertical="middle" />
 - [openxpki](https://www.openxpki.org/) - OpenXPKI is an enterprise-grade PKI/Trustcenter software. It implements the necessary features to operate a PKI in professional environments. - <Badge type="note" text="open-source" vertical="middle" />
+- [OSV-Scanner](https://github.com/google/osv-scanner) - Checks project lockfiles (npm, PyPI, Composer, Go, Cargo, ...) and container images against the OSV vulnerability database. - <Badge type="note" text="open-source" vertical="middle" />
 - [owasp - vulnerable web applications directory](https://owasp.org/www-project-vulnerable-web-applications-directory/) - comprehensive and well maintained registry of all known vulnerable web applications currently available. - <Badge type="info" text="free" vertical="middle" />
+- [Pareto Security](https://github.com/ParetoSecurity/pareto-mac) - macOS menu bar app that checks security settings (firewall, FileVault, updates, ...). - <Badge type="note" text="open-source" vertical="middle" />
 - [Personal Security Checklist](https://github.com/lissy93/personal-security-checklist) - Compiled checklist of 300+ tips for protecting digital security and privacy. - <Badge type="note" text="open-source" vertical="middle" />
 - [pwnadventure](https://www.pwnadventure.com/) - Game that is intentionally flawed to look for security issues (CTF). - <Badge type="info" text="free" vertical="middle" />
 - [Ransomware - Map of US ransomware attacks](https://www.comparitech.com/ransomware-attack-map/) - Pinpoints the locations of each ransomware attack in the US, from 2018 to present day. - <Badge type="info" text="free" vertical="middle" />
 - [ransomwhere](https://objective-see.com/products/ransomwhere.html) - Utility with a simple goal; generically thwart macOS ransomware - <Badge type="info" text="free" vertical="middle" />
 - [Redact](https://redact.dev/) - Delete your digital footprint. The only platform that allows you to automatically clean up your old posts from services like Twitter, Reddit, Facebook, Discord and more all in one place. - <Badge type="info" text="free" vertical="middle" />
+- [Santa](https://github.com/northpolesec/santa) - Binary and file access authorization for macOS (allow-listing), maintained by North Pole Security after Google archived it. - <Badge type="note" text="open-source" vertical="middle" />
 - [seeker](https://github.com/thewhiteh4t/seeker) - Host a fake page that requests your location like many popular location based websites to get GPS coordinates of a target. - <Badge type="note" text="open-source" vertical="middle" />
 - [Snort](https://www.snort.org/) - A lightweight network intrusion detection system (NIDS) software for Linux and Windows to detect emerging threats. - <Badge type="note" text="open-source" vertical="middle" />
 - [sploitus](https://sploitus.com/) - List of exploits - <Badge type="info" text="free" vertical="middle" />
 - [sqreen](https://www.sqreen.com/) - Application security platform that helps teams protect applications, increase visibility and secure code. - <Badge type="info" text="free" vertical="middle" />
 - [stegcloak](https://github.com/KuroLabs/stegcloak) - Steganography module to hide secrets inside text by compressing and encrypting the secret before cloaking it with special unicode invisible characters. - <Badge type="note" text="open-source" vertical="middle" />
-- [stronghold](https://github.com/alichtman/stronghold) - The easiest way to securely configure your Mac. - <Badge type="note" text="open-source" vertical="middle" />
+- [stronghold](https://github.com/alichtman/stronghold) - The easiest way to securely configure your Mac. Built for macOS Sierra/High Sierra (per its README); for current macOS see Pareto Security or mSCP. - <Badge type="note" text="open-source" vertical="middle" />
 - [the-bastion](https://github.com/ovh/the-bastion) - Bastions are a cluster of machines used as the unique entry point by operational teams (such as sysadmins, developers, database admins, ...) to securely connect to devices (servers, virtual machines, cloud instances, network equipment, ...), usually using ssh. - <Badge type="note" text="open-source" vertical="middle" />
+- [Trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities, secrets and misconfigurations in container images, filesystems, git repos and IaC. - <Badge type="note" text="open-source" vertical="middle" />
 - [Try Hack Me](https://tryhackme.com/hacktivities) - Interactive exercises based on real world scenarios, from hacking machines to investigating attacks, we've got you covered. - <Badge type="info" text="free" vertical="middle" />
 - [virus total](https://www.virustotal.com/gui/home) - Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community - <Badge type="info" text="free" vertical="middle" />
 - [vuls.io](https://vuls.io/) - Agentless Vulnerability Scanner for Linux/FreeBSD - <Badge type="note" text="open-source" vertical="middle" />
@@ -1958,6 +1967,7 @@ _Automate all the things! ... or at least try to make your life easier_
 - [dotfiles](https://github.com/orrsella/dotfiles) - A collection of miscellaneous .files ("dot" files) and some regular files for configuration - <Badge type="note" text="open-source" vertical="middle" />
 - [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility (Linux, BSD, macOS & Windows) - <Badge type="note" text="open-source" vertical="middle" />
 - [easy-file-organizer](https://qiplex.com/software/easy-file-organizer/) - Organize Files, Folders and Desktop easily! - <Badge type="info" text="free" vertical="middle" />
+- [Finder Menu](https://github.com/nikgrbn/finder-menu) - Adds New File, Open Terminal Here, Copy Path and Open Folder With to the macOS Finder right-click menu. - <Badge type="note" text="open-source" vertical="middle" />
 - [hammerspoon-config](https://github.com/cmsj/hammerspoon-config/) - another example of Hammerspoon configuration. - <Badge type="note" text="open-source" vertical="middle" />
 - [hammerspoon](https://github.com/Hammerspoon/hammerspoon) - macOS desktop automation - <Badge type="note" text="open-source" vertical="middle" />
 - [httpstat](https://github.com/reorx/httpstat) - httpstat visualizes curl(1) statistics in a way of beauty and clarity. - <Badge type="note" text="open-source" vertical="middle" />
@@ -1970,6 +1980,7 @@ _Automate all the things! ... or at least try to make your life easier_
 - [PowerToys](https://github.com/microsoft/PowerToys/) - Tune and streamline Windows (mouse finder, file renaming tool, ...) - <Badge type="note" text="open-source" vertical="middle" />
 - [procs](https://github.com/dalance/procs) - replacement for ps - <Badge type="note" text="open-source" vertical="middle" />
 - [qwerty-fr](https://github.com/qwerty-fr/qwerty-fr) - Qwerty keyboard layout with French accents, symbols and much more. - <Badge type="note" text="open-source" vertical="middle" />
+- [RClick](https://github.com/wflixu/RClick) - macOS Finder right-click menu: new files from templates, open in terminal or editor, copy path. - <Badge type="note" text="open-source" vertical="middle" />
 - [sharemouse](https://www.sharemouse.com/) - Control multiple computers from a single mouse and keyboard - <Badge type="danger" text="commercial" vertical="middle" />
 - [SlowQuitApps](https://github.com/dteoh/SlowQuitApps) - Add a global delay to Command-Q to stop accidental app quits. - <Badge type="note" text="open-source" vertical="middle" />
 - [switch-manager](https://www.doyourdata.com/mac-manager/switch-manager.html) - Simply manage some macOS options from the menu bar - <Badge type="info" text="free" vertical="middle" />
