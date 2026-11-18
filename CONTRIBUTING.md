@@ -5,13 +5,12 @@ When contributing to this repository, please first explain the change you wish t
 Please also __add the pricing when adding a link__.
 
 ## Pricing
-- `[![](https://img.shields.io/badge/pricing-open--source-green)](#)` → [![](https://img.shields.io/badge/pricing-open--source-green)](#)
-- `[![](https://img.shields.io/badge/pricing-free-yellow)](#)` → [![](https://img.shields.io/badge/pricing-free-yellow)](#)
-- `[![](https://img.shields.io/badge/pricing-commercial-orange)](#)` → [![](https://img.shields.io/badge/pricing-commercial-orange)](#)
+Use the VuePress badge that matches the pricing:
+- `<Badge type="note" text="open-source" vertical="middle" />`
+- `<Badge type="info" text="free" vertical="middle" />`
+- `<Badge type="danger" text="commercial" vertical="middle" />`
 
 ## Example:
-`* [Portfolio](https://trolologuy.github.io/) - A cool portfolio - [![](https://img.shields.io/badge/pricing-open--source-green)](#)`
+`- [Portfolio](https://trolologuy.github.io/) - A cool portfolio - <Badge type="note" text="open-source" vertical="middle" />`
 
-would become:
-
-* [Portfolio](https://trolologuy.github.io/) - A cool portfolio - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+Entries are sorted alphabetically within their category. Mark archived or unmaintained projects as such and point to the successor.

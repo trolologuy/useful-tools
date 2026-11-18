@@ -135,7 +135,8 @@ _Time is money as they say :hourglass_flowing_sand: :money_with_wings:_
 - [When can I retire?](https://networthify.com/calculator/earlyretirement) - FIRE Calculator using compound interest. - <Badge type="info" text="free" vertical="middle" />
 
 - [ExpenseOwl](https://github.com/Tanq16/ExpenseOwl) - Self-hostable personal expense tracking application. - <Badge type="note" text="open-source" vertical="middle" />
-- [Maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management application. - <Badge type="note" text="open-source" vertical="middle" />
+- [Maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management application. Archived, see Sure below. - <Badge type="note" text="open-source" vertical="middle" />
+- [Sure](https://github.com/we-promise/sure) - Community-maintained fork of Maybe (the original repository is archived). Self-hosted personal finance and net-worth app. - <Badge type="note" text="open-source" vertical="middle" />
 - [Monetr](https://github.com/monetr/monetr) - Self-hosted budgeting application focused on recurring expenses and cash flow. - <Badge type="note" text="open-source" vertical="middle" />
 - [Wealthfolio](https://github.com/wealthfolio/wealthfolio) - Local-first investment tracking and portfolio analytics. - <Badge type="note" text="open-source" vertical="middle" />
 
@@ -166,6 +167,7 @@ _The thing you use to navigate through the depth of internet_
 ### Browser plugins for chrome based stuff
 
 - [Clutter Free - Prevent duplicate tabs](https://chromewebstore.google.com/detail/clutter-free-prevent-dupl/iipjdmnoigaobkamfhnojmglcdbnfaaf?hl=en).
+- [Violentmonkey](https://violentmonkey.github.io/) - Open-source userscript manager for Chrome, Firefox and Edge. - <Badge type="note" text="open-source" vertical="middle" />
 
 - [Lightpanda](https://github.com/lightpanda-io/browser) - Headless browser designed for automation and AI agents. - <Badge type="note" text="open-source" vertical="middle" />
 - [Steel Browser](https://github.com/steel-dev/steel-browser) - Browser infrastructure for web automation and AI agents. - <Badge type="note" text="open-source" vertical="middle" />
@@ -260,6 +262,7 @@ _Make it smart: Home Assistant, integrations, add-ons, cards, and other home-aut
 - [Mini Graph Card](https://github.com/kalkih/mini-graph-card) - Home Assistant Lovelace card for displaying compact sensor graphs. - <Badge type="note" text="open-source" vertical="middle" />
 - [openHAB](https://www.openhab.org/) - Automation software for your home (smart home) - <Badge type="note" text="open-source" vertical="middle" />
 - [openhue](https://github.com/openhue/openhue-api) - Comprehensive OpenAPI specification for the Philips Hue REST API - <Badge type="note" text="open-source" vertical="middle" />
+- [OpenThread Border Router](https://openthread.io/guides/border-router) - Thread border router, needed for Matter-over-Thread devices; runs in Docker next to Home Assistant. - <Badge type="note" text="open-source" vertical="middle" />
 - [Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Written for Arduino IDE and PlatformIO. - <Badge type="note" text="open-source" vertical="middle" />
 - [Ultra Card](https://github.com/WJDDesigns/Ultra-Card) - Configurable Lovelace card for Home Assistant dashboards. - <Badge type="note" text="open-source" vertical="middle" />
 - [Versatile Thermostat](https://github.com/jmcollin78/versatile_thermostat) - Advanced thermostat integration for Home Assistant. - <Badge type="note" text="open-source" vertical="middle" />
@@ -354,6 +357,7 @@ _You will be assimilated_
 - [circleci](https://circleci.com/pricing/) - Automate your development process with CI hosted in the cloud or on a private server. - <Badge type="info" text="free" vertical="middle" />
 - [harness](https://harness.io/) - Jenkins Pipelines not scaling for CD? - <Badge type="info" text="free" vertical="middle" />
 - [Jenkins](https://jenkins.io/) - An automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project. - <Badge type="note" text="open-source" vertical="middle" />
+- [Renovate](https://github.com/renovatebot/renovate) - Automated dependency update pull requests (Docker images, npm, pip, GitHub Actions, ...). - <Badge type="note" text="open-source" vertical="middle" />
 - [Rudder](https://www.rudder.io/en/) - Multi-platform solution for managing configurations of mission-critical systems. - <Badge type="note" text="open-source" vertical="middle" />
 - [semantic-release](https://github.com/semantic-release/semantic-release) - Fully automated version management and package publishing. - <Badge type="note" text="open-source" vertical="middle" />
 - [shipjs](https://github.com/algolia/shipjs) - Take control of what is going to be your next release. - <Badge type="note" text="open-source" vertical="middle" />
@@ -1379,6 +1383,7 @@ _Having your own private media? or wondering what do watch tonight?_
 - [Plex Requests](https://github.com/lokenx/plexrequests-meteor) - Plex Requests: Simple automated way for users to request new content for Plex - <Badge type="note" text="open-source" vertical="middle" />
 - [PlexRedirect](https://github.com/ITRav4/PlexRedirect) - A Plex landing page that redirects you to various sites. - <Badge type="note" text="open-source" vertical="middle" />
 - [python-plexapi](https://github.com/pkkid/python-plexapi) - Python bindings for the Plex API. - <Badge type="note" text="open-source" vertical="middle" />
+- [Seerr](https://seerr.dev/) - Media request and discovery manager for Plex, Jellyfin and Emby; successor of Overseerr and Jellyseerr. - <Badge type="note" text="open-source" vertical="middle" />
 - [Sub-Zero](https://github.com/pannal/Sub-Zero.bundle) - Subtitles for Plex, as good you would expect them to be. - <Badge type="note" text="open-source" vertical="middle" />
 - [Tautulli](https://github.com/Tautulli/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server - <Badge type="note" text="open-source" vertical="middle" />
 
@@ -1393,6 +1398,7 @@ _Having your own private media? or wondering what do watch tonight?_
 - [Festify](https://festify.us/) - Festify lets your guests choose which music should be played using their smartphones (and spotify). - <Badge type="info" text="free" vertical="middle" />
 - [funkwhale](https://www.funkwhale.audio/) - Listen and share music and audio within a decentralized, open network - <Badge type="note" text="open-source" vertical="middle" />
 - [jukebox](https://jukebox.today/) - Social media player that lets you share music across limitless people, devices and speakers, whether they're in the same room or halfway across the world. - <Badge type="info" text="free" vertical="middle" />
+- [Music Assistant](https://www.music-assistant.io/) - Self-hosted music library manager and player that streams to Chromecast, AirPlay, Sonos and more; integrates with Home Assistant. - <Badge type="note" text="open-source" vertical="middle" />
 - [musicbrainz picard](https://picard.musicbrainz.org/) - Music tagger written in Python. - <Badge type="note" text="open-source" vertical="middle" />
 - [Organize Your Music](http://organizeyourmusic.playlistmachinery.com/) - Organize your Spotify music collection by any of a wide range of musical attributes including genre, mood, decade of release and more. - <Badge type="info" text="free" vertical="middle" />
 - [Soundscape](https://github.com/soundscapecloud/soundscape) - a personal music streaming server - <Badge type="note" text="open-source" vertical="middle" />
@@ -2065,6 +2071,7 @@ _Фэсапщы Elu הלו Güata Tàg السلام عليكم Cześć নমস
 
 - [innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood. - <Badge type="note" text="open-source" vertical="middle" />
 - [nebula](https://github.com/slackhq/nebula) - Scalable overlay networking tool with a focus on performance, simplicity and security. - <Badge type="note" text="open-source" vertical="middle" />
+- [NetBird](https://github.com/netbirdio/netbird) - WireGuard-based overlay network with SSO, MFA and access policies; hosted control plane run from Germany, or fully self-hosted. - <Badge type="note" text="open-source" vertical="middle" />
 - [netmaker](https://github.com/gravitl/netmaker/) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks. - <Badge type="note" text="open-source" vertical="middle" />
 - [subspace](https://github.com/subspacecloud/subspace) - simple WireGuard VPN server GUI - <Badge type="note" text="open-source" vertical="middle" />
 - [tailscale](https://tailscale.com/) - Connect all your devices using WireGuard. - <Badge type="info" text="free" vertical="middle" />
