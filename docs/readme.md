@@ -200,6 +200,7 @@ _Struggling with numbers ? So am i, here are tools to help_
 - [json2html](https://github.com/moappi/visualizer.json2html) - Simple JSON visualizer
 - [Jsonnet](https://jsonnet.org/) - A data templating language - <Badge type="note" text="open-source" vertical="middle" />
 - [Format JSON Online](https://formatjsononline.com/) - Professional JSON platform with 40+ free tools. Features AI-powered error fixing, API testing, and code generation. -<Badge type="info" text="free" vertical="middle" />
+- [Online JSON Formatter](https://online-json-formatter-ten.vercel.app/) - Formats and validates JSON in the browser, auto-fixes common errors (single quotes, trailing commas, comments) and converts JSON to CSV, YAML, TypeScript and more. - <Badge type="info" text="free" vertical="middle" />
 
 - [csvkit](https://github.com/wireservice/csvkit) - Command-line utilities for converting and working with CSV files. - <Badge type="note" text="open-source" vertical="middle" />
 - [Docling](https://github.com/docling-project/docling) - Parse and convert documents - including advanced PDF understanding - into structured formats for document-processing pipelines or AI tools and LLMs. - <Badge type="note" text="open-source" vertical="middle" />
