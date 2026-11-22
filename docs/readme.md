@@ -1104,6 +1104,7 @@ _Getting paid for following your passion is even more fun, isn't it?_
 To get an idea of what technology to learn next, what tools are commonly used by your peers, salary ranges per technology,... head over to the [Stack Overflow Developer Survey](https://survey.stackoverflow.co/2022/).
 
 - [devops-exercises](https://github.com/bregman-arie/devops-exercises) - Questions and exercises on various technical topics, sometimes related to DevOps and SRE :) - <Badge type="note" text="open-source" vertical="middle" />
+- [EuroJobs.ai](https://eurojobs.ai/) - :uk: - IT jobs across the EU, UK and Switzerland from employers' own job boards, with visa sponsorship, relocation and remote filters. - <Badge type="info" text="free" vertical="middle" />
 - [fullstack.cafe](https://www.fullstack.cafe/) - Kill Your Tech Interview. Full-Stack, Coding & System Design Interview Questions Answered To Get Your Next Six-Figure Job Offer. - <Badge type="info" text="free" vertical="middle" />
 - [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - Easy way to create a GitHub profile readme with the latest add-ons - <Badge type="note" text="open-source" vertical="middle" />
 - [Hacker news jobs](https://news.ycombinator.com/jobs) - Hacker news job postings. - <Badge type="info" text="free" vertical="middle" />
