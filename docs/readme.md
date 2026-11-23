@@ -1939,7 +1939,6 @@ _Keep the h4xx0r5 out_
 ## Sports
 _Sitting in front of a screen all day slowly kills you. Do something against it._
 
-- [depot.fitness](https://depot.fitness/) - 101 written-out strength programs (5/3/1, 5x5, push/pull/legs, upper/lower, ...) with a workout tracker. 5 programs are free in full; the rest need Pro. - <Badge type="info" text="free" vertical="middle" />
 - [hybridcalisthenics](https://www.hybridcalisthenics.com/routine) - Get healthy, fit, and strong with just your body, gravity, and very little equipment. - <Badge type="info" text="free" vertical="middle" />
 - [musclewiki](https://musclewiki.com/) - A wiki but for sport exercises with videos. - <Badge type="info" text="free" vertical="middle" />
 
