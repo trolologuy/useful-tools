@@ -1337,6 +1337,7 @@ _The true question should be: Quis custodiet ipsos custodes?_
 - [Uchiwa](https://uchiwa.io/) - Open source dashboard for Sensu. - <Badge type="note" text="open-source" vertical="middle" />
 - [Uptime robot](https://uptimerobot.com/) - Downtime Happens. Get Notified! - <Badge type="info" text="free" vertical="middle" />
 - [uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool like "Uptime Robot". It includes Status Page, Ping Chart, ... - <Badge type="note" text="open-source" vertical="middle" />
+- [SiteWatcher](https://github.com/NikKurkov/sitewatcher) - Self-hosted website uptime and response-time monitoring with TLS certificate and domain expiry alerts. - <Badge type="note" text="open-source" vertical="middle" />
 - [Vector by Datadog](https://vector.dev/) - Tool for building observability pipelines. Collect, transform, and route all your logs and metrics with one simple tool. - <Badge type="info" text="free" vertical="middle" />
 - [Middleware](https://middleware.io) - A full-stack cloud observability platform. - <Badge type="danger" text="commercial" vertical="middle" />
 
